@@ -4,7 +4,20 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>PAK HOTSPOT 🗞️ — Daily Tech + Pakistan News</title>
-<meta name="description" content="PAK HOTSPOT — the daily newspaper-style drop of Pakistan headlines and global Tech/AI news. Fresh every morning.">
+<meta name="description" content="PAK HOTSPOT — Pakistan's loudest daily news drop: Tech/AI chaos + Pakistan headlines. Cipher ke hot takes ke sath. Fresh every morning. Screenshot it. Share it.">
+<!-- Open Graph / virality -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="PAK HOTSPOT">
+<meta property="og:title" content="PAK HOTSPOT 🗞️ — Today's Drop">
+<meta property="og:description" id="ogDesc" content="Pakistan's loudest daily news drop: Tech/AI chaos + Pakistan headlines, Cipher ke hot takes ke sath. Fresh every morning — screenshot it, share it.">
+<meta property="og:url" content="https://iamcipherdev.github.io/pak-hotspot/">
+<meta property="og:image" content="https://iamcipherdev.github.io/pak-hotspot/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="PAK HOTSPOT 🗞️ — Today's Drop">
+<meta name="twitter:description" content="Pakistan's loudest daily news drop: Tech/AI chaos + Pakistan headlines, Cipher ke hot takes ke sath. Fresh every morning.">
+<meta name="twitter:image" content="https://iamcipherdev.github.io/pak-hotspot/og-image.png">
 <style>
   :root{
     --paper:#f7f0dc; --paper2:#fffdf4; --ink:#161513; --muted:#6e6250;
@@ -48,26 +61,108 @@
     text-transform:uppercase}
   @media(max-width:560px){.fresh-stamp{font-size:11px;padding:6px 10px;top:12px}}
 
-  /* ===== front page / hero ===== */
+  /* ===== host intro strip ===== */
+  .hostbar{margin:20px 0 0;padding:14px 16px;background:var(--paper2);
+    border:3px solid var(--thick);box-shadow:5px 5px 0 var(--thick);
+    display:flex;gap:14px;align-items:center}
+  .hostbar .face{flex:0 0 auto;width:52px;height:52px;border-radius:50%;
+    background:var(--ink);color:var(--paper);display:flex;align-items:center;justify-content:center;
+    font-size:26px;border:3px solid var(--accent);transform:rotate(-4deg)}
+  .hostbar p{font-size:14px;color:#403a2e}
+  .hostbar p b{color:var(--accent)}
+
+  /* ===== digest share ===== */
+  .digest-share{margin:18px 0 0;padding:14px 16px;background:var(--ink);color:var(--paper);
+    border:3px solid var(--thick);box-shadow:6px 6px 0 var(--accent);
+    display:flex;flex-wrap:wrap;gap:10px 14px;align-items:center;justify-content:space-between}
+  .digest-share .pitch{font-weight:900;font-size:14px;letter-spacing:1.5px;text-transform:uppercase}
+  .digest-share .pitch b{color:var(--accent)}
+
+  /* ===== share buttons (WhatsApp first — biggest in Pakistan) ===== */
+  .share-row{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+  .share-label{font-size:11px;font-weight:900;letter-spacing:1.5px;text-transform:uppercase;
+    color:var(--muted);margin-right:2px}
+  .share-btn{display:inline-flex;align-items:center;gap:6px;font-size:11.5px;font-weight:900;
+    letter-spacing:1.2px;text-transform:uppercase;text-decoration:none;cursor:pointer;
+    border:2px solid var(--ink);background:var(--paper2);color:var(--ink);
+    padding:6px 11px;transform:rotate(-1deg);transition:transform .12s;font-family:inherit}
+  .share-btn:hover{transform:rotate(1deg) scale(1.05)}
+  .share-btn:active{transform:scale(.95)}
+  .share-btn.wa{background:#25d366;border-color:#128c4b;color:#fff}
+  .share-btn.li{background:#0a66c2;border-color:#0a66c2;color:#fff}
+  .share-btn.x{background:#000;border-color:#000;color:#fff}
+  .share-btn.cp{background:var(--accent);border-color:var(--ink);color:#fff}
+  .share-btn.copied{background:#1a7a3a;border-color:#1a7a3a}
+  .on-dark .share-btn{border-color:var(--paper)}
+  .on-dark .share-label{color:var(--paper)}
+
+  /* ===== story of the day ===== */
   .frontpage{margin:26px 0 6px;padding:30px 26px 24px;background:var(--paper2);
     border:3px solid var(--thick);box-shadow:7px 7px 0 var(--thick);position:relative}
-  .breaking{display:inline-block;background:var(--ink);color:#fff;font-weight:900;
-    font-size:13px;letter-spacing:2.5px;text-transform:uppercase;padding:7px 14px;
-    transform:rotate(-3deg);margin-bottom:14px}
-  .breaking i{font-style:normal;color:var(--accent)}
-  .frontpage h2{font-size:clamp(28px,6vw,44px);margin-bottom:12px}
+  .sotd{display:inline-block;background:var(--accent);color:#fff;font-weight:900;
+    font-size:clamp(15px,3.4vw,21px);letter-spacing:2.5px;text-transform:uppercase;
+    padding:10px 20px;transform:rotate(-3deg);margin-bottom:16px;
+    border:3px solid var(--ink);box-shadow:5px 5px 0 var(--ink)}
+  .shot-hint{position:absolute;top:14px;right:14px;font-size:11px;font-weight:900;
+    letter-spacing:1.5px;text-transform:uppercase;background:var(--ink);color:var(--paper);
+    padding:5px 10px;transform:rotate(6deg)}
+  .frontpage h2{font-size:clamp(30px,6.6vw,48px);margin-bottom:16px}
   .frontpage h2 a{color:inherit;text-decoration:none}
   .frontpage h2 a:hover{color:var(--accent)}
-  .standfirst{font-size:17px;color:#33302a;margin-bottom:14px;max-width:60ch}
-  .byline{font-size:12.5px;letter-spacing:1.5px;text-transform:uppercase;color:var(--muted)}
+
+  /* ===== 3-block explainer ===== */
+  .blocks{display:grid;gap:10px;margin-bottom:14px}
+  .block{background:var(--paper);border:2px solid var(--ink);padding:12px 14px;position:relative}
+  .block .k{font-size:11px;font-weight:900;letter-spacing:2px;text-transform:uppercase;
+    margin-bottom:6px;display:block}
+  .block p{font-size:14.5px;color:#33302a}
+  .block.b-what .k{color:var(--accent)}
+  .block.b-why{border-left-width:6px;border-left-color:#ff8c00}
+  .block.b-why .k{color:#c46a00}
+  .block.b-next{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+  .block.b-next .k{color:#ffd75e}
+  .block.b-next p{color:var(--paper)}
+
+  /* ===== host take ===== */
+  .take{margin:0 0 14px;padding:14px 16px 14px 58px;background:#fff8e6;
+    border:3px dashed var(--accent);position:relative;transform:rotate(-.4deg)}
+  .take .tface{position:absolute;left:12px;top:12px;width:36px;height:36px;border-radius:50%;
+    background:var(--ink);color:#fff;display:flex;align-items:center;justify-content:center;
+    font-size:18px;border:2px solid var(--accent)}
+  .take .tk{font-size:11px;font-weight:900;letter-spacing:2px;text-transform:uppercase;
+    color:var(--accent);margin-bottom:4px;display:block}
+  .take p{font-size:14.5px;font-style:italic;color:#33302a}
+
+  .byline{font-size:12.5px;letter-spacing:1.5px;text-transform:uppercase;color:var(--muted);
+    margin-bottom:14px}
   .byline a{color:var(--accent);font-weight:800;text-decoration:none}
   .byline a:hover{text-decoration:underline}
+
+  /* ===== poll ===== */
+  .poll{margin:34px 0 6px;padding:26px 24px;background:var(--ink);color:var(--paper);
+    border:3px solid var(--thick);box-shadow:7px 7px 0 var(--accent);position:relative}
+  .poll .pq{display:inline-block;background:var(--accent);color:#fff;font-weight:900;
+    font-size:13px;letter-spacing:2.5px;text-transform:uppercase;padding:8px 16px;
+    transform:rotate(-2deg);margin-bottom:14px;border:2px solid var(--paper)}
+  .poll h3{font-size:clamp(20px,4.6vw,30px);margin-bottom:18px;line-height:1.25}
+  .poll .opts{display:grid;gap:10px}
+  .poll button.opt{font-family:inherit;font-size:15px;font-weight:800;text-align:left;cursor:pointer;
+    background:var(--paper2);color:var(--ink);border:2px solid var(--paper);
+    padding:12px 14px;position:relative;overflow:hidden;transition:transform .12s}
+  .poll button.opt:hover{transform:scale(1.02)}
+  .poll button.opt:disabled{cursor:default}
+  .poll .bar{position:absolute;left:0;top:0;bottom:0;background:#ffd75e;opacity:.85;width:0;
+    transition:width .8s ease;z-index:0}
+  .poll .opt .txt{position:relative;z-index:1}
+  .poll .opt .pct{position:relative;z-index:1;float:right;font-weight:900}
+  .poll .voted-note{margin-top:14px;font-size:12.5px;letter-spacing:1px;text-transform:uppercase;
+    color:#ffd75e;font-weight:700}
 
   /* ===== sections ===== */
   section{margin-top:40px}
   .sechead{display:flex;align-items:center;gap:14px;border-bottom:4px solid var(--thick);
     padding-bottom:10px;margin-bottom:4px}
-  .sechead h3{font-size:clamp(24px,5vw,34px);white-space:nowrap}
+  .sechead h3{font-size:clamp(24px,5.4vw,36px);white-space:nowrap}
   .sechead .rule{flex:1;border-top:2px dashed var(--muted);height:0}
   .sechead .count{background:var(--accent);color:#fff;font-weight:900;font-size:13px;
     letter-spacing:1px;padding:5px 11px;transform:rotate(2deg);border:2px solid var(--ink)}
@@ -75,23 +170,19 @@
   .stories{display:grid;grid-template-columns:1fr;gap:0}
   @media(min-width:720px){.stories{grid-template-columns:1fr 1fr;column-gap:34px}
     .stories article:nth-child(odd){border-right:1px solid var(--line);padding-right:30px}}
-  article.story{padding:20px 2px;border-bottom:1px solid var(--line);position:relative}
+  article.story{padding:22px 2px;border-bottom:1px solid var(--line);position:relative}
   .story .row{display:flex;gap:14px;align-items:flex-start}
   .story .num{font-size:30px;color:transparent;-webkit-text-stroke:1.6px var(--ink);
     line-height:1;flex:0 0 auto;min-width:44px}
-  .story h4{font-size:18.5px;line-height:1.32;letter-spacing:-.2px;margin-bottom:8px;font-weight:800}
+  .story h4{font-size:18.5px;line-height:1.32;letter-spacing:-.2px;margin-bottom:10px;font-weight:800}
   .story h4 a{color:var(--ink);text-decoration:none}
   .story h4 a:hover{color:var(--accent);text-decoration:underline;text-decoration-thickness:2px}
-  .story p{font-size:14.5px;color:#403a2e;margin-bottom:10px}
-  .sticker{display:inline-block;font-size:10.5px;font-weight:900;letter-spacing:2px;
-    text-transform:uppercase;border:2px solid var(--ink);padding:3px 9px;margin-bottom:9px;
-    background:#fff;transform:rotate(-2.5deg)}
-  .sticker.hot{background:var(--accent);color:#fff}
-  .sticker.cool{background:var(--ink);color:#fff}
+  .story .share-row{margin-top:12px}
+  .story .take{margin-bottom:12px}
 
   footer{margin:48px 0 40px;padding-top:16px;border-top:5px solid var(--thick);
-    display:flex;flex-wrap:wrap;gap:8px 24px;justify-content:space-between;
     font-size:12.5px;letter-spacing:1px;text-transform:uppercase;color:var(--muted)}
+  footer .frow{display:flex;flex-wrap:wrap;gap:8px 24px;justify-content:space-between;margin-bottom:18px}
   footer .end{font-weight:900;color:var(--ink)}
   .err{background:#ffe9ec;border:3px solid var(--accent);padding:16px;margin:26px 0;
     font-size:14px;font-weight:600}
@@ -113,27 +204,46 @@
     </div>
   </header>
 
+  <div class="hostbar">
+    <div class="face">🎙️</div>
+    <p><b>Cipher</b> roz subah khabrein parhta hai taake tumhein na parhni parein. Har story ke neeche uska <b>candid hot take</b> — no filter, no jargon. Facts sources se, opinion uski apni. 🎯</p>
+  </div>
+
+  <div class="digest-share on-dark" id="digestShareTop">
+    <span class="pitch">📣 Blast today&rsquo;s drop <b>everywhere</b></span>
+    <div class="share-row" id="digestShareBtns"></div>
+  </div>
+
   <div class="err" hidden id="errbox"></div>
   <div id="app"></div>
 
   <footer>
-    <span>Printed fresh every morning · PKT</span>
-    <span class="end">— 30 —</span>
-    <span>Every story linked · Zero trackers</span>
+    <div class="frow">
+      <span>Printed fresh every morning · PKT</span>
+      <span class="end">— 30 —</span>
+      <span>Every story linked · Zero trackers</span>
+    </div>
+    <div class="digest-share on-dark">
+      <span class="pitch">📣 Friends need this <b>too</b></span>
+      <div class="share-row" id="digestShareBtnsFoot"></div>
+    </div>
   </footer>
 </div>
 
 <script>
 (function(){
+  'use strict';
   var app = document.getElementById('app');
   var errbox = document.getElementById('errbox');
   var tickerTrack = document.getElementById('tickerTrack');
+  var PAGE_URL = 'https://iamcipherdev.github.io/pak-hotspot/';
 
   function esc(s){
     return String(s).replace(/[&<>"']/g, function(c){
       return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];
     });
   }
+  function enc(s){ return encodeURIComponent(s); }
   function ago(iso){
     var t = new Date(iso).getTime(), now = Date.now(), d = now - t;
     if (isNaN(t)) return 'recently';
@@ -145,49 +255,168 @@
     var days = Math.floor(h/24);
     return days + (days===1?' day ago':' days ago');
   }
-  var STICKERS = [
-    '<span class="sticker hot">Just dropped 🔥</span>',
-    '<span class="sticker">Fresh ✨</span>',
-    '<span class="sticker cool">Lowkey big 👀</span>'
-  ];
-  function storyHTML(s, i){
-    var sticker = (i === 0) ? STICKERS[0] : (i === 1 ? STICKERS[1] : '');
+
+  /* share buttons — WhatsApp FIRST (biggest in Pakistan), then X, LinkedIn, copy */
+  function shareRow(url, title, dark){
+    var t = enc(title), u = enc(url);
+    return '<div class="share-row' + (dark ? ' on-dark' : '') + '">' +
+      '<span class="share-label">Share →</span>' +
+      '<a class="share-btn wa" target="_blank" rel="noopener" href="https://wa.me/?text=' + t + '%20' + u + '">✆ WhatsApp</a>' +
+      '<a class="share-btn x" target="_blank" rel="noopener" href="https://twitter.com/intent/tweet?text=' + t + '&url=' + u + '">𝕏 Post</a>' +
+      '<a class="share-btn li" target="_blank" rel="noopener" href="https://www.linkedin.com/sharing/share-offsite/?url=' + u + '">in LinkedIn</a>' +
+      '<button class="share-btn cp" data-copy="' + esc(url) + '">⧉ Copy link</button>' +
+      '</div>';
+  }
+  var digestTitle = 'PAK HOTSPOT 🗞️ — Pakistan + Tech/AI news, fresh every morning';
+  document.getElementById('digestShareBtns').innerHTML = shareRow(PAGE_URL, digestTitle, true);
+  document.getElementById('digestShareBtnsFoot').innerHTML = shareRow(PAGE_URL, digestTitle, true);
+
+  /* copy-link delegation */
+  document.addEventListener('click', function(ev){
+    var b = ev.target.closest('[data-copy]');
+    if(!b) return;
+    var url = b.getAttribute('data-copy');
+    function done(){
+      var old = b.innerHTML; b.classList.add('copied'); b.innerHTML = '✓ Copied!';
+      setTimeout(function(){ b.classList.remove('copied'); b.innerHTML = old; }, 1600);
+    }
+    if (navigator.clipboard && navigator.clipboard.writeText){
+      navigator.clipboard.writeText(url).then(done, function(){ fallback(); });
+    } else fallback();
+    function fallback(){
+      var ta = document.createElement('textarea');
+      ta.value = url; ta.style.position = 'fixed'; ta.style.opacity = '0';
+      document.body.appendChild(ta); ta.select();
+      try { document.execCommand('copy'); done(); } catch(e){}
+      document.body.removeChild(ta);
+    }
+  });
+
+  /* 3-block explainer + host take; degrades gracefully when no editorial data */
+  function blocksHTML(s, take){
+    if(!take || (!take.what && !take.why && !take.next)){
+      return '<div class="blocks"><div class="block b-what"><span class="k">📰 Kya Hua</span><p>' +
+        esc(s.summary) + '</p></div></div>';
+    }
+    var h = '<div class="blocks">';
+    if(take.what) h += '<div class="block b-what"><span class="k">📰 Kya Hua</span><p>' + esc(take.what) + '</p></div>';
+    if(take.why)  h += '<div class="block b-why"><span class="k">🎯 Kyun Matter Karta Hai</span><p>' + esc(take.why) + '</p></div>';
+    if(take.next) h += '<div class="block b-next"><span class="k">🔮 Agay Kya</span><p>' + esc(take.next) + '</p></div>';
+    return h + '</div>';
+  }
+  function takeHTML(take){
+    if(!take || !take.take) return '';
+    return '<div class="take"><div class="tface">🎙️</div>' +
+      '<span class="tk">Cipher&rsquo;s Hot Take</span><p>' + esc(take.take) + '</p></div>';
+  }
+  function bylineHTML(s){
+    return '<div class="byline">via <a href="' + esc(s.url) + '" target="_blank" rel="noopener">' +
+      esc(s.source) + '</a></div>';
+  }
+
+  function storyHTML(s, i, takes){
+    var take = takes[s.url];
     return '<article class="story"><div class="row"><div class="num display">' +
-      String(i+1).padStart(2,'0') + '</div><div>' + sticker +
+      String(i+1).padStart(2,'0') + '</div><div style="flex:1;min-width:0">' +
       '<h4><a href="' + esc(s.url) + '" target="_blank" rel="noopener">' + esc(s.title) + '</a></h4>' +
-      '<p>' + esc(s.summary) + '</p>' +
-      '<div class="byline">via <a href="' + esc(s.url) + '" target="_blank" rel="noopener">' + esc(s.source) + '</a></div>' +
+      blocksHTML(s, take) + takeHTML(take) + bylineHTML(s) +
+      shareRow(s.url, s.title, false) +
       '</div></div></article>';
   }
-  function sectionHTML(head, items){
+  function sectionHTML(head, items, takes){
     var h = '<section><div class="sechead"><h3 class="display">' + head + '</h3>' +
       '<span class="rule"></span><span class="count display">' + items.length + '</span></div>' +
       '<div class="stories">';
-    items.forEach(function(s,i){ h += storyHTML(s,i); });
+    items.forEach(function(s,i){ h += storyHTML(s, i, takes); });
     return h + '</div></section>';
   }
 
-  fetch('data/news.json', {cache:'no-store'})
-    .then(function(r){ if(!r.ok) throw new Error('HTTP '+r.status); return r.json(); })
-    .then(function(d){
+  /* digest-level poll — localStorage votes, live % bars */
+  function pollHTML(poll, updatedAt){
+    if(!poll || !poll.q || !Array.isArray(poll.options) || poll.options.length < 2) return '';
+    var key = 'ph-poll-' + btoa(unescape(encodeURIComponent(poll.q))).replace(/[^a-zA-Z0-9]/g,'').slice(0,24);
+    var myVote = null;
+    try { myVote = localStorage.getItem(key); } catch(e){}
+    var votes = [0,0], total = 0;
+    try {
+      var raw = localStorage.getItem(key + '-tally');
+      if(raw){ votes = JSON.parse(raw); }
+    } catch(e){}
+    total = votes.reduce(function(a,b){return a+b;}, 0);
+    var h = '<div class="poll" id="pollBox" data-key="' + key + '">';
+    h += '<span class="pq">🗳️ Aaj ka Sawal</span><h3 class="display">' + esc(poll.q) + '</h3>';
+    h += '<div class="opts">';
+    poll.options.forEach(function(opt, i){
+      var pct = total ? Math.round(votes[i]/total*100) : 0;
+      var dis = myVote !== null ? ' disabled' : '';
+      h += '<button class="opt" data-opt="' + i + '"' + dis + '>' +
+        '<span class="bar" style="width:' + pct + '%"></span>' +
+        '<span class="pct">' + (total ? pct + '%' : '') + '</span>' +
+        '<span class="txt">' + esc(opt) + '</span></button>';
+    });
+    h += '</div>';
+    h += '<div class="voted-note">' + (myVote !== null
+      ? '✓ Tumne vote kar diya — ' + total + ' votes total'
+      : 'Vote karo, result live dekho 👇') + '</div>';
+    h += '</div>';
+    return h;
+  }
+  document.addEventListener('click', function(ev){
+    var b = ev.target.closest('.poll .opt');
+    if(!b || b.disabled) return;
+    var box = b.closest('.poll'), key = box.getAttribute('data-key');
+    var i = parseInt(b.getAttribute('data-opt'), 10);
+    try {
+      if(localStorage.getItem(key) !== null) return;
+      localStorage.setItem(key, String(i));
+      var votes = [0,0];
+      try { var raw = localStorage.getItem(key + '-tally'); if(raw) votes = JSON.parse(raw); } catch(e){}
+      votes[i] = (votes[i]||0) + 1;
+      localStorage.setItem(key + '-tally', JSON.stringify(votes));
+    } catch(e){ return; }
+    /* re-render bars in place */
+    var total = votes.reduce(function(a,x){return a+x;},0);
+    var btns = box.querySelectorAll('.opt');
+    btns.forEach(function(btn, j){
+      btn.disabled = true;
+      var pct = total ? Math.round(votes[j]/total*100) : 0;
+      btn.querySelector('.bar').style.width = pct + '%';
+      btn.querySelector('.pct').textContent = total ? pct + '%' : '';
+    });
+    box.querySelector('.voted-note').textContent = '✓ Tumne vote kar diya — ' + total + ' votes total';
+  });
+
+  Promise.all([
+    fetch('data/news.json', {cache:'no-store'}).then(function(r){
+      if(!r.ok) throw new Error('HTTP '+r.status); return r.json();
+    }),
+    fetch('data/takes.json', {cache:'no-store'}).then(function(r){
+      return r.ok ? r.json() : {};
+    }).catch(function(){ return {}; })
+  ])
+    .then(function(res){
+      var d = res[0], tk = res[1] || {};
       if(!d || !Array.isArray(d.tech) || !Array.isArray(d.pakistan)) throw new Error('bad schema');
+      var takes = tk.stories || {};
       var hero = d.tech[0];
 
-      // ticker: all headlines, doubled for seamless loop
       var all = d.tech.concat(d.pakistan);
-      var tick = all.map(function(s,i){
+      var tick = all.map(function(s){
         return '<span><b>●</b>' + esc(s.title) + '</span>';
       }).join('');
       tickerTrack.innerHTML = tick + tick;
 
-      var html = '<article class="frontpage"><span class="breaking">Breaking <i>💥</i></span>' +
+      var html = '<article class="frontpage"><span class="shot-hint">📸 Screenshot this</span>' +
+        '<span class="sotd">💥 Story of the day</span>' +
         '<h2 class="display"><a href="' + esc(hero.url) + '" target="_blank" rel="noopener">' +
         esc(hero.title) + '</a></h2>' +
-        '<p class="standfirst">' + esc(hero.summary) + '</p>' +
-        '<div class="byline">Front page · via <a href="' + esc(hero.url) + '" target="_blank" rel="noopener">' +
-        esc(hero.source) + '</a></div></article>';
-      html += sectionHTML('💻 Tech Desk', d.tech.slice(1));
-      html += sectionHTML('🇵🇰 Pakistan Beat', d.pakistan);
+        blocksHTML(hero, takes[hero.url]) + takeHTML(takes[hero.url]) +
+        bylineHTML(hero) +
+        shareRow(hero.url, '💥 STORY OF THE DAY: ' + hero.title, false) +
+        '</article>';
+      html += pollHTML(tk.poll, d.updated_at);
+      html += sectionHTML('TECH CHAOS 🤖', d.tech.slice(1), takes);
+      html += sectionHTML('PAKISTAN BEAT 🇵🇰', d.pakistan, takes);
       app.innerHTML = html;
 
       var dt = new Date(d.updated_at);
