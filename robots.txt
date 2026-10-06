@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://iamcipherdev.github.io/pak-hotspot/sitemap.xml

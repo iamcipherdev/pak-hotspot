@@ -1,0 +1,27 @@
+# Pak Hotspot
+
+> Pakistan's free daily news digest: top Tech/AI and Pakistan headlines every morning, with short summaries, source links, candid hot takes, a daily poll, and one-tap sharing.
+
+## What it is
+- Single-page digest updated every morning (Pakistan time, PKT).
+- Two sections: Tech/AI ("Tech Chaos") and Pakistan ("Pakistan Beat").
+- Every story follows a quotable 3-block format: "Kya Hua" (what happened), "Kyun Matter Karta Hai" (why it matters, with a Pakistan angle), "Agay Kya" (what's next) — plus a clearly-separated opinion box ("Cipher's Hot Take").
+- Interactive: daily poll with live results, emoji reactions, reading progress bar.
+- No account, no paywall, no trackers. Vanilla HTML/CSS/JS, mobile-first.
+
+## Data
+- Stories live in data/news.json: { updated_at, tech: [...], pakistan: [...] }; each story is { title, summary, url, source }.
+- Editorial layer (hot takes, poll, mood line) lives in data/takes.json, keyed by story URL. The page degrades gracefully if it is absent.
+
+## Update frequency
+- New edition every morning PKT. Freshness is shown on-page ("Updated X ago") and stamped in data/news.json as updated_at (ISO 8601).
+
+## Maker
+- Made by Cipher (R&R Labs): https://risenrestore.org
+- Live site: https://iamcipherdev.github.io/pak-hotspot/
+- Source: https://github.com/iamcipherdev/pak-hotspot
+
+## FAQ
+- What is Pak Hotspot? A free daily news digest for Pakistan: top Tech/AI and Pakistan headlines each morning with summaries, source links, and hot takes.
+- How often is it updated? Every morning, Pakistan time.
+- Is it free? Yes — no account, no paywall, no trackers.

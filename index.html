@@ -3,8 +3,9 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>PAK HOTSPOT 🗞️ — Daily Tech + Pakistan News</title>
-<meta name="description" content="PAK HOTSPOT — Pakistan's daily news drop: Tech/AI + Pakistan headlines. Cipher ke hot takes ke sath. Fresh every morning.">
+<title>Pak Hotspot — Pakistan & Tech News Digest</title>
+<meta name="description" content="Pak Hotspot is Pakistan's free daily news digest: top Tech/AI and Pakistan headlines every morning, with hot takes, polls and one-tap sharing.">
+<link rel="canonical" href="https://iamcipherdev.github.io/pak-hotspot/">
 <!-- Open Graph / virality -->
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="PAK HOTSPOT">
@@ -18,6 +19,17 @@
 <meta name="twitter:title" content="PAK HOTSPOT 🗞️ — Today's Drop">
 <meta name="twitter:description" content="Pakistan's daily news drop: Tech/AI + Pakistan headlines, Cipher ke hot takes ke sath. Fresh every morning.">
 <meta name="twitter:image" content="https://iamcipherdev.github.io/pak-hotspot/og-image.png">
+<!-- Structured data: WebSite + FAQ -->
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","name":"Pak Hotspot","alternateName":"PAK HOTSPOT","url":"https://iamcipherdev.github.io/pak-hotspot/","description":"Pakistan's free daily news digest: top Tech/AI and Pakistan headlines every morning, with hot takes, polls and one-tap sharing.","inLanguage":"en","publisher":{"@type":"Person","name":"Cipher","url":"https://risenrestore.org"}}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
+{"@type":"Question","name":"What is Pak Hotspot?","acceptedAnswer":{"@type":"Answer","text":"Pak Hotspot is a free daily news digest for Pakistan: the top Tech/AI and Pakistan headlines every morning, each with a short summary, the original source link, and a candid hot take."}},
+{"@type":"Question","name":"How often is Pak Hotspot updated?","acceptedAnswer":{"@type":"Answer","text":"Every morning, Pakistan time. Each edition is timestamped so you can see exactly how fresh it is."}},
+{"@type":"Question","name":"Is Pak Hotspot free?","acceptedAnswer":{"@type":"Answer","text":"Yes. No account, no paywall, no trackers. Just open the page and read."}}
+]}
+</script>
 <style>
   :root{
     --paper:#f7f0dc; --paper2:#fffdf4; --ink:#161513; --muted:#6e6250;
@@ -30,6 +42,14 @@
     line-height:1.7;font-size:17px}
   .display{font-family:Impact,"Arial Black","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight:900;letter-spacing:-.01em;text-transform:uppercase;line-height:1.02}
+
+  /* ===== footer FAQ (SEO/AEO) ===== */
+  .faqfoot{margin-top:26px;padding-top:20px;border-top:2px solid var(--thick);text-align:left}
+  .faqfoot h2{font-size:22px;margin-bottom:10px}
+  .faqfoot details{margin:8px 0;background:var(--paper2);border:1px solid var(--line);
+    border-radius:8px;padding:10px 14px}
+  .faqfoot summary{cursor:pointer;font-weight:700;font-size:15.5px}
+  .faqfoot details p{margin-top:8px;font-size:15.5px;color:var(--muted);line-height:1.65}
 
   /* ===== reading progress ===== */
   #progress{position:fixed;top:0;left:0;height:3px;width:0;background:var(--accent);z-index:99}
@@ -249,6 +269,12 @@
       <span class="pitch">📣 Friends need this <b>too</b></span>
       <div class="share-row" id="digestShareBtnsFoot"></div>
     </div>
+    <div class="faqfoot">
+      <h2 class="display">Quick answers</h2>
+      <details><summary>What is Pak Hotspot?</summary><p>Pak Hotspot is a free daily news digest for Pakistan: the top Tech/AI and Pakistan headlines every morning, each with a short summary, the original source link, and a candid hot take.</p></details>
+      <details><summary>How often is it updated?</summary><p>Every morning, Pakistan time. Each edition is timestamped so you can see exactly how fresh it is.</p></details>
+      <details><summary>Is it free?</summary><p>Yes. No account, no paywall, no trackers. Just open the page and read.</p></details>
+    </div>
   </footer>
 </div>
 
@@ -428,6 +454,33 @@
       esc(s.source) + '</a></div>';
   }
 
+  /* SEO: NewsArticle structured data for the top story (rebuilt per edition) */
+  function injectNewsArticle(hero, d){
+    try {
+      var old = document.getElementById('ld-news');
+      if(old) old.remove();
+      var el = document.createElement('script');
+      el.type = 'application/ld+json';
+      el.id = 'ld-news';
+      el.textContent = JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": hero.title,
+        "description": hero.summary || hero.title,
+        "url": hero.url,
+        "mainEntityOfPage": "https://iamcipherdev.github.io/pak-hotspot/",
+        "datePublished": d.updated_at,
+        "dateModified": d.updated_at,
+        "articleSection": "Technology",
+        "inLanguage": "en",
+        "author": { "@type": "Person", "name": "Cipher" },
+        "publisher": { "@type": "Organization", "name": "Pak Hotspot",
+          "url": "https://iamcipherdev.github.io/pak-hotspot/" }
+      });
+      document.head.appendChild(el);
+    } catch(e){}
+  }
+
   function storyHTML(s, i, takes){
     var take = takes[s.url];
     return '<article class="story"><div class="row"><div class="num display">' +
@@ -539,6 +592,7 @@
       html += sectionHTML('TECH CHAOS 🤖', d.tech.slice(1), takes);
       html += sectionHTML('PAKISTAN BEAT 🇵🇰', d.pakistan, takes);
       app.innerHTML = html;
+      injectNewsArticle(hero, d);
       updateProg();
 
       var dt = new Date(d.updated_at);
