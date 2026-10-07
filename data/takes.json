@@ -1,78 +1,85 @@
 {
   "poll": {
+    "q": "Aaj ki sab se bari khabar kaunsi lagi?",
     "options": [
-      "🔥 Haan, AI hi future hai",
-      "🗑️ Nahin, bubble hai"
-    ],
-    "q": "Kya OpenAI $1.4 TRILLION deserve karta hai?"
+      "🚀 Fatah-4 missile test",
+      "💰 SpaceX ka $40B chip deal",
+      "📈 PSX ka zabardast comeback"
+    ]
   },
   "stories": {
-    "https://arynews.tv/psx-stocks-close-low-as-kse-100-index-dips-over-2000-points": {
-      "next": "Oil prices aur siyasi noise agle hafte ki direction tay karenge.",
-      "take": "2,288 points ek din mein… portfolio khola to dil ka daura 😅. Panic selling se bacho — noise mein decisions mat lo.",
-      "what": "KSE-100 index 2,288 points gira — 165,867 par band. Wajah: siyasi uncertainty aur mehnga oil, jis ne broad-based selling karwai.",
-      "why": "Market ko sukoon chahiye hota hai; jab siasat garam ho, paisa dar ke nikal jata hai. Chhote investors hamesha sab se zyada mar khate hain."
+    "https://www.anews.com.tr/tech/2026/10/06/openai-to-add-invisible-watermarks-to-chatgpt-text-in-eu": {
+      "what": "OpenAI EU mein ChatGPT aur Codex ke text mein invisible watermark (textGrain) lagayega — EU AI Act ki requirement. API users globally opt-in kar sakte hain; detector sirf approved researchers ko milega.",
+      "why": "EU chahta hai AI-generated text machine-readable tareeqe se pehchana jaye. Lekin watermark foolproof nahi — paraphrasing, editing ya chhota text ise kamzor kar deta hai.",
+      "next": "Aane wale hafton mein phased rollout; OpenAI technology ko open-source karne ka bhi plan rakhta hai.",
+      "take": "Ab ChatGPT ke alfaaz mein chhupa signal 😅. Assignment copy-paste walon ke liye bura waqt — lekin yaad rakho, watermark milna ye prove nahi karta ke poora text AI ne likha. Technology abhi kaccha hai."
     },
-    "https://biz.chosun.com/en/en-finance/2026/10/06/2SLCSKQTNBBEDEJ7F3EJUILAFM/": {
-      "next": "Data-center supply chain mein aur bare deals expected hain.",
-      "take": "AI ko thanda rakhne wale bhi crorepati ban rahe hain 😭. Lesson: gold rush mein belche bechne wala jeetta hai.",
-      "what": "LG Electronics ne North America mein AI data centers ke liye 5 gigawatt cooling equipment ka long-term deal sign kiya — khabar par shares 6% uchle.",
-      "why": "AI boom ka hidden winner: bijli aur cooling. Chips ke peeche jo infrastructure hai — power, chillers, zameen — wahan asal paisa ban raha hai."
+    "https://www.channelnewsasia.com/business/anthropic-opens-its-most-powerful-ai-models-more-security-teams-6437486": {
+      "what": "Anthropic ne Cyber Verification Program expand kar diya — vetted security professionals ab Claude Opus 5.5, Sonnet 5.5 aur Mythos 5.1 ko kam safeguards ke sath test kar sakte hain. Pehle Glasswing partners ne April-July mein 129,000+ vulnerabilities dhoondi thin.",
+      "why": "AI models ab code likhne aur analyze karne mein itne taqatwar hain ke defenders aur attackers dono ke kaam a sakte hain — Anthropic chahta hai defenders pehle faida uthayen.",
+      "next": "Teen tiers (Defense, Red Team, Specialized) ke liye applications open; vetting US government ke sath mil ke hogi.",
+      "take": "AI ko hacker bana ke hackers pakro 🕵️. 129,000 vulnerabilities sun ke lagta hai humara internet ab tak kaise chal raha tha? Defensive side par AI ka ye sab se solid use-case hai."
     },
-    "https://www.businesstimes.com.sg/international/openai-us30-billion-round-talks-uae-funds-blackrock": {
-      "next": "Deal finalize hui to OpenAI duniya ki sab se valuable private tech company ban jayegi.",
-      "take": "Bhai $1.4 TRILLION — itne mein poora Pakistan 3 baar khareed lo 😭. Lekin seriously: jab UAE paisa laga raha hai, samjho AI ab oil jaisa asset hai.",
-      "what": "OpenAI UAE ke MGX fund aur BlackRock se $30 billion raise karne ki baat kar raha hai — $1.4 trillion valuation par. IPO 2027 tak postpone, company ka kehna hai focus AI safety par hai.",
-      "why": "Ye AI race ka scale dikhata hai: ab sirf models nahi, paisa bhi weapon hai. Gulf ka paisa AI mein lag raha hai — Pakistani devs ke liye signal hai ke AI infra jobs aur funding dono barh rahe hain."
+    "https://www.unite.ai/claude-ai-assistant-arrives-in-google-workspace-as-public-beta/": {
+      "what": "Claude ab Google Docs, Sheets aur Slides ke andar sidebar add-on ke tor par — public beta, paid Claude plans par. Khula document parh sakta hai, in-place edits, formulas, pivot tables, naye slides — sab file ke andar.",
+      "why": "AI assistants ab apps ke andar ghus rahe hain — tab-switching khatam, kaam wahin jahan file hai.",
+      "next": "Beta limits hain (Firefox nahi, comments nahi parh sakta) — feedback par features barhenge.",
+      "take": "Gemini ke ghar mein Claude ghus aya 😂. Google Docs mein AI sidebar — ab 'khud likho' wali nasihat ka kya hoga? Competition se user jeetta hai, dono try karo."
     },
-    "https://www.channelnewsasia.com/business/nvidia-backed-reflection-unveils-first-ai-model-take-chinese-open-models-6434466": {
-      "next": "Weights release ke baad independent benchmarks batayenge ke claim kitna sach tha.",
-      "take": "GLM-5.2 ko takkar, aur wo bhi quarter compute par? Agar ye sach nikla to indie hackers ki Eid ho jayegi 👀. Waitlist par lag jao.",
-      "what": "Nvidia-backed startup Reflection AI ne Beam launch kiya — open-weight model: 501B total params lekin sirf 23B active per task. Claim hai China ke GLM-5.2 jaisi reasoning 3–4x kam compute par. Weights is mahine Apache 2.0 license par ayenge.",
-      "why": "Open models ka matlab: tum ise apne server par free chala sakte ho. Pakistani devs ke liye yehi rasta hai — mehngi API bills ke baghair AI products banana."
+    "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-to-host-windows-and-surface-event-on-october-7/articleshow/134280162.cms": {
+      "what": "Microsoft aaj San Francisco mein 2+ saal baad apna bara Windows showcase kar raha hai (10 AM PT / 10 PM PKT) — theme hai local/on-device AI. Satya Nadella aur Nvidia ke Jensen Huang dono stage par honge; RTX Spark wale Surface Laptop Ultra ki pricing expected.",
+      "why": "AI ab cloud se nikal ke laptop ke andar aa raha hai — jo company on-device AI jeetti hai, wo agla decade jeetti hai.",
+      "next": "Event ke announcements aaj raat ko samne ayenge.",
+      "take": "Nadella + Jensen ek stage par — ye AI ka Avengers Endgame hai 👀. Local AI ka matlab tumhara laptop khud sochega. Asal sawal: ye machines Pakistan mein kab aur kis price par ayengi?"
     },
-    "https://www.dawn.com/news/2035126/un-chief-guterres-arrives-in-pakistan-for-2-day-visit": {
-      "next": "Visit ke end par joint statements ya naye commitments samne ayenge.",
-      "take": "UN chief khud apna trolley bag utha ke aya (viral video dekhi? 👀) — hamare protocol-loving sahabaan ke liye muft ka lesson hai.",
-      "what": "UN chief António Guterres 3-day visit par Islamabad aye — Sadar, PM Shehbaz Sharif aur Army Chief se mulaqatein; UNMOGIP aur NDMA ka bhi daura.",
-      "why": "Pakistan ka UN mein mediatory role (Iran-US tensions mein) highlight ho raha hai — diplomatic capital barh raha hai, jo economy aur image dono ke liye acha hai."
+    "https://www.reuters.com/business/media-telecom/spacex-seeks-40-billion-buy-nvidia-chips-ft-reports-2026-10-06/": {
+      "what": "FT/Reuters ke mutabiq SpaceX Apollo ki lead mein ~$40 billion raise karne ki koshish mein hai ($10B loans + $30B debt) — sirf Nvidia AI chips khareedne ke liye. Deal 2027 mein close expected; talks abhi early stage par hain.",
+      "why": "AI boom ki asal kahani chips hain — compute ke baghair kuch nahi. Morgan Stanley kehta hai 2028 tak AI infra ko $1.5 trillion external financing chahiye hogi.",
+      "next": "Talks early stage hain — deal ho bhi sakti hai, toot bhi sakti hai.",
+      "take": "$40 BILLION sirf chips ke liye 💀. Hum yahan laptop ki EMI soch rahe hain, wahan Elon chips ke liye mulk khareedne nikla hai. AI race ab paisay ki race hai — aur paisa khatam hone wala nahi."
     },
-    "https://www.urdupoint.com/en/pakistan/pakistan-power-crisis-unannounced-load-shedding-2266631.html": {
-      "next": "16 Oct tak plants wapas aye to pressure kam hoga — warna sardi se pehle hi crisis gehra hoga.",
-      "take": "2026 mein bhi 4 ghante bijli ghaib… aur hum AI superintelligence ki baatein kar rahe hain 💀. Pehle bijli, phir future.",
-      "what": "Bijli shortfall 4,500MW se upar — kai powerhouses technical kharabi se band, 16 Oct tak wapsi expected nahi. 3–4 ghante ghair-ailaniya load shedding mulk bhar mein.",
-      "why": "Bijli economy ki oxygen hai — har ghanta load shedding factories, students aur freelancers sab ko maarta hai. LESCO mein 1,000MW+ ka gap hai."
+    "https://www.business-standard.com/technology/tech-news/india-mobile-congress-2026-begins-oct-7-with-6g-ai-cybersecurity-in-focus-126100600736_1.html": {
+      "what": "10th India Mobile Congress aaj se New Delhi mein shuru (Oct 7-10) — theme 'Scale Without Boundaries'. Agenda: 6G, AI-native telecom networks, semiconductors, satellite comms, quantum, cybersecurity aur robotics; 20+ global telecom operators shareek.",
+      "why": "Telecom ab sirf calls nahi — AI infrastructure ka backbone hai. Region ki tech direction aise events mein tay hoti hai.",
+      "next": "4 din mein launches aur policy announcements expected.",
+      "take": "Parosi mulk 6G ki tayyari mein, hum 4G ke signals dhoond rahe hain 📡😅. Lekin seriously — AI-native networks ka matlab agle 5 saal mein internet bilkul badal jayega. Nazar rakho."
     },
-    "https://www.malaymail.com/news/tech-gadgets/2026/10/06/reckless-ai-firms-dont-know-how-to-stop-models-from-going-rogue-whistleblower-says/237836": {
-      "next": "US mein AI safety hearings barhengi — iska asar global AI policy par parega.",
-      "take": "'Humein nahi pata ise kaise rokein' — ye line parh ke thand lagti hai yaar. Sci-fi ab news ban chuki hai 🤖.",
-      "what": "Ex-OpenAI/Anthropic researcher Jacob Coxon ne NYC lawmakers ko bataya ke bari AI companies 'extremely reckless' hain — unhein khud nahi pata ke models ko apne goals banane se kaise rokein.",
-      "why": "Jab andar ke log hi alarm baja rahe hain, to regulation ki debate tez hogi. Yehi wajah hai OpenAI IPO delay karke 'AI safety' ka nara laga raha hai."
+    "https://www.geo.tv/latest/685296-pakistan-conducts-successful-test-of-indigenous-fatah-4-cruise-missile": {
+      "what": "Pakistan ne Fatah-4 ground-launched cruise missile ke extended version ka kamyab test kiya (Oct 6) — advanced avionics aur navigation ke sath extended range par precise strikes. Sadar, PM aur services chiefs ne scientists ko mubarakbad di.",
+      "why": "Indigenous defence capability deterrence mazboot karti hai — jab dushman ko pata ho ke jawab tayyar hai.",
+      "next": "Program tezi se aage barh raha hai — mazeed tests aur validations expected.",
+      "take": "Ghar ka bana missile, ghar ki izzat 🚀. May mein training fire hua tha, ab extended version — matlab kaam tezi se ho raha hai. Defence mein 'made in Pakistan' sun ke fakhar hota hai."
     },
-    "https://www.reuters.com/world/china/mistral-ceo-says-new-ai-model-beats-chinese-ones-some-areas-2026-10-06/": {
-      "next": "Independent cyber-benchmarks batayenge ke ye marketing thi ya reality.",
-      "take": "Har CEO kehta hai 'hum sab se behtar hain' 😂 — benchmark ayen to baat karein. Lekin Europe ka AI mein wapas ana waqai interesting hai.",
-      "what": "Mistral ke CEO Arthur Mensch ne Abu Dhabi mein kaha ke unka naya model cybersecurity mein Chinese rivals se behtar hai — Europe bhi AI race mein peeche nahi.",
-      "why": "AI ab sirf tech nahi, geopolitics hai: US, China, Europe, Gulf — sab apna model chahte hain. CEO ke claims par bharosa independent benchmarks ke baad hi."
+    "https://profit.pakistantoday.com.pk/2026/10/06/pakistan-imf-near-staff-level-deal-as-review-talks-move-towards-conclusion": {
+      "what": "Pakistan aur IMF review talks final stage mein — staff-level agreement expected, jis se ~$1.2 billion (EFF + RSF) release ho sakta hai. FBR ne Q1 target beat kiya (Rs3,043 billion) — mini-budget ka khatra tal gaya.",
+      "why": "IMF ka paisa = investor confidence + rupee stability. Targets poore hona matlab numbers sambhal rahe hain.",
+      "next": "MEFP finalize hote hi IMF mission ki recommendation; PM se mulaqat bhi expected.",
+      "take": "$1.2 billion ka cheque almost tayyar 💰. FBR ne target hit kiya — is baar awam par naya tax bomb nahi girega (shayad). IMF khush, market khush, hum dekhte hain."
     },
-    "https://tribune.com.pk/story/2633267/end-march-sit-ins-and-we-will-talk-pm-shehbaz-once-again-extends-olive-branch-to-pti": {
-      "next": "PTI ka jawab tay karega ke talks hongi ya deadlock aur barhega.",
-      "take": "'Pehle dharna khatam karo phir baat' — ye offer hai ya condition? 🤔 Dono taraf ego hai, awam beech mein pis rahi hai.",
-      "what": "PM Shehbaz Sharif ne PTI ko phir talks ki offer di: long march aur dharne khatam karo to baat hogi — warning ke protest politics seedha economy ko nuksaan pahunchati hai.",
-      "why": "Siyasi stability = economic stability. Jab tak ye standoff hai, investors aur IMF dono nervous rahenge — aur iska kharcha awam deti hai."
+    "https://www.pakistantoday.com.pk/2026/10/06/dar-warns-iwt-water-rights-violations-to-carry-serious-regional-peace-security-implications": {
+      "what": "Deputy PM Ishaq Dar ne Vienna mein kaha — Indus ka pani rokna regional peace ke liye khatarnak hoga; PCA ka Aug 31 award kehta hai Indus Waters Treaty fully in force hai, India ka 'abeyance' ghair-qanooni hai.",
+      "why": "250 million Pakistanis ka pani, khana aur bijli isi darya se hai — ye existential issue hai, sirf diplomatic nahi.",
+      "next": "Neutral Expert proceedings aur diplomatic pressure jari rahegi.",
+      "take": "Pani par jang ke badal 🌊. Dar ne seedha kaha: hamare hisse ka pani chheena to aman khatre mein. PCA hamare haq mein faisla de chuka — ab dekhna ye hai ke international pressure kaam karta hai ya nahi."
     },
-    "https://profit.pakistantoday.com.pk/2026/10/06/govt-raises-petrol-price-by-88-paisas-cuts-diesel-by-rs188-per-litre": {
-      "next": "Global crude aur rupee ki halat agli revision tay karegi.",
-      "take": "Petrol up, diesel down — ye kya lucky draw hai bhai? 🎰 Rs400 dekh ke lagta hai ab bike bhi luxury item hai.",
-      "what": "Daily pricing ke tehet petrol 88 paisay mehnga (Rs393.64/litre), high-speed diesel Rs1.88 sasta (Rs397.76/litre) — dono fuels Rs400 ke qareeb.",
-      "why": "Transport mehnga = har cheez mehengi. Petrol-diesel ki qeemat seedha aam aadmi ki jeb aur mehngai par lagti hai."
+    "https://profit.pakistantoday.com.pk/2026/10/06/petrol-rises-rs119-diesel-cut-rs191-for-oct-7": {
+      "what": "Daily pricing ke tehet Oct 7 ke liye petrol Rs1.19 mehnga (Rs394.83/litre), diesel Rs1.91 sasta (Rs395.85/litre). OGRA ne 7-day average international prices par revise kiya.",
+      "why": "Ab roz naye rates — Friday wala rate weekend par same rehta hai. Transport mehnga = har cheez mehengi.",
+      "next": "Kal phir naye rates — international oil par nazar rakho.",
+      "take": "Roz naya rate, roz naya sadma 🎰. Petrol Rs394.83 — Rs400 se bas aik kadam door. Bike walon, himmat rakho. Daily pricing ka matlab ab budget banana aur mushkil."
     },
-    "https://profit.pakistantoday.com.pk/2026/10/06/pakistan-to-import-three-lng-cargoes-from-qatar-for-october-amid-hormuz-uncertainty": {
-      "next": "Winter se pehle cargoes secure karna critical hai.",
-      "take": "Har saal yehi drama: sardi ati hai, gas ghaib ❄️. Long-term planning kab hogi, koi batayega?",
-      "what": "QatarEnergy ki force majeure 4 Nov tak extended — Pakistan October ke liye 3 LNG cargoes maangega aur Hormuz se safe vessel passage ke liye Iran se baat karega.",
-      "why": "Sardi mein gas ki demand peak par hoti hai — LNG na mili to ghar aur industry dono thithrengay."
+    "https://profit.pakistantoday.com.pk/2026/10/06/psx-claws-back-losses-as-easing-oil-prices-support-sentiment": {
+      "what": "KSE-100 ne 2,592.79 points ka jump lagaya (1.56%) — 168,460.10 par band. Wajah: sasta hota international oil aur siyasi tension kam hone ki umeed. Monday ko 2,288 points gira tha.",
+      "why": "Market mood swings par chalti hai — oil sasta = investor khush, buying wapas.",
+      "next": "IMF deal aur oil prices agle direction tay karenge.",
+      "take": "Kal roye, aaj hasse 📈😂. Pehle 2,288 down, phir 2,592 up — PSX to dil ka mareez bana de. Lesson: panic mein bechne wale hamesha pachtate hain."
+    },
+    "https://www.24newshd.tv/05-Oct-2026/cm-maryam-receives-un-habitat-award-apni-chhat-apna-ghar-programme": {
+      "what": "CM Punjab Maryam Nawaz ko Muscat mein UN-Habitat Scroll of Honour 2026 mila — 'Apni Chhat, Apna Ghar' housing programme ke liye. Duniya bhar se sirf 5 initiatives select hui thin. Ab tak 200,000+ interest-free housing loans disburse ho chuke.",
+      "why": "International recognition Pakistan ke positive image ke liye achi khabar hai.",
+      "next": "5 saal mein 500,000 gharon ka target.",
+      "take": "Punjab ka housing project duniya ke top 5 mein 🏠. Credit jahan banta hai dena chahiye — 2 lakh families ko ghar ka qarza milna chhoti baat nahi. Ab delivery bhi poori ho to baat bane."
     }
   },
-  "mood": "Aaj ka mood: Paisa hi paisa 💸"
+  "mood": "Aaj ka mood: Subah missile test, shaam ko market green 🚀📈"
 }
