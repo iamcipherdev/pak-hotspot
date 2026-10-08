@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-10-07T07:18:16+05:00",
+  "updated_at": "2026-10-08T07:03:40+05:00",
   "tech": [
     {
-      "source": "Anadolu",
-      "summary": "OpenAI will start embedding an invisible statistical watermark (called textGrain) into ChatGPT and Codex text for EU users over the coming weeks, to comply with the EU AI Act's machine-readable labelling rule. API customers worldwide can opt in; the detector stays limited to approved researchers because watermarking is still unreliable against paraphrasing and short texts.",
-      "title": "OpenAI to add invisible watermarks to ChatGPT text in EU",
-      "url": "https://www.anews.com.tr/tech/2026/10/06/openai-to-add-invisible-watermarks-to-chatgpt-text-in-eu"
+      "source": "Reuters",
+      "summary": "Samsung Electronics projected Q3 operating profit of 107.4 trillion won (about $80 billion), up nearly nine-fold from a year earlier and beating analyst estimates, on booming demand for AI memory chips. Revenue is expected to rise 127% to 195 trillion won — the company's fourth consecutive record quarter. The surge reflects a deepening memory chip shortage as AI infrastructure investment outpaces supply growth, with the gap expected to persist into 2027.",
+      "title": "Samsung Q3 profit jumps nearly nine-fold as AI memory boom lifts chip earnings",
+      "url": "https://www.reuters.com/business/samsung-q3-profit-jumps-783-ai-memory-boom-lifts-chip-earnings-2026-10-07/"
     },
     {
-      "source": "Reuters via CNA",
-      "summary": "Anthropic is expanding its Cyber Verification Program, letting vetted cybersecurity professionals test Claude Opus 5.5, Sonnet 5.5 and Mythos 5.1 with reduced safeguards. Its earlier Project Glasswing helped partners find 129,000+ verified software vulnerabilities between April and July, over 33,000 rated critical or high severity.",
-      "title": "Anthropic expands Cyber Verification Program for security teams",
-      "url": "https://www.channelnewsasia.com/business/anthropic-opens-its-most-powerful-ai-models-more-security-teams-6437486"
+      "source": "Morningstar/MarketWatch",
+      "summary": "Google signed a long-term deal with Constellation Energy to bring 890 megawatts of new nuclear capacity online by upgrading 11 existing reactors — equivalent to building a new reactor, backed by $4.3 billion in upgrades. The companies also struck a separate 15-year agreement for 2,700 megawatts of existing capacity for the PJM grid. Constellation shares jumped as the deal reinforced how urgently AI data centers need firm, reliable power.",
+      "title": "Google makes a fresh bet on nuclear power as the AI energy crunch intensifies",
+      "url": "https://www.morningstar.com/news/marketwatch/2026100633/google-makes-a-fresh-bet-on-nuclear-power-as-the-ai-energy-crunch-intensifies"
     },
     {
-      "source": "Unite.AI",
-      "summary": "Anthropic launched Claude for Google Workspace in public beta on all paid Claude plans — a sidebar add-on that reads the open Doc, Sheet or Slide, makes in-place edits, writes formulas and pivot tables, and builds new slides. New connectors also let Claude create Google files directly from chat.",
-      "title": "Claude arrives inside Google Docs, Sheets and Slides as public beta",
-      "url": "https://www.unite.ai/claude-ai-assistant-arrives-in-google-workspace-as-public-beta/"
+      "source": "Private Equity Wire (via Bloomberg)",
+      "summary": "Alphabet's Waymo upsized its inaugural debt financing to $5 billion, up from an initial target of over $3 billion, according to Bloomberg. PIMCO, Blackstone, and Sixth Street are participating in the unrated private loan, arranged by Goldman Sachs and priced at 5.25 percentage points above the benchmark rate. The cash funds fleet expansion and rising AI compute costs as Waymo pushes into Las Vegas, Detroit, Japan, and Singapore toward a target of one million paid weekly rides.",
+      "title": "Waymo expands private debt raise to $5bn to fund robotaxi growth",
+      "url": "https://www.privateequitywire.co.uk/waymo-expands-private-debt-raise-to-5bn-to-fund-robotaxi-growth/"
+    },
+    {
+      "source": "RuntimeWire (via WSJ)",
+      "summary": "Nous Research closed a $90 million Series B at a $1.5 billion valuation, led by Robot Ventures with Nvidia, Microsoft's M12, Samsung, Union Square Ventures, and Menlo Ventures participating. The startup will use the funds to build enterprise tools around its open-source Hermes AI agent — which has over 214,000 GitHub stars — and to launch a mobile app. The round tests whether viral open-source developer adoption can convert into paid corporate customers.",
+      "title": "Nous Research raises $90M to take its open-source Hermes agent into business",
+      "url": "https://runtimewire.com/article/nous-research-90m-series-b-hermes-agent"
+    },
+    {
+      "source": "Advanced Television (via WSJ Intelligence)",
+      "summary": "A WSJ Intelligence and Code and Theory study of 801 C-suite executives found enterprises now run an average of 183 AI tools, yet 85% lack systems to connect them — a widening 'orchestration gap'. Three in five executives say tool proliferation has left strategic execution stagnant, and only 15% of AI investments operate as a unified system. Barriers are cultural and structural rather than technical: siloed mindsets (61%), fragmented data (58%), and no clear ownership (1 in 4 companies).",
+      "title": "Report: AI investment not driving enterprise performance",
+      "url": "https://www.advanced-television.com/2026/10/08/report-ai-investment-not-driving-enterprise-performance/"
     },
     {
       "source": "Times of India",
-      "summary": "Microsoft hosts its first major Windows showcase in over two years today in San Francisco (10 AM PT), themed around local/on-device AI. CEO Satya Nadella and Nvidia CEO Jensen Huang are both attending, fuelling expectations of pricing and launch details for the NVIDIA RTX Spark-powered Surface Laptop Ultra.",
-      "title": "Microsoft's big Windows + Surface event lands today with Nadella and Jensen Huang",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-to-host-windows-and-surface-event-on-october-7/articleshow/134280162.cms"
-    },
-    {
-      "source": "Reuters",
-      "summary": "SpaceX is seeking to raise about $40 billion — $10B in bank loans plus $30B in investment-grade debt, led by Apollo Global Management — to fund a massive Nvidia AI chip order, the FT reported. The deal, expected to close in 2027, underlines how the AI boom is now a capital-raising race for compute.",
-      "title": "SpaceX seeks $40 billion to buy Nvidia chips, FT reports",
-      "url": "https://www.reuters.com/business/media-telecom/spacex-seeks-40-billion-buy-nvidia-chips-ft-reports-2026-10-06/"
-    },
-    {
-      "source": "Business Standard",
-      "summary": "The 10th India Mobile Congress begins today in New Delhi (Oct 7-10) with the theme 'Scale Without Boundaries'. The agenda covers 6G, AI-native telecom networks, semiconductors, satellite communications, quantum, cybersecurity and robotics, drawing 20+ global telecom operators.",
-      "title": "India Mobile Congress 2026 kicks off today with 6G and AI in focus",
-      "url": "https://www.business-standard.com/technology/tech-news/india-mobile-congress-2026-begins-oct-7-with-6g-ai-cybersecurity-in-focus-126100600736_1.html"
+      "summary": "From October 9, free Gemini users will be restricted to the (3.5) Flash-Lite model, losing access to (3.6) Flash and (3.1) Pro. Google AI Plus subscribers ($4.99/month) also lose Pro access. AI Pro subscribers keep all models and gain the Deep Think reasoning feature previously reserved for Ultra. The shift ties model access to subscription tier as Google manages rising AI inference costs.",
+      "title": "Google is limiting Gemini model access for free and AI Plus users starting October 9",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-is-limiting-gemini-models-access-for-free-and-ai-plus-users-starting-october-9/articleshow/134694560.cms"
     }
   ],
   "pakistan": [
     {
-      "source": "Geo News",
-      "summary": "Pakistan conducted a successful test launch of the indigenously developed extended version of the Fatah-4 ground-launched cruise missile on Oct 6, ISPR said. Fitted with advanced avionics and navigation aids, it can hit targets at extended ranges with high precision. The President, PM and services chiefs congratulated the scientists and engineers.",
-      "title": "Pakistan successfully tests extended-range Fatah-4 cruise missile",
-      "url": "https://www.geo.tv/latest/685296-pakistan-conducts-successful-test-of-indigenous-fatah-4-cruise-missile"
+      "source": "Dawn",
+      "summary": "Prime Minister Shehbaz Sharif on Oct 7 vowed to stop the PTI's planned long march by any means, urging the opposition to end its protest and return to dialogue. He said protests were hurting the economy, exports and manufacturing. PTI interim chairman Gohar Ali Khan responded that talks so far remained 'limited to offers' with no positive steps taken.",
+      "title": "Call off protest or face the law, PM warns PTI",
+      "url": "https://www.dawn.com/news/2035316"
     },
     {
-      "source": "Profit",
-      "summary": "Pakistan and the IMF are finalising the Memorandum of Economic and Fiscal Policies as review talks enter their last stage, with a staff-level agreement expected this week. That would unlock about $1.2 billion under the EFF and RSF. FBR beat its Q1 collection target (Rs3,043bn), reducing the chance of a mini-budget.",
-      "title": "Pakistan, IMF near staff-level deal; $1.2bn disbursement in sight",
-      "url": "https://profit.pakistantoday.com.pk/2026/10/06/pakistan-imf-near-staff-level-deal-as-review-talks-move-towards-conclusion"
+      "source": "Daily Pakistan",
+      "summary": "Bahrain's Foreign Minister Abdullatif bin Rashid Al Zayani arrived in Pakistan for a two-day visit on Oct 7-8 at the invitation of Ishaq Dar. The two will co-chair the third Pakistan-Bahrain Joint Ministerial Commission session, covering trade, investment, defence, security, labour and cultural exchanges. More than 150,000 Pakistanis live and work in Bahrain, giving the manpower talks particular weight.",
+      "title": "Bahrain FM Al Zayani due in Pakistan today for trade, defence talks",
+      "url": "https://en.dailypakistan.com.pk/07-Oct-2026/bahrain-fm-al-zayani-due-in-pakistan-today-for-trade-defence-talks"
     },
     {
-      "source": "Pakistan Today",
-      "summary": "Deputy PM Ishaq Dar told an International Water Symposium in Vienna that any attempt to deprive Pakistan of its Indus waters would have 'serious implications' for regional peace and security. He cited the Permanent Court of Arbitration's Aug 31 award confirming the Indus Waters Treaty remains fully in force despite India's 'abeyance'.",
-      "title": "Dar warns depriving Pakistan of Indus waters risks regional peace",
-      "url": "https://www.pakistantoday.com.pk/2026/10/06/dar-warns-iwt-water-rights-violations-to-carry-serious-regional-peace-security-implications"
+      "source": "ARY News",
+      "summary": "Jamaat-e-Islami amir Hafiz Naeemur Rehman said on Oct 7 that the government has contacted his party and he expects to meet PM Shehbaz Sharif within two days. He wants the government to consider ending the petroleum levy, which he claims collects around Rs150 billion a month, mostly from lower-income consumers. If relief is not given, JI will begin a march from Multan; its Charsadda rally on Oct 9 goes ahead regardless.",
+      "title": "JI Amir says PM meeting expected within two days on levy issue",
+      "url": "https://arynews.tv/ji-amir-says-pm-meeting-expected-within-two-days-on-levy-issue"
     },
     {
-      "source": "Profit",
-      "summary": "OGRA revised fuel prices for Oct 7 under the daily pricing mechanism: petrol rises Rs1.19 to Rs394.83/litre, while high-speed diesel falls Rs1.91 to Rs395.85/litre. Prices track a 7-day average of international Platts rates; Friday-notified rates hold over the weekend.",
-      "title": "Petrol up Rs1.19, diesel down Rs1.91 for Oct 7 under daily pricing",
-      "url": "https://profit.pakistantoday.com.pk/2026/10/06/petrol-rises-rs119-diesel-cut-rs191-for-oct-7"
+      "source": "Al Jazeera",
+      "summary": "More than 9.5 million people have received subsidised petrol under the government's fuel relief scheme, which gives Rs100 off per litre via a text-message token system to bike, rickshaw and small-car owners. The scheme costs Rs35-40 billion a month, but critics note cars above 800cc, diesel vehicles and public transport — used by 79% of Pakistanis per Gallup — are excluded entirely. The IMF wants the relief capped at three months and routed through BISP instead.",
+      "title": "Millions of Pakistanis get government fuel relief but some miss out",
+      "url": "https://www.aljazeera.com/news/2026/10/7/millions-of-pakistanis-get-government-fuel-relief-but-some-miss-out"
     },
     {
-      "source": "Profit",
-      "summary": "The KSE-100 Index rebounded 2,592.79 points (1.56%) to close at 168,460.10 on Tuesday, recovering from Monday's 2,288-point plunge. Easing international oil prices and hopes of lower political noise drove buying across banks, energy, cement and autos.",
-      "title": "PSX claws back 2,593 points as easing oil lifts sentiment",
-      "url": "https://profit.pakistantoday.com.pk/2026/10/06/psx-claws-back-losses-as-easing-oil-prices-support-sentiment"
+      "source": "A-Sports",
+      "summary": "Pakistan's cricket team trained in Rawalpindi on Oct 7 ahead of the three-match T20I series against Sri Lanka starting Oct 9, with matches on Oct 9, 11 and 13. New captain Sahibzada Farhan leads a squad blending youth and experience, with bowling coach Shaun Tait overseeing the fast bowlers. Sri Lanka also trained under lights, seeking to repeat their 3-0 whitewash of Pakistan from 2019.",
+      "title": "New-look Pakistan gear up for Sri Lanka T20Is",
+      "url": "https://a-sports.tv/new-look-pakistan-gear-up-for-sri-lanka-t20is"
     },
     {
-      "source": "24NewsHD",
-      "summary": "Punjab CM Maryam Nawaz received the UN-Habitat Scroll of Honour 2026 in Muscat on World Habitat Day for the 'Apni Chhat, Apna Ghar' housing programme — one of only five initiatives selected worldwide. The scheme has disbursed interest-free housing loans to over 200,000 applicants so far.",
-      "title": "Maryam Nawaz receives UN-Habitat Scroll of Honour in Muscat",
-      "url": "https://www.24newshd.tv/05-Oct-2026/cm-maryam-receives-un-habitat-award-apni-chhat-apna-ghar-programme"
+      "source": "Daily Pakistan",
+      "summary": "Punjab Traffic Police ordered strict action against smoke-emitting vehicles as part of anti-smog measures, setting up joint checkpoints with the EPA and Transport Department. Vehicles carrying uncovered sand, debris or straw will be penalised, and all vehicles must have functioning lights and reflective tapes. The directive also intensifies crackdowns on overspeeding and dangerous driving, and bans heavy vehicles from parking on roads in fog-affected areas.",
+      "title": "Punjab bans smoke-emitting vehicles from roads",
+      "url": "https://en.dailypakistan.com.pk/07-Oct-2026/punjab-bans-smoke-emitting-vehicles-from-roads"
     }
   ]
 }
