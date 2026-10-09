@@ -1,79 +1,73 @@
 {
-  "updated_at": "2026-10-08T07:03:40+05:00",
+  "updated_at": "2026-10-09T07:00:27+05:00",
   "tech": [
     {
+      "source": "Business Times (via FT)",
+      "summary": "The Financial Times reported that OpenAI told investors its annualised revenue was approaching $50bn at end-September — about $20bn less than the $70bn figure media, including the FT, had previously reported. The discrepancy arose from investors trying to make OpenAI's number directly comparable to Anthropic's: Anthropic counts sales via cloud partners like AWS and Google Cloud, while OpenAI doesn't. Tech stocks sank anyway: Nasdaq fell 1.25% (worst day since mid-August), Nvidia dropped 2.9%, Intel 5.3%, Oracle 5.5%.",
+      "title": "OpenAI's revenue is ~$50bn, not $70bn — FT report sinks tech stocks",
+      "url": "https://www.businesstimes.com.sg/startups-tech/technology/openais-annualised-revenue-us20-billion-less-previously-signalled-report"
+    },
+    {
       "source": "Reuters",
-      "summary": "Samsung Electronics projected Q3 operating profit of 107.4 trillion won (about $80 billion), up nearly nine-fold from a year earlier and beating analyst estimates, on booming demand for AI memory chips. Revenue is expected to rise 127% to 195 trillion won — the company's fourth consecutive record quarter. The surge reflects a deepening memory chip shortage as AI infrastructure investment outpaces supply growth, with the gap expected to persist into 2027.",
-      "title": "Samsung Q3 profit jumps nearly nine-fold as AI memory boom lifts chip earnings",
-      "url": "https://www.reuters.com/business/samsung-q3-profit-jumps-783-ai-memory-boom-lifts-chip-earnings-2026-10-07/"
+      "summary": "Google Cloud introduced the Gemini agent — a single AI agent for work that plans tasks, uses tools, connects to company business systems and delivers finished work across documents, email and developer environments. It works directly inside Google Workspace apps (Gmail, Docs, Sheets, Calendar) and also through Microsoft 365 and Slack. It picks the best model per task, running on Gemini and Anthropic's Claude. Users can create 'coworker agents' with their own email address; versions for financial services and legal are in preview.",
+      "title": "Google Cloud launches 'Gemini agent' — one AI agent for all your work",
+      "url": "https://www.reuters.com/business/google-cloud-introduces-gemini-agent-work-ai-race-heats-up-2026-10-08/"
     },
     {
-      "source": "Morningstar/MarketWatch",
-      "summary": "Google signed a long-term deal with Constellation Energy to bring 890 megawatts of new nuclear capacity online by upgrading 11 existing reactors — equivalent to building a new reactor, backed by $4.3 billion in upgrades. The companies also struck a separate 15-year agreement for 2,700 megawatts of existing capacity for the PJM grid. Constellation shares jumped as the deal reinforced how urgently AI data centers need firm, reliable power.",
-      "title": "Google makes a fresh bet on nuclear power as the AI energy crunch intensifies",
-      "url": "https://www.morningstar.com/news/marketwatch/2026100633/google-makes-a-fresh-bet-on-nuclear-power-as-the-ai-energy-crunch-intensifies"
+      "source": "Reuters",
+      "summary": "Upscale AI, valued at $2bn in June, launched Token Fabric — a hardware-plus-software networking platform that lets customers build data centers using AI chips from different suppliers without integrating separate networking systems. It combines Upscale's networking chips, Nvidia Spectrum-X equipment and bottleneck-detecting software to keep expensive AI chips busy. CEO Barun Kar expects tens of millions in revenue next year; first release ships in Q4, full rollout through 2027. Total funding stands at $500m.",
+      "title": "Nvidia-backed Upscale AI launches 'Token Fabric' to mix rival AI chips in one data center",
+      "url": "https://www.reuters.com/business/nvidia-backed-upscale-ai-launches-platform-connect-chips-rival-suppliers-2026-10-08/"
     },
     {
-      "source": "Private Equity Wire (via Bloomberg)",
-      "summary": "Alphabet's Waymo upsized its inaugural debt financing to $5 billion, up from an initial target of over $3 billion, according to Bloomberg. PIMCO, Blackstone, and Sixth Street are participating in the unrated private loan, arranged by Goldman Sachs and priced at 5.25 percentage points above the benchmark rate. The cash funds fleet expansion and rising AI compute costs as Waymo pushes into Las Vegas, Detroit, Japan, and Singapore toward a target of one million paid weekly rides.",
-      "title": "Waymo expands private debt raise to $5bn to fund robotaxi growth",
-      "url": "https://www.privateequitywire.co.uk/waymo-expands-private-debt-raise-to-5bn-to-fund-robotaxi-growth/"
+      "source": "FedScoop",
+      "summary": "The White House announced $2.4bn in AI tools and compute credits from 11 tech partners for the Genesis Mission Consortium, which applies AI to federal scientific research across 14 agencies in energy, health and space. Nvidia committed $1bn, AMD $500m, OpenAI $200m, and Anthropic and Google $150m each. Trump also used the announcement to double down on rebranding AI as 'super intelligence,' writing that the White House considers anyone using the old term 'THE ENEMY'.",
+      "title": "Tech giants pledge $2.4bn in AI compute for White House's Genesis Mission",
+      "url": "https://fedscoop.com/genesis-mission-investment-nvidia-google-anthropic-openai/"
     },
     {
-      "source": "RuntimeWire (via WSJ)",
-      "summary": "Nous Research closed a $90 million Series B at a $1.5 billion valuation, led by Robot Ventures with Nvidia, Microsoft's M12, Samsung, Union Square Ventures, and Menlo Ventures participating. The startup will use the funds to build enterprise tools around its open-source Hermes AI agent — which has over 214,000 GitHub stars — and to launch a mobile app. The round tests whether viral open-source developer adoption can convert into paid corporate customers.",
-      "title": "Nous Research raises $90M to take its open-source Hermes agent into business",
-      "url": "https://runtimewire.com/article/nous-research-90m-series-b-hermes-agent"
-    },
-    {
-      "source": "Advanced Television (via WSJ Intelligence)",
-      "summary": "A WSJ Intelligence and Code and Theory study of 801 C-suite executives found enterprises now run an average of 183 AI tools, yet 85% lack systems to connect them — a widening 'orchestration gap'. Three in five executives say tool proliferation has left strategic execution stagnant, and only 15% of AI investments operate as a unified system. Barriers are cultural and structural rather than technical: siloed mindsets (61%), fragmented data (58%), and no clear ownership (1 in 4 companies).",
-      "title": "Report: AI investment not driving enterprise performance",
-      "url": "https://www.advanced-television.com/2026/10/08/report-ai-investment-not-driving-enterprise-performance/"
-    },
-    {
-      "source": "Times of India",
-      "summary": "From October 9, free Gemini users will be restricted to the (3.5) Flash-Lite model, losing access to (3.6) Flash and (3.1) Pro. Google AI Plus subscribers ($4.99/month) also lose Pro access. AI Pro subscribers keep all models and gain the Deep Think reasoning feature previously reserved for Ultra. The shift ties model access to subscription tier as Google manages rising AI inference costs.",
-      "title": "Google is limiting Gemini model access for free and AI Plus users starting October 9",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-is-limiting-gemini-models-access-for-free-and-ai-plus-users-starting-october-9/articleshow/134694560.cms"
+      "source": "Zubiqo",
+      "summary": "A leaked prospectus suggests Anthropic is targeting a $2 trillion IPO valuation — roughly double its reported $965bn May valuation — with the listing pushed to November. The documents project $4.6bn in 2025 revenue (12x growth over 2024) against a $42bn net loss (much of it a non-cash financing charge), over $500bn in future infrastructure spending commitments, and reveal that 25% of revenue comes from just two customers without long-term contracts.",
+      "title": "Leaked Anthropic prospectus: $2 trillion IPO target, $42bn net loss",
+      "url": "https://zubiqo.com/news/leaked-anthropic-prospectus-reveals-2-trillion-ipo-target-and-42b-net-loss-8d8oy6"
     }
   ],
   "pakistan": [
     {
       "source": "Dawn",
-      "summary": "Prime Minister Shehbaz Sharif on Oct 7 vowed to stop the PTI's planned long march by any means, urging the opposition to end its protest and return to dialogue. He said protests were hurting the economy, exports and manufacturing. PTI interim chairman Gohar Ali Khan responded that talks so far remained 'limited to offers' with no positive steps taken.",
-      "title": "Call off protest or face the law, PM warns PTI",
-      "url": "https://www.dawn.com/news/2035316"
+      "summary": "The WTO sharply upgraded its 2026 global merchandise trade growth forecast to 3.9% (from 1.9%) on the back of the AI boom, and named Pakistan among nations benefiting from trade disruptions amid the Middle East conflict. Pakistan's exports of sea freight transport services rose 73% year-on-year in H1 2026 as rerouted traffic boosted Karachi; vessel calls at Karachi terminals were still 14% higher in July. Pakistan's computer services exports jumped 23% in Q2. The flip side: MSC imposed a $500-per-container congestion surcharge on shipments to Pakistan.",
+      "title": "WTO: Pakistan's sea-freight exports up 73% as global trade beats expectations",
+      "url": "https://www.dawn.com/news/2035725/wto-hikes-global-trade-growth-forecast-says-pakistan-among-nations-benefitting-from-trade-disruption-amid-me-conflict"
     },
     {
-      "source": "Daily Pakistan",
-      "summary": "Bahrain's Foreign Minister Abdullatif bin Rashid Al Zayani arrived in Pakistan for a two-day visit on Oct 7-8 at the invitation of Ishaq Dar. The two will co-chair the third Pakistan-Bahrain Joint Ministerial Commission session, covering trade, investment, defence, security, labour and cultural exchanges. More than 150,000 Pakistanis live and work in Bahrain, giving the manpower talks particular weight.",
-      "title": "Bahrain FM Al Zayani due in Pakistan today for trade, defence talks",
-      "url": "https://en.dailypakistan.com.pk/07-Oct-2026/bahrain-fm-al-zayani-due-in-pakistan-today-for-trade-defence-talks"
+      "source": "Dawn",
+      "summary": "The IMF concluded its fortnight-long review without announcing a staff-level agreement, asking for more data on the proposed time-of-use electricity tariff for industry — designed to push factories toward cheap night and solar-hour rates and fix the 'duck curve' caused by Pakistan's solar shift. Officials say talks concluded successfully and expect the $1.2bn tranche after board approval within four to five weeks. Gas sector circular debt has swollen to around Rs3.6 trillion.",
+      "title": "IMF holds back clearance for industry power tariff plan; $1.2bn tranche expected in 4-5 weeks",
+      "url": "https://www.dawn.com/news/2035544"
     },
     {
-      "source": "ARY News",
-      "summary": "Jamaat-e-Islami amir Hafiz Naeemur Rehman said on Oct 7 that the government has contacted his party and he expects to meet PM Shehbaz Sharif within two days. He wants the government to consider ending the petroleum levy, which he claims collects around Rs150 billion a month, mostly from lower-income consumers. If relief is not given, JI will begin a march from Multan; its Charsadda rally on Oct 9 goes ahead regardless.",
-      "title": "JI Amir says PM meeting expected within two days on levy issue",
-      "url": "https://arynews.tv/ji-amir-says-pm-meeting-expected-within-two-days-on-levy-issue"
+      "source": "Dawn",
+      "summary": "Outstanding SME loans rose by Rs23bn in Q1 FY27 to Rs1.137 trillion, with borrowers up by over 25,000 to about 350,862, Finance Minister Muhammad Aurangzeb said after the Access to Finance Steering Committee meeting. He flagged data gaps hampering responsible lending decisions and set a medium-term target of Rs2 trillion in SME financing with 775,000 borrowers by June 2028, alongside Rs222bn in total financing to housing, SMEs, agriculture and EVs in the quarter.",
+      "title": "Outstanding SME loans hit Rs1.137 trillion; borrowers up 25,000",
+      "url": "https://www.dawn.com/news/2035521"
     },
     {
-      "source": "Al Jazeera",
-      "summary": "More than 9.5 million people have received subsidised petrol under the government's fuel relief scheme, which gives Rs100 off per litre via a text-message token system to bike, rickshaw and small-car owners. The scheme costs Rs35-40 billion a month, but critics note cars above 800cc, diesel vehicles and public transport — used by 79% of Pakistanis per Gallup — are excluded entirely. The IMF wants the relief capped at three months and routed through BISP instead.",
-      "title": "Millions of Pakistanis get government fuel relief but some miss out",
-      "url": "https://www.aljazeera.com/news/2026/10/7/millions-of-pakistanis-get-government-fuel-relief-but-some-miss-out"
+      "source": "Dawn",
+      "summary": "At the UNGA Second Committee, Pakistan's deputy permanent representative Usman Jadoon called for a credible pathway to mobilise $300bn in climate finance, tripling adaptation finance and full funding of the Loss and Damage Fund. He demanded the 2026 and 2028 UN Water Conferences focus on shared waters, stressed respecting the sanctity of existing treaties — a pointed reference in the Indus waters context — and called for reform of the international debt architecture, noting the $4 trillion annual SDG financing gap.",
+      "title": "Pakistan demands $300bn climate finance pathway at the UN",
+      "url": "https://www.dawn.com/news/2035526/pakistan-urges-un-action-on-climate-finance"
     },
     {
-      "source": "A-Sports",
-      "summary": "Pakistan's cricket team trained in Rawalpindi on Oct 7 ahead of the three-match T20I series against Sri Lanka starting Oct 9, with matches on Oct 9, 11 and 13. New captain Sahibzada Farhan leads a squad blending youth and experience, with bowling coach Shaun Tait overseeing the fast bowlers. Sri Lanka also trained under lights, seeking to repeat their 3-0 whitewash of Pakistan from 2019.",
-      "title": "New-look Pakistan gear up for Sri Lanka T20Is",
-      "url": "https://a-sports.tv/new-look-pakistan-gear-up-for-sri-lanka-t20is"
+      "source": "Dawn",
+      "summary": "A seven-year-old boy was killed in Mardan's Katlang area when his house roof caved in under heavy rain; his mother and minor sister were injured, and two women were hurt in a similar incident in Bala Ghari. Peshawar received 38mm of rain — its heaviest in the province — inundating major roads and tripping 83 Pesco feeders. A hailstorm in Mohmand district destroyed standing tomato, coriander and chilli crops and smashed rooftop solar panels; farmers who borrowed money to cultivate are demanding compensation.",
+      "title": "Child killed, four injured as heavy rains batter Khyber Pakhtunkhwa",
+      "url": "https://www.dawn.com/news/2035246"
     },
     {
-      "source": "Daily Pakistan",
-      "summary": "Punjab Traffic Police ordered strict action against smoke-emitting vehicles as part of anti-smog measures, setting up joint checkpoints with the EPA and Transport Department. Vehicles carrying uncovered sand, debris or straw will be penalised, and all vehicles must have functioning lights and reflective tapes. The directive also intensifies crackdowns on overspeeding and dangerous driving, and bans heavy vehicles from parking on roads in fog-affected areas.",
-      "title": "Punjab bans smoke-emitting vehicles from roads",
-      "url": "https://en.dailypakistan.com.pk/07-Oct-2026/punjab-bans-smoke-emitting-vehicles-from-roads"
+      "source": "ABP Live",
+      "summary": "A viral video from a PCB dinner showed the team manager gesturing at Hasan Nawaz and Naseem Shah to remove their caps while greeting chairman Mohsin Naqvi — sparking online debate over whether it was proper protocol or patronising treatment of national players. It comes hours before Pakistan's home T20I series against Sri Lanka begins today (Oct 9) at Rawalpindi Cricket Stadium, with Sahibzada Farhan captaining Pakistan; matches also on Oct 11 and 13, followed by an ODI tri-series with England and Sri Lanka.",
+      "title": "Viral: Pakistan cricketers told to remove caps in front of Mohsin Naqvi ahead of Sri Lanka T20Is",
+      "url": "https://news.abplive.com/sports/cricket/pakistan-cricketers-told-to-remove-caps-in-front-of-mohsin-naqvi-watch-video-1870494/amp"
     }
   ]
 }

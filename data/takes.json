@@ -2,84 +2,78 @@
   "poll": {
     "q": "Aaj ki sab se bari khabar kaunsi lagi?",
     "options": [
-      "🚀 Samsung ka 9x profit dhamaka",
-      "😤 Gemini free users par pabandi",
-      "⚖️ PM vs PTI: march hoga ya nahi?"
+      "🤯 OpenAI ka $20bn revenue gap",
+      "🤖 Gemini agent aa gaya",
+      "🏏 Pak vs Sri Lanka T20I"
     ]
   },
   "stories": {
-    "https://www.reuters.com/business/samsung-q3-profit-jumps-783-ai-memory-boom-lifts-chip-earnings-2026-10-07/": {
-      "what": "Samsung ne Q3 operating profit ka andaza lagaya: 107.4 trillion won (~$80 billion) — pichle saal se takreeban 9 GUNA zyada. Wajah: AI chips ki demand mein tezi, memory chips ki qillat. Revenue bhi 127% barh ke 195 trillion won expected — musalsal chauthi record quarter.",
-      "why": "AI infrastructure par itni investment ho rahi hai ke memory chips ki supply peeche reh gayi — aur jab demand supply se zyada ho, prices (aur profits) aasman par.",
-      "next": "Q3 2027 tak ye qillat jari rehne ka andaza; detail results mah ke akhir mein ayenge.",
-      "take": "9 GUNA profit?! 💰 Samsung to ab chips nahi, sona bana raha hai. AI boom ki asal jeet hardware walon ki hai — software walay hype karte reh gaye, paisa memory mein hai."
+    "https://www.businesstimes.com.sg/startups-tech/technology/openais-annualised-revenue-us20-billion-less-previously-signalled-report": {
+      "what": "FT ke mutabiq OpenAI ne investors ko bataya: annualised revenue ~$50bn hai, woh $70bn jo media report kar raha tha. $20bn ka farq investors ki accounting ki wajah se — Anthropic cloud-partner sales bhi count karta hai, OpenAI nahi.",
+      "why": "AI bubble ki asli tension yahi hai: growth kahan khatam hoti hai, wahan valuation shuru hoti hai. Nasdaq 1.25% gira, Nvidia -2.9% — market ko shak hai ke AI spend ka return actually kitna hai.",
+      "next": "OpenAI aur Anthropic dono IPO ki taraf ja rahe hain — tab public filings mein asli numbers sab ko nazar ayenge.",
+      "take": "$20bn ka accounting 'gap' aur stock market ne ise crash bana diya 📉. Honestly, $50bn annualised revenue bhi kisi startup ke liye insane hai — lekin jab tumhari valuation trillion mein ho, to har billion par nazar hoti hai. Hype se accounting tak ka safar."
     },
-    "https://www.morningstar.com/news/marketwatch/2026100633/google-makes-a-fresh-bet-on-nuclear-power-as-the-ai-energy-crunch-intensifies": {
-      "what": "Google ne Constellation Energy ke sath deal ki — 11 maujooda reactors upgrade kar ke 890 MW nayi nuclear capacity online layega ($4.3 billion upgrades), plus 15 saal ka 2,700 MW ka alag agreement. Maqsad: AI data centers ko reliable bijli.",
-      "why": "AI data centers bijli ke bhookay hain — solar/wind kabhi up kabhi down, lekin nuclear 24/7 chalti hai. Big Tech ab apne liye bijli ghar khareed raha hai.",
-      "next": "Upgrades agle chand saalon mein mukammal honge; Constellation ke shares already upar.",
-      "take": "Google ab nuclear power plant khareed raha hai ⚛️😅. Matlab AI ko chalane ke liye bijli itni chahiye ke mulkon wali soch karni par rahi hai. Hum yahan load-shedding se lar rahe hain, wahan AI ke liye atom bomb wali bijli ban rahi hai."
+    "https://www.reuters.com/business/google-cloud-introduces-gemini-agent-work-ai-race-heats-up-2026-10-08/": {
+      "what": "Google Cloud ne 'Gemini agent' launch kiya — ek AI agent jo kaam plan karta hai, tools use karta hai, business systems se connect hota hai aur finished work deliver karta hai. Gmail/Docs/Calendar mein seedha, plus Microsoft 365 aur Slack par. Gemini aur Claude models par chalta hai.",
+      "why": "Agent wars official hogaye hain: OpenAI ke dots, Meta ke Muse, aur ab Google ka Gemini agent. Har company chahti hai tumhara 'kaam karne wala AI' wohi ho.",
+      "next": "Finance aur legal versions preview mein — government, healthcare, retail versions aa rahi hain.",
+      "take": "'Coworker agents' with their own email address 🤖 — matlab tumhare office mein ab aise colleagues honge jo kabhi coffee nahi peete. Google ka move solid hai: kaam wahan hota hai jahan user already hai — Gmail aur Docs. Distribution hi jeet hai."
     },
-    "https://www.privateequitywire.co.uk/waymo-expands-private-debt-raise-to-5bn-to-fund-robotaxi-growth/": {
-      "what": "Waymo (Alphabet ki robotaxi company) ne apna pehla debt raise $5 billion tak barha diya — shuru mein $3 billion ka target tha. PIMCO, Blackstone aur Sixth Street hissa le rahe hain. Paisa fleet barhane aur AI compute ke liye — Las Vegas, Detroit, Japan aur Singapore expansion par hai.",
-      "why": "Robotaxi ab experiment nahi, scale ka khel hai — hazaron gariyan, har sheher mein. Aur $5 billion bhi shuruat hai: target hafte mein 10 lakh paid rides.",
-      "next": "Naye sheheron mein launches agle mahino mein; driverless rides ki taadad barhegi.",
-      "take": "Driverless taxi ke liye $5 BILLION ka qarz 🚕💸. Hum yahan Careem ke fare par lar rahe hain, wahan gari khud chal rahi hai. Robotaxi ka future aa gaya — bas hamare sheheron mein traffic ka kya banega, ye soch ke dar lagta hai."
+    "https://www.reuters.com/business/nvidia-backed-upscale-ai-launches-platform-connect-chips-rival-suppliers-2026-10-08/": {
+      "what": "$2bn valuation wali Upscale AI ne 'Token Fabric' launch kiya — ek networking platform jo data center mein alag-alag suppliers ke AI chips ko ek saath chalata hai. Nvidia ke Spectrum-X tech ke saath.",
+      "why": "AI data centers ka sab se bara dard: expensive chips data ka wait karte rehte hain. Token Fabric unhe busy rakhta hai — chip jitni mehngi, idle time utna bara loss.",
+      "next": "Pehla release Q4 mein, full platform 2027 tak. CEO ko next year tens of millions revenue ki umeed.",
+      "take": "Dekho kitna clever business model hai — Nvidia khud is startup ko back kar raha hai jo kehta hai 'sirf Nvidia ke chips par mat depend karo' 💡. Vendor lock-in khatam karo, networking becho. Lock-in bechne walay khud anti-lock-in tools fund kar rahe hain — irony level 100."
     },
-    "https://runtimewire.com/article/nous-research-90m-series-b-hermes-agent": {
-      "what": "Nous Research ne $90 million Series B raise kiya — valuation $1.5 billion. Investors mein Nvidia, Microsoft ka M12, Samsung bhi. Paisa unke open-source Hermes AI agent (214,000+ GitHub stars) ke business tools aur mobile app par lagega.",
-      "why": "Open-source se community milti hai, lekin paisa enterprise customers se banta hai — ye round test karega ke GitHub stars dollar mein badalte hain ya nahi.",
-      "next": "Enterprise tools aur mobile app launch expected.",
-      "take": "214,000 GitHub stars = $1.5 billion valuation 🤯. Open-source walon ne phir kamaal kar diya. Lekin asal test ab hai: free mein pasand karne wale, paise denge? Dekhte hain."
+    "https://fedscoop.com/genesis-mission-investment-nvidia-google-anthropic-openai/": {
+      "what": "White House ne announce kiya: 11 tech companies $2.4bn ke AI tools aur compute credits dengi Genesis Mission ke liye — 14 federal agencies mein AI-driven scientific research. Nvidia $1bn, AMD $500m, OpenAI $200m, Anthropic aur Google $150m each.",
+      "why": "Trump administration AI ko science aur research ka engine banana chahti hai — aur tech companies ko government goodwill chahiye. Dono ki zarurat, ek deal.",
+      "next": "Autonomous labs mein DOE aur NSF ki investment bhi announce hui — science infra par AI ka grip barh raha hai.",
+      "take": "Aur sab se mazedar part: Trump ne AI ka naam hi badal diya — 'super intelligence' 😂, aur jo 'artificial intelligence' kahe woh White House ka dushman! Naam badalne se tech nahi badalti, lekin PR zaroor badalti hai. Jensen Huang ne bhi 'Super Intelligence' kehna shuru kar diya — paisa bolta hai, bhai."
     },
-    "https://www.advanced-television.com/2026/10/08/report-ai-investment-not-driving-enterprise-performance/": {
-      "what": "WSJ Intelligence ki study (801 CEOs): companies ausatan 183 AI tools chala rahi hain, lekin 85% ke paas inhe jorne ka system nahi — 'orchestration gap'. Sirf 15% AI investments unified system ki tarah kaam kar rahe hain. Masla technology nahi, culture aur structure hai.",
-      "why": "Har department ne apna AI tool khareed liya, lekin koi malik nahi, data bikra hua hai — to faida khaak hoga.",
-      "next": "Companies ab consolidation aur governance ki taraf barhengi — tool kam, integration zyada.",
-      "take": "183 AI tools, aur faida zero 😂. Matlab office mein har kisi ne AI khareed li, lekin use karna kisi ko nahi aaya. Technology ka masla nahi — management ka masla hai. Pehle apna ghar theek karo, phir AI lagao."
+    "https://zubiqo.com/news/leaked-anthropic-prospectus-reveals-2-trillion-ipo-target-and-42b-net-loss/": {
+      "what": "Leaked prospectus ke mutabiq Anthropic $2 TRILLION valuation par IPO target kar raha hai (May mein ~$965bn tha), listing November tak shift. 2025 revenue $4.6bn expected, lekin net loss $42bn — aur 25% revenue sirf 2 customers se jo long-term contracts par nahi.",
+      "why": "AI labs ka economics ab samne aa raha hai: revenue 12x grow kar raha hai, lekin compute costs us se bhi tez. $500bn future infra commitments — ye IPO paisa jalane ki race ke liye hai.",
+      "next": "IPO marketing mid-October se shuru hone ki reports — agar hua to history ke sab se baray IPOs mein se ek.",
+      "take": "$42bn loss par $2 trillion valuation? 💸 Matlab investors ko isme 'loss' nahi, 'investment in the future' nazar aa raha hai. Lekin 25% revenue 2 customers se — agar woh chalay gaye to? Ye IPO AI bubble ka sab se bara stress test hoga."
     },
-    "https://timesofindia.indiatimes.com/technology/tech-news/google-is-limiting-gemini-models-access-for-free-and-ai-plus-users-starting-october-9/articleshow/134694560.cms": {
-      "what": "Kal se (Oct 9) free Gemini users sirf (3.5) Flash-Lite use kar sakenge — (3.6) Flash aur (3.1) Pro ki access khatam. AI Plus ($4.99/month) walon se bhi Pro cheen liya gaya. AI Pro walon ko sab models + Deep Think reasoning milega.",
-      "why": "AI chalana mehnga hai — har free query par Google ka kharcha. Ab model access subscription tier se juri hai: jitna paisa, utna taqatwar model.",
-      "next": "Oct 9 se naye limits live; free users ko downgrade mehsoos hoga.",
-      "take": "Free ka zamana khatam 😤. Kal se Gemini free = halka model. Google keh raha hai: AI chahiye to jeb dheeli karo. AI ab utility bill ban raha hai — pehle muft tha, ab meter lagega."
+    "https://www.dawn.com/news/2035725/wto-hikes-global-trade-growth-forecast-says-pakistan-among-nations-benefitting-from-trade-disruption-amid-me-conflict": {
+      "what": "WTO ne 2026 ka global trade forecast barha diya — 3.9% (pehle 1.9%), wajah AI boom. Pakistan ka naam un countries mein jo Middle East conflict ki trade disruptions se faida utha rahe hain: sea freight service exports 73% up, Karachi port calls 14% up, computer services exports 23% up.",
+      "why": "Jab Hormuz band hota hai to jahazon ko alternate routes chahiye hote hain — aur Karachi beech mein hai. Geopolitics kabhi kabhi geography ko gift de deti hai.",
+      "next": "MSC ne Pakistan ke liye $500/container congestion surcharge lagaya — faida hai, lekin mehenga bhi.",
+      "take": "Pakistan ko conflict se faida?! 🚢 Matlab hamari economy ka best quarter kisi aur ki jang ki wajah se aaya. Honest baat: luck achi hai, lekin luck par strategy nahi banti. Computer services 23% up — YE wali growth apni mehnat ki hai, isay sambhalo."
     },
-    "https://www.dawn.com/news/2035316": {
-      "what": "PM Shehbaz Sharif ne Oct 7 ko kaha ke PTI ke planned long march ko 'kisi bhi tareeqe se' roka jayega — opposition se protest khatam kar ke dialogue par wapas aane ki appeal. Kehna hai protests se economy, exports aur manufacturing ko nuqsan ho raha hai. PTI ke Gohar Ali Khan ka jawab: baat-cheet ab tak 'sirf offers' tak mehdood, koi positive qadam nahi.",
-      "why": "March ka matlab roads band, business band — aur IMF deal ke critical waqt mein political noise investors ko darata hai.",
-      "next": "PTI march ki tareekh aur hukumat ke response par sab ki nazar.",
-      "take": "Phir wahi khel: march ki dhamki, rokne ki dhamki ⚖️. Ek taraf 'dialogue karo', doosri taraf 'sirf offers'. Awam beech mein phansi — na economy chal rahi hai, na siyasat. Kabhi to dono taraf se koi aik faisla hoga?"
+    "https://www.dawn.com/news/2035544": {
+      "what": "IMF ki 2 hafte ki review khatam — staff-level agreement ka announce nahi hua, IMF ne industry ke time-of-use tariff plan par aur data manga. Officials kehte hain $1.2bn ki tranche board approval ke baad 4-5 hafton mein mil jayegi.",
+      "why": "Government chahti hai industry ko raat aur solar hours mein sasti bijli de taake 'duck curve' fix ho — din mein solar se grid khali, shaam ko demand spike. IMF ko is formula par bharosa chahiye.",
+      "next": "Waivers aur procedural steps ke baad board meeting; January tak BISP-based targeted subsidy framework ka structural benchmark.",
+      "take": "Har 6 mahine baad wahi kahani: 'talks successful, tranche jald' ⏳. Gas ka circular debt Rs3.6 trillion ho gaya — ye numbers ab itne baray hain ke samajh se bahar. Bijli sasti karne ka plan acha hai, lekin IMF ki mohar ke baghair ye sirf paper hai."
     },
-    "https://en.dailypakistan.com.pk/07-Oct-2026/bahrain-fm-al-zayani-due-in-pakistan-today-for-trade-defence-talks": {
-      "what": "Bahrain ke Foreign Minister Abdullatif bin Rashid Al Zayani Oct 7-8 ke do-roza daure par Pakistan aaye — Ishaq Dar ki dawat par. Dono teesra Pakistan-Bahrain Joint Ministerial Commission session co-chair karenge: trade, investment, defence, security, labour aur culture par baat.",
-      "why": "Bahrain mein 150,000+ Pakistani rehte aur kaam karte hain — manpower aur remittances ke liye ye rishta ahem hai.",
-      "next": "Joint commission ke baad trade/investment agreements expected.",
-      "take": "Chhota mulk, bara rishta 🇧🇭🤝. 1.5 lakh Pakistani wahan kamate hain — ye daura unke liye bhi ahem hai. Gulf ke sath achay taluqaat = remittances ka flow. Quiet diplomacy, solid faida."
+    "https://www.dawn.com/news/2035521": {
+      "what": "Q1 FY27 mein SME loans Rs23bn barh ke Rs1.137 TRILLION ho gaye; borrowers 25,000 barh ke ~350,862. Finance Minister Aurangzeb ne data gaps ki shikayat ki — banks ke paas borrowers ko assess karne ke liye data nahi.",
+      "why": "Pakistan mein chhote businesses ko loan milna ab bhi mushkil hai — June 2028 tak Rs2tr aur 775,000 borrowers ka target hai, abhi halfway se bhi peeche.",
+      "next": "Access to Finance committee implementation par focus — cash-flow-based lending expand karne ka plan.",
+      "take": "Rs1.137 trillion sunne mein bara lagta hai, lekin target Rs2tr hai — abhi adhay par bhi nahi pohchay 💰. Aur asal masla loan nahi, DATA hai: bank ko pata hi nahi tum credit-worthy ho ya nahi. Pakistan mein chhota business chalana = bank se larhna."
     },
-    "https://arynews.tv/ji-amir-says-pm-meeting-expected-within-two-days-on-levy-issue": {
-      "what": "JI amir Hafiz Naeemur Rehman ne kaha hukumat ne rabta kiya hai aur do din mein PM se mulaqat expected hai. Mutalba: petroleum levy khatam ki jaye — dawa hai mahana ~Rs150 billion wasool hota hai, zyada tar ghareeb awam se. Relief na mila to Multan se march; Oct 9 ko Charsadda rally to hogi hi.",
-      "why": "Petrol Rs394.83/litre par hai — levy awam ki jeb par seedha bojh. JI is mudde par awami pressure bana rahi hai.",
-      "next": "PM mulaqat ke baad faisla — levy mein kami hui to bari khabar hogi.",
-      "take": "Rs150 billion mahana levy?! ⛽😱 JI keh rahi hai ye tax ghareeb ki jeb se nikalta hai — aur petrol Rs400 ke qareeb hai. Agar hukumat ne levy ghata di to awam ko asal relief milega. Mulaqat ka intezar karo."
+    "https://www.dawn.com/news/2035526/pakistan-urges-un-action-on-climate-finance": {
+      "what": "UN General Assembly mein Pakistan ne $300bn climate finance mobilise karne ka 'credible pathway' manga, adaptation finance triple karne aur Loss & Damage Fund ki full funding ki demand ki. Shared waters par focus aur existing treaties ki sanctity par zor — Indus waters ka ishara.",
+      "why": "Pakistan climate disasters mein sab se zyada exposed countries mein hai, lekin paisa ameer mulkon ke paas hai. Ye har saal wahi demand hai — aur har saal wahi khaali haath.",
+      "next": "2026 aur 2028 ki UN Water Conferences — Pakistan chahta hai shared waters agenda par hon.",
+      "take": "$300bn mango, $4 trillion ka SDG gap hai — numbers sun kar lagta hai hum Monopoly khel rahe hain 🎲. Lekin 'existing treaties ki sanctity' wali line sab se sharp thi — ye seedha Indus Waters Treaty par pressure ka jawab hai. Climate diplomacy mein Pakistan ki awaz tez hai, jeb khaali hai."
     },
-    "https://www.aljazeera.com/news/2026/10/7/millions-of-pakistanis-get-government-fuel-relief-but-some-miss-out": {
-      "what": "95 lakh se zyada logon ko subsidised petrol mil chuka — Rs100/litre discount, SMS token system se, bike/rickshaw/chhoti gari walon ke liye. Scheme ka kharcha mahana Rs35-40 billion. Lekin 800cc se bari gariyan, diesel vehicles aur public transport (Gallup ke mutabiq 79% Pakistani) bahar hain. IMF chahta hai relief 3 mahine tak mehdood ho aur BISP se diya jaye.",
-      "why": "Relief acha hai lekin design mein khamiyan — jin ko sab se zyada zaroorat (public transport users), wo bahar.",
-      "next": "IMF review mein scheme ka mustaqbil tay hoga.",
-      "take": "Rs100 discount acha, lekin 79% awam bahar?! 🚌😕 Bike walon ko relief, bus walon ko kuch nahi — jabke bus mein safar karne wala ameer nahi hota. IMF bhi naraz. Scheme ki niyat achi, design adhoori."
+    "https://www.dawn.com/news/2035246": {
+      "what": "Khyber Pakhtunkhwa mein tez barish ne tabahi machayi: Mardan mein roof collapse se 7 saal ka bacha jaan bahaq, 4 zakhmi. Peshawar mein 38mm barish — roads doob gaye, 83 bijli feeders trip. Mohmand mein hailstorm ne faslein (tamatar, dhania, mirch) aur solar panels tabaah kar diye.",
+      "why": "Monsoon October tak khinch gaya hai — climate change ka seedha asar. Kamzor roofs + kharab drainage = har barish mein jaanein.",
+      "next": "Farmers ne compensation ka mutaliba kiya — udhaar lekar lagayi faslein minutes mein tabaah.",
+      "take": "7 saal ka bacha, apne ghar ki chhat ke neeche 😔. Ye 'news' nahi, failure hai — drainage, housing, disaster response, sab. Aur jin kisaano ne udhaar lekar fasal lagayi thi, unka kya? Climate finance UN mein mangte hain, lekin Mardan ke kisaano tak relief kab pohchega?"
     },
-    "https://a-sports.tv/new-look-pakistan-gear-up-for-sri-lanka-t20is": {
-      "what": "Pakistan team ne Rawalpindi mein Oct 7 ko training ki — Sri Lanka ke khilaf 3-match T20I series Oct 9 se (matches Oct 9, 11, 13). Naye captain Sahibzada Farhan ki qayadat mein youth + experience ka mix; bowling coach Shaun Tait fast bowlers sambhal rahe hain. Sri Lanka 2019 ka 3-0 whitewash dohrana chahegi.",
-      "why": "Nayi qayadat, naya combination — series team ki direction tay karegi.",
-      "next": "Pehla T20I Oct 9 ko — jeet se confidence milega.",
-      "take": "Naya captain, nayi team, purana badla? 🏏 Sri Lanka ne 2019 mein 3-0 kiya tha — ab hisaab barabar karne ka waqt. Sahibzada Farhan par sab ki nazar. Oct 9 ko dekhte hain kya hota hai!"
-    },
-    "https://en.dailypakistan.com.pk/07-Oct-2026/punjab-bans-smoke-emitting-vehicles-from-roads": {
-      "what": "Punjab Traffic Police ne smog ke khilaf sakht action ka hukum — dhuwan chhorne wali gariyon par pabandi, EPA aur Transport Department ke sath joint checkpoints. Khuli rait/malba/bhoosa le jane wali gariyon par jurmana; lights aur reflective tapes lazmi. Overspeeding par bhi crackdown tez, fog areas mein heavy vehicles ki road parking par pabandi.",
-      "why": "Har saal smog Lahore ko duniya ke aalooda-tareen sheheron mein le aata hai — sardiyan qareeb, action pehle se.",
-      "next": "Checkpoints active; violations par challan.",
-      "take": "Smog season se pehle action — achi baat 🌫️🚫. Lekin har saal yehi elaan hota hai, phir November mein Lahore saans nahi le pata. Is baar amal bhi ho to baat bane. Dhuwan chhorne wali gari dekho to report karo!"
+    "https://news.abplive.com/sports/cricket/pakistan-cricketers-told-to-remove-caps-in-front-of-mohsin-naqvi-watch-video-1870494/amp": {
+      "what": "Viral video: PCB dinner mein team manager ne Hasan Nawaz aur Naseem Shah ko isharon mein kaha ke chairman Mohsin Naqvi se milte waqt cap utar dein. Social media par debate — protocol ya patronising? Aaj se Pak vs Sri Lanka T20I series Rawalpindi mein shuru (Oct 9, 11, 13), Sahibzada Farhan captain.",
+      "why": "Pakistani cricket mein discipline aur ego ka purana jhagra — har daur mein manager vs players ki kahani.",
+      "next": "Aaj shaam Rawalpindi mein pehla T20I — Farhan ki captaincy ka pehla test, uske baad England ke saath ODI tri-series.",
+      "take": "Cap utarne ka ishara ya ungli uthana? 🤔 National players school ke bachay nahi — protocol ho to pehle bataya jata hai, dinner par isharon mein nahi. Lekin chalo, aaj match hai — yehi asal test hai. Farhan ne Asian Games mein silver dilaya tha, ab T20I captaincy. Best of luck, boys! 🏏"
     }
   },
-  "mood": "Aaj ka mood: Samsung ka 9x profit, Gemini par pabandi, aur Rawalpindi mein cricket ki tayyari 🚀😤🏏"
+  "mood": "Aaj ka mood: OpenAI ki revenue giri, tech stocks larh-kharaye, aur Rawalpindi mein T20I ka shor 🤯📉🏏"
 }
