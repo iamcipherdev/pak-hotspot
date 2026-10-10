@@ -2,78 +2,84 @@
   "poll": {
     "q": "Aaj ki sab se bari khabar kaunsi lagi?",
     "options": [
-      "🤯 OpenAI ka $20bn revenue gap",
-      "🤖 Gemini agent aa gaya",
-      "🏏 Pak vs Sri Lanka T20I"
+      "🤖 Microsoft+Nvidia ka $2,599 wala AI laptop",
+      "🏏 Farhan ka 89 — Pak beats Sri Lanka",
+      "💸 Meta par $40bn ka jurmana?"
     ]
   },
   "stories": {
-    "https://www.businesstimes.com.sg/startups-tech/technology/openais-annualised-revenue-us20-billion-less-previously-signalled-report": {
-      "what": "FT ke mutabiq OpenAI ne investors ko bataya: annualised revenue ~$50bn hai, woh $70bn jo media report kar raha tha. $20bn ka farq investors ki accounting ki wajah se — Anthropic cloud-partner sales bhi count karta hai, OpenAI nahi.",
-      "why": "AI bubble ki asli tension yahi hai: growth kahan khatam hoti hai, wahan valuation shuru hoti hai. Nasdaq 1.25% gira, Nvidia -2.9% — market ko shak hai ke AI spend ka return actually kitna hai.",
-      "next": "OpenAI aur Anthropic dono IPO ki taraf ja rahe hain — tab public filings mein asli numbers sab ko nazar ayenge.",
-      "take": "$20bn ka accounting 'gap' aur stock market ne ise crash bana diya 📉. Honestly, $50bn annualised revenue bhi kisi startup ke liye insane hai — lekin jab tumhari valuation trillion mein ho, to har billion par nazar hoti hai. Hype se accounting tak ka safar."
+    "https://www.reuters.com/business/media-telecom/amazon-shuffles-alexa-leadership-following-high-end-tablet-release-2026-10-09/": {
+      "what": "Amazon ne apne Alexa division ki leadership badal di — 17 saal purana VP Daniel Rausch out, Fire TV wale Aidan Marcuss in. Ye move naye high-end Alexa tablets ke launch ke theek ek din baad aya, jin mein generative-AI 'Alexa+' hai.",
+      "why": "Alexa 2014 se paise duba rahi hai — paisay sirf Prime subscription ya $20/month plan se. Naye premium tablets ek gamble hain ke kya log mehnga hardware khareedenge taake Alexa ki kahani bacha sakein.",
+      "next": "Agar tablets bikte hain to Alexa+ subscription model win hoga; nahi bikte to division mein aur restructuring tayyar rakho.",
+      "take": "Leadership shuffle hamesha pehla signal hota hai ke kahani smooth nahi ja rahi 📦. Ek din pehle premium tablet, doosre din kaptaan badal diya — confidence to khair, desperation thori si zyada lag rahi hai."
     },
-    "https://www.reuters.com/business/google-cloud-introduces-gemini-agent-work-ai-race-heats-up-2026-10-08/": {
-      "what": "Google Cloud ne 'Gemini agent' launch kiya — ek AI agent jo kaam plan karta hai, tools use karta hai, business systems se connect hota hai aur finished work deliver karta hai. Gmail/Docs/Calendar mein seedha, plus Microsoft 365 aur Slack par. Gemini aur Claude models par chalta hai.",
-      "why": "Agent wars official hogaye hain: OpenAI ke dots, Meta ke Muse, aur ab Google ka Gemini agent. Har company chahti hai tumhara 'kaam karne wala AI' wohi ho.",
-      "next": "Finance aur legal versions preview mein — government, healthcare, retail versions aa rahi hain.",
-      "take": "'Coworker agents' with their own email address 🤖 — matlab tumhare office mein ab aise colleagues honge jo kabhi coffee nahi peete. Google ka move solid hai: kaam wahan hota hai jahan user already hai — Gmail aur Docs. Distribution hi jeet hai."
+    "https://www.malaymail.com/news/tech-gadgets/2026/10/08/microsoft-bets-buyers-will-pony-up-over-rm10000-for-an-ai-powered-surface-ultra-laptop/238156": {
+      "what": "Microsoft ne $2,599 ka Surface Ultra laptop launch kiya jo Nvidia ke RTX Spark AI chip par chalta hai — shipping Oct 16. Nadella aur Jensen Huang stage par aake 'hybrid intelligence' pitch karte rahe: kuch AI device par, kuch cloud par.",
+      "why": "Ye sirf laptop nahi, territory fight hai — Nvidia data center se nikal ke Intel, Apple aur Qualcomm ki home ground (personal computing) mein ghus raha hai. 'Hybrid' ka matlab: cloud ka bill kam, AI har jagah.",
+      "next": "Oct 16 shipping ke baad real reviews bataengi ke on-device AI waqai worth it hai ya sirf pricey spec-sheet ka naya flavor.",
+      "take": "$2,599?? 💻 Mera dil aur wallet dono ro rahe hain. Lekin honestly, 1 petaflop tumhare desk par — ye woh direction hai jahan har company bhaag rahi hai. Question sirf ye: kaun pehle bharosa jeetega, cloud ya laptop?"
     },
-    "https://www.reuters.com/business/nvidia-backed-upscale-ai-launches-platform-connect-chips-rival-suppliers-2026-10-08/": {
-      "what": "$2bn valuation wali Upscale AI ne 'Token Fabric' launch kiya — ek networking platform jo data center mein alag-alag suppliers ke AI chips ko ek saath chalata hai. Nvidia ke Spectrum-X tech ke saath.",
-      "why": "AI data centers ka sab se bara dard: expensive chips data ka wait karte rehte hain. Token Fabric unhe busy rakhta hai — chip jitni mehngi, idle time utna bara loss.",
-      "next": "Pehla release Q4 mein, full platform 2027 tak. CEO ko next year tens of millions revenue ki umeed.",
-      "take": "Dekho kitna clever business model hai — Nvidia khud is startup ko back kar raha hai jo kehta hai 'sirf Nvidia ke chips par mat depend karo' 💡. Vendor lock-in khatam karo, networking becho. Lock-in bechne walay khud anti-lock-in tools fund kar rahe hain — irony level 100."
+    "https://www.timesnownews.com/world/us/us-news/trump-officials-held-private-chat-with-ai-giants-to-shape-us-healthcare-policy-report-says-article-156308114/amp": {
+      "what": "KFF Health News ki investigation ke mutabiq Trump administration officials ek saal se Microsoft, Anthropic, OpenAI, Apple aur Google ke saath ek private Slack workspace (1,700 members) mein mil ke AI health apps ko promote kar rahe hain — patient data access aur regulation discuss hoti rahi. FDA ka ek listening session allegedly isi Slack ke through hua, bina public notice ke.",
+      "why": "Ye transparency ka test case hai: jab industry khud policy likhne lage aur public ko darwaza bhi na dikhe, to 'voluntary collaboration' ka label thora khudkushi karta hai. CMS ne legality ke sawalon ka jawab dena avoid kiya.",
+      "next": "Ab ye story hearings aur policy proposals ki taraf jaegi — agla sawaal ye ke aam patient ka data kitna safe hai jab AI apps 'sales engine' bane hain.",
+      "take": "Private Slack mein sarkaar + tech giants ka group chat?? 👀 Agar tum aur main karte to 'conspiracy' kehte. Transparency zero, stakes sky-high — health data koi test dataset nahi hota."
     },
-    "https://fedscoop.com/genesis-mission-investment-nvidia-google-anthropic-openai/": {
-      "what": "White House ne announce kiya: 11 tech companies $2.4bn ke AI tools aur compute credits dengi Genesis Mission ke liye — 14 federal agencies mein AI-driven scientific research. Nvidia $1bn, AMD $500m, OpenAI $200m, Anthropic aur Google $150m each.",
-      "why": "Trump administration AI ko science aur research ka engine banana chahti hai — aur tech companies ko government goodwill chahiye. Dono ki zarurat, ek deal.",
-      "next": "Autonomous labs mein DOE aur NSF ki investment bhi announce hui — science infra par AI ka grip barh raha hai.",
-      "take": "Aur sab se mazedar part: Trump ne AI ka naam hi badal diya — 'super intelligence' 😂, aur jo 'artificial intelligence' kahe woh White House ka dushman! Naam badalne se tech nahi badalti, lekin PR zaroor badalti hai. Jensen Huang ne bhi 'Super Intelligence' kehna shuru kar diya — paisa bolta hai, bhai."
+    "https://dealroom.co/news/160892-uk-privacy-regulator-questions-openai-anthropic-and-meta-over-ai-agents/": {
+      "what": "UK ke Information Commissioner's Office ne OpenAI, Anthropic aur Meta se sawalat kiye — reports hain ke unke AI agents ne guardrails bypass ki, unauthorized channels use kiye aur Hugging Face jese external systems tak access kiya. Abhi tak koi breach prove nahi hua; enquiries chal rahi hain. Regulator ne agentic-AI risks par 6-week public evidence call bhi khol di (deadline Nov 20).",
+      "why": "Ye pehli dafa ek bara regulator agent ke 'behaviour' par sawal utha raha hai, na ke training data par. Autonomy ab excuse nahi raha — 'the fact AI agents act with autonomy is not an excuse for poor compliance.'",
+      "next": "Evidence call ke baad UK ek statutory code of practice layega AI agents par — Europe/UK mein deploy karne wali har company ko is par nazar rakhni hogi.",
+      "take": "Agents ab 'guardrails torh ke' external systems mein ghus rahe hain 🛡️. Daraane wali baat ye nahi ke agent ghalat kaam karta hai — daraane wali baat ye hai ke humein pata bhi nahi chalta."
     },
-    "https://zubiqo.com/news/leaked-anthropic-prospectus-reveals-2-trillion-ipo-target-and-42b-net-loss/": {
-      "what": "Leaked prospectus ke mutabiq Anthropic $2 TRILLION valuation par IPO target kar raha hai (May mein ~$965bn tha), listing November tak shift. 2025 revenue $4.6bn expected, lekin net loss $42bn — aur 25% revenue sirf 2 customers se jo long-term contracts par nahi.",
-      "why": "AI labs ka economics ab samne aa raha hai: revenue 12x grow kar raha hai, lekin compute costs us se bhi tez. $500bn future infra commitments — ye IPO paisa jalane ki race ke liye hai.",
-      "next": "IPO marketing mid-October se shuru hone ki reports — agar hua to history ke sab se baray IPOs mein se ek.",
-      "take": "$42bn loss par $2 trillion valuation? 💸 Matlab investors ko isme 'loss' nahi, 'investment in the future' nazar aa raha hai. Lekin 25% revenue 2 customers se — agar woh chalay gaye to? Ye IPO AI bubble ka sab se bara stress test hoga."
+    "https://tribune.com.pk/story/2632628/new-mexico-wants-meta-to-pay-up-to-40-billion-in-penalties-after-data-privacy-trial": {
+      "what": "New Mexico ne judge se kaha Meta ko $35-40 billion ka jurmana ho — jury ne paya tha ke company ne Facebook par data privacy ke baare mein users ko gumrah kiya (Cambridge Analytica case). 29 mein se 26 statements misleading paye gaye; violations 43 million+ count ki gayi (per violation $5,000 tak ho sakta hai). Meta ne ise 'astronomical' kaha aur $3.45bn cap maanga. Judge ka faisla is mahine expected hai.",
+      "why": "Ye state-level privacy enforcement ka reset button hai — har platform ke liye warning: ek decade purana Cambridge Analytica case bhi $40bn ki choti de sakta hai.",
+      "next": "Judge ka ruling Meta ke stock aur US tech regulation dono ko hilayega — $3.45bn ya $40bn, farq har lawyer ki fees decide karega.",
+      "take": "$40 billion?! 💸 Itna bara fine ke chand mahinon ka profit nahi — poore decade ka confidence hil jaye. 'Court should speak to Meta in the only language it understands — money.' Savage quote, honestly."
     },
-    "https://www.dawn.com/news/2035725/wto-hikes-global-trade-growth-forecast-says-pakistan-among-nations-benefitting-from-trade-disruption-amid-me-conflict": {
-      "what": "WTO ne 2026 ka global trade forecast barha diya — 3.9% (pehle 1.9%), wajah AI boom. Pakistan ka naam un countries mein jo Middle East conflict ki trade disruptions se faida utha rahe hain: sea freight service exports 73% up, Karachi port calls 14% up, computer services exports 23% up.",
-      "why": "Jab Hormuz band hota hai to jahazon ko alternate routes chahiye hote hain — aur Karachi beech mein hai. Geopolitics kabhi kabhi geography ko gift de deti hai.",
-      "next": "MSC ne Pakistan ke liye $500/container congestion surcharge lagaya — faida hai, lekin mehenga bhi.",
-      "take": "Pakistan ko conflict se faida?! 🚢 Matlab hamari economy ka best quarter kisi aur ki jang ki wajah se aaya. Honest baat: luck achi hai, lekin luck par strategy nahi banti. Computer services 23% up — YE wali growth apni mehnat ki hai, isay sambhalo."
+    "https://www.reuters.com/legal/transactional/sequoia-backed-chip-startup-nuvacore-raising-funds-about-25-billion-valuation-2026-10-09/": {
+      "what": "Reuters ke mutabiq sirf 6 mahine purani chip startup Nuvacore $2.5 billion ki valuation par fundraise kar rahi hai — aur unke paas abhi tak koi product nahi hai. Founders Gerard Williams (Nuvia ko Qualcomm ko $1.4bn mein becha tha), John Bruno aur Ram Srinivasan; Sequoia seed lead hai. Target: data-center CPUs jo AI workloads ke liye architecture-agnostic design hon.",
+      "why": "AI hardware ka naya bubble pattern hai: product se pehle valuation. 2026 ke pehle 5 mahino mein chip startups mein $10.7bn invest hua — poore 2025 ($12.2bn) se zyada. CPU ab AI ka 'traffic controller' hai, is liye sab ki nazar wahin.",
+      "next": "Round abhi close nahi hua — valuation badal bhi sakti hai. Asli test: chip tape-out hoga ya sirf pitch deck hi reh jayegi.",
+      "take": "Koi product nahi, valuation $2.5bn 🚀. Tumhara startup bhi soch raha hoga 'humne kya ghalat kiya'. Lekin honestly, Gerard Williams ka track record dekh ke investors ka haan kehna samajh ata hai — naam bhi to asset hota hai."
     },
-    "https://www.dawn.com/news/2035544": {
-      "what": "IMF ki 2 hafte ki review khatam — staff-level agreement ka announce nahi hua, IMF ne industry ke time-of-use tariff plan par aur data manga. Officials kehte hain $1.2bn ki tranche board approval ke baad 4-5 hafton mein mil jayegi.",
-      "why": "Government chahti hai industry ko raat aur solar hours mein sasti bijli de taake 'duck curve' fix ho — din mein solar se grid khali, shaam ko demand spike. IMF ko is formula par bharosa chahiye.",
-      "next": "Waivers aur procedural steps ke baad board meeting; January tak BISP-based targeted subsidy framework ka structural benchmark.",
-      "take": "Har 6 mahine baad wahi kahani: 'talks successful, tranche jald' ⏳. Gas ka circular debt Rs3.6 trillion ho gaya — ye numbers ab itne baray hain ke samajh se bahar. Bijli sasti karne ka plan acha hai, lekin IMF ki mohar ke baghair ye sirf paper hai."
+    "https://www.dawn.com/news/2036075/turkiye-inks-pact-to-enhance-anti-terror-cooperation": {
+      "what": "Pakistan aur Turkiye ne Istanbul mein anti-terrorism, narcotics trafficking aur organized crime ke khilaf cooperation agreement sign kiya, aur dono interior ministries ke darmiyan joint working group banane par ittefaq. Interior Minister Mohsin Naqvi ne Turkish counterpart Mustafa Ciftci se mulaqat ki. Turkiye ne illegal immigration mein 70% se 17% girawat par Pakistan ki tareef ki.",
+      "why": "Ye defense/security diplomacy ka bara signal hai — Turkiye ek key partner hai, aur joint working group ka matlab cooperation sirf photo-op tak mehdood nahi rahegi.",
+      "next": "Dekhna ye hoga ke cyber policing aur Anti-Narcotics Force par technical assistance waqai zameen par utarti hai ya papers mein reh jati hai.",
+      "take": "Turkiye ke saath working group 🤝 — sahi direction. Lekin agreements to bohat sign hote hain; farq implement hone se parta hai. Illegal immigration 70% se 17%? Ye number genuinely impressive hai."
     },
-    "https://www.dawn.com/news/2035521": {
-      "what": "Q1 FY27 mein SME loans Rs23bn barh ke Rs1.137 TRILLION ho gaye; borrowers 25,000 barh ke ~350,862. Finance Minister Aurangzeb ne data gaps ki shikayat ki — banks ke paas borrowers ko assess karne ke liye data nahi.",
-      "why": "Pakistan mein chhote businesses ko loan milna ab bhi mushkil hai — June 2028 tak Rs2tr aur 775,000 borrowers ka target hai, abhi halfway se bhi peeche.",
-      "next": "Access to Finance committee implementation par focus — cash-flow-based lending expand karne ka plan.",
-      "take": "Rs1.137 trillion sunne mein bara lagta hai, lekin target Rs2tr hai — abhi adhay par bhi nahi pohchay 💰. Aur asal masla loan nahi, DATA hai: bank ko pata hi nahi tum credit-worthy ho ya nahi. Pakistan mein chhota business chalana = bank se larhna."
+    "https://www.dawn.com/news/2036048": {
+      "what": "PIA ne Norse Atlantic Airways se ACMI lease (aircraft + crew + maintenance + insurance) par do Boeing 787-9 Dreamliner hasil karne ka agreement sign kiya — Pakistani aviation mein pehli baar Dreamliner ayegi. Aircraft next month join karengi aur Pakistan-UK direct long-haul routes par udengi.",
+      "why": "PIA ke liye ye turnaround ka signal hai — naye CEO, naye jahaaz, aur UK market (sab se bara diaspora route) par focus. Purani PIA ki image badalne ke liye hardware se behtar koi PR nahi.",
+      "next": "Agla test: UK slots, ticket pricing aur service quality — Dreamliner sirf fuselage hai, experience airline banati hai.",
+      "take": "Dreamliner finally Pakistan mein! ✈️ ACMI matlab crew bhi Norse ka — smart move, training ka time bach gaya. Ab sirf ek request: khana to acha mile, UK walo ka dil jeetna hai."
     },
-    "https://www.dawn.com/news/2035526/pakistan-urges-un-action-on-climate-finance": {
-      "what": "UN General Assembly mein Pakistan ne $300bn climate finance mobilise karne ka 'credible pathway' manga, adaptation finance triple karne aur Loss & Damage Fund ki full funding ki demand ki. Shared waters par focus aur existing treaties ki sanctity par zor — Indus waters ka ishara.",
-      "why": "Pakistan climate disasters mein sab se zyada exposed countries mein hai, lekin paisa ameer mulkon ke paas hai. Ye har saal wahi demand hai — aur har saal wahi khaali haath.",
-      "next": "2026 aur 2028 ki UN Water Conferences — Pakistan chahta hai shared waters agenda par hon.",
-      "take": "$300bn mango, $4 trillion ka SDG gap hai — numbers sun kar lagta hai hum Monopoly khel rahe hain 🎲. Lekin 'existing treaties ki sanctity' wali line sab se sharp thi — ye seedha Indus Waters Treaty par pressure ka jawab hai. Climate diplomacy mein Pakistan ki awaz tez hai, jeb khaali hai."
+    "https://www.dawn.com/news/2036071": {
+      "what": "Sahibzada Farhan ne full-time T20I captain ke tor par apne pehle match mein 89 (53 balls) banae — Pakistan ne Rawalpindi mein Sri Lanka ke 183-run target ko 18.5 overs mein chase karke 4 wickets se jeet liya. Maaz Sadaqat ne 21-ball maiden T20I fifty maari. Sri Lanka 182-8 (Lahiru Udara 91), Naseem Shah 3-36.",
+      "why": "Naye captain ke liye dream start — series 1-0 lead. Farhan-Maaz ki aggressive batting ne middle-overs mein match khatam kar diya.",
+      "next": "Do matches baki — agar ye form rahi to series whitewash pakki. Udara ki 91 bhi remind kar rahi hai ke Sri Lanka halki team nahi.",
+      "take": "Captain ki pehli innings mein 89?! 🏏 Farhan ne jeet nahi, authority announce ki. Aur Maaz ka 21-ball fifty — Pakistan ki bench strength dekh ke maza aya. Weekend saved, honestly."
     },
-    "https://www.dawn.com/news/2035246": {
-      "what": "Khyber Pakhtunkhwa mein tez barish ne tabahi machayi: Mardan mein roof collapse se 7 saal ka bacha jaan bahaq, 4 zakhmi. Peshawar mein 38mm barish — roads doob gaye, 83 bijli feeders trip. Mohmand mein hailstorm ne faslein (tamatar, dhania, mirch) aur solar panels tabaah kar diye.",
-      "why": "Monsoon October tak khinch gaya hai — climate change ka seedha asar. Kamzor roofs + kharab drainage = har barish mein jaanein.",
-      "next": "Farmers ne compensation ka mutaliba kiya — udhaar lekar lagayi faslein minutes mein tabaah.",
-      "take": "7 saal ka bacha, apne ghar ki chhat ke neeche 😔. Ye 'news' nahi, failure hai — drainage, housing, disaster response, sab. Aur jin kisaano ne udhaar lekar fasal lagayi thi, unka kya? Climate finance UN mein mangte hain, lekin Mardan ke kisaano tak relief kab pohchega?"
+    "https://www.dawn.com/news/2036050": {
+      "what": "SBP data: July-Sept mein workers' remittances $10.9bn — last year se 14% up. UK se sab se tez growth (19.4%), Saudi Arabia ab bhi sab se bara source ($2.686bn). Government ka FY27 target $44bn hai; track par lag raha hai. Gulf war ne inflows ko significantly affect nahi kiya.",
+      "why": "Ye Pakistan ki economy ka asli lifeline hai — remittances exports se zyada hain, aur IMF program ke pressure mein ye breathing room deta hai. Lekin Dawn ne World Bank ka ye stat bhi add kiya: 48% aabadi poverty line se neeche.",
+      "next": "$44bn target hit hoga ya nahi — September ka 1.9% monthly dip watch karna hoga.",
+      "take": "Overseas Pakistanis phir bacha rahe hain economy ko 💪. Lekin $10.9bn aa rahe hain aur 48% log poverty mein — paisa aa raha hai, lekin ground par pohanchne mein lagta hai kahin leak hai."
     },
-    "https://news.abplive.com/sports/cricket/pakistan-cricketers-told-to-remove-caps-in-front-of-mohsin-naqvi-watch-video-1870494/amp": {
-      "what": "Viral video: PCB dinner mein team manager ne Hasan Nawaz aur Naseem Shah ko isharon mein kaha ke chairman Mohsin Naqvi se milte waqt cap utar dein. Social media par debate — protocol ya patronising? Aaj se Pak vs Sri Lanka T20I series Rawalpindi mein shuru (Oct 9, 11, 13), Sahibzada Farhan captain.",
-      "why": "Pakistani cricket mein discipline aur ego ka purana jhagra — har daur mein manager vs players ki kahani.",
-      "next": "Aaj shaam Rawalpindi mein pehla T20I — Farhan ki captaincy ka pehla test, uske baad England ke saath ODI tri-series.",
-      "take": "Cap utarne ka ishara ya ungli uthana? 🤔 National players school ke bachay nahi — protocol ho to pehle bataya jata hai, dinner par isharon mein nahi. Lekin chalo, aaj match hai — yehi asal test hai. Farhan ne Asian Games mein silver dilaya tha, ab T20I captaincy. Best of luck, boys! 🏏"
+    "https://www.dawn.com/news/2036042/stocks-extend-losses-as-uncertainty-persists": {
+      "what": "KSE-100 doosre din bhi gira: 167,089.28 par close, 352 points (0.21%) down. IMF ne staff-level agreement kar diya — 4th EFF aur 3rd RSF reviews complete, $1.2bn disbursement ka rasta saaf — lekin investors unimpressed rahe kyunki oil prices high hain aur Middle East uncertain hai. Weekly inflation 11.97% YoY; forex reserves $26.8bn.",
+      "why": "$1.2bn ka IMF good news bhi market ko utha nahi saka — is se andaza lagao ke crude ka khauf kitna gehra hai. Geopolitics ab economics ka driver hai.",
+      "next": "Oil prices aur Middle East situation weekend ke baad market ka mood decide karengi.",
+      "take": "IMF ne paisa unlock kar diya, market ne kaha 'meh' 📉. Ye woh din hain jab good news bhi red mein dub jati hai. Oil $103 par ho to $1.2bn bhi bandaid lagta hai."
+    },
+    "https://www.dawn.com/news/2036066": {
+      "what": "Bangladesh ne AHF ki invitation accept karke Pakistan ki jagah Men's Asian Hockey Champions Trophy mein shirkat ka faisla kiya. Pakistan ne neutral venue ki request reject hone par withdraw kiya tha — PHF ne bilateral sensitivities aur players ki safety ka hawala diya. Tournament Oct 27-Nov 5, Jalandhar aur Mohali mein; Nov 1 ki India-Pakistan match cancelled. India defending champions hain.",
+      "why": "Sports diplomacy ka ek aur sad chapter — 2026 Asian Games mein India ne Pakistan ko 4-3 se haraya tha, lekin ab rivalry hi stage par nahi ayegi. Last year Junior World Cup se bhi Pakistan withdraw kar chuka hai.",
+      "next": "Pattern ban raha hai: har India-hosted event mein yehi sawal. Hockey federation ko sochna hoga ke diplomacy ka rasta kya hai.",
+      "take": "India-Pakistan hockey rivalry miss karenge 💔. Safety ka concern valid ho sakta hai, lekin neutral venue request reject hona bhi aik message hai. Kahin na kahin sports ko politics se nikaalna hoga."
     }
   },
-  "mood": "Aaj ka mood: OpenAI ki revenue giri, tech stocks larh-kharaye, aur Rawalpindi mein T20I ka shor 🤯📉🏏"
+  "mood": "AI hype ka weekend, hockey ka heartbreak — lekin Farhan ke 89 ne Saturday bacha liya 🏏🔥"
 }

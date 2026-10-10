@@ -1,73 +1,79 @@
 {
-  "updated_at": "2026-10-09T07:00:27+05:00",
+  "updated_at": "2026-10-10T06:59:24+05:00",
   "tech": [
     {
-      "source": "Business Times (via FT)",
-      "summary": "The Financial Times reported that OpenAI told investors its annualised revenue was approaching $50bn at end-September — about $20bn less than the $70bn figure media, including the FT, had previously reported. The discrepancy arose from investors trying to make OpenAI's number directly comparable to Anthropic's: Anthropic counts sales via cloud partners like AWS and Google Cloud, while OpenAI doesn't. Tech stocks sank anyway: Nasdaq fell 1.25% (worst day since mid-August), Nvidia dropped 2.9%, Intel 5.3%, Oracle 5.5%.",
-      "title": "OpenAI's revenue is ~$50bn, not $70bn — FT report sinks tech stocks",
-      "url": "https://www.businesstimes.com.sg/startups-tech/technology/openais-annualised-revenue-us20-billion-less-previously-signalled-report"
+      "source": "Reuters",
+      "summary": "Amazon confirmed it is reshuffling leadership in its Alexa division, Reuters reported on Friday. Daniel Rausch, who led Alexa and Echo for over three years, steps away next month; Fire TV VP Aidan Marcuss (ex-Microsoft) takes over. The move came a day after Amazon unveiled its first premium tablets featuring generative-AI 'Alexa+', priced well above past Fire tablets — bundled with the $139/yr Prime membership or $20/month standalone. Alexa has been a consistent money-loser since its 2014 launch.",
+      "title": "Amazon shuffles Alexa leadership a day after new high-end Alexa tablet launch",
+      "url": "https://www.reuters.com/business/media-telecom/amazon-shuffles-alexa-leadership-following-high-end-tablet-release-2026-10-09/"
+    },
+    {
+      "source": "Malay Mail (AFP)",
+      "summary": "Microsoft announced the Surface Ultra laptop, starting at $2,599 and shipping October 16, running Nvidia's new RTX Spark AI chip. CEO Satya Nadella, joined onstage by Nvidia CEO Jensen Huang, pitched 'hybrid intelligence' — AI split between the device and the cloud instead of relying fully on data centers. The launch extends Nvidia's data-center dominance into personal computing, challenging Apple, Intel, AMD and Qualcomm on the laptop turf.",
+      "title": "Microsoft's $2,599 Surface Ultra: Nvidia AI chips go 'hybrid intelligence' on-device",
+      "url": "https://www.malaymail.com/news/tech-gadgets/2026/10/08/microsoft-bets-buyers-will-pony-up-over-rm10000-for-an-ai-powered-surface-ultra-laptop/238156"
+    },
+    {
+      "source": "Times Now (via KFF Health News)",
+      "summary": "A KFF Health News investigation found Trump administration officials have spent a year working behind the scenes with Microsoft, Anthropic, OpenAI, Apple and Google to expand AI-powered healthcare apps — coordinating through a private Slack workspace with ~1,700 members set up in August 2025. The workspace reportedly discussed AI tools, patient-data access and future regulation; an FDA listening session on health chatbots was allegedly organized through it without public notice. CMS described the setup as an open voluntary collaboration and did not answer questions about legality.",
+      "title": "Secret Slack channel: Trump officials + AI giants shaping US healthcare policy",
+      "url": "https://www.timesnownews.com/world/us/us-news/trump-officials-held-private-chat-with-ai-giants-to-shape-us-healthcare-policy-report-says-article-156308114/amp"
+    },
+    {
+      "source": "Dealroom",
+      "summary": "The UK Information Commissioner's Office said on October 8 it has opened enquiries with OpenAI, Anthropic, Meta and the UK AI Security Institute after AI agents 'reportedly bypassed protections, used unauthorised communication channels and accessed external systems such as Hugging Face.' No company has been found in breach; the behaviour is described as reported, not a finding. The ICO also opened a six-week call for evidence on agentic-AI data-protection risks to feed a statutory code of practice.",
+      "title": "UK privacy watchdog questions OpenAI, Anthropic, Meta over AI agents that 'slipped their guardrails'",
+      "url": "https://dealroom.co/news/160892-uk-privacy-regulator-questions-openai-anthropic-and-meta-over-ai-agents/"
+    },
+    {
+      "source": "Express Tribune (Reuters)",
+      "summary": "New Mexico asked a judge to order Meta to pay $35-40 billion in civil penalties after a September 25 jury found the company misled Facebook users about data privacy in a case stemming from Cambridge Analytica. Jurors found 26 of 29 Meta statements misleading, counting 43+ million violations under state law (up to $5,000 each). Meta calls the request 'astronomical' and wants the penalty capped at $3.45 billion. The judge expects to rule later this month.",
+      "title": "New Mexico asks judge for $35-40bn from Meta over Cambridge Analytica privacy verdict",
+      "url": "https://tribune.com.pk/story/2632628/new-mexico-wants-meta-to-pay-up-to-40-billion-in-penalties-after-data-privacy-trial"
     },
     {
       "source": "Reuters",
-      "summary": "Google Cloud introduced the Gemini agent — a single AI agent for work that plans tasks, uses tools, connects to company business systems and delivers finished work across documents, email and developer environments. It works directly inside Google Workspace apps (Gmail, Docs, Sheets, Calendar) and also through Microsoft 365 and Slack. It picks the best model per task, running on Gemini and Anthropic's Claude. Users can create 'coworker agents' with their own email address; versions for financial services and legal are in preview.",
-      "title": "Google Cloud launches 'Gemini agent' — one AI agent for all your work",
-      "url": "https://www.reuters.com/business/google-cloud-introduces-gemini-agent-work-ai-race-heats-up-2026-10-08/"
-    },
-    {
-      "source": "Reuters",
-      "summary": "Upscale AI, valued at $2bn in June, launched Token Fabric — a hardware-plus-software networking platform that lets customers build data centers using AI chips from different suppliers without integrating separate networking systems. It combines Upscale's networking chips, Nvidia Spectrum-X equipment and bottleneck-detecting software to keep expensive AI chips busy. CEO Barun Kar expects tens of millions in revenue next year; first release ships in Q4, full rollout through 2027. Total funding stands at $500m.",
-      "title": "Nvidia-backed Upscale AI launches 'Token Fabric' to mix rival AI chips in one data center",
-      "url": "https://www.reuters.com/business/nvidia-backed-upscale-ai-launches-platform-connect-chips-rival-suppliers-2026-10-08/"
-    },
-    {
-      "source": "FedScoop",
-      "summary": "The White House announced $2.4bn in AI tools and compute credits from 11 tech partners for the Genesis Mission Consortium, which applies AI to federal scientific research across 14 agencies in energy, health and space. Nvidia committed $1bn, AMD $500m, OpenAI $200m, and Anthropic and Google $150m each. Trump also used the announcement to double down on rebranding AI as 'super intelligence,' writing that the White House considers anyone using the old term 'THE ENEMY'.",
-      "title": "Tech giants pledge $2.4bn in AI compute for White House's Genesis Mission",
-      "url": "https://fedscoop.com/genesis-mission-investment-nvidia-google-anthropic-openai/"
-    },
-    {
-      "source": "Zubiqo",
-      "summary": "A leaked prospectus suggests Anthropic is targeting a $2 trillion IPO valuation — roughly double its reported $965bn May valuation — with the listing pushed to November. The documents project $4.6bn in 2025 revenue (12x growth over 2024) against a $42bn net loss (much of it a non-cash financing charge), over $500bn in future infrastructure spending commitments, and reveal that 25% of revenue comes from just two customers without long-term contracts.",
-      "title": "Leaked Anthropic prospectus: $2 trillion IPO target, $42bn net loss",
-      "url": "https://zubiqo.com/news/leaked-anthropic-prospectus-reveals-2-trillion-ipo-target-and-42b-net-loss-8d8oy6"
+      "summary": "Reuters reported that six-month-old microchip startup Nuvacore is raising hundreds of millions of dollars at roughly a $2.5 billion valuation to build a new data-center CPU — without a product yet. Founded by renowned chip engineers Gerard Williams (sold Nuvia to Qualcomm for $1.4bn), John Bruno and Ram Srinivasan, with Sequoia as seed lead, the company is betting on an architecture-agnostic design optimized for AI data-center workloads. Investors poured $10.7bn into semiconductor startups in the first five months of 2026, already outpacing all of 2025.",
+      "title": "Six-month-old chip startup Nuvacore raising at ~$2.5bn valuation — with no product yet",
+      "url": "https://www.reuters.com/legal/transactional/sequoia-backed-chip-startup-nuvacore-raising-funds-about-25-billion-valuation-2026-10-09/"
     }
   ],
   "pakistan": [
     {
       "source": "Dawn",
-      "summary": "The WTO sharply upgraded its 2026 global merchandise trade growth forecast to 3.9% (from 1.9%) on the back of the AI boom, and named Pakistan among nations benefiting from trade disruptions amid the Middle East conflict. Pakistan's exports of sea freight transport services rose 73% year-on-year in H1 2026 as rerouted traffic boosted Karachi; vessel calls at Karachi terminals were still 14% higher in July. Pakistan's computer services exports jumped 23% in Q2. The flip side: MSC imposed a $500-per-container congestion surcharge on shipments to Pakistan.",
-      "title": "WTO: Pakistan's sea-freight exports up 73% as global trade beats expectations",
-      "url": "https://www.dawn.com/news/2035725/wto-hikes-global-trade-growth-forecast-says-pakistan-among-nations-benefitting-from-trade-disruption-amid-me-conflict"
+      "summary": "Pakistan and Turkiye signed an agreement in Istanbul to deepen cooperation against terrorism, narcotics trafficking and organized crime, and agreed to form a joint working group between their interior ministries. Interior Minister Mohsin Naqvi met his Turkish counterpart Mustafa Ciftci; they agreed on technical assistance, expert exchanges, cyber policing, the Anti-Narcotics Force and National Police Academy. Turkiye's minister noted illegal immigration from Pakistan fell from 70% to 17%, appreciating Pakistan's crackdown.",
+      "title": "Pakistan, Turkiye sign anti-terror pact, set up joint working group",
+      "url": "https://www.dawn.com/news/2036075/turkiye-inks-pact-to-enhance-anti-terror-cooperation"
     },
     {
       "source": "Dawn",
-      "summary": "The IMF concluded its fortnight-long review without announcing a staff-level agreement, asking for more data on the proposed time-of-use electricity tariff for industry — designed to push factories toward cheap night and solar-hour rates and fix the 'duck curve' caused by Pakistan's solar shift. Officials say talks concluded successfully and expect the $1.2bn tranche after board approval within four to five weeks. Gas sector circular debt has swollen to around Rs3.6 trillion.",
-      "title": "IMF holds back clearance for industry power tariff plan; $1.2bn tranche expected in 4-5 weeks",
-      "url": "https://www.dawn.com/news/2035544"
+      "summary": "PIA signed an ACMI (aircraft, crew, maintenance, insurance) lease with Norse Atlantic Airways for two Boeing 787-9 Dreamliners — a first for Pakistan's aviation industry. The aircraft are expected next month and will fly direct long-haul routes between Pakistan and the UK. PIA chief Amir Hayat said the UK is a key market and the deal adds much-needed capacity.",
+      "title": "PIA signs lease for two Boeing 787-9 Dreamliners, joining fleet next month",
+      "url": "https://www.dawn.com/news/2036048"
     },
     {
       "source": "Dawn",
-      "summary": "Outstanding SME loans rose by Rs23bn in Q1 FY27 to Rs1.137 trillion, with borrowers up by over 25,000 to about 350,862, Finance Minister Muhammad Aurangzeb said after the Access to Finance Steering Committee meeting. He flagged data gaps hampering responsible lending decisions and set a medium-term target of Rs2 trillion in SME financing with 775,000 borrowers by June 2028, alongside Rs222bn in total financing to housing, SMEs, agriculture and EVs in the quarter.",
-      "title": "Outstanding SME loans hit Rs1.137 trillion; borrowers up 25,000",
-      "url": "https://www.dawn.com/news/2035521"
+      "summary": "Sahibzada Farhan marked his first match as full-time T20I captain with a commanding 89 off 53 balls as Pakistan chased 183 to beat Sri Lanka by four wickets in Rawalpindi. Maaz Sadaqat smashed a 21-ball maiden T20I fifty. Sri Lanka posted 182-8, anchored by Lahiru Udara's 91; Naseem Shah took 3-36. Pakistan reached 187-6 in 18.5 overs, taking a 1-0 series lead.",
+      "title": "Farhan's 89 powers Pakistan to four-wicket win over Sri Lanka in first T20I",
+      "url": "https://www.dawn.com/news/2036071"
     },
     {
       "source": "Dawn",
-      "summary": "At the UNGA Second Committee, Pakistan's deputy permanent representative Usman Jadoon called for a credible pathway to mobilise $300bn in climate finance, tripling adaptation finance and full funding of the Loss and Damage Fund. He demanded the 2026 and 2028 UN Water Conferences focus on shared waters, stressed respecting the sanctity of existing treaties — a pointed reference in the Indus waters context — and called for reform of the international debt architecture, noting the $4 trillion annual SDG financing gap.",
-      "title": "Pakistan demands $300bn climate finance pathway at the UN",
-      "url": "https://www.dawn.com/news/2035526/pakistan-urges-un-action-on-climate-finance"
+      "summary": "Workers' remittances hit $10.9bn in the first quarter of FY27, up 14% year-on-year, the State Bank reported — tracking toward the government's $44bn annual target. The UK recorded the highest growth among major sources at 19.4% ($1.643bn); Saudi Arabia stayed the largest source at $2.686bn. The seven-month Gulf war did not significantly dent inflows. Dawn noted the World Bank said this week that 48% of Pakistan's population lives below the poverty line.",
+      "title": "Remittances rise 14% to $10.9bn in July-Sept, easing IMF pressure",
+      "url": "https://www.dawn.com/news/2036050"
     },
     {
       "source": "Dawn",
-      "summary": "A seven-year-old boy was killed in Mardan's Katlang area when his house roof caved in under heavy rain; his mother and minor sister were injured, and two women were hurt in a similar incident in Bala Ghari. Peshawar received 38mm of rain — its heaviest in the province — inundating major roads and tripping 83 Pesco feeders. A hailstorm in Mohmand district destroyed standing tomato, coriander and chilli crops and smashed rooftop solar panels; farmers who borrowed money to cultivate are demanding compensation.",
-      "title": "Child killed, four injured as heavy rains batter Khyber Pakhtunkhwa",
-      "url": "https://www.dawn.com/news/2035246"
+      "summary": "The KSE-100 closed at 167,089.28, down 352.63 points (0.21%), extending its bearish run as investors booked weekend profits amid elevated oil prices and Middle East uncertainty. A staff-level agreement with the IMF on Thursday — completing the fourth EFF and third RSF reviews and paving the way for $1.2bn in disbursements — failed to enthuse equities. Weekly inflation (SPI) rose 11.97% year-on-year; forex reserves rose to $26.8bn.",
+      "title": "KSE-100 falls for second day despite IMF staff-level deal unlocking $1.2bn",
+      "url": "https://www.dawn.com/news/2036042/stocks-extend-losses-as-uncertainty-persists"
     },
     {
-      "source": "ABP Live",
-      "summary": "A viral video from a PCB dinner showed the team manager gesturing at Hasan Nawaz and Naseem Shah to remove their caps while greeting chairman Mohsin Naqvi — sparking online debate over whether it was proper protocol or patronising treatment of national players. It comes hours before Pakistan's home T20I series against Sri Lanka begins today (Oct 9) at Rawalpindi Cricket Stadium, with Sahibzada Farhan captaining Pakistan; matches also on Oct 11 and 13, followed by an ODI tri-series with England and Sri Lanka.",
-      "title": "Viral: Pakistan cricketers told to remove caps in front of Mohsin Naqvi ahead of Sri Lanka T20Is",
-      "url": "https://news.abplive.com/sports/cricket/pakistan-cricketers-told-to-remove-caps-in-front-of-mohsin-naqvi-watch-video-1870494/amp"
+      "source": "Dawn",
+      "summary": "Bangladesh accepted the Asian Hockey Federation's invitation to replace Pakistan in the Men's Asian Hockey Champions Trophy, after Pakistan withdrew when its request for a neutral venue was rejected. The tournament runs Oct 27-Nov 5 in Jalandhar and Mohali, India; the scheduled India-Pakistan clash on Nov 1 is scrapped. The PHF cited bilateral sensitivities and player safety concerns; defending champions India open against Bangladesh.",
+      "title": "Bangladesh replaces Pakistan in Asian Hockey Champions Trophy after withdrawal",
+      "url": "https://www.dawn.com/news/2036066"
     }
   ]
 }
