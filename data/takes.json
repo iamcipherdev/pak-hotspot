@@ -1,86 +1,80 @@
 {
- "mood": "Monday mood: KP mein governor's rule ki tension, ek taraf series jeet ki khushi 🏏🇵🇰",
+ "mood": "Tuesday mood: KP mein emergency ki tension, Nobel ka drama, aur atta sasta rakhne ki jaddojehad 🇵🇰📰",
  "poll": {
   "q": "Aaj ki sab se bari khabar kaunsi lagi?",
   "options": [
    "🏛️ KP mein emergency + governor's rule",
-   "🏏 Pakistan ki series jeet — Sadaqat 96",
-   "💰 IMF se $1.2B ka staff deal",
-   "🤖 US ka UK AI testing par U-turn"
+   "🕊️ Nobel Peace Prize — Pillay ki jeet, Trump ka snub",
+   "🪖 Kurram mein darandazi nakaam — 12 halaak",
+   "🍞 Punjab atta subsidy Rs10bn"
   ]
  },
  "stories": {
-  "https://tech-insider.org/google-defends-15-billion-india-ai-hub-water-2026/": {
-   "what": "Google apne $15B Visakhapatnam AI hub ko defend kar raha hai — Adani ke saath gigawatt-scale campus, air cooling ka waada, aur ye claim ke community ki bijli nahi li jayegi. Local campaigners water, land aur power par sawal utha rahe hain, court case bhi chal raha hai.",
-   "why": "AI ki asli race ab sirf models nahi, zameen-bijli-paani hai. Jahan data center lagega, wahan ke log poochhenge ke faida kis ka aur cost kis ki.",
-   "next": "Court challenge aur protests ke saath construction chalti rahegi; Google ko aur specific water/power numbers dene par sakte hain.",
-   "take": "Seedhi baat: $15B sunne mein bara lagta hai, lekin agar sheher pehle se paani ko taras raha hai to 'trust us' kaafi nahi hota 💧. Air cooling achi shuruat hai, lekin proof numbers mein milega, press release mein nahi."
+  "https://www.reuters.com/world/china/anthropic-says-new-safeguards-sharply-reduce-ai-distillation-attacks-2026-10-13/": {
+   "what": "Anthropic ka daawa hai ke Claude se distillation (model-chori) par un ke naye defenses ne extracted reasoning tokens 10-100x gira diye hain, aur tens of thousands accounts ban kar diye gaye — example ke taur par Chinese startup Z.ai ka naam liya gaya.",
+   "why": "Frontier labs ki asli property ab model ka 'sochne ka tariqa' hai. Distillation is liye sab se garam front hai — sasti copy, mehnat zero.",
+   "next": "Distillers naye raaste dhoondenge; arms race jari rahegi. Watch karo: kya ban-rates dobara barhte hain?",
+   "take": "Seedhi baat: apne dimagh ke darwaze par pehredar khara karna samajh aata hai 🛡️ — lekin Z.ai ka naam publicly lena marketing bhi hai aur diplomacy bhi. '99% kam' sunne mein hero jaisa lagta hai; asal imtehan tab hoga jab attackers nayi technique layen."
   },
-  "https://www.reuters.com/legal/litigation/us-reverses-course-britains-testing-ai-models-telegraph-says-2026-10-11/": {
-   "what": "US ne apni sakhti wapas li — American labs ab UK ke AI Security Institute ko release se pehle models de sakte hain safety testing ke liye. Saath mein US ki taraf se security incidents report karne ki nayi requirement bhi aayi hai.",
-   "why": "Ye chhota U-turn bara signal hai: khali 'self-policing' par ab khud Washington ko bhi pura bharosa nahi raha. Testing ke liye dost mulk ko access dena practical safety hai.",
-   "next": "UK institute ko early access milega; dekhna hai ke incident-reporting rule kitni sakhti se apply hota hai.",
-   "take": "Kal tak 'koi regulation nahi', aaj 'incident report karo' — pendulum beech mein aa raha hai ⚖️. Yehi healthy jagah hai: na full bandish, na andha bharosa."
+  "https://www.reuters.com/legal/transactional/japans-omron-buy-us-industrial-pc-firm-onlogic-675-million-physical-ai-push-2026-10-13/": {
+   "what": "Japan ki Omron ne $675M mein US ki industrial PC company Onlogic (aur us ka parent Interlogic) kharid li — maksad factory automation mein 'physical AI' platforms banana aur US mein customer base barhana.",
+   "why": "AI ab chat windows se bahar nikal kar machines, robots aur factories mein utar rahi hai. Jiski hardware + control tech dono ho, usi ka khel hoga.",
+   "next": "Integration ke 12-18 mahine critical hain; Onlogic independent rahega to team sambhal sakegi.",
+   "take": "Hoshiyar khareedari 🤖 — software wale hardware samajh rahe hain ke 'physical AI' bina apni machine ke nahi banta. $675M is waqt reasonable lagta hai; bara sawaal ye hai ke Onlogic ki speed Japanese corporate culture mein zinda rahegi ya nahi."
   },
-  "https://www.globenewswire.com/news-release/2026/10/09/3378384/37244/en/axe-compute-nasdaq-agpu-to-ring-the-nasdaq-stock-market-opening-bell-on-october-12-2026.html": {
-   "what": "Axe Compute aaj Nasdaq ki opening bell bajayega. Company kehti hai ek saal se kam mein $3.45B ke signed contracts ho gaye hain dedicated GPU capacity ke liye.",
-   "why": "GPU compute ab ek alag asset class ban gaya hai — neoclouds wahi kar rahe hain jo hyperscalers nahi kar pa rahe: guaranteed capacity, jaldi.",
-   "next": "Asli test bell nahi, delivery hai — contracts ko live capacity mein badalna aur customers ko renew karwana.",
-   "take": "Bell bajana asaan hai, GPUs time par lagana mushkil 🔔. Phir bhi $3.45B ka number batata hai ke AI compute ki bhook abhi khatam honay wali nahi."
+  "https://www.malaymail.com/news/money/2026/10/13/startups-are-betting-on-ai-to-predict-the-future/238787": {
+   "what": "FutureSearch, Preseen, Mantic jaise startups kehte hain un ke AI forecasting models ab best human 'superforecasters' ke barabar hain — September mein Metaculus Cup ki top 2 spots AI models ne jeetin. Ek founder ka daawa: Kalshi par $35 se $1.9M in 7 months.",
+   "why": "Prediction markets aur hedge funds mein paisa ban raha hai to AI wahan ghusega hi. Superforecasting ek aisi skill thi jo insaani hone par fakhr tha.",
+   "next": "Retail traders ke liye Kalshi/Polymarket AI ke baghair mushkil hota jayega; regulation is space mein aana pakka hai.",
+   "take": "Dilchasp lekin sambhal ke 📊 — prediction mein 'luck' aur 'skill' ko alag karna mashhoor mushkil hai, aur survivorship bias har founder ki kahani mein hota hai. Haan, ye sach hai ke saste, tez probability estimates ka market ab real hai."
   },
-  "https://www.autocarpro.in/news/valeo-to-showcase-ai-software-and-ev-tech-at-paris-show-135090?amp=1": {
-   "what": "Valeo Paris Motor Show (12-18 Oct) mein AI, software-defined vehicle platform, SCALA 3 LiDAR aur 800V EV tech dikhayega — 0-80% charge 12 minute ka claim bhi hai.",
-   "why": "Gaari ab hardware se zyada software product hai. Jo supplier code aur sensors mein jeetega, wahi agle das saal ka supplier rahega.",
-   "next": "Show ke baad dekhna hai kaunsi cheez production cars mein kab aati hai — concept aur showroom mein farq hota hai.",
-   "take": "12 minute charging sunne mein dream hai ⚡ — lekin jab tak ye aam gaari aur aam charger par nahi aata, ye sirf show-floor ki baat hai. Phir bhi direction sahi hai."
+  "http://citizen.digital/article/grok-limits-ai-image-editing-to-paid-users-after-nudes-backlash-n375519": {
+   "what": "Backlash ke baad xAI ne Grok ki image generation/editing sirf paying subscribers tak mehdood kar di — pehle ye tools se sexualized deepfakes (khawateen aur bachon ki) banaye gaye the. Downing Street ne isay 'insulting' kaha, EU ke concerns baqi hain, aur EC ne X ko Grok se mutaliq sab documents end-2026 tak save rakhne ka hukm diya hai.",
+   "why": "Ye AI safety ka test case ban gaya hai: feature khatarnak nikle to 'paywall laga do' solution nahi hota — paisa de kar to har koi misuse kar sakta hai.",
+   "next": "EU/UK se fines ya sakht pabandiyan aa sakti hain; lawsuits pehle se chal rahe hain (Minnesota case, Illinois biometric suit).",
+   "take": "Kharab response, kharab optics 😤 — 'galat tasveeren banana' ko premium feature banana victims ki toheen hai, Downing Street sahi keh raha hai. Safety design mein hoti hai, price tag mein nahi."
   },
-  "https://www.marketwatch.com/story/microsoft-and-nvidia-are-teaming-up-on-a-supercharged-ai-laptop-f58b28d8": {
-   "what": "Microsoft aur Nvidia ne Surface Laptop Ultra launch kiya — RTX Spark chip, top model mein 128GB memory, $2,599 se shuru, shipments 16 Oct se. AI kaam device par chalega, sirf cloud par nahi.",
-   "why": "Local AI ka matlab privacy, speed aur cloud bill mein kami. Isi liye dono giants laptop ko dobara 'AI machine' bana kar bech rahe hain.",
-   "next": "16 Oct se sales; reviews batayenge ke real workloads mein MacBook se muqabla kaisa rehta hai.",
-   "take": "$2,599 mein laptop? Pakistan mein ye ek achi second-hand gaari ke qareeb hai 💸. Tech zabardast hai, lekin ye machine developers aur studios ke liye hai, aam student ke liye nahi — wahan abhi bhi purana laptop hi king hai."
+  "https://www.digitimes.com/news/a20251203PD236/nvidia-openai-investment-2026.html": {
+   "what": "Nvidia ki CFO Colette Kress ne confirm kiya ke $100B OpenAI investment agreement abhi tak finalize nahi hua — September wala letter of intent (10 GW systems) sirf framework tha. Saath ye bhi ke Anthropic mein $10B investment un ke $500B chip-order backlog ko aur barha sakta hai.",
+   "why": "Ye wo mega-deal hai jo poore AI investment cycle ko sustain kar raha hai — agar ye wobble kare to 'circular transactions' aur bubble wali guftagu tez ho jayegi.",
+   "next": "Final terms par nazar rakho: size kam hua ya structure badla, dono signals honge.",
+   "take": "Letter of intent press release ke liye acha hota hai, balance sheet ke liye nahi 💰 — CFO ka khud 'guarantee nahi' kehna ye bata raha hai ke $100B abhi sapna hai, contract nahi. Market ne is khabar ko abhi digest nahi kiya."
   },
-  "https://news.bloomberglaw.com/tech-and-telecom-law/openai-anthropic-google-spacexai-hit-with-antitrust-lawsuit": {
-   "what": "Ek lawsuit kehta hai ke OpenAI, Anthropic, Google aur SpaceXAI ne mil kar AI development slow karne ka illegal agreement kiya — ek essay ki himayat ko saboot banaya gaya hai. Plaintiffs class action chahte hain.",
-   "why": "Safety ke naam par cooperation aur competition rokne ke beech line bohat patli hai. Court ko yehi tay karna hai ke ye safety thi ya cartel jaisi harkat.",
-   "next": "Case early stage mein hai; companies ka jawab aur court ka pehla reaction dekhna baqi hai.",
-   "take": "Irony dekho: pehle ilzaam tha ke ye companies bohat tez bhaag rahi hain, ab ilzaam hai ke mil kar slow ho gayi hain 😅. Dono ek saath sach nahi ho sakte — court ko faisla karna parega."
+  "https://newshub.medianet.com.au/2026/10/ai-will-slow-hiring-so-more-workers-will-hire-themselves/176179/": {
+   "what": "IMF chief Kristalina Georgieva ne AI ko jobs ke liye 'slow-moving tsunami' kaha — routine kaam ki demand pehle se ghat rahi hai. Australian AI company Quillio ki COO 2027 mein hiring downturn ki peshgoi karti hain lekin kehti hain AI logon ko apna business shuru karne ke qabil bana rahi hai.",
+   "why": "Ye do narratives ab takra rahe hain: 'AI naukriyan kha jayegi' vs 'AI sab ko founder bana degi'. Haqeeqat darmiyan mein kahin hai — aur policies usi darmiyan ke liye ban-ni chahiye.",
+   "next": "2027 hiring data batayega ke ye optimism tha ya asli trend; Australia mein 'AI toll collector' wali behas bhi barhegi.",
+   "take": "'Sab founder ban jayenge' wali khushi thori na-samjhi hai 🚀 — tools saste ho gaye, lekin customers, capital aur risk appetite sab ko naseeb nahi. IMF ki warning ko halka mat lo: transition hamesha painful hota hai, even jab destination better ho."
   },
-  "https://www.dawn.com/news/2036352": {
-   "what": "Centre ne KP mein Article 232 ke tehat emergency aur 234 ke tehat governor's rule laga diya. Wajah counterterrorism mein provincial government ki 'disengagement' batayi gayi. Technocratic council bani, naya chief secretary laga, fauj ki deployment authorize hui, Peshawar mein internet disruptions report huay. PTI ne move ko undemocratic kaha.",
-   "why": "Ye sirf ek province ka faisla nahi — federation aur province ke taluqaat, mandate aur security policy, teeno ek saath takra rahe hain.",
-   "next": "PTI courts aur assemblies mein challenge karegi; governor's rule ki muddat aur parliament ki approval agla marhala hai.",
-   "take": "Ye aaj ki sab se bari khabar hai, aur sab se fikar wali bhi. Terrorism se ladna sab ka farz hai, lekin elected government hata kar aman aayega — ye dawa Pakistan mein pehle kabhi pura nahi hua. Umeed hai faisla jald review ho, warna fasla aur barhega."
+  "https://www.dawn.com/news/2036388": {
+   "what": "Wifaqi hukumat ne 11 Oct ko KP mein emergency + governor's rule laga diya — President Zardari ne PM Shehbaz ki advice par Articles 232/234 ke tehat summary par sign kiye, CM ke powers Governor Kundi ko muntaqil ho gaye. Wajah: PTI-led subaai hukumat ka 'dehshatgardi ke khilaf jang se alag thalag hona'. PTI ne isay ghair-aaini qarar diya; 11-member advisory council aur Article 245 ke tehat army deployment bhi ho gayi.",
+   "why": "October phir 'jamhuriyat ke liye buri khabar' wala mahina ban gaya — Mazhar Abbas se lekar Maleeha Lodhi tak sab ne history yaad dilai. Ye Pakistan ki siasat ka wo purana cycle hai jo kabhi khatm nahi hota.",
+   "next": "PTI courts aur assemblies mein challenge karegi; long march ka mustaqbil aur 12 districts ka direct federal control agli flashpoints hain.",
+   "take": "Seedhi baat: jab bhi ye kadam uthaya gaya hai, masla hal nahi hua, bas jagah badal gayi 🏛️ — aur is dafa to dehshatgardi ka ilzaam bhi laga diya, jabke subaai assembly aur cabinet kaam kar rahe thay. Islamabad ne ab security ki zimmedari bhi le li hai; agar halaat na sudhre to jawab bhi unhi ka hoga."
   },
-  "https://www.geo.tv/latest/686056-second-t20i-sri-lanka-win-toss-opt-to-bowl-first-against-pakistan": {
-   "what": "Pakistan ne doosra T20I 82 runs se jeet kar series 2-0 se apne naam kar li. Sadaqat 96, Farhan 73, total 215-3; jawab mein Sri Lanka 133-7, Imran ne 3-11 liye.",
-   "why": "Nayi top order ka aggressive andaaz kaam kar raha hai — 150+ strike rate aur aakhri overs mein bara score, yehi modern T20 ka formula hai.",
-   "next": "Teesra match Tuesday ko hai — clean sweep ka chance, aur bench ko moka dene ka bhi.",
-   "take": "96 par out hona dil todta hai, lekin Sadaqat ki innings ne match bana diya 🏏. Aur ye jeet sirf ek match nahi — lagta hai Pakistan ki T20 team ko akhir apna andaaz mil gaya hai: pehle ball se attack."
+  "https://tribune.com.pk/story/2634327/soldier-martyred-twelve-terrorists-killed-in-kurram": {
+   "what": "Kurram mein Afghanistan se darandazi ki koshish nakaam — security forces ne 12 khawarij/Afghan Taliban ahalkaron ko maar giraya; Naib Subedar Hidayat Aman (40, Ghizer) shaheed ho gaye. ISPR ke mutabiq Afghan Taliban posts ne bhi darandazi ki himayat mein firing ki.",
+   "why": "KP mein governor's rule ke background mein ye waqia is narrative ko taqat deta hai ke border security kitni naazuk hai — aur Kabul ki hukumat par ilzaam bhi.",
+   "next": "Area mein sanitisation operation jari; Kabul se koi jawab abhi tak nahi aaya.",
+   "take": "Ek aur din, ek aur shaheed 🇵🇰 — Hidayat Aman ki qurbani yaad rakho, ye sirf numbers nahi. Kabul ka 'hum ne kuch nahi kiya' wala ravayya ab har doosre haftay jhoota sabit ho raha hai."
   },
-  "https://www.reuters.com/world/asia-pacific/imf-reaches-staff-deal-with-pakistan-potentially-unlocking-12-billion-2026-10-07/": {
-   "what": "IMF se staff-level agreement ho gaya hai — board approve kare to takreeban $1.21B milenge, total disbursements $5.7B ke qareeb ho jayenge.",
-   "why": "Ye paisa stability ke liye hai, taraqqi ke liye nahi. Reserves aur debt payments ke liye external financing ab bhi zaroori hai, IMF khud keh raha hai.",
-   "next": "Agla step IMF board ki approval hai; risks — energy prices, geopolitics — IMF ne khud high bataye hain.",
-   "take": "Har dafa wohi kahani: deal ho gayi, sans aaya, phir agla review 🔄. Buri khabar nahi hai, lekin jab tak hum apne exports aur tax se nahi kamayenge, ye cycle rukne wala nahi."
+  "https://tribune.com.pk/story/2634263/fm-dar-condemns-houthi-attack-on-riyadh-airport-says-pakistan-is-in-touch-with-saudi-authorities": {
+   "what": "DPM/FM Ishaq Dar ne Riyadh ke King Khalid airport par Houthi hamle ki shadeed muzammat ki — 12 halaak, 309 zakhmi, jin mein 6 Pakistani bhi hain. Makkah Joint Defence Agreement ke tehat Saudi Arabia ki khudmukhtari ki himayat ka ahed dohraaya; Riyadh mein Pakistani embassy ko zakhmion ki madad ka hukm.",
+   "why": "Teesra hamla ek haftay mein Riyadh airport par — ye ab routine escalation ban gayi hai. Pakistan ke liye ye sirf foreign policy nahi, apne 6 zakhmi shehriyon ka masla bhi hai.",
+   "next": "US ke Saudi strikes mein shamil hone par ghaur ki khabar aayi hai; R4 (Pakistan, Saudi, Egypt, Türkiye) ne mushtaraka muzammat ki hai.",
+   "take": "6 Pakistani zakhmi — ye hamla 'door ka masla' nahi raha 🛫 — Makkah pact ke alfaz theek hain, lekin asal test tab hoga jab Riyadh se madad ka waqai mutalba aaye. Tab dekhna hoga ke bayan se aagay kya hota hai."
   },
-  "https://www.arabnews.pk/pakistan/pakistan-says-wont-tolerate-aggression-against-kingdom-after-houthi-attack-on-riyadh-airport-3003815": {
-   "what": "Riyadh airport par Houthi hamle mein 12 log halaak, 300 se zyada zakhmi — un mein 6 Pakistani bhi hain. PM Shehbaz ne mazammat ki aur kaha Pakistan Saudi Arabia ke saath har mumkin tareeqe se khara hai; embassy ko zakhmiyon ki madad ki hidayat di gayi.",
-   "why": "Makkah defence agreement ke baad ye sirf hamdardi ka bayan nahi, ek commitment ka test hai. Pakistan ke apne log bhi is hamle mein zakhmi huay hain.",
-   "next": "Saudi coalition ka jawab aur Pakistan ki practical support agle dinon mein wazeh hogi; zakhmiyon ki halat par updates aayenge.",
-   "take": "Airport par hamla, aam musafir nishana — is ki koi justification nahi hoti. 6 Pakistani zakhmi hain, un ke ghar walon ke liye ye khabar bohat bhaari hai. Diplomacy apni jagah, pehle dua un sab ke liye jo zakhmi hain 🤲."
+  "https://www.dawn.com/news/2036434/cm-angry-over-volatile-wheat-flour-rates": {
+   "what": "CM Maryam Nawaz ne atta ki qeematon par shadeed naraazgi ka izhar karke Rs10bn subsidy approve kar di aur flour mills ko Rs3,800/man par subsidi wali gandum ka quota barha diya. Open market mein gandum Rs5,200/40kg tak, 20kg atta Karachi/Islamabad/Peshawar mein Rs3,400 tak ja pahuncha.",
+   "why": "Atta Pakistan ki siasat ka thermometer hai — jab roti mehngi ho, hukumat ki neend urti hai. Teen din pehle food dept keh raha tha 'koi shortage nahi', aaj Rs10bn nikal aaye.",
+   "next": "Subsidy supply ko stable karegi ya sirf waqti marham hogi — mills ko gandum time par mili to asar hoga.",
+   "take": "'Koi kami nahi' se 'Rs10bn subsidy' tak sirf 3 din 🍞 — ye ya to qeematen waqai tezi se bigri hain, ya pehle wali assurance hi ghalat thi. Dono mein se jo bhi ho, awam ke liye khabar achi hai: roti sasti rakhna hukumat ki majboori hai, mehrbani nahi."
   },
-  "https://www.dawn.com/news/2035848": {
-   "what": "Dawn ka editorial kehta hai IMF deal ke peeche asal tasveer mixed hai: reserves $21.5B ke qareeb, lekin inflation 10.3%, poverty takreeban 42.4%, exports gir rahe hain aur imports barh rahe hain.",
-   "why": "Stability aur growth do alag cheezein hain. Pehli mil gayi hai, doosri — jo ghareeb ki zindagi badalti hai — abhi baqi hai.",
-   "next": "Wahi purani reform list phir dohraayi gayi hai: fuel subsidy khatam karna, tariff adjustments, tax strategy, privatisation. Amal kitna hota hai, yehi sawal hai.",
-   "take": "Numbers jhoot nahi bolte: agar 42% log poverty mein hain to 'economy stable hai' aam aadmi ke liye khali jumla hai 📉. Deal zaroori thi, lekin asli kaam deal ke baad wala hai — aur wahan hum hamesha dheele par jate hain."
-  },
-  "https://www.geo.tv/latest/685546-psl-12-to-commence-in-march-2027-announces-pcb": {
-   "what": "PCB ne confirm kar diya: PSL 12, 18 March se 2 May 2027 tak, aath teams ke saath. Peshawar Zalmi defending champion hoga. Retentions, trades aur auction aane wale hain.",
-   "why": "PSL ab Pakistan ka sab se bara sports product hai — dates pehle announce karna sponsors, franchises aur fans, sab ke liye planning asaan karta hai.",
-   "next": "Full schedule, venues aur auction ki tafseel baad mein aayegi.",
-   "take": "PSL ka calendar fix hona achi professional alamat hai 🏆. Bas ek guzarish: is dafa bhi wahi drama, wahi auction hungama mile — lekin pitches aisi hon jahan 215 bane, 133 par match khatam na ho!"
+  "https://www.dawn.com/news/2036099": {
+   "what": "South Africa ki jurist Navanethem 'Navi' Pillay ko 2026 ka Nobel Peace Prize mila — international law aur insaaf ke liye zindagi bhar ki khidmat par. Chand ghanton baad Trump administration ne ICC par sanctions laga diye (jis court mein wo kabhi judge thin). Ilaan se kuch pehle PM Shehbaz ne X par Pakistan ki taraf se Trump ki nomination ka ahed dohraaya tha.",
+   "why": "Nobel Committee ne qanoon ki hukmarani par zor de kar indirectly unhi taaqaton ko jawab diya jo international courts ko kamzor kar rahi hain. Aur Pakistan ka Trump-nomination wala episode... timing bohat kharab thi.",
+   "next": "US-Europe diplomatic collision barhegi; Pillay ne prize survivors of international crimes ko dedicate kiya hai.",
+   "take": "Ilaan se 30 minute pehle Trump ki taareef wala tweet — timing itni buri ke social media par khud Pakistani hi troll kar rahe hain 🏆 — Nobel independent committee deti hai, sifarish par nahi. Pillay ki jeet deserve karti thi; hamari diplomacy ko 'hope' se zyada 'strategy' ki zaroorat hai."
   }
  }
 }

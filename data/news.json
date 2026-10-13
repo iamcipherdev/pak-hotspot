@@ -1,79 +1,73 @@
 {
-  "updated_at": "2026-10-12T06:59:28+05:00",
+  "updated_at": "2026-10-13T07:01:21+05:00",
   "tech": [
     {
-      "title": "Google defends $15B India AI hub as water and power fears grow in Visakhapatnam",
-      "summary": "Google is publicly defending its $15 billion, gigawatt-scale AI hub with Adani near Visakhapatnam, saying it will use air cooling and will not take power away from local communities. Residents and campaigners remain worried about water, land and electricity in an already stressed coastal city, and a court challenge over environmental clearances is still running.",
-      "url": "https://tech-insider.org/google-defends-15-billion-india-ai-hub-water-2026/",
-      "source": "Tech Insider"
+      "source": "Reuters",
+      "summary": "Anthropic said new measures to stop rivals copying Claude's capabilities have cut data harvested in \"distillation attacks\" by 90-99%, with reasoning tokens extracted now 10-100x lower. It banned tens of thousands of accounts linked to distillation campaigns and named Chinese startup Z.ai as an example; the company claims its extraction-defense system is as robust as safeguards against bioweapon assistance, with under 0.1% false positives.",
+      "title": "Anthropic says new safeguards cut AI model-distillation attacks up to 99%",
+      "url": "https://www.reuters.com/world/china/anthropic-says-new-safeguards-sharply-reduce-ai-distillation-attacks-2026-10-13/"
     },
     {
-      "title": "US reverses course, lets UK test US AI models early again",
-      "summary": "The Trump administration has reversed a request that US labs not share new models with Britain's AI Security Institute before release, according to the Telegraph via Reuters. American developers can now give the UK early access for safety testing, a softer stance that also follows a new US requirement to report AI security incidents.",
-      "url": "https://www.reuters.com/legal/litigation/us-reverses-course-britains-testing-ai-models-telegraph-says-2026-10-11/",
-      "source": "Reuters"
+      "source": "Reuters",
+      "summary": "Japanese manufacturer Omron will acquire US industrial PC firm Onlogic and its parent Interlogic for $675 million to build \"physical AI\" services inside its industrial automation business, combining its precision-control tech with Onlogic hardware and expanding its US customer base. Onlogic will keep operating independently under its own brand and management.",
+      "title": "Japan's Omron to buy US industrial PC maker Onlogic for $675M in physical-AI push",
+      "url": "https://www.reuters.com/legal/transactional/japans-omron-buy-us-industrial-pc-firm-onlogic-675-million-physical-ai-push-2026-10-13/"
     },
     {
-      "title": "Axe Compute rings Nasdaq bell today, touts $3.45B in signed AI contracts",
-      "summary": "Axe Compute, a provider of dedicated GPU capacity for enterprises, rings the Nasdaq opening bell on October 12. The company says it has built more than $3.45 billion in signed contracts in under a year as demand for guaranteed AI compute keeps rising.",
-      "url": "https://www.globenewswire.com/news-release/2026/10/09/3378384/37244/en/axe-compute-nasdaq-agpu-to-ring-the-nasdaq-stock-market-opening-bell-on-october-12-2026.html",
-      "source": "GlobeNewswire"
+      "source": "Malay Mail / AFP",
+      "summary": "Startups like FutureSearch, Preseen and Mantic claim AI forecasting models already match elite human \"superforecasters\", citing two AI models taking top spots in the Metaculus Cup in September. One founder says he turned $35 into $1.9M in seven months using AI tools on prediction site Kalshi, with hedge funds the quickest buyers of such forecasts.",
+      "title": "AI forecasting startups bet they can out-predict human experts",
+      "url": "https://www.malaymail.com/news/money/2026/10/13/startups-are-betting-on-ai-to-predict-the-future/238787"
     },
     {
-      "title": "Valeo brings AI, software-defined cars and 800V EV tech to Paris Motor Show",
-      "summary": "Valeo is showcasing AI, software-defined vehicle platforms, ADAS and electrification at the Paris Motor Show from October 12 to 18. Highlights include its anSWer software suite, Smart Safety 360, SCALA 3 LiDAR for higher-level automation, and an 800V platform it says can charge 0-80% in 12 minutes.",
-      "url": "https://www.autocarpro.in/news/valeo-to-showcase-ai-software-and-ev-tech-at-paris-show-135090?amp=1",
-      "source": "Autocar Professional"
+      "source": "Citizen Digital / AFP",
+      "summary": "Elon Musk's xAI limited Grok's image generation and editing to paying subscribers after backlash over tools used to create sexualized deepfakes of women and children. Downing Street called the move \"insulting\" and \"not a solution\", the EU said its fundamental concerns remain, and the European Commission ordered X to retain all internal documents on Grok until end-2026.",
+      "title": "Grok restricts AI image editing to paid users after sexualized-deepfake backlash",
+      "url": "http://citizen.digital/article/grok-limits-ai-image-editing-to-paid-users-after-nudes-backlash-n375519"
     },
     {
-      "title": "Microsoft and Nvidia team up on $2,599 Surface Laptop Ultra for on-device AI",
-      "summary": "Microsoft and Nvidia unveiled the Surface Laptop Ultra, powered by Nvidia's RTX Spark chip and built to run AI models locally. The top configuration offers 128GB unified memory and a claimed 1 petaflop of AI performance, with shipments starting October 16 and a starting price of $2,599.",
-      "url": "https://www.marketwatch.com/story/microsoft-and-nvidia-are-teaming-up-on-a-supercharged-ai-laptop-f58b28d8",
-      "source": "MarketWatch"
+      "source": "DIGITIMES",
+      "summary": "Nvidia CFO Colette Kress told the UBS Global Technology and AI Conference that the company's potential $100B investment agreement with OpenAI, outlined in a September letter of intent covering at least 10 GW of systems, has not been finalized. Separately, its planned $10B investment in Anthropic could also lift its $500B advanced-chip order backlog.",
+      "title": "Nvidia CFO: $100B OpenAI agreement still unsettled",
+      "url": "https://www.digitimes.com/news/a20251203PD236/nvidia-openai-investment-2026.html"
     },
     {
-      "title": "OpenAI, Anthropic, Google and SpaceXAI hit with antitrust lawsuit over 'pacing' AI",
-      "summary": "A consumer lawsuit accuses Anthropic, OpenAI, Google and SpaceXAI of illegally coordinating to slow AI development after their leaders publicly backed an essay calling for limits on unchecked frontier progress. Plaintiffs seek class certification and argue subscribers paid for products that improved more slowly than competition would have allowed; the companies had not commented in the report.",
-      "url": "https://news.bloomberglaw.com/tech-and-telecom-law/openai-anthropic-google-spacexai-hit-with-antitrust-lawsuit",
-      "source": "Bloomberg Law"
+      "source": "News Hub",
+      "summary": "IMF chief Kristalina Georgieva warned this week that AI is reducing demand for routine, repetitive work, describing it as a \"slow-moving tsunami\" for jobs. Australian legal-AI firm Quillio's COO forecasts a 2027 hiring downturn but argues AI equips more workers to start their own businesses, while Australia's assistant minister warned AI providers could become \"toll collectors\" for the economy.",
+      "title": "IMF warns of AI 'slow-moving tsunami' for jobs; some say workers will just hire themselves",
+      "url": "https://newshub.medianet.com.au/2026/10/ai-will-slow-hiring-so-more-workers-will-hire-themselves/176179/"
     }
   ],
   "pakistan": [
     {
-      "title": "Emergency and governor's rule imposed in KP; PTI calls it undemocratic",
-      "summary": "The federal government imposed emergency under Article 232 and governor's rule under Article 234 in Khyber Pakhtunkhwa after presidential approval, citing the provincial government's disengagement from counterterrorism. A technocratic advisory council was formed, a new chief secretary appointed, troops authorised, and internet disruptions reported in parts of Peshawar. PTI condemned the move and said it would challenge it.",
-      "url": "https://www.dawn.com/news/2036352",
-      "source": "Dawn"
+      "source": "Dawn",
+      "summary": "The federal government imposed emergency and governor's rule in KP on Oct 11, with President Zardari signing the summary on PM Shehbaz's advice under Articles 232 and 234, transferring the CM's powers to Governor Kundi. The cabinet cited the PTI-led provincial government's \"deliberate disengagement from the fight against terrorism\" amid a long march demanding Imran Khan's release; PTI rejects the move as unconstitutional.",
+      "title": "'No lesson learnt': emergency and governor's rule imposed in Khyber Pakhtunkhwa",
+      "url": "https://www.dawn.com/news/2036388"
     },
     {
-      "title": "Pakistan seal T20I series 2-0 with 82-run win over Sri Lanka in Rawalpindi",
-      "summary": "Pakistan beat Sri Lanka by 82 runs in the second T20I to take an unassailable 2-0 series lead. Maaz Sadaqat made 96 off 51 and captain Sahibzada Farhan 73 off 44 as Pakistan posted 215-3, before Mohammad Imran's 3-11 helped restrict Sri Lanka to 133-7.",
-      "url": "https://www.geo.tv/latest/686056-second-t20i-sri-lanka-win-toss-opt-to-bowl-first-against-pakistan",
-      "source": "Geo News"
+      "source": "The Express Tribune",
+      "summary": "Security forces killed 12 Fitna al-Khawarij and Afghan Taliban personnel while foiling an infiltration attempt from Afghanistan into Kurram district, ISPR said on Oct 11. Naib Subedar Hidayat Aman, 40, embraced martyrdom in the exchange of fire; ISPR accused Afghan Taliban posts of opening fire to support the infiltration.",
+      "title": "One soldier martyred, 12 terrorists killed as forces foil Kurram infiltration attempt",
+      "url": "https://tribune.com.pk/story/2634327/soldier-martyred-twelve-terrorists-killed-in-kurram"
     },
     {
-      "title": "IMF staff deal could unlock $1.2B for Pakistan, pending board approval",
-      "summary": "The IMF reached a staff-level agreement with Pakistan on its lending programme reviews, potentially unlocking about $1.21 billion. If the board approves, about $1 billion would come under the Extended Fund Facility and $210 million under the climate-focused facility, taking total disbursements to around $5.7 billion, though risks from energy prices and geopolitics remain elevated.",
-      "url": "https://www.reuters.com/world/asia-pacific/imf-reaches-staff-deal-with-pakistan-potentially-unlocking-12-billion-2026-10-07/",
-      "source": "Reuters"
+      "source": "The Express Tribune",
+      "summary": "Deputy PM and FM Ishaq Dar strongly condemned the Houthi attack on King Khalid International Airport in Riyadh, which killed 12 people and injured 309, including six Pakistani nationals. He reaffirmed Pakistan's commitment to Saudi Arabia's sovereignty under the Makkah Joint Defence Agreement and directed the Pakistani embassy in Riyadh to assist the injured Pakistanis.",
+      "title": "FM Dar condemns Houthi attack on Riyadh airport, says Pakistan in touch with Saudi authorities",
+      "url": "https://tribune.com.pk/story/2634263/fm-dar-condemns-houthi-attack-on-riyadh-airport-says-pakistan-is-in-touch-with-saudi-authorities"
     },
     {
-      "title": "Six Pakistanis injured in Riyadh airport attack; PM vows support for Saudi Arabia 'in every possible way'",
-      "summary": "Prime Minister Shehbaz Sharif condemned the Houthi attack on Riyadh's King Khalid International Airport, which Saudi authorities said killed 12 and injured over 300. Deputy PM Ishaq Dar said six Pakistani nationals were injured and directed the embassy in Riyadh to assist them, while Pakistan reaffirmed its defence commitment to the Kingdom under the Makkah agreement.",
-      "url": "https://www.arabnews.pk/pakistan/pakistan-says-wont-tolerate-aggression-against-kingdom-after-houthi-attack-on-riyadh-airport-3003815",
-      "source": "Arab News Pakistan"
+      "source": "Dawn",
+      "summary": "Punjab CM Maryam Nawaz approved a Rs10 billion subsidy to hold down flour prices and increased subsidised government wheat quota to flour mills at Rs3,800 per maund after an emergency video-link meeting. The move follows reports of wheat hitting Rs5,200 per 40kg in Punjab and a 20kg flour bag reaching Rs3,400 in Karachi, Islamabad and Peshawar.",
+      "title": "Punjab approves Rs10bn flour subsidy as wheat prices surge",
+      "url": "https://www.dawn.com/news/2036434/cm-angry-over-volatile-wheat-flour-rates"
     },
     {
-      "title": "Beneath the IMF deal: reserves up, but poverty and exports still tell a harder story",
-      "summary": "A Dawn editorial notes the IMF staff deal passed with little drama and reserves are around $21.5 billion, but inflation was still 10.3% in September, growth of 3.6% leaves thin per-capita gains, and World Bank poverty was put at about 42.4% for 2025. Goods exports fell while imports rose, widening the trade deficit, and the same reform list keeps repeating.",
-      "url": "https://www.dawn.com/news/2035848",
-      "source": "Dawn"
-    },
-    {
-      "title": "PSL 12 confirmed for March 18 to May 2, 2027 with eight teams",
-      "summary": "The PCB confirmed HBL PSL 12 will run from March 18 to May 2, 2027, retaining the expanded eight-team format for a second season. Defending champions are Peshawar Zalmi from PSL 11. Direct signings, retentions, trades and the player auction will follow, with full schedule and venues to be announced later.",
-      "url": "https://www.geo.tv/latest/685546-psl-12-to-commence-in-march-2027-announces-pcb",
-      "source": "Geo News"
+      "source": "Dawn",
+      "summary": "South African jurist Navanethem 'Navi' Pillay won the 2026 Nobel Peace Prize for her efforts to promote peace and international law; hours later the Trump administration sanctioned the ICC, a court she once served. Shortly before the announcement, PM Shehbaz Sharif had renewed Pakistan's backing of Trump's nomination, crediting him with helping end last year's India-Pakistan escalation.",
+      "title": "Navi Pillay wins 2026 Nobel Peace Prize; Pakistan had backed Trump's bid",
+      "url": "https://www.dawn.com/news/2036099"
     }
   ]
 }
