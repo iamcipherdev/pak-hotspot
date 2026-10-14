@@ -1,80 +1,86 @@
 {
- "mood": "Tuesday mood: KP mein emergency ki tension, Nobel ka drama, aur atta sasta rakhne ki jaddojehad 🇵🇰📰",
+ "mood": "Wednesday mood: KP emergency ka justification, missile test ka zor, aur petrol thora sasta 🚀⛽🇵🇰",
  "poll": {
   "q": "Aaj ki sab se bari khabar kaunsi lagi?",
   "options": [
-   "🏛️ KP mein emergency + governor's rule",
-   "🕊️ Nobel Peace Prize — Pillay ki jeet, Trump ka snub",
-   "🪖 Kurram mein darandazi nakaam — 12 halaak",
-   "🍞 Punjab atta subsidy Rs10bn"
+   "🏛️ PM ka 'koi option nahi tha' — KP emergency",
+   "🚀 Fatah-2 hypersonic missile test",
+   "⛽ Petrol Rs2.71 sasta — lekin tax wahi",
+   "🏏 T20 whitewash miss — series 2-1"
   ]
  },
  "stories": {
-  "https://www.reuters.com/world/china/anthropic-says-new-safeguards-sharply-reduce-ai-distillation-attacks-2026-10-13/": {
-   "what": "Anthropic ka daawa hai ke Claude se distillation (model-chori) par un ke naye defenses ne extracted reasoning tokens 10-100x gira diye hain, aur tens of thousands accounts ban kar diye gaye — example ke taur par Chinese startup Z.ai ka naam liya gaya.",
-   "why": "Frontier labs ki asli property ab model ka 'sochne ka tariqa' hai. Distillation is liye sab se garam front hai — sasti copy, mehnat zero.",
-   "next": "Distillers naye raaste dhoondenge; arms race jari rahegi. Watch karo: kya ban-rates dobara barhte hain?",
-   "take": "Seedhi baat: apne dimagh ke darwaze par pehredar khara karna samajh aata hai 🛡️ — lekin Z.ai ka naam publicly lena marketing bhi hai aur diplomacy bhi. '99% kam' sunne mein hero jaisa lagta hai; asal imtehan tab hoga jab attackers nayi technique layen."
+  "https://tribune.com.pk/story/2634660/govt-was-left-with-no-option-but-emergency-governor-rule-pm-shehbaz": {
+   "what": "PM Shehbaz ne PML-N ki parliamentary party se kaha ke hukumat ke paas KP mein emergency aur governor's rule lagane ke siwa 'koi option nahi tha' — muzakraat nakaam ho gaye, security situation bigarti ja rahi thi. Un ka daawa: deal ka aakhri draft almost ready tha, lekin doosri taraf ne aakhri lamhe par KP CM se mashwara karne ka bahana bana kar wapis le liya.",
+   "why": "Ye ab government ka official narrative hai — aur narrative hi is faislay ki legitimacy tay karega. PTI isay ghair-aaini keh rahi hai; agle hafton mein courts aur assemblies mein ye behas garmi pakregi.",
+   "next": "Dekho ke advisory council aur Governor Kundi ke tehat 12 districts mein federal control practically kya badalta hai — peace aata hai ya sirf paperwork.",
+   "take": "'Koi option nahi tha' sunne mein majboori lagti hai, lekin ye wahi jamhooriyat hai jahan option hamesha hota hai 🏛️ — PM khud keh rahe hain ke draft almost ready tha, matlab muzakraat ka raasta maujood tha. Ab jawabdehi bhi unhi ki hogi: agar halaat na sudhre to ye bhi kisi aur ka kasoor nahi keh saktay."
   },
-  "https://www.reuters.com/legal/transactional/japans-omron-buy-us-industrial-pc-firm-onlogic-675-million-physical-ai-push-2026-10-13/": {
-   "what": "Japan ki Omron ne $675M mein US ki industrial PC company Onlogic (aur us ka parent Interlogic) kharid li — maksad factory automation mein 'physical AI' platforms banana aur US mein customer base barhana.",
-   "why": "AI ab chat windows se bahar nikal kar machines, robots aur factories mein utar rahi hai. Jiski hardware + control tech dono ho, usi ka khel hoga.",
-   "next": "Integration ke 12-18 mahine critical hain; Onlogic independent rahega to team sambhal sakegi.",
-   "take": "Hoshiyar khareedari 🤖 — software wale hardware samajh rahe hain ke 'physical AI' bina apni machine ke nahi banta. $675M is waqt reasonable lagta hai; bara sawaal ye hai ke Onlogic ki speed Japanese corporate culture mein zinda rahegi ya nahi."
+  "https://www.dawn.com/news/2036924/govt-reduces-petrol-price-by-rs271-per-litre-high-speed-diesel-rate-by-re003": {
+   "what": "Hukumat ne petrol Rs2.71 aur diesel 3 paisa sasta kar diya — petrol Rs392.66, diesel Rs396.82. Lekin har litre par tax wahi: petrol par Rs114, diesel par Rs100. Daily pricing mechanism ke tehat ye qeematen sirf aaj ke liye hain.",
+   "why": "Petrol Pakistan ka wo thermometer hai jo har ghar mein lagta hai — middle class ki jeb se direct taalluq. Diesel ka 3 paisa wala 'discount' to mazak lagta hai.",
+   "next": "Brent $104 ke aas-paas hai aur Middle East mein tension barkarar — kal subah qeemat phir badal sakti hai. Roz check karne ki aadat daalo.",
+   "take": "Rs2.71 ki khushi bhi khushi hai, lekin Rs114 tax bhool mat jana ⛽ — jab petrol Rs392 ka hai aur us mein Rs114 tax hai, to 'international market' sirf aadhi kahani hai. Baqi aadhi kahani khazana batayega."
   },
-  "https://www.malaymail.com/news/money/2026/10/13/startups-are-betting-on-ai-to-predict-the-future/238787": {
-   "what": "FutureSearch, Preseen, Mantic jaise startups kehte hain un ke AI forecasting models ab best human 'superforecasters' ke barabar hain — September mein Metaculus Cup ki top 2 spots AI models ne jeetin. Ek founder ka daawa: Kalshi par $35 se $1.9M in 7 months.",
-   "why": "Prediction markets aur hedge funds mein paisa ban raha hai to AI wahan ghusega hi. Superforecasting ek aisi skill thi jo insaani hone par fakhr tha.",
-   "next": "Retail traders ke liye Kalshi/Polymarket AI ke baghair mushkil hota jayega; regulation is space mein aana pakka hai.",
-   "take": "Dilchasp lekin sambhal ke 📊 — prediction mein 'luck' aur 'skill' ko alag karna mashhoor mushkil hai, aur survivorship bias har founder ki kahani mein hota hai. Haan, ye sach hai ke saste, tez probability estimates ka market ab real hai."
+  "https://tribune.com.pk/story/2634624/pakistan-successfully-test-fires-first-extended-range-fatah-2-hypersonic-ballistic-missile": {
+   "what": "Pakistan Army ne Fatah-2 ka extended-range hypersonic ballistic missile kamyabi se test kar liya — advanced navigation aur avionics ke saath, jo ISPR ke mutabiq enemy missile defences ko defeat kar sakta hai. Peechle hafte Fatah-4 cruise missile ka test bhi hua tha.",
+   "why": "Do tests ek hafte mein — ye sirf capability nahi, message hai. Regional deterrence ka scene phir garam ho raha hai, aur Army Rocket Force Command ab har test ko spotlight mein rakhti hai.",
+   "next": "Range disclose nahi hui — analysts guess karenge. India aur doosri taraf ke media ka reaction dekhna bhi dilchasp hoga.",
+   "take": "Defence ki khabar mein celebration to banti hai 🚀 — lekin seedha sawal: ye 'hypersonic' label capability hai ya marketing? Dono ho sakta hai. Jo baat pakki hai wo ye ke missile tests ka ye tempo routine nahi, strategy hai."
   },
-  "http://citizen.digital/article/grok-limits-ai-image-editing-to-paid-users-after-nudes-backlash-n375519": {
-   "what": "Backlash ke baad xAI ne Grok ki image generation/editing sirf paying subscribers tak mehdood kar di — pehle ye tools se sexualized deepfakes (khawateen aur bachon ki) banaye gaye the. Downing Street ne isay 'insulting' kaha, EU ke concerns baqi hain, aur EC ne X ko Grok se mutaliq sab documents end-2026 tak save rakhne ka hukm diya hai.",
-   "why": "Ye AI safety ka test case ban gaya hai: feature khatarnak nikle to 'paywall laga do' solution nahi hota — paisa de kar to har koi misuse kar sakta hai.",
-   "next": "EU/UK se fines ya sakht pabandiyan aa sakti hain; lawsuits pehle se chal rahe hain (Minnesota case, Illinois biometric suit).",
-   "take": "Kharab response, kharab optics 😤 — 'galat tasveeren banana' ko premium feature banana victims ki toheen hai, Downing Street sahi keh raha hai. Safety design mein hoti hai, price tag mein nahi."
+  "https://english.aaj.tv/news/330476376/pakistan-takes-chair-of-borrowers-platform-amid-global-debt-pressures": {
+   "what": "Pakistan ne Bangkok mein World Bank-IMF meetings ke sidelines par nayi Borrowers' Platform ki Governing Council ki chairmanship sambhal li — 30+ developing countries ka forum jo sovereign debt management aur development financing par kaam karega. Finance Minister Aurangzeb ne chair accept ki.",
+   "why": "Irony to sab se pehle nazar aati hai: qarzdaar mulk qarzdaaron ke forum ka chairman. Lekin diplomacy mein yehi cheez 'lived experience' kehlati hai.",
+   "next": "2026-27 work plan mein debt-management practices aur reform experiences ka exchange hoga — dekhna ye hai ke ye forum sirf conferences tak mehdood rehta hai ya actual debt relief ki taraf barhta hai.",
+   "take": "Qarz lene walon ka chairman khud qarzdaar — ye meme material hai, lekin ye bhi sach hai ke Pakistan ko debt trap ka dard sab se zyada pata hai 💸 — agar ye forum sirf 'mutual learning' ka lecture banke reh gaya to koi faida nahi. Asli imtehan: kya ye creditors se behtar terms dilwa sakta hai?"
   },
-  "https://www.digitimes.com/news/a20251203PD236/nvidia-openai-investment-2026.html": {
-   "what": "Nvidia ki CFO Colette Kress ne confirm kiya ke $100B OpenAI investment agreement abhi tak finalize nahi hua — September wala letter of intent (10 GW systems) sirf framework tha. Saath ye bhi ke Anthropic mein $10B investment un ke $500B chip-order backlog ko aur barha sakta hai.",
-   "why": "Ye wo mega-deal hai jo poore AI investment cycle ko sustain kar raha hai — agar ye wobble kare to 'circular transactions' aur bubble wali guftagu tez ho jayegi.",
-   "next": "Final terms par nazar rakho: size kam hua ya structure badla, dono signals honge.",
-   "take": "Letter of intent press release ke liye acha hota hai, balance sheet ke liye nahi 💰 — CFO ka khud 'guarantee nahi' kehna ye bata raha hai ke $100B abhi sapna hai, contract nahi. Market ne is khabar ko abhi digest nahi kiya."
+  "https://en.dailypakistan.com.pk/13-Oct-2026/pakistan-eye-series-whitewash-as-sri-lanka-bowl-first-in-final-t20i": {
+   "what": "Sri Lanka ne 3rd T20I mein Pakistan ko 8 wickets se hara kar 3-0 ka whitewash rok diya — series Pakistan ne 2-1 se jeeti. Kusal Mendis (87* off 48) aur Shanaka (3/21) chamke; Sahibzada Farhan ke 76 bekaar gaye. Ab England ke saath ODI tri-series Sunday se Rawalpindi mein.",
+   "why": "Whitewash ka miss bura lagta hai, lekin series jeetna badi baat hai — aur yehi match selection headaches bhi deta hai kyunke rested players ki jagah backups test ho gaye.",
+   "next": "ODI tri-series mein England ke khilaf asal imtehan — T20 form ODI mein translate hogi ya nahi, ye dekhna hoga.",
+   "take": "2-1 jeetna bhi jeetna hai, whitewash na hona bhi koi gham nahi 🏏 — lekin middle order ka collapse (102/6) warning sign hai. Farhan form mein hai — captain jo perform kare, team ko confidence milta hai. Sri Lanka ne izzat bacha li, fair play."
   },
-  "https://newshub.medianet.com.au/2026/10/ai-will-slow-hiring-so-more-workers-will-hire-themselves/176179/": {
-   "what": "IMF chief Kristalina Georgieva ne AI ko jobs ke liye 'slow-moving tsunami' kaha — routine kaam ki demand pehle se ghat rahi hai. Australian AI company Quillio ki COO 2027 mein hiring downturn ki peshgoi karti hain lekin kehti hain AI logon ko apna business shuru karne ke qabil bana rahi hai.",
-   "why": "Ye do narratives ab takra rahe hain: 'AI naukriyan kha jayegi' vs 'AI sab ko founder bana degi'. Haqeeqat darmiyan mein kahin hai — aur policies usi darmiyan ke liye ban-ni chahiye.",
-   "next": "2027 hiring data batayega ke ye optimism tha ya asli trend; Australia mein 'AI toll collector' wali behas bhi barhegi.",
-   "take": "'Sab founder ban jayenge' wali khushi thori na-samjhi hai 🚀 — tools saste ho gaye, lekin customers, capital aur risk appetite sab ko naseeb nahi. IMF ki warning ko halka mat lo: transition hamesha painful hota hai, even jab destination better ho."
+  "https://www.dawn.com/news/2033760/fbr-extends-deadline-for-filing-income-tax-returns-to-oct-15": {
+   "what": "Income tax returns (Tax Year 2026) file karne ki extended deadline kal — 15 Oct — khatm ho rahi hai. FBR ne deadline Sept 30 se barhaya tha kyunke return forms late aaye aur IRIS portal mein glitches thay. ~5.2 million returns ab tak file ho chuke (45.8% izafa), lekin late filers par jurmana ab pehle se bohat zyada hai.",
+   "why": "Har saal ki kahani: deadline extend, phir bhi last day ka rush. Is saal farq ye hai ke Finance Act 2026-27 ne penalties 5x barha diye hain — companies ke liye Rs100,000 tak.",
+   "next": "Kal shaam tak IRIS par traffic jam expect karo. Agar abhi tak file nahi ki, to aaj hi kar lo — kal ka 'system down' wala bahana mehnga parega.",
+   "take": "Har saal wahi drama — 'pehle fake notification, phir asli extension, phir last day panic' 📝 — lekin is dafa penalties itne barh gaye hain ke procrastination literally mehngi paregi. Tax return boring hai, jurmana us se bhi zyada boring."
   },
-  "https://www.dawn.com/news/2036388": {
-   "what": "Wifaqi hukumat ne 11 Oct ko KP mein emergency + governor's rule laga diya — President Zardari ne PM Shehbaz ki advice par Articles 232/234 ke tehat summary par sign kiye, CM ke powers Governor Kundi ko muntaqil ho gaye. Wajah: PTI-led subaai hukumat ka 'dehshatgardi ke khilaf jang se alag thalag hona'. PTI ne isay ghair-aaini qarar diya; 11-member advisory council aur Article 245 ke tehat army deployment bhi ho gayi.",
-   "why": "October phir 'jamhuriyat ke liye buri khabar' wala mahina ban gaya — Mazhar Abbas se lekar Maleeha Lodhi tak sab ne history yaad dilai. Ye Pakistan ki siasat ka wo purana cycle hai jo kabhi khatm nahi hota.",
-   "next": "PTI courts aur assemblies mein challenge karegi; long march ka mustaqbil aur 12 districts ka direct federal control agli flashpoints hain.",
-   "take": "Seedhi baat: jab bhi ye kadam uthaya gaya hai, masla hal nahi hua, bas jagah badal gayi 🏛️ — aur is dafa to dehshatgardi ka ilzaam bhi laga diya, jabke subaai assembly aur cabinet kaam kar rahe thay. Islamabad ne ab security ki zimmedari bhi le li hai; agar halaat na sudhre to jawab bhi unhi ka hoga."
+  "https://indianexpress.com/article/technology/tech-news-technology/zoho-salary-hikes-avoid-mass-layoffs-ai-costs-10919069/": {
+   "what": "Zoho ke founder Sridhar Vembu ne announce kiya ke 2026 mein salary hikes freeze — wajah AI infrastructure costs: server prices 4x barh gaye, AI usage se kharchay tez ho rahe hain. 18 mahine se headcount flat hai; Vembu kehte hain 'software jobs ka outlook grim hai' lekin mass layoffs se bachne ki koshish karenge.",
+   "why": "Ye 'SaaSpocalypse' debate ka freshest data point hai — AI sirf jobs nahi kha rahi, companies ke cost structures bhi tor rahi hai. Server prices ka 4x hona AI boom ka hidden tax hai.",
+   "next": "Dekho ke TCS, Infosys jaise giants is par kya kehte hain — agar Zoho jaisi profitable company freeze kar rahi hai to industry-wide trend pakka hai.",
+   "take": "AI ka bill ab aa raha hai 💸 — saalon se 'AI se sab kuch sasta hoga' suna tha; haqeeqat ye hai ke AI chalane ke liye servers itne mehngay ho gaye ke salary barhane ke paise khatm. Vembu ki honesty commendable hai — lekin 'please pray for us' wala line batata hai ke SaaS industry kitni nervous hai."
   },
-  "https://tribune.com.pk/story/2634327/soldier-martyred-twelve-terrorists-killed-in-kurram": {
-   "what": "Kurram mein Afghanistan se darandazi ki koshish nakaam — security forces ne 12 khawarij/Afghan Taliban ahalkaron ko maar giraya; Naib Subedar Hidayat Aman (40, Ghizer) shaheed ho gaye. ISPR ke mutabiq Afghan Taliban posts ne bhi darandazi ki himayat mein firing ki.",
-   "why": "KP mein governor's rule ke background mein ye waqia is narrative ko taqat deta hai ke border security kitni naazuk hai — aur Kabul ki hukumat par ilzaam bhi.",
-   "next": "Area mein sanitisation operation jari; Kabul se koi jawab abhi tak nahi aaya.",
-   "take": "Ek aur din, ek aur shaheed 🇵🇰 — Hidayat Aman ki qurbani yaad rakho, ye sirf numbers nahi. Kabul ka 'hum ne kuch nahi kiya' wala ravayya ab har doosre haftay jhoota sabit ho raha hai."
+  "https://www.newindianexpress.com/world/2026/Oct/13/cyberattack-targeting-refrigeration-systems-hits-700-supermarkets-french-government-says-3": {
+   "what": "Hackers ne France ke ~700 supermarkets ke refrigeration systems hijack kar liye — freezers ko 50°C tak garam kar diya, khana kharab, kuch jagah aag bhi lagi. French finance minister ne isay food security par hamla kaha; Paris cybercrime unit investigate kar rahi hai. Ahold Delhaize ne bhi Europe/US mein apni websites band kar din.",
+   "why": "Ye cyberattack ka naya chehra hai — data chori nahi, physical infrastructure par hamla. IoT devices (jaise fridge controllers) jo kabhi update nahi hote, ab national security ka masla ban gaye hain.",
+   "next": "Danfoss (refrigeration software supplier) keh raha hai affected systems puranay thay jinhein updates nahi miltay thay — blame game shuru. EU se sakht IoT security rules expect karo.",
+   "take": "Hackers ne bank account nahi, freezer hack kiya 🧊 — aur ye zyada darawna hai. Tumhara data leak ho to password badal lo; lekin jab khane ki supply chain par hamla ho to 'reset' ka button nahi hota. Purani devices ko internet se jorna ab luxury nahi, liability hai."
   },
-  "https://tribune.com.pk/story/2634263/fm-dar-condemns-houthi-attack-on-riyadh-airport-says-pakistan-is-in-touch-with-saudi-authorities": {
-   "what": "DPM/FM Ishaq Dar ne Riyadh ke King Khalid airport par Houthi hamle ki shadeed muzammat ki — 12 halaak, 309 zakhmi, jin mein 6 Pakistani bhi hain. Makkah Joint Defence Agreement ke tehat Saudi Arabia ki khudmukhtari ki himayat ka ahed dohraaya; Riyadh mein Pakistani embassy ko zakhmion ki madad ka hukm.",
-   "why": "Teesra hamla ek haftay mein Riyadh airport par — ye ab routine escalation ban gayi hai. Pakistan ke liye ye sirf foreign policy nahi, apne 6 zakhmi shehriyon ka masla bhi hai.",
-   "next": "US ke Saudi strikes mein shamil hone par ghaur ki khabar aayi hai; R4 (Pakistan, Saudi, Egypt, Türkiye) ne mushtaraka muzammat ki hai.",
-   "take": "6 Pakistani zakhmi — ye hamla 'door ka masla' nahi raha 🛫 — Makkah pact ke alfaz theek hain, lekin asal test tab hoga jab Riyadh se madad ka waqai mutalba aaye. Tab dekhna hoga ke bayan se aagay kya hota hai."
+  "https://www.manilatimes.net/2026/10/14/tmt-newswire/pr-newswire/toptal-launches-expertcrowd-to-train-ai-with-vetted-domain-experts-releases-frontier-swe-benchmark/2445004/amp": {
+   "what": "Toptal ne ExpertCrowd launch kiya — 30,000+ vetted domain experts (1,000 PhD-level AI specialists) ka platform jo frontier AI labs ke liye RLHF, RL data generation aur model evaluation karega. Saath ExpertCrowd-SWE benchmark bhi release hua: 87 codebases, 11 languages — daawa hai ke ye existing SWE benchmarks se zyada model weaknesses expose karta hai.",
+   "why": "AI training ka bottleneck ab compute nahi, quality human judgment hai. 'Expert data' ab ek industry ban gayi hai — aur Toptal is race mein Scale AI ko directly challenge kar raha hai.",
+   "next": "Benchmark ke results dekhna dilchasp hoga — 'Opus 5.5 aur Fable 5.1 par sab se zyada deficiencies expose' ka daawa verify hona chahiye independent researchers se.",
+   "take": "AI ko ab PhD walon ki zaroorat hai, data labelers ki nahi 🎓 — ye shift bohat bara hai: model training ab 'sasta crowdwork' se nikal kar 'mehngi expertise' ki taraf ja rahi hai. Aur har company apna benchmark bana kar 'hum sab se tough hain' keh rahi hai — healthy skepticism rakho."
   },
-  "https://www.dawn.com/news/2036434/cm-angry-over-volatile-wheat-flour-rates": {
-   "what": "CM Maryam Nawaz ne atta ki qeematon par shadeed naraazgi ka izhar karke Rs10bn subsidy approve kar di aur flour mills ko Rs3,800/man par subsidi wali gandum ka quota barha diya. Open market mein gandum Rs5,200/40kg tak, 20kg atta Karachi/Islamabad/Peshawar mein Rs3,400 tak ja pahuncha.",
-   "why": "Atta Pakistan ki siasat ka thermometer hai — jab roti mehngi ho, hukumat ki neend urti hai. Teen din pehle food dept keh raha tha 'koi shortage nahi', aaj Rs10bn nikal aaye.",
-   "next": "Subsidy supply ko stable karegi ya sirf waqti marham hogi — mills ko gandum time par mili to asar hoga.",
-   "take": "'Koi kami nahi' se 'Rs10bn subsidy' tak sirf 3 din 🍞 — ye ya to qeematen waqai tezi se bigri hain, ya pehle wali assurance hi ghalat thi. Dono mein se jo bhi ho, awam ke liye khabar achi hai: roti sasti rakhna hukumat ki majboori hai, mehrbani nahi."
+  "https://www.manilatimes.net/2026/10/14/tmt-newswire/pr-newswire/workato-announces-agreement-with-gulanga-and-trellis-data-to-bring-sovereign-ai-capability-to-australian-businesses-and-government/2445173": {
+   "what": "Workato ne Australian company Gulanga Group aur Trellis Data ke saath deal ki — sovereign AI Australian businesses aur government ke liye. Un ka Dukes LLM (Trellis Data ka Agentaus) Australian data par trained hai, local law/policy ki behtar samajh ke saath, aur data onshore rehta hai.",
+   "why": "'Sovereign AI' ab har mulk ki wishlist par hai — data apne mulk mein, apne qanoon ke tehat. Australia is race mein Indigenous-led company ke zariye enter ho raha hai, jo unique angle hai.",
+   "next": "Dekho ke government contracts mein Dukes ko kitni traction milti hai — sovereign AI ka asal test procurement hai, press release nahi.",
+   "take": "Har mulk ko apna AI chahiye — aur ye samajh aata hai 🇦🇺 — lekin 'sovereign' ka matlab aksar 'mehnga aur peeche' hota hai. Dukes ka Indigenous social outcomes wala token-economics angle genuinely fresh hai. Agar performance frontier models ke qareeb hui to ye model doosri countries copy karengi."
   },
-  "https://www.dawn.com/news/2036099": {
-   "what": "South Africa ki jurist Navanethem 'Navi' Pillay ko 2026 ka Nobel Peace Prize mila — international law aur insaaf ke liye zindagi bhar ki khidmat par. Chand ghanton baad Trump administration ne ICC par sanctions laga diye (jis court mein wo kabhi judge thin). Ilaan se kuch pehle PM Shehbaz ne X par Pakistan ki taraf se Trump ki nomination ka ahed dohraaya tha.",
-   "why": "Nobel Committee ne qanoon ki hukmarani par zor de kar indirectly unhi taaqaton ko jawab diya jo international courts ko kamzor kar rahi hain. Aur Pakistan ka Trump-nomination wala episode... timing bohat kharab thi.",
-   "next": "US-Europe diplomatic collision barhegi; Pillay ne prize survivors of international crimes ko dedicate kiya hai.",
-   "take": "Ilaan se 30 minute pehle Trump ki taareef wala tweet — timing itni buri ke social media par khud Pakistani hi troll kar rahe hain 🏆 — Nobel independent committee deti hai, sifarish par nahi. Pillay ki jeet deserve karti thi; hamari diplomacy ko 'hope' se zyada 'strategy' ki zaroorat hai."
+  "https://english.dainikjagranmpcg.com/technology/world-ai-summit-2026-begins-in-bengaluru-on-october-14/article-38386": {
+   "what": "World AI Summit 2026 aaj Bengaluru mein shuru ho raha hai (14-15 Oct) — business leaders, policymakers aur AI developers enterprise AI adoption, data infrastructure, cybersecurity aur measurable business value par discuss karenge. Central sawal: pilots se real returns tak ka safar.",
+   "why": "2026 ka enterprise AI narrative badal gaya hai — 'AI lagao' se 'AI se paisa banao' tak. Har summit ab ROI ki baat karta hai, hype ki nahi.",
+   "next": "Summit se koi bari product announcement ya partnership nikli to wo khabar hogi — warna ye sirf networking event reh jayega.",
+   "take": "AI summits ka season hai, aur har summit wahi sawal pooch raha hai: 'pilot se production tak?' 🤔 — jawab simple hai lekin mushkil: data saaf karo, use-case chhota rakho, ROI measure karo. Jo company ye teen kaam kar le, usay summit ki zaroorat nahi."
+  },
+  "https://www.qatar-tribune.com/article/258998/business/ai-robots-shine-at-japan-tech-expo/amp": {
+   "what": "CEATEC 2026 Tokyo ke qareeb Makuhari Messe mein shuru — 821 exhibitors, AI-powered robots aur autonomous machinery spotlight mein. Record 246 startups aur university research institutions, 110,000+ visitors expected. Mitsubishi Electric aur Hitachi factory automation ke liye AI robots dikha rahe hain.",
+   "why": "'Physical AI' ka saal hai — AI screens se nikal kar factories, robots aur machines mein utar rahi hai. Japan is race mein apni manufacturing strength ke saath lead lena chahta hai.",
+   "next": "Dekho ke kaun se robots sirf demo hain aur kaun se actual factory deployment ke qareeb — CEATEC mein ye farq batana mushkil hota hai.",
+   "take": "Japan ka jawab AI race mein: software nahi, robots 🤖 — jab sab LLMs bana rahe thay, Japan factories automate kar raha tha. 246 startups ka record batata hai ke ecosystem zinda hai. Lekin expo demos aur real deployment mein zameen-aasmaan ka farq hota hai — hype se zyada purchase orders dekho."
   }
  }
 }
