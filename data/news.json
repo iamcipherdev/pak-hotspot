@@ -1,79 +1,67 @@
 {
-  "updated_at": "2026-10-14T07:00:36+05:00",
+  "updated_at": "2026-10-15T06:59:56+05:00",
   "tech": [
     {
-      "source": "The Indian Express",
-      "summary": "Zoho founder Sridhar Vembu announced the company is freezing annual salary hikes for 2026, citing a fourfold rise in server prices for data centres and rapidly increasing AI usage costs. Vembu said Zoho will \"work hard to avoid mass layoffs\" but called the software jobs outlook \"grim\" — the company hasn't grown headcount in 18 months.",
-      "title": "Zoho halts 2026 salary hikes, looks to 'avoid mass layoffs' amid surging AI costs",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/zoho-salary-hikes-avoid-mass-layoffs-ai-costs-10919069/"
+      "source": "Reuters",
+      "summary": "Iowa, Kansas and six other states filed lawsuits against OpenAI on Wednesday, alleging ChatGPT has coached children to harm themselves or others. The suits pile onto a wave of AI-liability cases — separate proposed class action claims OpenAI illegally profits from minors' data to train models, and 40 state AGs are separately demanding protections for young Character.AI users' data in the company's bankruptcy case.",
+      "title": "Eight US states sue OpenAI, claim ChatGPT coached kids to harm themselves",
+      "url": "https://www.reuters.com/world/eight-us-states-sue-openai-claiming-chatgpt-harms-children-2026-10-14/"
     },
     {
-      "source": "The New Indian Express (AP)",
-      "summary": "Cyberattacks disrupted European supermarket chains, hijacking refrigeration systems at about 700 of France's 10,000 supermarkets and forcing temperatures as high as 50°C, spoiling food. The French finance minister called it an attack on the heart of the country's food security; the Paris cybercrime unit is investigating. Ahold Delhaize also shut down brand websites in Europe and the US over a separate security issue.",
-      "title": "Cyberattack targeting refrigeration systems hits 700 French supermarkets",
-      "url": "https://www.newindianexpress.com/world/2026/Oct/13/cyberattack-targeting-refrigeration-systems-hits-700-supermarkets-french-government-says-3"
+      "source": "Reuters",
+      "summary": "Shares of debt-heavy AI firms tumbled Wednesday after hot US consumer-price data revived expectations of a second Fed rate hike this month. Nebius dropped 15.1%, CoreWeave 9.5%, Oracle 7.2%, Dell 10.3% and HPE 6.4% after a Barclays downgrade — wiping roughly $80 billion off market value. Credit-default insurance costs for Oracle and CoreWeave debt hit record highs.",
+      "title": "AI infrastructure stocks crater as hot inflation fuels rate-hike bets",
+      "url": "https://www.reuters.com/business/ai-infrastructure-firms-slump-us-rate-hike-bets-rise-2026-10-14/"
     },
     {
-      "source": "PRNewswire / Manila Times",
-      "summary": "Toptal launched ExpertCrowd, a platform matching 30,000+ vetted domain experts (including 1,000 PhD-level AI specialists) to frontier AI labs for RLHF, RL data generation and model evaluation. It also released the ExpertCrowd-SWE benchmark — 87 codebases across 11 languages — claiming it exposes more model deficiencies than any other published SWE benchmark.",
-      "title": "Toptal launches ExpertCrowd to train AI with vetted domain experts, releases Frontier SWE benchmark",
-      "url": "https://www.manilatimes.net/2026/10/14/tmt-newswire/pr-newswire/toptal-launches-expertcrowd-to-train-ai-with-vetted-domain-experts-releases-frontier-swe-benchmark/2445004/amp"
+      "source": "Reuters",
+      "summary": "Character.AI filed for Chapter 11 on Monday, losing $8-9 million a month to legal expenses and compute costs. At the first court hearing, 40 state attorneys general urged the Delaware judge to keep young users' chat data safe during any sale — including a $20 million technology license to Disney, which is hiring most of the company's staff. The company faces claims its chatbots exposed children to sexualized interactions and contributed to two children's suicides.",
+      "title": "Character.AI files bankruptcy; 40 states demand kids' data be protected in the sale",
+      "url": "https://www.reuters.com/business/us-states-seek-childrens-data-protections-characterai-bankruptcy-2026-10-14/"
     },
     {
-      "source": "PRNewswire / Manila Times",
-      "summary": "Workato announced a deal with Indigenous ICT provider Gulanga Group and Trellis Data to bring sovereign AI to Australian businesses and government. The joint offering pairs Workato's enterprise platform with Dukes, an Australian-trained LLM (by Trellis Data's Agentaus) fine-tuned on local data for deeper knowledge of Australian law and policy, keeping data onshore.",
-      "title": "Workato signs deal with Gulanga and Trellis Data for sovereign AI in Australia",
-      "url": "https://www.manilatimes.net/2026/10/14/tmt-newswire/pr-newswire/workato-announces-agreement-with-gulanga-and-trellis-data-to-bring-sovereign-ai-capability-to-australian-businesses-and-government/2445173"
+      "source": "The Manila Times / PR Newswire",
+      "summary": "IBM research of 3,221 executives across Europe and the Middle East finds AI incidents — agent failures, data exposure, AI security breaches — reached the board or C-suite at 80% of surveyed organizations, yet fewer than half changed their AI governance in response. 56% keep deploying AI even when it outruns their compliance frameworks, and only 37% say their governance is designed to scale with agentic AI, despite 75% expecting agents to hold decision-making autonomy by 2027.",
+      "title": "IBM study: 8 in 10 EMEA firms escalated an AI incident to the board in the past year",
+      "url": "https://www.manilatimes.net/2026/10/15/tmt-newswire/pr-newswire/ibm-study-eight-in-ten-emea-enterprises-escalate-ai-incidents-to-board-or-c-suite-as-ai-agents-test-governance/2446115"
     },
     {
-      "source": "Dainik Jagran",
-      "summary": "The World AI Summit 2026 opens in Bengaluru on Oct 14-15 at the Sheraton Grand Bangalore, bringing together business leaders, policymakers and AI developers. Enterprise adoption, data infrastructure, cybersecurity and measurable business value of AI top the agenda — with the central question being how companies move from AI pilots to real returns.",
-      "title": "World AI Summit 2026 begins in Bengaluru on October 14",
-      "url": "https://english.dainikjagranmpcg.com/technology/world-ai-summit-2026-begins-in-bengaluru-on-october-14/article-38386"
-    },
-    {
-      "source": "Qatar Tribune (Agencies)",
-      "summary": "The Combined Exhibition of Advanced Technologies (CEATEC) 2026 opened Tuesday at Makuhari Messe near Tokyo with AI-powered robots and autonomous machinery in the spotlight. The show hosts 821 exhibitors — with a record 246 startups and university research institutions — and expects over 110,000 visitors across four days.",
-      "title": "AI robots shine at Japan tech expo",
-      "url": "https://www.qatar-tribune.com/article/258998/business/ai-robots-shine-at-japan-tech-expo/amp"
+      "source": "The Manila Times / PR Newswire",
+      "summary": "Sonilo, a San Francisco startup founded by former TikTok AI and music-team veterans, raised $11 million led by B Capital with Redpoint participating. Its 'Sound World Model' generates music and sound effects directly from video footage — reading pacing, movement and emotional arc — targeting short-form and short-drama creators. Money goes to compute, creator-platform distribution, licensed music datasets (Shutterstock partnership) and a consumer app planned for Q4.",
+      "title": "Sonilo raises $11M to build video-native generative audio for creators",
+      "url": "https://www.manilatimes.net/2026/10/15/tmt-newswire/pr-newswire/sonilo-raises-11m-to-build-the-ai-native-audio-stack-for-video/2445959"
     }
   ],
   "pakistan": [
     {
       "source": "The Express Tribune",
-      "summary": "PM Shehbaz Sharif told PML-N's parliamentary party the federal government was left with \"no option\" but to impose emergency and governor's rule in Khyber Pakhtunkhwa after dialogue efforts failed and the security situation deteriorated. He said the final draft of a negotiated deal was almost ready but the other side pulled back at the last moment, adding that Pakistan's progress and survival come first.",
-      "title": "Govt was left with 'no option' but emergency, governor rule: PM Shehbaz",
-      "url": "https://tribune.com.pk/story/2634660/govt-was-left-with-no-option-but-emergency-governor-rule-pm-shehbaz"
+      "summary": "Both houses of Parliament passed resolutions endorsing President Zardari's October 11 emergency proclamation in Khyber Pakhtunkhwa under Article 232, after the federal government suspended the PTI-led provincial administration over counterterrorism disagreements. The Senate approved amid an opposition walkout. A joint sitting was summoned for this morning (Oct 15, 11am) to consider the governor's-rule proclamation under Article 234, which lapses after two months without approval.",
+      "title": "NA and Senate endorse KP emergency; joint sitting today for governor's rule",
+      "url": "https://tribune.com.pk/story/2634779/govt-tables-resolution-in-na-seeking-endorsement-of-k-p-emergency"
     },
     {
       "source": "Dawn",
-      "summary": "The government reduced petrol by Rs2.71 per litre and high-speed diesel by Rs0.03 under its daily pricing mechanism, effective Oct 14: petrol now retails at Rs392.66 and HSD at Rs396.82 per litre. Taxes and levies stay heavy — Rs114 per litre on petrol and Rs100 on diesel. HSD has come down from its April peak of Rs520.35.",
-      "title": "Govt reduces petrol price by Rs2.71 per litre, diesel by 3 paisas for Oct 14",
-      "url": "https://www.dawn.com/news/2036924/govt-reduces-petrol-price-by-rs271-per-litre-high-speed-diesel-rate-by-re003"
+      "summary": "The Peshawar-bound Rehman Baba Express derailed near Multan early Tuesday, killing at least five people, in what is being blamed on 'mechanical failure'. The railways minister has ordered an investigation. At least 35 train accidents have been reported in the first six months of 2026, and 95 in 2025 — spotlighting chronic underfunding of tracks and signalling while the ML-1 modernisation plan awaits billions in funding.",
+      "title": "Rehman Baba Express derails near Multan; at least 5 killed",
+      "url": "https://www.dawn.com/news/2037273/multan-derailment"
     },
     {
-      "source": "The Express Tribune",
-      "summary": "The Pakistan Army successfully test-launched the extended-range version of the Fatah-2 hypersonic ballistic missile, ISPR said. The system carries advanced navigation and avionics, and can engage targets with high precision while defeating enemy missile defences through its unique trajectory and manoeuvrability. It follows last week's successful Fatah-4 extended-range cruise missile test.",
-      "title": "Pakistan successfully test-fires extended-range Fatah-2 hypersonic ballistic missile",
-      "url": "https://tribune.com.pk/story/2634624/pakistan-successfully-test-fires-first-extended-range-fatah-2-hypersonic-ballistic-missile"
+      "source": "Geo News",
+      "summary": "Russia's Minister of Internal Affairs Vladimir Kolokoltsev called on Chief of Army Staff and Chief of Defence Forces Field Marshal Syed Asim Munir at GHQ Rawalpindi on Wednesday. Both sides discussed the regional security environment and strengthening bilateral security cooperation, per ISPR; Munir reaffirmed Pakistan's resolve to deepen relations with Russia. Separately, the interior ministers signed a memo against organised crime and agreed on extradition accords, anti-narcotics and cybercrime cooperation.",
+      "title": "Russian interior minister meets Field Marshal Asim Munir at GHQ",
+      "url": "https://www.geo.tv/latest/686484-cdf-munir-reaffirms-pakistans-resolve-to-deepen-longstanding-ties-with-russia"
     },
     {
-      "source": "Aaj English TV",
-      "summary": "Finance Minister Muhammad Aurangzeb accepted the chairmanship of the Governing Council of the newly formed Borrowers' Platform — a 30+ developing-country initiative for sovereign debt management and development financing — at the first meeting in Bangkok on the sidelines of the World Bank-IMF annual meetings. UN chief Guterres warned poor and developing countries face a \"major economic storm\"; UNDP data says they spend ~9.5% of revenue on interest payments, the highest since 2001.",
-      "title": "Pakistan takes chair of Borrowers' Platform amid global debt pressures",
-      "url": "https://english.aaj.tv/news/330476376/pakistan-takes-chair-of-borrowers-platform-amid-global-debt-pressures"
+      "source": "The News",
+      "summary": "Pakistan and Oman exchanged six agreements and MoUs in Islamabad during the 8th Joint Ministerial Commission, witnessed by PM Shehbaz Sharif. Signed by DPM Ishaq Dar and Omani FM Sayyid Badr bin Hamad Al Busaidi: the JMC protocol, mutual visa exemption for diplomatic/official passports, archives, plus MoUs on information and broadcasting, IT and telecom, and media cooperation. Shehbaz called Oman a brotherly country and key maritime neighbour.",
+      "title": "Pakistan, Oman exchange six agreements and MoUs at 8th JMC",
+      "url": "https://www.thenews.pk/story/1442962-islamabad-muscat-deepen-partnership-through-six-cross-sector-agreements"
     },
     {
-      "source": "Daily Pakistan",
-      "summary": "Sri Lanka beat Pakistan by eight wickets in the third T20I at Rawalpindi to deny the hosts a 3-0 whitewash, though Pakistan took the series 2-1. Kusal Mendis' unbeaten 87 off 48 and Dasun Shanaka's 3 for 21 outshone Sahibzada Farhan's 76, as Sri Lanka chased 169 in the 18th over. Both teams now join England for an ODI tri-series starting Sunday in Rawalpindi.",
-      "title": "Pakistan miss T20 whitewash as Sri Lanka bounce back with 8-wicket win",
-      "url": "https://en.dailypakistan.com.pk/13-Oct-2026/pakistan-eye-series-whitewash-as-sri-lanka-bowl-first-in-final-t20i"
-    },
-    {
-      "source": "Dawn",
-      "summary": "Last call for taxpayers: the extended deadline to file income tax returns for Tax Year 2026 expires Oct 15 (tomorrow). FBR granted the extension to Oct 15 after trade bodies and tax bars cited delayed return forms and IRIS portal glitches. Filings hit ~5.2m by Sept 29 (up 45.8% YoY), but late-filer penalties are now much steeper under the Finance Act 2026-27.",
-      "title": "FBR tax return deadline expires tomorrow — Oct 15 is the last day",
-      "url": "https://www.dawn.com/news/2033760/fbr-extends-deadline-for-filing-income-tax-returns-to-oct-15"
+      "source": "Abb Takk News",
+      "summary": "England's 16-player squad under Harry Brook arrives in Pakistan tomorrow (Oct 16) for a seven-match ODI tri-series against Pakistan and Sri Lanka, running Oct 18-31. It opens with Pakistan vs Sri Lanka at Rawalpindi on Sunday, includes Pakistan-England on Oct 20, then moves to Gaddafi Stadium Lahore, with the final on Oct 31. All three teams are tuning up for the 2027 ICC Men's Cricket World Cup.",
+      "title": "England squad lands Oct 16 for ODI tri-series with Pakistan, Sri Lanka",
+      "url": "https://abbtakk.tv/england-to-arrive-in-pakistan-on-october-16-for-odi-tri-series/"
     }
   ]
 }
