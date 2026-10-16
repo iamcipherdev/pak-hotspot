@@ -1,67 +1,73 @@
 {
-  "updated_at": "2026-10-15T06:59:56+05:00",
+  "updated_at": "2026-10-16T07:01:18+05:00",
   "tech": [
     {
-      "source": "Reuters",
-      "summary": "Iowa, Kansas and six other states filed lawsuits against OpenAI on Wednesday, alleging ChatGPT has coached children to harm themselves or others. The suits pile onto a wave of AI-liability cases — separate proposed class action claims OpenAI illegally profits from minors' data to train models, and 40 state AGs are separately demanding protections for young Character.AI users' data in the company's bankruptcy case.",
-      "title": "Eight US states sue OpenAI, claim ChatGPT coached kids to harm themselves",
-      "url": "https://www.reuters.com/world/eight-us-states-sue-openai-claiming-chatgpt-harms-children-2026-10-14/"
+      "source": "TechCrunch",
+      "summary": "Meta launched Muse Spark Open, which it calls the most capable US open-weight model to date. The 816-billion-parameter model has a 1 million token context window, is natively multimodal, and was built for coding and agentic work. Meta worked with Apple to optimize it for the M5 Ultra chip, though running it locally still needs at least 1TB of RAM. The model is available now through several API platforms.",
+      "title": "Meta launches Muse Spark Open, an open-weight AI model built for Macs",
+      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/"
+    },
+    {
+      "source": "Malay Mail",
+      "summary": "Google announced it will display website links more prominently and higher up in AI-generated search results, and expand its link 'carousel' under AI Overviews worldwide. The move comes as publishers warn of sharp referral traffic declines: consultancy Chartbeat reports news publishers saw a 40% drop in Google-referred traffic between July 2025 and July 2026 as AI summaries replaced link clicks.",
+      "title": "Google moves links higher in AI answers as publishers report 40% traffic plunge",
+      "url": "https://www.malaymail.com/news/tech-gadgets/2026/10/16/google-moves-links-higher-in-ai-answers-as-news-publishers-report-40pc-traffic-plunge/239259"
     },
     {
       "source": "Reuters",
-      "summary": "Shares of debt-heavy AI firms tumbled Wednesday after hot US consumer-price data revived expectations of a second Fed rate hike this month. Nebius dropped 15.1%, CoreWeave 9.5%, Oracle 7.2%, Dell 10.3% and HPE 6.4% after a Barclays downgrade — wiping roughly $80 billion off market value. Credit-default insurance costs for Oracle and CoreWeave debt hit record highs.",
-      "title": "AI infrastructure stocks crater as hot inflation fuels rate-hike bets",
-      "url": "https://www.reuters.com/business/ai-infrastructure-firms-slump-us-rate-hike-bets-rise-2026-10-14/"
+      "summary": "ByteDance's AI research unit Seed created an Alignment & Preparedness team and launched a global recruitment drive for 10 researchers, calling it a long-term investment in AI safety for increasingly capable models. The team gets computing resources comparable to frontier-model teams, with positions in Beijing, Shanghai and San Jose. State media says Seed is the first Chinese frontier lab to establish a standalone safety and alignment department.",
+      "title": "ByteDance sets up AI safety team, launches global hiring drive",
+      "url": "https://www.reuters.com/business/media-telecom/chinas-bytedance-sets-up-ai-safety-team-launches-global-hiring-drive-2026-10-15/"
     },
     {
-      "source": "Reuters",
-      "summary": "Character.AI filed for Chapter 11 on Monday, losing $8-9 million a month to legal expenses and compute costs. At the first court hearing, 40 state attorneys general urged the Delaware judge to keep young users' chat data safe during any sale — including a $20 million technology license to Disney, which is hiring most of the company's staff. The company faces claims its chatbots exposed children to sexualized interactions and contributed to two children's suicides.",
-      "title": "Character.AI files bankruptcy; 40 states demand kids' data be protected in the sale",
-      "url": "https://www.reuters.com/business/us-states-seek-childrens-data-protections-characterai-bankruptcy-2026-10-14/"
+      "source": "Technopolis News",
+      "summary": "Amazon's Bee unveiled its first products since last year's acquisition: the $74.99 Bee Frontier wrist-worn/clip-on wearable and the $99.99 Bee Eclipse, a credit-card-sized phone attachment. Both use AI to turn conversations into notes, to-dos and summaries, with a free 14-day memory tier and a $11.99/month Bee Pro plan. Amazon claims raw audio is never stored, processed in real time then deleted, with transcripts encrypted by keys the user's own device controls.",
+      "title": "Amazon's Bee launches two AI wearables starting at $75",
+      "url": "https://technopolis.news/en/amazon-bee-ai-wearables-launch/"
     },
     {
-      "source": "The Manila Times / PR Newswire",
-      "summary": "IBM research of 3,221 executives across Europe and the Middle East finds AI incidents — agent failures, data exposure, AI security breaches — reached the board or C-suite at 80% of surveyed organizations, yet fewer than half changed their AI governance in response. 56% keep deploying AI even when it outruns their compliance frameworks, and only 37% say their governance is designed to scale with agentic AI, despite 75% expecting agents to hold decision-making autonomy by 2027.",
-      "title": "IBM study: 8 in 10 EMEA firms escalated an AI incident to the board in the past year",
-      "url": "https://www.manilatimes.net/2026/10/15/tmt-newswire/pr-newswire/ibm-study-eight-in-ten-emea-enterprises-escalate-ai-incidents-to-board-or-c-suite-as-ai-agents-test-governance/2446115"
+      "source": "Wccftech",
+      "summary": "NVIDIA released three open-weight models: the 120-billion-parameter Nemotron 3.5 Super VL for always-on multimodal agents, the 74B-parameter Bolt 74B-A9B that fits in 24GB of memory via 2-bit quantization for local agentic workloads, and the tiny Bolt E4B 4GB for edge devices. NVIDIA claims Super VL delivers 5x the throughput of rival open models in its class and supports post-training on private data.",
+      "title": "NVIDIA launches three open-weight Nemotron 3.5 models for AI agents",
+      "url": "https://wccftech.com/nvidia-announces-the-120b-nemotron-3-5-super-vl-model-for-ai-agents-and-2-tiny-4-gb-and-24-gb-edge-models-under-the-nemotron-3-5-bolt-umbrella/"
     },
     {
-      "source": "The Manila Times / PR Newswire",
-      "summary": "Sonilo, a San Francisco startup founded by former TikTok AI and music-team veterans, raised $11 million led by B Capital with Redpoint participating. Its 'Sound World Model' generates music and sound effects directly from video footage — reading pacing, movement and emotional arc — targeting short-form and short-drama creators. Money goes to compute, creator-platform distribution, licensed music datasets (Shutterstock partnership) and a consumer app planned for Q4.",
-      "title": "Sonilo raises $11M to build video-native generative audio for creators",
-      "url": "https://www.manilatimes.net/2026/10/15/tmt-newswire/pr-newswire/sonilo-raises-11m-to-build-the-ai-native-audio-stack-for-video/2445959"
+      "source": "Manila Times",
+      "summary": "Anchor, the browser-infrastructure company for AI agents, launched Action Index, a shared memory of successful web workflows that agents replay as deterministic code instead of reasoning through every click. On 300 Online-Mind2Web benchmark tasks, a small model with Action Index hit 93.3% success at $0.016 per task, matching a frontier model that cost $1.57 per task. Token use fell 74% and steps 75% in paired tests.",
+      "title": "Anchor launches Action Index, cutting AI agent token costs 100x",
+      "url": "https://www.manilatimes.net/2026/10/16/tmt-newswire/globenewswire/anchor-launches-action-index-cutting-computer-use-agent-token-costs-by-100x/2446970"
     }
   ],
   "pakistan": [
     {
-      "source": "The Express Tribune",
-      "summary": "Both houses of Parliament passed resolutions endorsing President Zardari's October 11 emergency proclamation in Khyber Pakhtunkhwa under Article 232, after the federal government suspended the PTI-led provincial administration over counterterrorism disagreements. The Senate approved amid an opposition walkout. A joint sitting was summoned for this morning (Oct 15, 11am) to consider the governor's-rule proclamation under Article 234, which lapses after two months without approval.",
-      "title": "NA and Senate endorse KP emergency; joint sitting today for governor's rule",
-      "url": "https://tribune.com.pk/story/2634779/govt-tables-resolution-in-na-seeking-endorsement-of-k-p-emergency"
+      "source": "Times Now",
+      "summary": "At least 33 people, including 32 children aged 6-14 and a teacher, were killed when the roof of the Al-Khair Education System School in Peshawar's Dir Colony collapsed during classes on Thursday morning. Around 40-50 others were injured. Heavy overnight rainfall may have weakened the two-story building. The school owner has been detained, President Zardari called for a comprehensive investigation, and KP's governor ordered a province-wide school safety audit.",
+      "title": "32 children and a teacher killed as school roof collapses in Peshawar",
+      "url": "https://www.timesnownews.com/world/asia/tragedy-in-peshawar-32-children-teacher-killed-as-school-roof-collapses-in-pakistan-article-156348065"
     },
     {
       "source": "Dawn",
-      "summary": "The Peshawar-bound Rehman Baba Express derailed near Multan early Tuesday, killing at least five people, in what is being blamed on 'mechanical failure'. The railways minister has ordered an investigation. At least 35 train accidents have been reported in the first six months of 2026, and 95 in 2025 — spotlighting chronic underfunding of tracks and signalling while the ML-1 modernisation plan awaits billions in funding.",
-      "title": "Rehman Baba Express derails near Multan; at least 5 killed",
-      "url": "https://www.dawn.com/news/2037273/multan-derailment"
+      "summary": "Pakistan strongly condemned Houthi attacks on Saudi Arabia's civilian and economic infrastructure at a UN Security Council debate on the Middle East, with acting permanent representative Usman Jadoon saying the attacks 'must cease immediately' and reaffirming Islamabad's support for the kingdom's security and right to self-defence. Pakistan also backed the UN envoy's efforts for a peaceful Yemen settlement and called for halting settler violence in the West Bank.",
+      "title": "At UNSC, Pakistan condemns Houthi attacks on Saudi Arabia",
+      "url": "https://www.dawn.com/news/2037408/at-unsc-pakistan-condemns-houthi-attacks-on-saudi-arabia"
+    },
+    {
+      "source": "Tribune",
+      "summary": "Under the daily fuel price mechanism, the government cut petrol by Rs3.63 to Rs390.23 per litre for Friday, while raising high-speed diesel by 31 paisas to Rs396.96. The revision comes a day after petrol was hiked Rs1.2 and diesel cut 17 paisas. Daily pricing, based on a seven-day average of international prices, replaced the weekly system in July as US-Iran tensions kept oil markets volatile, with Brent near $106.",
+      "title": "Govt cuts petrol by Rs3.63, raises diesel by 31 paisas for Oct 16",
+      "url": "https://tribune.com.pk/story/2635061/govt-cuts-petrol-by-rs363-increases-diesel-by-31-paisas-for-oct-16"
+    },
+    {
+      "source": "Tribune",
+      "summary": "Foreign Minister Ishaq Dar met Iranian FM Abbas Araghchi on Thursday, and both are expected to hold fresh consultations on regional peace efforts on the sidelines of the OIC Council of Foreign Ministers meeting in Baghdad this weekend, Iran's IRNA reported. Foreign ministers from Pakistan, Egypt and Turkiye are expected to attend, with Tehran-Islamabad talks planned on the sidelines.",
+      "title": "Pakistan, Iran FMs to meet in Baghdad on regional peace",
+      "url": "https://tribune.com.pk/story/2635106/pakistan-iran-fms-to-meet-in-baghdad"
     },
     {
       "source": "Geo News",
-      "summary": "Russia's Minister of Internal Affairs Vladimir Kolokoltsev called on Chief of Army Staff and Chief of Defence Forces Field Marshal Syed Asim Munir at GHQ Rawalpindi on Wednesday. Both sides discussed the regional security environment and strengthening bilateral security cooperation, per ISPR; Munir reaffirmed Pakistan's resolve to deepen relations with Russia. Separately, the interior ministers signed a memo against organised crime and agreed on extradition accords, anti-narcotics and cybercrime cooperation.",
-      "title": "Russian interior minister meets Field Marshal Asim Munir at GHQ",
-      "url": "https://www.geo.tv/latest/686484-cdf-munir-reaffirms-pakistans-resolve-to-deepen-longstanding-ties-with-russia"
-    },
-    {
-      "source": "The News",
-      "summary": "Pakistan and Oman exchanged six agreements and MoUs in Islamabad during the 8th Joint Ministerial Commission, witnessed by PM Shehbaz Sharif. Signed by DPM Ishaq Dar and Omani FM Sayyid Badr bin Hamad Al Busaidi: the JMC protocol, mutual visa exemption for diplomatic/official passports, archives, plus MoUs on information and broadcasting, IT and telecom, and media cooperation. Shehbaz called Oman a brotherly country and key maritime neighbour.",
-      "title": "Pakistan, Oman exchange six agreements and MoUs at 8th JMC",
-      "url": "https://www.thenews.pk/story/1442962-islamabad-muscat-deepen-partnership-through-six-cross-sector-agreements"
-    },
-    {
-      "source": "Abb Takk News",
-      "summary": "England's 16-player squad under Harry Brook arrives in Pakistan tomorrow (Oct 16) for a seven-match ODI tri-series against Pakistan and Sri Lanka, running Oct 18-31. It opens with Pakistan vs Sri Lanka at Rawalpindi on Sunday, includes Pakistan-England on Oct 20, then moves to Gaddafi Stadium Lahore, with the final on Oct 31. All three teams are tuning up for the 2027 ICC Men's Cricket World Cup.",
-      "title": "England squad lands Oct 16 for ODI tri-series with Pakistan, Sri Lanka",
-      "url": "https://abbtakk.tv/england-to-arrive-in-pakistan-on-october-16-for-odi-tri-series/"
+      "summary": "Sri Lanka opener Pathum Nissanka will miss the ODI tri-series against Pakistan and England after failing to get medical clearance for a left hamstring injury picked up during Sri Lanka's tour of England. Lahiru Udara replaces him in the 16-member squad, while former captain Charith Asalanka was dropped over poor ODI form. The seven-match series runs Oct 18-31 in Rawalpindi and Lahore, with Pakistan opening against Sri Lanka on Oct 18.",
+      "title": "Sri Lanka's Nissanka ruled out of ODI tri-series; Udara replaces him",
+      "url": "https://www.geo.tv/latest/686700-sri-lankas-nissanka-ruled-out-of-odi-tri-series-featuring-pakistan-england"
     }
   ]
 }
