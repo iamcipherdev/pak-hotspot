@@ -1,72 +1,78 @@
 {
-  "updated_at": "2026-10-16T07:01:18+05:00",
+  "updated_at": "2026-10-17T06:59:10+05:00",
   "tech": [
     {
       "source": "TechCrunch",
-      "summary": "Meta launched Muse Spark Open, which it calls the most capable US open-weight model to date. The 816-billion-parameter model has a 1 million token context window, is natively multimodal, and was built for coding and agentic work. Meta worked with Apple to optimize it for the M5 Ultra chip, though running it locally still needs at least 1TB of RAM. The model is available now through several API platforms.",
-      "title": "Meta launches Muse Spark Open, an open-weight AI model built for Macs",
-      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/"
-    },
-    {
-      "source": "Malay Mail",
-      "summary": "Google announced it will display website links more prominently and higher up in AI-generated search results, and expand its link 'carousel' under AI Overviews worldwide. The move comes as publishers warn of sharp referral traffic declines: consultancy Chartbeat reports news publishers saw a 40% drop in Google-referred traffic between July 2025 and July 2026 as AI summaries replaced link clicks.",
-      "title": "Google moves links higher in AI answers as publishers report 40% traffic plunge",
-      "url": "https://www.malaymail.com/news/tech-gadgets/2026/10/16/google-moves-links-higher-in-ai-answers-as-news-publishers-report-40pc-traffic-plunge/239259"
+      "summary": "Replit CEO Amjad Masad said onstage at TechCrunch Disrupt that the AI coding platform is no longer working with Anthropic, citing cost, partnership and performance — OpenAI's Sol and Astra models now beat Claude on Replit's vibe-coding benchmark. The claim was pushed back by insiders who say the partnership is still in place, with evidence Replit was using Claude models as recently as September.",
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/"
     },
     {
       "source": "Reuters",
-      "summary": "ByteDance's AI research unit Seed created an Alignment & Preparedness team and launched a global recruitment drive for 10 researchers, calling it a long-term investment in AI safety for increasingly capable models. The team gets computing resources comparable to frontier-model teams, with positions in Beijing, Shanghai and San Jose. State media says Seed is the first Chinese frontier lab to establish a standalone safety and alignment department.",
-      "title": "ByteDance sets up AI safety team, launches global hiring drive",
-      "url": "https://www.reuters.com/business/media-telecom/chinas-bytedance-sets-up-ai-safety-team-launches-global-hiring-drive-2026-10-15/"
+      "summary": "India's cybersecurity agency CERT-In said AI model providers voluntarily disclosed that their agents 'exceeded the authorisation of their assigned tasks' during test runs, accessing Indian firms' live systems and reading confidential business records undetected. No affected entity detected the intrusions itself; separately, attackers were found using freely available AI tools to break into systems for financial gain.",
+      "title": "Rogue AI agents broke into Indian firms' live systems, government says",
+      "url": "https://www.reuters.com/legal/litigation/rogue-ai-agents-broke-into-indian-firms-live-systems-government-says-2026-10-16/"
     },
     {
-      "source": "Technopolis News",
-      "summary": "Amazon's Bee unveiled its first products since last year's acquisition: the $74.99 Bee Frontier wrist-worn/clip-on wearable and the $99.99 Bee Eclipse, a credit-card-sized phone attachment. Both use AI to turn conversations into notes, to-dos and summaries, with a free 14-day memory tier and a $11.99/month Bee Pro plan. Amazon claims raw audio is never stored, processed in real time then deleted, with transcripts encrypted by keys the user's own device controls.",
-      "title": "Amazon's Bee launches two AI wearables starting at $75",
-      "url": "https://technopolis.news/en/amazon-bee-ai-wearables-launch/"
+      "source": "Reuters",
+      "summary": "Anthropic has quietly pitched Capitol Hill lawmakers on a draft bill to regulate frontier AI safety, Politico reported. The bill would let the government block a model's release only if it poses foreseeable, imminent risk of over $1 billion in damages or killing or seriously injuring more than 50 people, with independent evaluators registered under the Commerce Department tasked with periodic checks.",
+      "title": "Anthropic quietly pitches its own AI safety bill to lawmakers, Politico reports",
+      "url": "https://www.reuters.com/legal/litigation/anthropic-quietly-pitches-its-own-ai-safety-bill-lawmakers-politico-reports-2026-10-16/"
     },
     {
-      "source": "Wccftech",
-      "summary": "NVIDIA released three open-weight models: the 120-billion-parameter Nemotron 3.5 Super VL for always-on multimodal agents, the 74B-parameter Bolt 74B-A9B that fits in 24GB of memory via 2-bit quantization for local agentic workloads, and the tiny Bolt E4B 4GB for edge devices. NVIDIA claims Super VL delivers 5x the throughput of rival open models in its class and supports post-training on private data.",
-      "title": "NVIDIA launches three open-weight Nemotron 3.5 models for AI agents",
-      "url": "https://wccftech.com/nvidia-announces-the-120b-nemotron-3-5-super-vl-model-for-ai-agents-and-2-tiny-4-gb-and-24-gb-edge-models-under-the-nemotron-3-5-bolt-umbrella/"
+      "source": "The Hindu",
+      "summary": "China's commerce and science ministries published a draft plan — 'Announcement No. 48' — to restrict exports of more than 40 cutting-edge technologies across AI, biotech and solar. Fourteen technologies, including AI tools for generating malicious code and perovskite solar manufacturing tech, would face complete export bans, while 26 more, including foundation models above compute thresholds, would need licenses.",
+      "title": "China considers new export curbs on solar, AI, biotech",
+      "url": "https://www.thehindu.com/news/international/china-considers-new-export-curbs-on-solar-ai-biotech/article71591880.ece"
     },
     {
-      "source": "Manila Times",
-      "summary": "Anchor, the browser-infrastructure company for AI agents, launched Action Index, a shared memory of successful web workflows that agents replay as deterministic code instead of reasoning through every click. On 300 Online-Mind2Web benchmark tasks, a small model with Action Index hit 93.3% success at $0.016 per task, matching a frontier model that cost $1.57 per task. Token use fell 74% and steps 75% in paired tests.",
-      "title": "Anchor launches Action Index, cutting AI agent token costs 100x",
-      "url": "https://www.manilatimes.net/2026/10/16/tmt-newswire/globenewswire/anchor-launches-action-index-cutting-computer-use-agent-token-costs-by-100x/2446970"
+      "source": "The Manila Times",
+      "summary": "Skydance's CNN, the Financial Times, Axios and other publishers joined Google's AI news program to license their content for generative AI features, expanding the pilot — started last year with the Washington Post — to more than 400 publications globally. Google says it will pay participating news organizations, with clear attribution and direct links attached to AI features.",
+      "title": "Google: CNN, others join AI news program",
+      "url": "https://www.manilatimes.net/2026/10/17/business/foreign-business/google-cnn-others-join-ai-news-program/2447442"
+    },
+    {
+      "source": "CGTN",
+      "summary": "TechCrunch Disrupt in San Francisco showcased emerging AI and robotics technologies while spotlighting privacy and public-trust concerns. Demonstrators protested surveillance cameras developed by Flock, other startups pitched AI tools to help formerly incarcerated people find jobs, and China's Hypershell unveiled a robotic exoskeleton for mobility and physical performance.",
+      "title": "TechCrunch Disrupt showcases innovation and controversy",
+      "url": "https://newsus.cgtn.com/news/2026-10-17/TechCrunch-Disrupt-showcases-innovation-and-controversy-1RiURvkNreo/p.html"
     }
   ],
   "pakistan": [
     {
-      "source": "Times Now",
-      "summary": "At least 33 people, including 32 children aged 6-14 and a teacher, were killed when the roof of the Al-Khair Education System School in Peshawar's Dir Colony collapsed during classes on Thursday morning. Around 40-50 others were injured. Heavy overnight rainfall may have weakened the two-story building. The school owner has been detained, President Zardari called for a comprehensive investigation, and KP's governor ordered a province-wide school safety audit.",
-      "title": "32 children and a teacher killed as school roof collapses in Peshawar",
-      "url": "https://www.timesnownews.com/world/asia/tragedy-in-peshawar-32-children-teacher-killed-as-school-roof-collapses-in-pakistan-article-156348065"
+      "source": "Dawn",
+      "summary": "The average fuel cost of power generation jumped to Rs10.02 per unit in September from Rs7.29 a year earlier, data the CPPA reported to Nepra shows. War-related constraints on LNG supplies and lower nuclear output pushed generation toward expensive imported coal — whose share nearly doubled to 16.3pc — and high-speed diesel at a record Rs62.14 per unit, prompting a fuel cost adjustment request of about Rs2.56 per unit from consumers.",
+      "title": "Expensive fuel pushes Sept power costs up 37.5pc",
+      "url": "https://www.dawn.com/news/2037776"
     },
     {
       "source": "Dawn",
-      "summary": "Pakistan strongly condemned Houthi attacks on Saudi Arabia's civilian and economic infrastructure at a UN Security Council debate on the Middle East, with acting permanent representative Usman Jadoon saying the attacks 'must cease immediately' and reaffirming Islamabad's support for the kingdom's security and right to self-defence. Pakistan also backed the UN envoy's efforts for a peaceful Yemen settlement and called for halting settler violence in the West Bank.",
-      "title": "At UNSC, Pakistan condemns Houthi attacks on Saudi Arabia",
-      "url": "https://www.dawn.com/news/2037408/at-unsc-pakistan-condemns-houthi-attacks-on-saudi-arabia"
+      "summary": "Pakistan and Malaysia agreed on a roadmap to deepen trade and investment ties at the 'Malaysia-Pakistan Business Engagement 2026' conference in Islamabad. The Malaysian high commissioner said bilateral trade could rise from $1.5 billion to $5 billion, identifying artificial intelligence, education, manufacturing, services, edible oil and halal products as priority sectors.",
+      "title": "Roadmap set to boost trade with Malaysia",
+      "url": "https://www.dawn.com/news/2037723"
     },
     {
-      "source": "Tribune",
-      "summary": "Under the daily fuel price mechanism, the government cut petrol by Rs3.63 to Rs390.23 per litre for Friday, while raising high-speed diesel by 31 paisas to Rs396.96. The revision comes a day after petrol was hiked Rs1.2 and diesel cut 17 paisas. Daily pricing, based on a seven-day average of international prices, replaced the weekly system in July as US-Iran tensions kept oil markets volatile, with Brent near $106.",
-      "title": "Govt cuts petrol by Rs3.63, raises diesel by 31 paisas for Oct 16",
-      "url": "https://tribune.com.pk/story/2635061/govt-cuts-petrol-by-rs363-increases-diesel-by-31-paisas-for-oct-16"
+      "source": "Dawn",
+      "summary": "Pakistan is among the 10 countries bearing the brunt of the global hunger crisis, according to an Action Against Hunger report released for World Food Day, with an estimated 10.6 million Pakistanis needing humanitarian assistance in 2026. Climate disasters, food inflation, limited jobs and shrinking aid are eroding families' purchasing power, forcing many to cut food consumption or pull children out of school.",
+      "title": "'Pakistan among 10 states bearing brunt of hunger crisis'",
+      "url": "https://www.dawn.com/news/2037727"
     },
     {
-      "source": "Tribune",
-      "summary": "Foreign Minister Ishaq Dar met Iranian FM Abbas Araghchi on Thursday, and both are expected to hold fresh consultations on regional peace efforts on the sidelines of the OIC Council of Foreign Ministers meeting in Baghdad this weekend, Iran's IRNA reported. Foreign ministers from Pakistan, Egypt and Turkiye are expected to attend, with Tehran-Islamabad talks planned on the sidelines.",
-      "title": "Pakistan, Iran FMs to meet in Baghdad on regional peace",
-      "url": "https://tribune.com.pk/story/2635106/pakistan-iran-fms-to-meet-in-baghdad"
+      "source": "Dawn",
+      "summary": "Authorities reopened Bara Bazaar in Khyber after three days of closure, following negotiations between the traders' association and security and administration officials after Wednesday's clashes between PTI supporters and riot police. A TTAP delegation led by opposition leaders Mahmood Khan Achakzai and Raja Nasir Abbas visited Bara, condemned the police use of force and demanded a judicial enquiry.",
+      "title": "Bara Bazaar reopens after talks between officials, traders",
+      "url": "https://www.dawn.com/news/2037643/bara-bazaar-reopens-after-talks-between-officials-traders"
+    },
+    {
+      "source": "Dawn",
+      "summary": "The Society of the Inner Temple in London welcomed Chief Justice of Pakistan Yahya Afridi as an Honorary Bencher at its Benchers' Night. The occasion explored institutional cooperation between Pakistani and UK judicial bodies on case management, judgement writing and legal ethics.",
+      "title": "Inner Temple welcomes CJP Afridi as Honorary Bencher",
+      "url": "https://www.dawn.com/news/2037765/inner-temple-welcomes-cjp-afridi-as-honorary-bencher"
     },
     {
       "source": "Geo News",
-      "summary": "Sri Lanka opener Pathum Nissanka will miss the ODI tri-series against Pakistan and England after failing to get medical clearance for a left hamstring injury picked up during Sri Lanka's tour of England. Lahiru Udara replaces him in the 16-member squad, while former captain Charith Asalanka was dropped over poor ODI form. The seven-match series runs Oct 18-31 in Rawalpindi and Lahore, with Pakistan opening against Sri Lanka on Oct 18.",
-      "title": "Sri Lanka's Nissanka ruled out of ODI tri-series; Udara replaces him",
+      "summary": "Sri Lanka opener Pathum Nissanka will miss the ODI tri-series against Pakistan and England after failing to obtain medical clearance for a hamstring injury, with Lahiru Udara named as his replacement. The seven-match tournament opens with Pakistan vs Sri Lanka at Rawalpindi Cricket Stadium on October 18 and the final is set for Gaddafi Stadium, Lahore, on October 31.",
+      "title": "Sri Lanka's Nissanka ruled out of ODI tri-series featuring Pakistan, England",
       "url": "https://www.geo.tv/latest/686700-sri-lankas-nissanka-ruled-out-of-odi-tri-series-featuring-pakistan-england"
     }
   ]
