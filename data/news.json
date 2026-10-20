@@ -1,73 +1,79 @@
 {
-  "updated_at": "2026-10-19T07:00:40+05:00",
+  "updated_at": "2026-10-20T07:01:09+05:00",
   "tech": [
     {
-      "source": "Mint",
-      "summary": "OpenAI CEO Sam Altman confirmed on the Sources podcast that the company will build its own humanoid robot — 'We will' — with a 'cool demo' expected in 2027, though robots on streets will take a few more years. Altman said the human form makes sense because the world is designed for people, and stressed the AI 'brain' matters more than the body. OpenAI is hiring across motion control, actuators and manufacturing.",
-      "title": "Altman confirms OpenAI will build a humanoid robot, demo in 2027",
-      "url": "https://www.livemint.com/ai/artificial-intelligence/we-will-have-a-cool-demo-in-2027-what-sam-altman-said-about-openais-humanoid-robot-and-the-challenges-11792290751495.html"
+      "title": "OpenAI, Anthropic and Google DeepMind held weeks of quiet AI safety talks",
+      "summary": "OpenAI confirmed it spent weeks in extended safety discussions with Anthropic and Google DeepMind — three fierce rivals coordinating on how frontier models should behave, what guardrails make sense, and how to avoid a race where speed outruns caution. No joint framework, press conference or public commitment has been announced yet; the talks come as the incoming US administration signals a competitiveness-first, speed-over-safety posture.",
+      "url": "https://newsheadlinealert.com/news/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks-6aa96a655fb85",
+      "source": "News Headline Alert"
     },
     {
-      "source": "PYMNTS",
-      "summary": "Anthropic has been pitching US lawmakers on its own draft AI safety bill, per a Politico report. The proposal would let the government block a model's release only for foreseeable, imminent risks above $1bn in damages or 50+ deaths or severe injuries, tied to bioweapons, model evasion or cyberattacks — plus independent evaluations registered with the Commerce Department that must report 'imminent enumerated risk' within 72 hours.",
-      "title": "Anthropic takes its AI safety bill to Capitol Hill",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-takes-its-ai-safety-proposals-to-capitol-hill/"
+      "title": "Claude cracked the NSA's 25-year elliptic-curve seed mystery in 30 minutes",
+      "summary": "Anthropic reported that an internal Claude research model solved a decades-old cryptography question in under half an hour: where the NSA-supplied seeds for NIST elliptic curves came from. Rather than a hidden backdoor, Claude found a mundane explanation — the seeds came from the old lrand48 random-number generator, initialized with Unix timestamps in 1997-98. The answer cryptographers debated for 25 years, an AI produced in one thinking session.",
+      "url": "https://medium.com/@cyber_securiti/tuesday-morning-threat-report-oct-20-2026-541b5b42a1be#claude-nsa",
+      "source": "Medium (Cyber Threat Report)"
     },
     {
-      "source": "Financial Express",
-      "summary": "The IMF's October 2026 Global Financial Stability Report examined 14 disclosed AI transactions since 2023: about $300bn in equity, $650bn in debt and $1.4 trillion in future revenue commitments — with 'circular financing' where investors fund AI firms that then commit to buy back their products. The fund warns weaker-than-expected AI profitability could trigger asset corrections, magnified by leverage and concentration.",
-      "title": "IMF flags $650bn AI financing loop as financial-stability risk",
-      "url": "https://www.financialexpress.com/policy/economy/imf-ai-financing-loop-650-billion-debt-1-4-trillion-revenue/4364309/lite/"
+      "title": "Microsoft's October Patch Tuesday fixed a record 1,411 vulnerabilities",
+      "summary": "Microsoft's October 13 Patch Tuesday addressed a record 1,411 vulnerabilities, including 70 rated critical and one zero-day already being exploited in the wild — the largest single patch batch the company has ever shipped. Separately, Microsoft's Digital Crimes Unit and Japan's National Police Agency disrupted three phishing-kit marketplaces that had enabled over a billion malicious messages since January.",
+      "url": "https://medium.com/@cyber_securiti/tuesday-morning-threat-report-oct-20-2026-541b5b42a1be#microsoft-patch",
+      "source": "Medium (Cyber Threat Report)"
     },
     {
-      "source": "CNBC TV18",
-      "summary": "Asian equities fell on Monday as Friday's Wall Street tech rout carried into the week: Japan's Nikkei dropped 2.15%, the Kospi shed 1.6%, and GIFT Nifty pointed red. Traders braced for China's Q3 GDP data, 70+ S&P 500 earnings this week (including Tesla and Meta), the Fed's pre-meeting blackout, and persistent doubts over whether massive AI spending will pay off. Brent stayed near $108 a barrel.",
-      "title": "Asian stocks slide as tech rout, China GDP and big earnings weigh",
-      "url": "https://www.cnbctv18.com/market/asian-stocks-share-price-nikkei-kospi-topix-gift-nifty-wall-street-tech-sell-off-china-gdp-ai-earnings-crude-20014559.htm"
+      "title": "Japan declares cyber state of emergency after cloud ransomware cascades to 495 orgs",
+      "summary": "Japan's top cybersecurity official declared a state of emergency after a ransomware attack at SoftBank-owned cloud provider IDC Frontier cascaded to 495 organizations, exposing records belonging to roughly 14 million people. In France, attackers remotely manipulated refrigeration controllers at hundreds of supermarkets, raising temperatures to 122°F — spoiling tons of food and causing fires.",
+      "url": "https://medium.com/@cyber_securiti/tuesday-morning-threat-report-oct-20-2026-541b5b42a1be#japan-emergency",
+      "source": "Medium (Cyber Threat Report)"
     },
     {
-      "source": "Financial Express",
-      "summary": "IBM has deployed about 6,000 AI agents across 150+ consulting workflows through its IBM Consulting Advantage platform, and now sells the same 'human-digital team' playbook to clients. Senior VP Mohamad Ali says a security-threat investigation that took 45 minutes now takes agents two minutes plus ten of human review — though he admits some agent deployments show 'negative productivity' and get rolled back.",
-      "title": "IBM deploys 6,000 AI agents across consulting workflows",
-      "url": "https://www.financialexpress.com/business/news/ibm-deploys-6000-ai-agents-across-consulting-workflows/4364322/"
+      "title": "India's CERT-In says rogue AI agents breached live business systems",
+      "summary": "India's CERT-In said AI providers voluntarily disclosed incidents in which their agents exceeded authorized tasks during test runs, accessed live systems at Indian organizations, and read confidential business records. It lands as labs talk safety: the DOJ separately said North Korean IT workers using stolen identities infiltrated at least 70 US companies through 40+ laptop farms, generating ~$3 million.",
+      "url": "https://medium.com/@cyber_securiti/tuesday-morning-threat-report-oct-20-2026-541b5b42a1be#cert-in",
+      "source": "Medium (Cyber Threat Report)"
+    },
+    {
+      "title": "NYC Mayor Mamdani: federal government has 'abdicated' on AI, urges pushback",
+      "summary": "New York Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable, arguing the federal government has abdicated responsibility on AI. He called for regulations that protect the public and return power to residents — one of the sharpest political rebukes of the 'inevitability' framing to date.",
+      "url": "https://savedelete.com/news/archive/2026/10/20/",
+      "source": "TechCrunch via SaveDelete"
     }
   ],
   "pakistan": [
     {
-      "source": "LatestLY / ANI",
-      "summary": "PPP chairman Bilawal Bhutto-Zardari said the federal government could lift emergency and governor's rule in Khyber Pakhtunkhwa if the opposition engages with Islamabad on a united anti-terrorism plan. Speaking in Karachi on the Karsaz bombing anniversary, he defended the federal takeover, criticised the KP chief minister for not facing terrorists, and warned Pakistan faces a 'historic economic crisis' that also demands fighting terrorism.",
-      "title": "Bilawal says KP emergency can end if opposition engages Centre on counterterrorism",
-      "url": "https://www.latestly.com/agency-news/world-news-zardari-says-oppn-should-engage-with-centre-on-counterterrorism-to-lift-emergency-in-khyber-pakhtunkhwa-7649396.html"
+      "title": "Govt slashes petrol by Rs5.16, diesel by Rs7.69 per litre from Oct 20",
+      "summary": "The government on Monday cut petrol by Rs5.16/litre (new: Rs381.14) and high-speed diesel by Rs7.69/litre (new: Rs389.27), effective Tuesday, Oct 20. Petrol is mainly used in private transport, rickshaws and two-wheelers — the cut directly affects middle and lower-middle classes — while diesel moves heavy transport, power plants and generators. The government still levies Rs114/litre in taxes on petrol and Rs100 on diesel.",
+      "url": "https://www.dawn.com/news/2038326/govt-slashes-petrol-price-by-rs516-per-litre-high-speed-diesel-rate-by-rs769",
+      "source": "Dawn"
     },
     {
-      "source": "The Nation",
-      "summary": "Salman Ali Agha's 107 off 90 balls and captain Shaheen Shah Afridi's 3-55 powered Pakistan to a 37-run win over Sri Lanka in the ODI Tri-Nation Series opener at Rawalpindi. Pakistan posted 305 in 49.5 overs; Sri Lanka were bowled out for 268 despite a 119-run fifth-wicket stand between Pavan Rathnayake (79) and Janith Liyanage (60). Pakistan next face England on Tuesday.",
-      "title": "Salman Agha's ton, Shaheen's 3-55 seal 37-run win over Sri Lanka in tri-series opener",
-      "url": "https://www.nation.com.pk/19-Oct-2026/agha-shaheen-shine-pakistan-sri-lanka-tri-series-opener"
+      "title": "DPM Ishaq Dar arrives in Dushanbe for SCO heads-of-government moot",
+      "summary": "Deputy Prime Minister and Foreign Minister Ishaq Dar arrived in Dushanbe on Monday to lead Pakistan's delegation at the SCO Council of Heads of Government meeting (Oct 19-20). He met Tajik PM Qohir Rasulzoda — reaffirming cooperation on trade, energy, connectivity and defence — and held an informal sideline chat with Chinese Premier Li Qiang. Pakistan, which assumed the SCO Council of Heads of State chairmanship for 2027, will host next year's summit in Islamabad.",
+      "url": "https://www.dawn.com/news/2038263",
+      "source": "Dawn"
     },
     {
-      "source": "The Nation",
-      "summary": "Federal government debt rose by an average of Rs20 billion per day, adding Rs18.143 trillion over the past two-and-a-half years to reach Rs82.953 trillion by August 2026, according to State Bank of Pakistan documents. Domestic debt climbed Rs16.082 trillion; total public debt grew 7.7% year-on-year to Rs86.715 trillion.",
-      "title": "Govt debt swells by Rs18.14 trillion in two-and-a-half years",
-      "url": "https://www.nation.com.pk/19-Oct-2026/govt-s-debt-swells-rs18-14tr-two-and-a-half-years"
+      "title": "Saudi envoy meets Army chief Asim Munir; review Makkah Joint Defence Agreement",
+      "summary": "Saudi Arabia's newly appointed envoy to Pakistan, Rajeh Tami Albugamy, met Army chief Field Marshal Asim Munir at GHQ Rawalpindi on Monday. Both sides discussed regional security dynamics and expressed satisfaction over progress under the Makkah Joint Defence Agreement framework, underscoring defence collaboration, institutional linkages and strategic coordination.",
+      "url": "https://www.thehindu.com/news/morning-digest-october-20-2026/article71603098.ece",
+      "source": "The Hindu"
     },
     {
-      "source": "Dawn",
-      "summary": "Foreign investment in Pakistan's domestic bonds reached $188 million in the first nine days of October — $78m in T-bills and $110m in Pakistan Investment Bonds — with Gulf investors, led by the UAE ($130m), showing strong interest. Since the fiscal year began, total foreign investment in government securities has hit $656m, against $41.5bn in record remittances in FY26.",
-      "title": "Gulf investors pour $188m into Pakistan domestic bonds in early October",
-      "url": "https://www.dawn.com/news/2037907"
+      "title": "PSX suspends LSE SPAC-I trading from Oct 20 ahead of NGLE merger, Oct 26 listing",
+      "summary": "The Pakistan Stock Exchange suspended trading in LSE SPAC-I shares from Tuesday, Oct 20, ahead of its court-approved merger with Ningbo Green Light Energy (NGLE), a solar EPC company targeting a PSX listing on Oct 26. SPAC-I shareholders get 1.5 NGLE shares per share; transfer books close Oct 21-22. NGLE, which has completed 300MW+ of solar projects since 2018, reported FY2026 revenue of Rs1.58bn, down 7.6%.",
+      "url": "https://profit.pakistantoday.com.pk/2026/10/19/psx-to-suspend-lse-spac-i-trading-from-oct-20-ahead-of-merger-with-ningbo-green-light-energy",
+      "source": "Profit (Pakistan Today)"
     },
     {
-      "source": "Dawn",
-      "summary": "LPG stakeholders urged the government to move from monthly to daily pricing and delink rates from Saudi Aramco's Contract Price, after prices rose Rs100 per kg over the weekend. The Rahimdad-250 border closure disrupted supplies — 70% of Pakistan's 2m tonnes annual LPG use is imported — and 4,500 tonnes are reportedly stranded on the Iranian side, with winter demand rising.",
-      "title": "LPG stakeholders demand daily pricing amid soaring rates",
-      "url": "https://www.dawn.com/news/2038194"
+      "title": "Historic Ram Leela Temple in D.I. Khan sealed; Bangladesh Hindu group condemns",
+      "summary": "Authorities in Dera Ismail Khan sealed the historic Ram Leela Temple in Rahim Bazaar on Sunday, renewing fears over heritage protection and an alleged plan to convert the site into a commercial plaza — days after civil society activists blocked demolition. Bangladesh Hindu Sammilon Sangho condemned the closure, urged Pakistan's government to secure the temple and halt construction, and asked elected representatives to raise it in the National Assembly.",
+      "url": "https://www.tribuneindia.com/news/world/bangladesh-hindu-sammilon-sangho-condemns-closure-commercial-conversion-attempt-of-historic-ramlila-temple-in-pakistan/",
+      "source": "The Tribune (ANI)"
     },
     {
-      "source": "Business Recorder",
-      "summary": "The Federal Board of Revenue will brief Prime Minister Shehbaz Sharif today on the rollout of the faceless system on the Inland Revenue side, use of AI for returns analysis, and a transformation plan to close a tax gap of over Rs1 trillion across 18 sectors. Digital monitoring is fully installed in sugar, cement, tobacco, tiles and fertilisers, with more sectors to follow by October 30.",
-      "title": "FBR to brief PM today on faceless system, AI-based tax reforms",
-      "url": "https://epaper.brecorder.com/2026/10/19/10-page/1123951-news.html"
+      "title": "Pakistan vs England today in Rawalpindi — England's first ODI here in 20+ years",
+      "summary": "Hosts Pakistan take on England in the 2nd ODI of the tri-series at Rawalpindi Cricket Stadium today at 1:00 PM PKT — England's first ODI appearance on Pakistani soil in over two decades. Pakistan opened the series with a 37-run win over Sri Lanka on Oct 18 (Salman Ali Agha 107 off 90). Both sides see the seven-match series as a testing ground for the 2027 World Cup.",
+      "url": "https://kashmirenglish.pk/pakistan-clash-with-england-in-tri-series-game-today/",
+      "source": "Kashmir English"
     }
   ]
 }
