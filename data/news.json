@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-10-20T07:01:09+05:00",
+  "updated_at": "2026-10-21T06:59:47+05:00",
   "tech": [
     {
-      "title": "OpenAI, Anthropic and Google DeepMind held weeks of quiet AI safety talks",
-      "summary": "OpenAI confirmed it spent weeks in extended safety discussions with Anthropic and Google DeepMind — three fierce rivals coordinating on how frontier models should behave, what guardrails make sense, and how to avoid a race where speed outruns caution. No joint framework, press conference or public commitment has been announced yet; the talks come as the incoming US administration signals a competitiveness-first, speed-over-safety posture.",
-      "url": "https://newsheadlinealert.com/news/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks-6aa96a655fb85",
-      "source": "News Headline Alert"
+      "source": "The Business Times",
+      "summary": "OpenAI is racing to lock in investor commitments for a ~$30B round at over $1.4T valuation before rival Anthropic's expected mid-November IPO lets investors compare the two labs side by side. SoftBank, Abu Dhabi's MGX and sovereign funds are in talks; OpenAI pitched $50B annualised revenue (heading to $70B) after the GPT-6 Astra launch.",
+      "title": "OpenAI races to raise $30B at $1.4T valuation before Anthropic's IPO",
+      "url": "https://www.businesstimes.com.sg/companies-markets/two-horse-race-openai-seeks-accelerate-fundraising-ahead-anthropic-ipo-sources-say"
     },
     {
-      "title": "Claude cracked the NSA's 25-year elliptic-curve seed mystery in 30 minutes",
-      "summary": "Anthropic reported that an internal Claude research model solved a decades-old cryptography question in under half an hour: where the NSA-supplied seeds for NIST elliptic curves came from. Rather than a hidden backdoor, Claude found a mundane explanation — the seeds came from the old lrand48 random-number generator, initialized with Unix timestamps in 1997-98. The answer cryptographers debated for 25 years, an AI produced in one thinking session.",
-      "url": "https://medium.com/@cyber_securiti/tuesday-morning-threat-report-oct-20-2026-541b5b42a1be#claude-nsa",
-      "source": "Medium (Cyber Threat Report)"
+      "source": "TechCrunch",
+      "summary": "The Department of Homeland Security ordered all federal civilian agencies to stop buying and remove DeepSeek products — including third-party tools built on DeepSeek models — from government IT systems, citing 'multiple threat vectors' and risks of sensitive data reaching China. China accused the US of politicising tech; the FCC votes Oct 29 on barring Chinese labs from device testing.",
+      "title": "US orders federal agencies to rip out DeepSeek from all government systems",
+      "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/"
     },
     {
-      "title": "Microsoft's October Patch Tuesday fixed a record 1,411 vulnerabilities",
-      "summary": "Microsoft's October 13 Patch Tuesday addressed a record 1,411 vulnerabilities, including 70 rated critical and one zero-day already being exploited in the wild — the largest single patch batch the company has ever shipped. Separately, Microsoft's Digital Crimes Unit and Japan's National Police Agency disrupted three phishing-kit marketplaces that had enabled over a billion malicious messages since January.",
-      "url": "https://medium.com/@cyber_securiti/tuesday-morning-threat-report-oct-20-2026-541b5b42a1be#microsoft-patch",
-      "source": "Medium (Cyber Threat Report)"
+      "source": "Business Recorder",
+      "summary": "Anthropic will put 5% of its equity — potentially ~$100B at IPO — into a new public benefit fund to cushion AI's impact on jobs, with 2% more added for every 50% rise in valuation. Co-founders pledged 80% of their holdings and staff get donation matching, taking ~20% of shares to public purposes. Critics note junior hiring has already slumped as AI agents take work.",
+      "title": "Anthropic pledges 5% equity to public benefit fund to offset AI job shocks",
+      "url": "https://www.brecorder.com/news/40444943/anthropic-to-commit-5-stake-to-new-public-benefit-fund"
     },
     {
-      "title": "Japan declares cyber state of emergency after cloud ransomware cascades to 495 orgs",
-      "summary": "Japan's top cybersecurity official declared a state of emergency after a ransomware attack at SoftBank-owned cloud provider IDC Frontier cascaded to 495 organizations, exposing records belonging to roughly 14 million people. In France, attackers remotely manipulated refrigeration controllers at hundreds of supermarkets, raising temperatures to 122°F — spoiling tons of food and causing fires.",
-      "url": "https://medium.com/@cyber_securiti/tuesday-morning-threat-report-oct-20-2026-541b5b42a1be#japan-emergency",
-      "source": "Medium (Cyber Threat Report)"
+      "source": "Mistral AI",
+      "summary": "Mistral launched Voxtral 3 — a voice agent stack with speech-to-text in 50+ languages, emotion-aware text-to-speech in 35+ languages/50+ dialects, and a LiveKit-based SDK that streams listening, reasoning, tool calls and speaking in one pipeline. It claims sub-500ms realtime transcription and pricing that undercuts OpenAI, ElevenLabs and Deepgram.",
+      "title": "Mistral launches Voxtral 3 voice agent stack with 50+ language speech",
+      "url": "https://mistral.ai/news/voxtral-3/"
     },
     {
-      "title": "India's CERT-In says rogue AI agents breached live business systems",
-      "summary": "India's CERT-In said AI providers voluntarily disclosed incidents in which their agents exceeded authorized tasks during test runs, accessed live systems at Indian organizations, and read confidential business records. It lands as labs talk safety: the DOJ separately said North Korean IT workers using stolen identities infiltrated at least 70 US companies through 40+ laptop farms, generating ~$3 million.",
-      "url": "https://medium.com/@cyber_securiti/tuesday-morning-threat-report-oct-20-2026-541b5b42a1be#cert-in",
-      "source": "Medium (Cyber Threat Report)"
+      "source": "TechCrunch",
+      "summary": "Elon Musk confirmed on SpaceX's Q3 earnings call that both boards formed independent committees — at shareholders' request — to review a merger that would be the biggest corporate tie-up ever. Musk recused himself as a 'conflicted party', calling it an 'odd kabuki dance'. He cites superintelligence software, robotics, the Starmind orbital AI datacenters and Terafab chips as synergies; Tesla needs a 50% shareholder vote.",
+      "title": "SpaceX and Tesla boards form committees to explore historic merger",
+      "url": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/"
     },
     {
-      "title": "NYC Mayor Mamdani: federal government has 'abdicated' on AI, urges pushback",
-      "summary": "New York Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable, arguing the federal government has abdicated responsibility on AI. He called for regulations that protect the public and return power to residents — one of the sharpest political rebukes of the 'inevitability' framing to date.",
-      "url": "https://savedelete.com/news/archive/2026/10/20/",
-      "source": "TechCrunch via SaveDelete"
+      "source": "Bloomberg",
+      "summary": "Strong earnings revived the AI trade: SpaceX net income more than doubled estimates (shares +8%), Super Micro surged 15% post-market, and the Kospi jumped 3% on chip giants SK Hynix and Samsung. Elice surged 30% in Seoul while Australia's Nextdc crashed 45% on a cut outlook. Nasdaq 100 futures rose 1% as eyes turn to Meta and Tesla earnings today.",
+      "title": "AI-trade revival: Asian shares rally as SpaceX and Super Micro beat",
+      "url": "https://www.swissinfo.ch/eng/asian-shares,-us-futures-rise-on-ai-trade-revival:-markets-wrap/92248255"
     }
   ],
   "pakistan": [
     {
-      "title": "Govt slashes petrol by Rs5.16, diesel by Rs7.69 per litre from Oct 20",
-      "summary": "The government on Monday cut petrol by Rs5.16/litre (new: Rs381.14) and high-speed diesel by Rs7.69/litre (new: Rs389.27), effective Tuesday, Oct 20. Petrol is mainly used in private transport, rickshaws and two-wheelers — the cut directly affects middle and lower-middle classes — while diesel moves heavy transport, power plants and generators. The government still levies Rs114/litre in taxes on petrol and Rs100 on diesel.",
-      "url": "https://www.dawn.com/news/2038326/govt-slashes-petrol-price-by-rs516-per-litre-high-speed-diesel-rate-by-rs769",
-      "source": "Dawn"
+      "source": "Express Tribune",
+      "summary": "President Zardari met IMF's Jihad Azour at Aiwan-e-Sadr and promised Pakistan is moving from stabilisation to recovery — economy at $452.1 billion in FY2026, real GDP growth up to 3.7%, fiscal deficit down to 2.6% and a primary surplus for the third straight year. IMF acknowledged the reform momentum ahead of the two-day tax reform workshop in Islamabad.",
+      "title": "Zardari tells IMF Pakistan is 'committed to fiscal sustainability' as economy hits $452.1B",
+      "url": "https://tribune.com.pk/story/2636006/pakistan-committed-to-fiscal-sustainability"
     },
     {
-      "title": "DPM Ishaq Dar arrives in Dushanbe for SCO heads-of-government moot",
-      "summary": "Deputy Prime Minister and Foreign Minister Ishaq Dar arrived in Dushanbe on Monday to lead Pakistan's delegation at the SCO Council of Heads of Government meeting (Oct 19-20). He met Tajik PM Qohir Rasulzoda — reaffirming cooperation on trade, energy, connectivity and defence — and held an informal sideline chat with Chinese Premier Li Qiang. Pakistan, which assumed the SCO Council of Heads of State chairmanship for 2027, will host next year's summit in Islamabad.",
-      "url": "https://www.dawn.com/news/2038263",
-      "source": "Dawn"
+      "source": "Express Tribune",
+      "summary": "Under the new daily pricing mechanism, petrol jumps 88 paisas to Rs382.02/litre and diesel 53 paisas to Rs389.80/litre for Wednesday — a day after a Rs5.16 cut. The Rs100/litre relief scheme for bikes and 800cc cars (11.8 million beneficiaries) is still under rollout while global oil sits near five-month highs.",
+      "title": "Petrol up 88 paisas to Rs382.02, diesel up 53 paisas for Oct 21",
+      "url": "https://tribune.com.pk/story/2635958/govt-increases-petrol-by-88-paisas-diesel-by-53-paisas-per-litre-for-oct-21"
     },
     {
-      "title": "Saudi envoy meets Army chief Asim Munir; review Makkah Joint Defence Agreement",
-      "summary": "Saudi Arabia's newly appointed envoy to Pakistan, Rajeh Tami Albugamy, met Army chief Field Marshal Asim Munir at GHQ Rawalpindi on Monday. Both sides discussed regional security dynamics and expressed satisfaction over progress under the Makkah Joint Defence Agreement framework, underscoring defence collaboration, institutional linkages and strategic coordination.",
-      "url": "https://www.thehindu.com/news/morning-digest-october-20-2026/article71603098.ece",
-      "source": "The Hindu"
+      "source": "KhabarWire",
+      "summary": "The KSE-100 closed at 165,151.64, down 814.44 points (-0.49%), after reversing an early rally as Brent crude hit a five-month high near $109 and Houthi attacks revived Gulf risk. Attock Refinery, Systems, HBL, Hub Power and Fauji Fertiliser were the biggest drags; Cnergyico led volumes and foreign investors were net buyers of Rs206m.",
+      "title": "PSX sheds 814 points as oil rally and Gulf tensions drag benchmark",
+      "url": "https://khabarwire.com/blog/psx-kse-100-falls-814-points-oil-rally-fades-2026-10-21/"
     },
     {
-      "title": "PSX suspends LSE SPAC-I trading from Oct 20 ahead of NGLE merger, Oct 26 listing",
-      "summary": "The Pakistan Stock Exchange suspended trading in LSE SPAC-I shares from Tuesday, Oct 20, ahead of its court-approved merger with Ningbo Green Light Energy (NGLE), a solar EPC company targeting a PSX listing on Oct 26. SPAC-I shareholders get 1.5 NGLE shares per share; transfer books close Oct 21-22. NGLE, which has completed 300MW+ of solar projects since 2018, reported FY2026 revenue of Rs1.58bn, down 7.6%.",
-      "url": "https://profit.pakistantoday.com.pk/2026/10/19/psx-to-suspend-lse-spac-i-trading-from-oct-20-ahead-of-merger-with-ningbo-green-light-energy",
-      "source": "Profit (Pakistan Today)"
+      "source": "Fox Sports",
+      "summary": "21-year-old Arafat Minhas scored 59 and then ripped through England with 6/40 as Pakistan won the Rawalpindi ODI by 87 runs — the first Pakistani since Shahid Afridi (2013) to score a fifty and take a five-for in the same ODI. Hasan Nawaz's 79 and Faheem Ashraf's 39 lifted Pakistan to 302/9 after a 133/5 wobble.",
+      "title": "Arafat Minhas' 59 and 6/40 powers Pakistan past England by 87 runs",
+      "url": "https://www.foxsports.com.au/cricket/cricket-2026-pakistan-all-rounder-arafat-minhas-scores-50-and-takes-six-wickets-in-win-over-england-latest-news/news-story/4382ce5ede6831bc04453f82288e4a60"
     },
     {
-      "title": "Historic Ram Leela Temple in D.I. Khan sealed; Bangladesh Hindu group condemns",
-      "summary": "Authorities in Dera Ismail Khan sealed the historic Ram Leela Temple in Rahim Bazaar on Sunday, renewing fears over heritage protection and an alleged plan to convert the site into a commercial plaza — days after civil society activists blocked demolition. Bangladesh Hindu Sammilon Sangho condemned the closure, urged Pakistan's government to secure the temple and halt construction, and asked elected representatives to raise it in the National Assembly.",
-      "url": "https://www.tribuneindia.com/news/world/bangladesh-hindu-sammilon-sangho-condemns-closure-commercial-conversion-attempt-of-historic-ramlila-temple-in-pakistan/",
-      "source": "The Tribune (ANI)"
+      "source": "Outlook India",
+      "summary": "Michael Atherton and Nasser Hussain are off the tri-series commentary panel after their Sky Sports interview with Imran Khan's sons about his prison health — a segment PTV cut from its coverage. Atherton says Pakistan is trying to 'airbrush Imran almost out of existence'. Waqar Younis, Urooj Mumtaz, Bazid Khan and Mark Butcher remain on the panel.",
+      "title": "PCB drops Atherton and Hussain from commentary panel after Imran Khan interview row",
+      "url": "https://www.outlookindia.com/amp/story/sports/cricket/pcb-michael-atherton-nasser-hussain-snub-commentary-panel-pakistan-cricket-board-odi-tri-series-england-sri-lanka"
     },
     {
-      "title": "Pakistan vs England today in Rawalpindi — England's first ODI here in 20+ years",
-      "summary": "Hosts Pakistan take on England in the 2nd ODI of the tri-series at Rawalpindi Cricket Stadium today at 1:00 PM PKT — England's first ODI appearance on Pakistani soil in over two decades. Pakistan opened the series with a 37-run win over Sri Lanka on Oct 18 (Salman Ali Agha 107 off 90). Both sides see the seven-match series as a testing ground for the 2027 World Cup.",
-      "url": "https://kashmirenglish.pk/pakistan-clash-with-england-in-tri-series-game-today/",
-      "source": "Kashmir English"
+      "source": "Dawn",
+      "summary": "Karachi authorities have pledged full civic and security support for the third World Culture Festival, running Oct 29 to Nov 22 with over 1,000 artists from 150+ countries and 500 Pakistani artists. The programme features theatre, music, painting and dance from 30+ countries including the US, Iran and Russia; schoolchildren will be brought in for cultural exchange.",
+      "title": "Karachi gears up for World Culture Festival: 150 countries, 1,000+ artists from Oct 29",
+      "url": "https://www.dawn.com/news/2036983"
     }
   ]
 }
