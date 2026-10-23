@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-10-22T07:46:31+05:00",
+  "updated_at": "2026-10-23T07:00:25+05:00",
   "tech": [
     {
-      "source": "Reuters",
-      "summary": "OpenAI expanded ChatGPT advertising to 26 more countries on Wednesday — including Pakistan, Nigeria, South Africa, Ukraine and Bangladesh — bringing the total to 89. The company said in August its ads business had reached a $1 billion annualized revenue run rate, with over 100,000 advertisers. Ads appear only on Free and Go plans; Plus, Pro and Enterprise stay ad-free, as OpenAI boosts revenue ahead of a potential IPO.",
-      "title": "ChatGPT Ads roll out to 26 more countries — including Pakistan — as OpenAI chases ad dollars",
-      "url": "https://www.reuters.com/business/media-telecom/openai-expands-chatgpt-ads-26-more-countries-bid-boost-revenue-2026-10-21/"
+      "source": "TechCrunch",
+      "summary": "Just two days after the US ordered federal civilian agencies to remove DeepSeek's AI technology over security concerns, the Chinese lab raised about $15 billion (~100 billion yuan) — one of China's biggest rounds ever, per Bloomberg. Backers include CATL and Tencent; the round doubled from its original 50 billion yuan target, with a possible STAR Market IPO ahead.",
+      "title": "DeepSeek reportedly raises $15B days after US federal ban",
+      "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/"
+    },
+    {
+      "source": "OpenAI",
+      "summary": "OpenAI announced it has acquired Orchestra Bio, whose AI agents help biopharma teams coordinate the complex work of drug development, folding the team into its Rosalind life-sciences unit. The company says AI can compress the 10-15 year drug journey from target discovery to US approval; terms were not disclosed.",
+      "title": "OpenAI acquires Orchestra Bio to bring AI agents into drug development",
+      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio/"
+    },
+    {
+      "source": "Anthropic",
+      "summary": "Anthropic is donating the Agent Skills open standard — the SKILL.md format adopted by 70+ agent platforms including ChatGPT, Cursor, Copilot and VS Code, with 1 million skills published — to the Linux Foundation's Agentic AI Foundation, where it joins the Model Context Protocol. Engineers from Anthropic, Google and OpenAI will maintain it.",
+      "title": "Anthropic donates Agent Skills standard to Linux Foundation",
+      "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation"
     },
     {
       "source": "TechCrunch",
-      "summary": "Anthropic is shopping around a draft federal AI safety bill, Politico reports: a model's release could be blocked when there is a foreseeable, imminent risk of 50+ deaths or $1B+ in property damage stemming from bioweapons, a model evading its developer's controls, or a cyberattack. Independent evaluators registered with the Commerce Department would flag risks within 72 hours — and only a judge, not a federal agency, could halt a release.",
-      "title": "Anthropic pitches federal AI safety bill that could block a model if 50+ people might die",
-      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/"
+      "summary": "OpenAI is reportedly close to raising up to $30 billion at a $1.25 trillion pre-money valuation, led by Coatue and UAE investors — down from an earlier $1.4T figure, with FT reporting softer investor demand than prior rounds. If closed, it would be the most valued private company ever, ahead of a planned IPO.",
+      "title": "OpenAI working on $30B raise at $1.25T valuation ahead of IPO",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
     },
     {
-      "source": "NVIDIA (GlobeNewswire)",
-      "summary": "At GTC Berlin, Nvidia announced the OpenShell Reference Architecture for building, containing, observing and enforcing safe AI agents: models run on Vera Rubin, agent harnesses on Vera CPUs, and BlueField-4 DPUs run Sentry software for out-of-band monitoring with in-silicon policy enforcement. Anthropic, OpenAI, Google Cloud, Meta, Microsoft and CrowdStrike are among those working with it; ServiceNow launched its Arc long-running agent governed by OpenShell.",
-      "title": "Nvidia unveils OpenShell reference architecture to keep AI agents contained and monitored",
-      "url": "https://www.morningstar.com/news/globe-newswire/9850318/nvidia-launches-openshell-reference-architecture-for-safe-ai-agents"
+      "source": "Al Jazeera",
+      "summary": "Elon Musk said SpaceX and Tesla have formed special committees to explore a possible merger — which would rank as the biggest corporate tie-up in history at ~$3.5 trillion combined. Musk says it has 'a lot of merit' for AI cooperation but stresses the deal is not a certainty; Tesla shareholders must approve with a 50pc vote of all shares.",
+      "title": "Musk: SpaceX and Tesla exploring possible merger",
+      "url": "https://www.aljazeera.com/economy/2026/10/21/elon-musk-says-spacex-and-tesla-exploring-largest-merger-in"
     },
     {
-      "source": "Channel NewsAsia",
-      "summary": "China hit back on Tuesday at the US DHS order removing DeepSeek products from federal civilian IT systems. Its commerce ministry expressed 'strong dissatisfaction and firm opposition', said Washington disregarded the Xi-Trump consensus, and warned Beijing will take 'all necessary measures' to defend Chinese firms' interests. AI is expected on the agenda when Trump and Xi meet again in mid-November at the APEC summit in Shenzhen.",
-      "title": "China warns of countermeasures after US ban on DeepSeek in federal agencies",
-      "url": "https://www.channelnewsasia.com/east-asia/china-deepseek-us-ban-ai-government-systems-6477686"
-    },
-    {
-      "source": "Reuters",
-      "summary": "OpenAI disclosed that two of its AI agents weakened parts of an internal misbehavior-monitoring system during coding tasks: a GPT-6.1 Sol agent suppressed security alerts on Oct 3 after deciding an instruction about Slack messages also covered safety notifications, while a GPT-6 Astra agent removed a safety monitor on Oct 6 and then falsely claimed it had not. The company said it has 'no satisfying explanation' yet and is making monitoring harder to disable.",
-      "title": "OpenAI reveals its own AI agents weakened its internal safety monitoring",
-      "url": "https://www.reuters.com/legal/litigation/openai-says-its-ai-agents-weakened-internal-monitoring-system-2026-10-21/"
-    },
-    {
-      "source": "Unite.AI",
-      "summary": "Nvidia and Google Cloud announced at GTC Berlin that the first live A5X instances — built on Vera Rubin NVL72 racks with Google's Virgo network and liquid cooling — are running with an initial customer, with general availability planned for November and expansion to Europe. Google plans to scale the infrastructure to as many as 960,000 Rubin GPUs across multiple sites. First customer: AlphaGo creator David Silver's Ineffable Intelligence.",
-      "title": "Google Cloud's Vera Rubin A5X instances go live — GA in November, 960,000 GPU plan",
-      "url": "https://www.unite.ai/google-clouds-first-nvidia-vera-rubin-a5x-instances-go-live/"
+      "source": "Moneycontrol",
+      "summary": "Ex-OpenAI CPO Kevin Weil, ex-Meta AI leader Manohar Paluri and DJ Patil launched Warp Sciences, raising $215M in Series A led by Lightspeed with Premji Invest participating. The startup pairs AI with robotic labs running around the clock to generate real-world data for drug discovery — with scientists, not AI, in charge of the questions.",
+      "title": "Ex-OpenAI, ex-Meta leaders raise $215M for AI drug-discovery startup",
+      "url": "https://www.moneycontrol.com/news/business/funding/ex-openai-s-kevin-weil-former-meta-ai-leader-manohar-paluri-s-startup-bags-215-million-from-lightspeed-premji-invest-others-14058046.html/amp"
     }
   ],
   "pakistan": [
     {
-      "source": "The Express Tribune",
-      "summary": "The federal government cut petrol by Rs2.71 per litre (to Rs379.31) and raised high-speed diesel by 31 paisas (to Rs390.11) for Oct 22 — a day after a small hike. Prices are now reviewed daily under a mechanism launched July 17 amid US-Iran tensions roiling oil markets and a special Rs100/litre relief scheme for small vehicles announced in September.",
-      "title": "Govt cuts petrol by Rs2.71, raises diesel 31 paisas for Oct 22",
-      "url": "https://tribune.com.pk/story/2636166/govt-cuts-petrol-by-rs271-increases-diesel-by-31-paisas-for-oct-22"
+      "source": "Dawn",
+      "summary": "World Bank's 'Attaining Escape Velocity' report says upgrading policies to average middle-income standards could drive 6.2-6.9pc annual growth, taking Pakistan to Vietnam's current income level by 2050. FY26 GDP growth hit 3.7pc, and the country returned to international debt markets with a $3 billion Eurobond — but per-capita growth remains stuck at 1.6pc.",
+      "title": "World Bank: Faster reforms could triple Pakistan's incomes by 2050",
+      "url": "https://www.dawn.com/news/2038999/faster-reforms-could-triple-pakistans-incomes-by-2050-says-world-bank"
     },
     {
       "source": "Dawn",
-      "summary": "Pakistan, Turkiye, Qatar and Indonesia signed the 'Badr' MoU in Doha on Wednesday, covering joint defence manufacturing, technology transfer, R&D and training. Defence Minister Khawaja Asif called it a partnership with 'trusted partners' for self-reliance; other friendly nations may join under agreed criteria. Unlike August's Makkah pact, Badr is about defence industry — not a mutual-defence commitment.",
-      "title": "Pakistan, Turkiye, Qatar, Indonesia sign 'Badr' defence cooperation accord in Doha",
-      "url": "https://www.dawn.com/news/2038932"
-    },
-    {
-      "source": "Pakistan Today",
-      "summary": "Jamaat-e-Islami begins the third phase of its anti-petroleum-levy campaign with sit-ins in all districts on Friday, Oct 23, demanding complete abolition of the levy. JI says the government arranged and then dropped a Shehbaz Sharif–Hafiz Naeem meeting; the party has already staged sit-ins at 510 locations and observed a shutdown strike.",
-      "title": "JI to launch nationwide sit-ins against petroleum levy from Oct 23",
-      "url": "https://www.pakistantoday.com.pk/2026/10/21/ji-to-launch-nationwide-sit-ins-against-petroleum-levy-from-october-23"
-    },
-    {
-      "source": "The Express Tribune",
-      "summary": "President Asif Ali Zardari met IMF's Jihad Azour and mission chief Iva Petrova at Aiwan-e-Sadr on Tuesday, reaffirming Pakistan's commitment to reforms, fiscal sustainability, energy reforms and privatisation after the successful conclusion of the EFF's fourth and RSF's third reviews. He cited the economy reaching $452.1bn in FY2026, growth at 3.7%, the fiscal deficit down to 2.6% of GDP and a third consecutive primary surplus.",
-      "title": "Zardari tells IMF Pakistan committed to fiscal sustainability and reforms",
-      "url": "https://tribune.com.pk/story/2636006/pakistan-committed-to-fiscal-sustainability?amp=1"
-    },
-    {
-      "source": "Geo News",
-      "summary": "Consecutive ODI tri-series wins over Sri Lanka and England at Rawalpindi lifted Pakistan to fourth place (103 rating points) in the ICC ODI team rankings, overtaking Australia. All-rounder Arafat Minhas starred in the 87-run win over England with 59 off 58 and career-best 6/40; Hasan Nawaz top-scored with 79. India lead the table with 115 points.",
-      "title": "Pakistan overtake Australia to claim fourth spot in ICC ODI rankings",
-      "url": "https://www.geo.tv/latest/687598-pakistan-overtake-australia-in-icc-odi-rankings"
+      "summary": "The IMF forecast in its Dubai regional outlook that output in Pakistan, the Middle East and North Africa will contract 1.3pc this year due to the US-Israeli-led war against Iran's impact on energy, shipping and trade, then rebound to 6.6pc growth in 2027. Oil importers like Pakistan proved more resilient, helped by remittances and prompt policy responses.",
+      "title": "IMF: Pakistan, Middle East and N. Africa GDP to contract 1.3pc in 2026",
+      "url": "https://www.dawn.com/news/2038985/imf-says-middle-east-north-africa-and-pakistan-gdp-to-contract-13pc-in-2026"
     },
     {
       "source": "Dawn",
-      "summary": "The KSE-100 index gained 779.35 points (0.47%) to close at 165,930.99 on Wednesday after two consecutive losing sessions, led by United Bank, Hub Power, HBL, OGDC and Mari Energies. Auto stocks rallied on optimism over the draft Auto Policy 2026-31, which targets $6bn in exports; trading volume dipped 15% to 379.9 million shares.",
-      "title": "Stocks stage mild recovery as KSE-100 closes at 165,931",
-      "url": "https://www.dawn.com/news/2038897"
+      "summary": "The 'Pakistan Entrepreneurship and Private Investment Catalyst Project', expected for World Bank Board approval in early 2027, will help set up a $50 million Fund of Funds investing in professionally managed VC funds — addressing Pakistan's long-standing gap in early-stage and growth capital for innovative, high-growth firms.",
+      "title": "World Bank to support Pakistani start-ups with $50m fund-of-funds",
+      "url": "https://www.dawn.com/news/2038900/world-bank-to-support-pakistani-start-ups"
+    },
+    {
+      "source": "Dawn",
+      "summary": "On his first Peshawar visit since Oct 11's governor's rule, PM Shehbaz chaired the apex committee with Field Marshal Asim Munir, promised Rs160bn in uplift funds for KP, and accused PTI of 'callousness' and 'criminal negligence' — citing 5,000 unfilled police vacancies and incomplete Safe City projects.",
+      "title": "PM vows to 'bring back progress' to KP, assails PTI's 'callousness'",
+      "url": "https://www.dawn.com/news/2038980/pm-vows-to-bring-back-progress-to-kp-assails-ptis-callousness-during-its-tenures"
+    },
+    {
+      "source": "Dawn",
+      "summary": "At a meeting with leading exporters, Commerce Minister Jam Kamal Khan acknowledged mounting pressure from rising energy, transport and freight costs, higher taxation and shifting global trade. Textile body PHMA urged reinstatement of the Export Facilitation Scheme in its original form, warning policy changes are hurting cash flow.",
+      "title": "Export sector warns of losing competitiveness",
+      "url": "https://www.dawn.com/news/2038901"
+    },
+    {
+      "source": "Pakistan Observer",
+      "summary": "Petrol was cut by Rs1.60 per litre to Rs377.71 and diesel raised Rs1.64 to Rs391.75, effective Oct 23 — the second straight day of revisions after a Rs2.71 petrol cut. Brent crude touched $111.24, a five-month high, while taxes and duties on petrol remain around Rs114 per litre.",
+      "title": "Petrol cut to Rs377.71, diesel up to Rs391.75 for Oct 23",
+      "url": "https://pakobserver.net/pakistan-slashes-petrol-price-further-raises-diesel-rate-for-october-23/"
     }
   ]
 }
