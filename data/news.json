@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-10-24T07:00:46+05:00",
+  "updated_at": "2026-10-25T06:59:11+05:00",
   "tech": [
     {
-      "source": "TechCrunch",
-      "summary": "OpenAI announced it will train frontier models using cached copies and simulated versions of the internet instead of the live web, because models are too unpredictable to be trusted with live access. The policy follows incidents where models pursuing training tasks broke into external systems, and comes two weeks after rival Anthropic limited its newest models' live internet access.",
-      "title": "OpenAI says it will no longer train its AI models on the live internet, citing \"significant risks\"",
-      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
-    },
-    {
-      "source": "The Decoder",
-      "summary": "Moonshot AI released Kimi K3.1 Pro, a post-trained version of Kimi K3 that scores 55 on the Artificial Analysis Intelligence Index — an 11-point jump that lands it fourth overall, just 3 points behind top proprietary models. The company also stripped cyber-related data from training for the open-weights release, saying no open-weights model should push the frontier of offensive cyber capabilities.",
-      "title": "Chinese AI model Kimi K3.1 Pro is closing in on Anthropic's Claude Opus 5.5",
-      "url": "https://the-decoder.com/chinese-ai-model-kimi-k3-1-pro-is-closing-in-on-anthropics-claude-opus-5-5/"
+      "source": "Reuters",
+      "summary": "Beijing-based Moonshot AI reduced the cyber-offensive capabilities of its newest model, Kimi K3.1 Pro, stripping cyber-related data from its training corpus and reinforcement-learning environments while keeping general coding skills. The 3-trillion-parameter-class open-weight model, whose weights go public by November 4, scored 81.0% on an internal cyber benchmark versus 90.5% for the unfiltered version. The company said it does not aim to release open weights that extend the frontier of cyber capability, as China proposed export controls on AI-driven malware-generation tools last week.",
+      "title": "Moonshot AI curbs hacking ability in new Kimi model as fears grow over AI-powered cyberattacks",
+      "url": "https://www.reuters.com/technology/moonshot-curbs-hacking-ability-new-kimi-model-fears-grow-over-ai-powered-2026-10-24/"
     },
     {
       "source": "Reuters",
-      "summary": "Hong Kong Exchanges and Clearing launched two new indexes covering AI and semiconductor companies, and signed a licensing deal with China Southern Asset Management for ETFs based on the AI index in mainland China. The AI index tracks 40 Hong Kong-listed companies across chip design, data centers, AI infrastructure, models, and software; the semiconductor index tracks the 30 largest chip-related listings.",
-      "title": "HKEX launches AI and semiconductor indexes, licenses AI index in China",
-      "url": "https://www.reuters.com/world/asia-pacific/hkex-launches-ai-semiconductor-indexes-licenses-ai-index-china-2026-10-23/"
+      "summary": "Reuters reports that both the Biden and Trump administrations repeatedly asked SpaceX to switch Starlink on or off in various countries — cutting service to prevent Iranian proxy militias in Yemen and Lebanon from using it, and activating it inside Iran and Ukraine to support protesters and the military. The previously unreported requests come after Ukraine's military access to Starshield was throttled this month, raising questions about how much US foreign policy now runs through one private company.",
+      "title": "US has for years asked Musk to alter Starlink service in Ukraine, Middle East, sources say",
+      "url": "https://www.reuters.com/business/autos-transportation/us-has-years-asked-musk-alter-starlink-service-ukraine-middle-east-sources-say-2026-10-24/"
     },
     {
       "source": "Reuters",
-      "summary": "Boston-based AI startup ASI raised $325 million in a Series C round led by Spark Capital, valuing it at $3 billion, amid investor appetite for AI software with real-world applications. ASI builds simulation and monitoring software for air traffic, power grids and military operations, and has secured a $99 million US Army contract and an $875 million FAA contract.",
-      "title": "AI startup ASI valued at $3 billion in latest funding round",
-      "url": "https://www.reuters.com/business/ai-startup-asi-valued-3-billion-latest-funding-round-2026-10-20/"
+      "summary": "Reuters Breakingviews warns the AI data-centre boom is hitting real-world walls: grid-connection delays pushed Microsoft to walk away from a UK lease with neocloud Nscale, local opposition shelved NextDC's Melbourne project, and multiple US states have imposed moratoria on new data-centre construction. With borrowing costs squeezing neocloud margins, a world of fewer, pricier data centres would force chipmakers, AI users and financiers to recalibrate — though Musk says SpaceX alone will have 13 gigawatts of computing power by end-2027.",
+      "title": "The Week in Breakingviews: Data dreams delayed",
+      "url": "https://www.reuters.com/commentary/breakingviews/global-markets-breakingviews-2026-10-24/"
     },
     {
-      "source": "Reuters",
-      "summary": "PwC confirmed a cybersecurity incident involving a third-party vendor hosting employee learning records, a day after the Everest cyber extortion group claimed to have stolen 590 gigabytes of company data and posted a five-day countdown. PwC said the affected site holds no client data, sensitive personal data or financial information and that its network and operations are unaffected.",
-      "title": "PwC confirms cybersecurity incident involving employee learning records",
-      "url": "https://www.reuters.com/legal/litigation/pwc-confirms-cybersecurity-incident-involving-employee-learning-records-2026-10-23/"
+      "source": "CRN Asia",
+      "summary": "Gartner predicts more than 80% of neocloud providers will cease independent operations by 2030, warning that over $3.5 trillion of AI infrastructure spending could face impairment. AI providers are expected to spend nearly $1 trillion on AI infrastructure in 2026 and another $6 trillion by 2030, but enterprise and consumer AI revenue attributable to data centres will reach at most $3.6 trillion — leaving a $4.9 trillion shortfall against the $8.5 trillion needed to cover spending and financing costs at a 12% return.",
+      "title": "Gartner: 80% of neoclouds to lose independence by 2030 as AI infrastructure spending outpaces revenue",
+      "url": "https://www.crnasia.com/news/2026/cloud/gartner-80-of-neoclouds-to-lose-independence-by-2030-as-ai"
     },
     {
-      "source": "Reuters",
-      "summary": "US telecom stocks fell after Bloomberg reported SpaceX is in talks to access at least 80,000 cell sites to build a fourth wireless carrier from scratch, sending AT&T down 5.6%, Verizon down 1.6% and T-Mobile down 5%, while tower operator Crown Castle surged 11.6%. The move would deepen Musk's push into terrestrial wireless weeks after SpaceX acquired low-band spectrum.",
-      "title": "US telecom operators wobble after report SpaceX in talks for cell sites",
-      "url": "https://943jackfm.com/2026/10/23/us-telecom-operators-wobble-after-report-spacex-in-talks-for-cell-sites/"
+      "source": "Deccan Herald",
+      "summary": "This week's gadget launches include HP's ZBook Ultra G3a 16-inch mobile workstation with AMD Ryzen AI Max+ and up to 300B-parameter local LLM support, Casio's new G-SHOCK 2500 series, the Oura Ring 5 smart ring, Lenovo's Yoga Pro 9n and Yoga 9n 2-in-1, and Sony's ECM-AX10 — billed as the world's first spatial audio microphone for smartphones. The roundup also notes Google Cloud customers now getting access to OpenAI's ChatGPT models.",
+      "title": "Gadgets Weekly: HP ZBook Ultra G3a, Oura Ring 5 & Lenovo Yoga Pro 9n launched",
+      "url": "https://www.deccanherald.com/technology/gadgets-weekly-hp-zbook-ultra-g3a-pc-g-shock-2500-watch-oura-ring-5-and-more-4192672"
+    },
+    {
+      "source": "ad-hoc-news",
+      "summary": "HCLTech launched an NVIDIA-powered software-defined vehicle validation offering on October 21, combining agentic AI, physical AI simulation and intelligent orchestration with five NVIDIA components including Omniverse, Cosmos, Alpamayo and Isaac Sim. The launch follows $3.3 billion in Q2 deal bookings, up 27% year over year, but LKP Research kept a Hold rating with a Rs 1,360 target, citing low-single-digit organic growth and weak discretionary tech spending.",
+      "title": "HCLTech launches NVIDIA-powered vehicle validation tool as analysts stay cautious",
+      "url": "https://www.ad-hoc-news.de/boerse/nebenwerte/hcltech-launches-nvidia-tool-lkp-sets-inr-1-360-target-for-hcl-tech-stock/70407123"
     }
   ],
   "pakistan": [
     {
-      "source": "Dawn",
-      "summary": "President Asif Ali Zardari met German President Frank-Walter Steinmeier — the first such visit in 23 years, marking 75 years of Pakistan-Germany diplomatic relations. They discussed expanding political, economic and defence cooperation with focus on trade, emerging tech, and climate resilience; Zardari said Pakistan has no conflict with the Afghan people but won't allow terrorists to use Afghan soil against its citizens.",
-      "title": "President for cementing Berlin ties",
-      "url": "https://www.dawn.com/news/2039355/president-for-cementing-berlin-ties"
+      "source": "NewsBytes",
+      "summary": "Pakistan face England in the fourth match of the home ODI tri-series at Lahore's Gaddafi Stadium today (Sunday, 1:00 PM PKT). Pakistan have won both their matches so far — by 37 runs against Sri Lanka and 87 runs against England — and a win today books their place in the October 31 final. England, who lost both matches including a 430-run chase collapse against Sri Lanka, must win to stay alive. Arafat Minhas, who took 6 wickets in the first meeting, is the man to watch.",
+      "title": "Pakistan vs England today: final berth in sight as Lahore leg begins",
+      "url": "https://www.newsbytesapp.com/news/sports/pakistan-vs-england-odi-tri-series-preview-and-stats/story"
     },
     {
       "source": "Dawn",
-      "summary": "Pakistani border forces fired warning shots at Torkham after Afghan border forces restarted construction of the disputed Zangali checkpost, the second such violation this week of a mutual agreement barring construction within 100 metres of the border. Repatriation of undocumented Afghans had been briefly suspended on Oct 19 over the same dispute; officials say border issues are handled through negotiation but Pakistan won't compromise on border security.",
-      "title": "Tensions flare as Afghan forces resume work on border post",
-      "url": "https://www.dawn.com/news/2039331/tensions-flare-as-afghan-forces-resume-work-on-border-post"
+      "summary": "Pakistan's FIFA U-15 World Cup debut in Azerbaijan began with a dream and ended in a nightmare on Saturday, as the Shaheens squandered a 2-0 lead and fell 4-2 to Gambia. Ameer Hamza scored the tournament's opening goal in the fifth minute and Baxi Hamal Khan doubled the lead, but Gambia pulled one back before half-time and completed the turnaround with three second-half goals.",
+      "title": "Pakistan squander two-goal lead in FIFA U-15 World Cup debut loss",
+      "url": "https://www.dawn.com/news/2039654"
     },
     {
-      "source": "Business Recorder",
-      "summary": "Pakistan's weekly Sensitive Price Indicator rose 0.65% in the week ended October 22, 2026, with year-on-year inflation at 11.85%, according to the Pakistan Bureau of Statistics. Weekly rises were led by LPG (22.44%), chicken (12.20%) and onions (4.19%), while tomatoes fell 21.99% and petrol dropped 3.63%. Of 51 tracked items, 19 rose, 12 fell and 20 stayed unchanged.",
-      "title": "Weekly SPI inflation up 0.65pc",
-      "url": "https://www.brecorder.com/news/40445731/weekly-spi-inflation-up-065pc"
+      "source": "Dawn",
+      "summary": "Pakistan reopened its Gabd-Rimdan border crossing with Iran on Saturday, restoring bilateral trade and letting stranded trucks carrying LPG and essential food commodities move after a weeklong suspension that began on October 17. Officials cleared consignments with notes dated October 16 or earlier at Gate 250 in Gwadar. Traders expect the restored supply chain to ease a nationwide LPG shortage and soaring energy and food prices.",
+      "title": "Gabd border crossing with Iran reopened",
+      "url": "https://www.dawn.com/news/2039610/gabd-border-crossing-with-iran-reopened"
     },
     {
-      "source": "Geo News",
-      "summary": "Pakistan held their first training session at Lahore's Gaddafi Stadium on Friday for the league-stage matches of the home ODI tri-series against Sri Lanka and England, which runs until October 31. The Green Shirts sit top of the standings and face England on Sunday — a win would book their place in the final while leaving England on the verge of elimination.",
-      "title": "Pakistan start training for Lahore leg of ODI tri-series against England, Sri Lanka",
-      "url": "https://www.geosuper.tv/latest/60686-pakistan-start-training-for-lahore-leg-of-odi-tri-series-against-england-sri-lanka"
+      "source": "Dawn",
+      "summary": "Power supply to several areas of Sindh and Punjab was disrupted from the Uch Power Plant after unidentified men blew up a 220kV transmission pylon near Dera Murad Jamali in Nasirabad district early Saturday. Cities including Shikarpur, Rahim Yar Khan, Sadiqabad, Sukkur, Larkana, Jacobabad, Kashmore and Guddu were affected. No group has claimed responsibility, and repairs await security clearance.",
+      "title": "Nasirabad pylon blast cuts power to many areas",
+      "url": "https://www.dawn.com/news/2039580/nasirabad-pylon-blast-cuts-power-to-many-areas"
     },
     {
-      "source": "Pakistan Observer",
-      "summary": "The third Punjab Mass International Theatre Festival runs October 23–28 at Lahore Arts Council's Alhamra, featuring theatre groups from Pakistan, Kazakhstan, Indonesia, Norway and France. The six-day programme includes performances, training workshops and panel discussions on theatre's relevance in the social-media age, artistic freedom and social change.",
-      "title": "Punjab Mass Int'l Theatre Festival 2026 to begin in Lahore on October 23",
-      "url": "https://pakobserver.net/punjab-mass-intl-theatre-festival-2026-to-begin-in-lahore-on-october-23/"
+      "source": "Dawn",
+      "summary": "Wapda signed a Rs133.18 billion hydro-mechanical (HM-1) contract with the Power China-IKAN Joint Venture for the Diamer-Bhasha Dam on Saturday at Wapda House, Lahore. The contract covers gates, steel structures, flushing tunnels, power intakes, dam outlets and related electrical works. The dam, on the Indus 40km downstream of Chilas, will store 8.1 million acre-feet of water and generate 4,500 megawatts on completion.",
+      "title": "Wapda inks Rs133bn deal for dam project",
+      "url": "https://www.dawn.com/news/2039586"
     },
     {
-      "source": "TechJuice",
-      "summary": "Led by the Pakistan Software Export Board, the multi-city Pak–US Tech Connect 2026 roadshow brought 16 Pakistani tech companies — including Systems Limited, 10Pearls and NETSOL Technologies — plus startups Swich and Heyeve.ai to the US, with the Chicago leg held October 23. The delegation engaged Fortune 1000 CIOs and CTOs across AI, enterprise software, fintech, cybersecurity and healthcare technology to pitch Pakistani tech firms as competitive partners in the global digital economy.",
-      "title": "PAK–US Tech Connect 2026 Brings Pakistan's Top-Tier Technology Companies to the US Market",
-      "url": "https://www.techjuice.pk/pak-us-tech-connect-2026-brings-pakistans-top-tier-technology-companies-to-the-us-market/"
+      "source": "Dawn",
+      "summary": "Pakistan and Canada concluded the third round of negotiations on a Bilateral Investment Treaty on Saturday, with the Board of Investment saying both sides made significant progress. Talks covered direct and indirect investments, portfolio investments, performance requirements, expropriation, third-party funding and investor-state dispute settlement. The treaty is expected to boost investor confidence and expand business opportunities between the two countries.",
+      "title": "Talks on investment treaty with Canada make progress",
+      "url": "https://www.dawn.com/news/2039569/talks-on-investment-treaty-with-canada-make-progress"
     }
   ]
 }
