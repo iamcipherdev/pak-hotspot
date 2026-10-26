@@ -1,79 +1,73 @@
 {
-  "updated_at": "2026-10-25T06:59:11+05:00",
+  "updated_at": "2026-10-26T06:59:13+05:00",
   "tech": [
     {
-      "source": "Reuters",
-      "summary": "Beijing-based Moonshot AI reduced the cyber-offensive capabilities of its newest model, Kimi K3.1 Pro, stripping cyber-related data from its training corpus and reinforcement-learning environments while keeping general coding skills. The 3-trillion-parameter-class open-weight model, whose weights go public by November 4, scored 81.0% on an internal cyber benchmark versus 90.5% for the unfiltered version. The company said it does not aim to release open weights that extend the frontier of cyber capability, as China proposed export controls on AI-driven malware-generation tools last week.",
-      "title": "Moonshot AI curbs hacking ability in new Kimi model as fears grow over AI-powered cyberattacks",
-      "url": "https://www.reuters.com/technology/moonshot-curbs-hacking-ability-new-kimi-model-fears-grow-over-ai-powered-2026-10-24/"
+      "source": "AI Worldwire",
+      "summary": "DeepSeek released V4.1-Flash-1017 on 17 October, with open weights under an MIT licence, a 1-million-token context window, and API pricing from $0.15 per million input tokens. It scores 45 on the Artificial Analysis index, up from 39 for the September version. Separately, a US Homeland Security order made public on 19 October bars federal civilian agencies from DeepSeek products.",
+      "title": "DeepSeek's new Flash model is faster and cheaper — but US federal agencies must now remove it",
+      "url": "https://aiworldwire.org/articles/deepseek-v4-1-flash-1017-review-us-agency-ban/"
+    },
+    {
+      "source": "Tom's Hardware",
+      "summary": "OpenAI says researchers using its GPT-5.6 Sol model under its Patch the Planet initiative helped uncover two critical PHP vulnerabilities, dubbed PHP2Shell (CVE-2026-109618 and CVE-2026-109619), which allow unauthenticated remote code execution. PHP shipped fixes on 21 October in versions 8.5.12, 8.4.27, 8.3.36 and 8.2.35; security firm Wiz independently found both flaws.",
+      "title": "AI found the PHP flaws that could hit 70% of websites — patches are out",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/openai-says-gpt-5-6-sol-helped-uncover-critical-php-flaws-that-could-affect-70-percent-of-websites-ai-assisted-researchers-turned-two-year-old-bug-that-stumped-human-developers-into-working-exploits-in-two-weeks"
+    },
+    {
+      "source": "ABS-CBN News",
+      "summary": "Adobe is pitching its AI graphics as commercially safe for business use, backing that claim with an indemnity promise if clients face legal action over the generated work. The pitch lands as brands weigh the copyright and legal risk of using AI-generated visuals in commercial campaigns.",
+      "title": "Adobe pushes 'commercially safe' AI graphics — and says it will indemnify clients if they get sued",
+      "url": "https://www.abs-cbn.com/news/technology/2026/10/26/adobe-pushes-commercially-safe-ai-graphics-says-to-indemnify-if-clients-get-sued-0800"
     },
     {
       "source": "Reuters",
-      "summary": "Reuters reports that both the Biden and Trump administrations repeatedly asked SpaceX to switch Starlink on or off in various countries — cutting service to prevent Iranian proxy militias in Yemen and Lebanon from using it, and activating it inside Iran and Ukraine to support protesters and the military. The previously unreported requests come after Ukraine's military access to Starshield was throttled this month, raising questions about how much US foreign policy now runs through one private company.",
-      "title": "US has for years asked Musk to alter Starlink service in Ukraine, Middle East, sources say",
-      "url": "https://www.reuters.com/business/autos-transportation/us-has-years-asked-musk-alter-starlink-service-ukraine-middle-east-sources-say-2026-10-24/"
+      "summary": "SoftBank has completed the final phase of its $30 billion investment in OpenAI, part of the ChatGPT maker's last fundraising round. The Japanese group previously agreed to invest through three $10 billion tranches via Vision Fund 2; its cumulative investment in OpenAI now stands at $64.6 billion for a 13% stake.",
+      "title": "SoftBank completes its $30 billion investment in OpenAI",
+      "url": "https://www.reuters.com/legal/transactional/softbank-completes-final-phase-30-billion-investment-openai-2026-10-01/"
     },
     {
-      "source": "Reuters",
-      "summary": "Reuters Breakingviews warns the AI data-centre boom is hitting real-world walls: grid-connection delays pushed Microsoft to walk away from a UK lease with neocloud Nscale, local opposition shelved NextDC's Melbourne project, and multiple US states have imposed moratoria on new data-centre construction. With borrowing costs squeezing neocloud margins, a world of fewer, pricier data centres would force chipmakers, AI users and financiers to recalibrate — though Musk says SpaceX alone will have 13 gigawatts of computing power by end-2027.",
-      "title": "The Week in Breakingviews: Data dreams delayed",
-      "url": "https://www.reuters.com/commentary/breakingviews/global-markets-breakingviews-2026-10-24/"
-    },
-    {
-      "source": "CRN Asia",
-      "summary": "Gartner predicts more than 80% of neocloud providers will cease independent operations by 2030, warning that over $3.5 trillion of AI infrastructure spending could face impairment. AI providers are expected to spend nearly $1 trillion on AI infrastructure in 2026 and another $6 trillion by 2030, but enterprise and consumer AI revenue attributable to data centres will reach at most $3.6 trillion — leaving a $4.9 trillion shortfall against the $8.5 trillion needed to cover spending and financing costs at a 12% return.",
-      "title": "Gartner: 80% of neoclouds to lose independence by 2030 as AI infrastructure spending outpaces revenue",
-      "url": "https://www.crnasia.com/news/2026/cloud/gartner-80-of-neoclouds-to-lose-independence-by-2030-as-ai"
-    },
-    {
-      "source": "Deccan Herald",
-      "summary": "This week's gadget launches include HP's ZBook Ultra G3a 16-inch mobile workstation with AMD Ryzen AI Max+ and up to 300B-parameter local LLM support, Casio's new G-SHOCK 2500 series, the Oura Ring 5 smart ring, Lenovo's Yoga Pro 9n and Yoga 9n 2-in-1, and Sony's ECM-AX10 — billed as the world's first spatial audio microphone for smartphones. The roundup also notes Google Cloud customers now getting access to OpenAI's ChatGPT models.",
-      "title": "Gadgets Weekly: HP ZBook Ultra G3a, Oura Ring 5 & Lenovo Yoga Pro 9n launched",
-      "url": "https://www.deccanherald.com/technology/gadgets-weekly-hp-zbook-ultra-g3a-pc-g-shock-2500-watch-oura-ring-5-and-more-4192672"
-    },
-    {
-      "source": "ad-hoc-news",
-      "summary": "HCLTech launched an NVIDIA-powered software-defined vehicle validation offering on October 21, combining agentic AI, physical AI simulation and intelligent orchestration with five NVIDIA components including Omniverse, Cosmos, Alpamayo and Isaac Sim. The launch follows $3.3 billion in Q2 deal bookings, up 27% year over year, but LKP Research kept a Hold rating with a Rs 1,360 target, citing low-single-digit organic growth and weak discretionary tech spending.",
-      "title": "HCLTech launches NVIDIA-powered vehicle validation tool as analysts stay cautious",
-      "url": "https://www.ad-hoc-news.de/boerse/nebenwerte/hcltech-launches-nvidia-tool-lkp-sets-inr-1-360-target-for-hcl-tech-stock/70407123"
+      "source": "Unite.AI",
+      "summary": "OpenAI published 722 manuscripts organised into 372 result families in a public GitHub repository, produced by an unreleased internal frontier model that was posed about 4,000 problems. Many results carry computer-checkable Lean proof formalisations, but not all do, and OpenAI cautions some unformalised results could have issues.",
+      "title": "OpenAI releases 722 AI-written math manuscripts from an unreleased frontier model",
+      "url": "https://www.unite.ai/openai-releases-722-math-manuscripts-from-an-unreleased-ai-model/"
     }
   ],
   "pakistan": [
     {
-      "source": "NewsBytes",
-      "summary": "Pakistan face England in the fourth match of the home ODI tri-series at Lahore's Gaddafi Stadium today (Sunday, 1:00 PM PKT). Pakistan have won both their matches so far — by 37 runs against Sri Lanka and 87 runs against England — and a win today books their place in the October 31 final. England, who lost both matches including a 430-run chase collapse against Sri Lanka, must win to stay alive. Arafat Minhas, who took 6 wickets in the first meeting, is the man to watch.",
-      "title": "Pakistan vs England today: final berth in sight as Lahore leg begins",
-      "url": "https://www.newsbytesapp.com/news/sports/pakistan-vs-england-odi-tri-series-preview-and-stats/story"
+      "source": "Dawn",
+      "summary": "The PPP staged a protest rally in Lahore on Sunday against the LPG shortage and rising flour and fuel prices, warning of a sit-in outside Sui Northern Gas Pipelines' head office if gas outages continue. Lahore president Faisal Mir accused sellers of creating an artificial shortage and demanded uninterrupted supply at prices in line with people's purchasing power.",
+      "title": "PPP rallies against LPG shortage and rising flour, fuel prices",
+      "url": "https://www.dawn.com/news/2039788"
     },
     {
       "source": "Dawn",
-      "summary": "Pakistan's FIFA U-15 World Cup debut in Azerbaijan began with a dream and ended in a nightmare on Saturday, as the Shaheens squandered a 2-0 lead and fell 4-2 to Gambia. Ameer Hamza scored the tournament's opening goal in the fifth minute and Baxi Hamal Khan doubled the lead, but Gambia pulled one back before half-time and completed the turnaround with three second-half goals.",
-      "title": "Pakistan squander two-goal lead in FIFA U-15 World Cup debut loss",
-      "url": "https://www.dawn.com/news/2039654"
+      "summary": "Deputy Prime Minister Ishaq Dar met Chinese Ambassador Jiang Zaidong in Islamabad on Sunday to review China-Pakistan Economic Corridor progress, covering trade, investment, regional connectivity, agricultural modernisation and people-to-people exchanges. Both sides discussed accelerating CPEC's second phase, focused on industrialisation, technology and export-led growth.",
+      "title": "Dar, Chinese envoy review CPEC progress",
+      "url": "https://www.dawn.com/news/2039821/dar-chinese-envoy-review-cpec-progress"
     },
     {
       "source": "Dawn",
-      "summary": "Pakistan reopened its Gabd-Rimdan border crossing with Iran on Saturday, restoring bilateral trade and letting stranded trucks carrying LPG and essential food commodities move after a weeklong suspension that began on October 17. Officials cleared consignments with notes dated October 16 or earlier at Gate 250 in Gwadar. Traders expect the restored supply chain to ease a nationwide LPG shortage and soaring energy and food prices.",
-      "title": "Gabd border crossing with Iran reopened",
-      "url": "https://www.dawn.com/news/2039610/gabd-border-crossing-with-iran-reopened"
+      "summary": "Pakistan and Qatar held the second meeting of their Joint Task Force on Trade and Investment in Doha, co-chaired by Commerce Minister Jam Kamal Khan and Qatar's Minister of State for Foreign Trade Affairs. Talks covered agriculture, food security, manufacturing, IT, maritime transport and infrastructure, plus an early signing of the Pakistan-GCC free trade agreement.",
+      "title": "Pakistan, Qatar explore new avenues for trade, investment cooperation",
+      "url": "https://www.dawn.com/news/2039815/pakistan-qatar-explore-new-avenues-for-trade-investment-cooperation"
     },
     {
       "source": "Dawn",
-      "summary": "Power supply to several areas of Sindh and Punjab was disrupted from the Uch Power Plant after unidentified men blew up a 220kV transmission pylon near Dera Murad Jamali in Nasirabad district early Saturday. Cities including Shikarpur, Rahim Yar Khan, Sadiqabad, Sukkur, Larkana, Jacobabad, Kashmore and Guddu were affected. No group has claimed responsibility, and repairs await security clearance.",
-      "title": "Nasirabad pylon blast cuts power to many areas",
-      "url": "https://www.dawn.com/news/2039580/nasirabad-pylon-blast-cuts-power-to-many-areas"
+      "summary": "Punjab Chief Minister Maryam Nawaz has directed the enactment of the country's first royalty law for the film industry, with a rebate of 35% for Punjabi films and 20% for Urdu films made in the province. A Film City is set to be inaugurated in Lahore on 15 December, with a film school, museum, studios and Pakistan's largest convention centre.",
+      "title": "Punjab orders country's first film royalty law, approves rebate plan",
+      "url": "https://www.dawn.com/news/2039798"
     },
     {
-      "source": "Dawn",
-      "summary": "Wapda signed a Rs133.18 billion hydro-mechanical (HM-1) contract with the Power China-IKAN Joint Venture for the Diamer-Bhasha Dam on Saturday at Wapda House, Lahore. The contract covers gates, steel structures, flushing tunnels, power intakes, dam outlets and related electrical works. The dam, on the Indus 40km downstream of Chilas, will store 8.1 million acre-feet of water and generate 4,500 megawatts on completion.",
-      "title": "Wapda inks Rs133bn deal for dam project",
-      "url": "https://www.dawn.com/news/2039586"
+      "source": "Reuters",
+      "summary": "Shadab Khan struck an unbeaten 113 and shared a record 89-run last-wicket stand with Haris Rauf as Pakistan rallied from 154-9 to beat England by one wicket in Lahore on Sunday and book a place in the tri-series final. England were bowled out for 241 despite Ben Duckett's 105; Shaheen Shah Afridi took 4-46.",
+      "title": "Shadab heroics lift Pakistan past England in one-wicket thriller",
+      "url": "https://www.reuters.com/sports/cricket/shadab-heroics-lift-pakistan-past-england-one-wicket-thriller-2026-10-25/"
     },
     {
-      "source": "Dawn",
-      "summary": "Pakistan and Canada concluded the third round of negotiations on a Bilateral Investment Treaty on Saturday, with the Board of Investment saying both sides made significant progress. Talks covered direct and indirect investments, portfolio investments, performance requirements, expropriation, third-party funding and investor-state dispute settlement. The treaty is expected to boost investor confidence and expand business opportunities between the two countries.",
-      "title": "Talks on investment treaty with Canada make progress",
-      "url": "https://www.dawn.com/news/2039569/talks-on-investment-treaty-with-canada-make-progress"
+      "source": "The Express Tribune",
+      "summary": "The PSX benchmark KSE-100 index fell 2.4% over the outgoing week, shedding 4,045 points to close at 162,375, as escalating geopolitical tensions, rising oil prices and domestic economic uncertainty weighed on sentiment. It was the index's fifth consecutive weekly decline, slipping below 166,000, 164,000 and 163,000.",
+      "title": "PSX down 4,045 points in a week amid Middle East tensions",
+      "url": "https://tribune.com.pk/story/2636740/psx-down-4045-points-amid-me-wars?amp=1"
     }
   ]
 }
