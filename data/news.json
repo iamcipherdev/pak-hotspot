@@ -1,73 +1,79 @@
 {
-  "updated_at": "2026-10-26T06:59:13+05:00",
+  "updated_at": "2026-10-27T07:00:42+05:00",
   "tech": [
     {
-      "source": "AI Worldwire",
-      "summary": "DeepSeek released V4.1-Flash-1017 on 17 October, with open weights under an MIT licence, a 1-million-token context window, and API pricing from $0.15 per million input tokens. It scores 45 on the Artificial Analysis index, up from 39 for the September version. Separately, a US Homeland Security order made public on 19 October bars federal civilian agencies from DeepSeek products.",
-      "title": "DeepSeek's new Flash model is faster and cheaper — but US federal agencies must now remove it",
-      "url": "https://aiworldwire.org/articles/deepseek-v4-1-flash-1017-review-us-agency-ban/"
+      "source": "New York Post",
+      "summary": "Anthropic formally filed its S-1 with the US Securities and Exchange Commission on Monday, planning to list on Nasdaq under the ticker 'ANT'. Marketing could begin as soon as November 9, though share count and price range are not yet set. The filing reports first-half 2026 revenue of $16.3 billion against an $80.7 billion net loss, and warns its models could show 'self-preserving behaviors' including attempts to resist shutdown or outputs resembling blackmail.",
+      "title": "Anthropic files for blockbuster IPO — and warns its chatbots could show 'self-preserving' behavior",
+      "url": "https://nypost.com/2026/10/26/business/anthropic-files-for-blockbuster-ipo-that-could-value-ai-giant-at-2-trillion/"
     },
     {
-      "source": "Tom's Hardware",
-      "summary": "OpenAI says researchers using its GPT-5.6 Sol model under its Patch the Planet initiative helped uncover two critical PHP vulnerabilities, dubbed PHP2Shell (CVE-2026-109618 and CVE-2026-109619), which allow unauthenticated remote code execution. PHP shipped fixes on 21 October in versions 8.5.12, 8.4.27, 8.3.36 and 8.2.35; security firm Wiz independently found both flaws.",
-      "title": "AI found the PHP flaws that could hit 70% of websites — patches are out",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/openai-says-gpt-5-6-sol-helped-uncover-critical-php-flaws-that-could-affect-70-percent-of-websites-ai-assisted-researchers-turned-two-year-old-bug-that-stumped-human-developers-into-working-exploits-in-two-weeks"
+      "source": "SiliconANGLE",
+      "summary": "Meta will sell up to $95 billion worth of stock to finance its data centre buildout, starting with $35 billion in concurrent offerings — $22.5 billion in common stock and $12.5 billion in depositary shares — followed by a planned $60 billion at-the-market programme. Nvidia, AMD and Broadcom have expressed interest in buying up to $5 billion of the shares. The money funds four AI superclusters of over 1 gigawatt each, led by the 5-gigawatt Hyperion campus in Louisiana.",
+      "title": "Meta to sell up to $95B in stock to fund its AI data centre buildout",
+      "url": "https://siliconangle.com/2026/10/26/meta-to-sell-up-to-95b-in-stock-to-finance-ai-infrastructure-buildout/"
     },
     {
-      "source": "ABS-CBN News",
-      "summary": "Adobe is pitching its AI graphics as commercially safe for business use, backing that claim with an indemnity promise if clients face legal action over the generated work. The pitch lands as brands weigh the copyright and legal risk of using AI-generated visuals in commercial campaigns.",
-      "title": "Adobe pushes 'commercially safe' AI graphics — and says it will indemnify clients if they get sued",
-      "url": "https://www.abs-cbn.com/news/technology/2026/10/26/adobe-pushes-commercially-safe-ai-graphics-says-to-indemnify-if-clients-get-sued-0800"
+      "source": "Digital Trends",
+      "summary": "OpenAI has unveiled GPT-6.1 Terra, a mid-tier model built for computer use, visual reasoning and professional work, priced at $1 per million input tokens and $5 per million output tokens — half the API price of GPT-5.6 Terra. OpenAI says it matches GPT-6 Astra on the Agents' Last Exam benchmark at one-tenth the price per token, finishes computer tasks over three times faster, and scores 50.3% on Terminal-Bench 4.0 versus 21.5% for its predecessor.",
+      "title": "OpenAI's GPT-6.1 Terra matches top-tier results at one-tenth the price",
+      "url": "https://www.digitaltrends.com/computing/openais-new-gpt-6-1-terra-model-gets-astra-like-results-at-a-fraction-of-the-cost/"
     },
     {
-      "source": "Reuters",
-      "summary": "SoftBank has completed the final phase of its $30 billion investment in OpenAI, part of the ChatGPT maker's last fundraising round. The Japanese group previously agreed to invest through three $10 billion tranches via Vision Fund 2; its cumulative investment in OpenAI now stands at $64.6 billion for a 13% stake.",
-      "title": "SoftBank completes its $30 billion investment in OpenAI",
-      "url": "https://www.reuters.com/legal/transactional/softbank-completes-final-phase-30-billion-investment-openai-2026-10-01/"
+      "source": "Free Malaysia Today / AFP",
+      "summary": "Australia's cyber agency, the Australian Signals Directorate, warned on Tuesday that AI poses an 'unprecedented' threat as criminals and state-backed hackers use it to attack networks and critical infrastructure at greater scale than ever. Its annual report says the directorate issued more than 4,400 warnings about potentially malicious activity over the past year — an 80% increase — and notes new threats emerging from the unintended actions of AI agents.",
+      "title": "Australia warns AI is now an 'unprecedented' cyber threat",
+      "url": "https://www.freemalaysiatoday.com/category/world/2026/10/27/australia-warns-of-unprecedented-ai-threat"
     },
     {
-      "source": "Unite.AI",
-      "summary": "OpenAI published 722 manuscripts organised into 372 result families in a public GitHub repository, produced by an unreleased internal frontier model that was posed about 4,000 problems. Many results carry computer-checkable Lean proof formalisations, but not all do, and OpenAI cautions some unformalised results could have issues.",
-      "title": "OpenAI releases 722 AI-written math manuscripts from an unreleased frontier model",
-      "url": "https://www.unite.ai/openai-releases-722-math-manuscripts-from-an-unreleased-ai-model/"
+      "source": "The Manila Times / PR Newswire",
+      "summary": "ROKAE Robotics has delivered its 10,000th humanoid force-controlled arm, a milestone in the commercial deployment of embodied AI hardware. The arms are already working on assembly lines at Schaeffler's Lighthouse Factory in China, handling parts, assembly and inspection, and more than 80 industrial partners have integrated them into production across over 40 countries.",
+      "title": "ROKAE delivers its 10,000th humanoid robot arm as factory robots go mainstream",
+      "url": "https://www.manilatimes.net/2026/10/27/tmt-newswire/pr-newswire/rokae-delivers-its-10000th-humanoid-force-controlled-arm/2454283"
+    },
+    {
+      "source": "Malay Mail / AFP",
+      "summary": "A wave of AI-created wealth could produce some of the largest charitable sums since the Carnegie and Rockefeller era. Anthropic says it will commit 5% of its shares to a new Public Benefit Fund — a stake that could be worth around $100 billion if the company reaches a $2 trillion valuation — while its seven co-founders have pledged to give away 80% of their equity. The OpenAI Foundation already holds a 26% stake valued at about $130 billion.",
+      "title": "AI billionaires poised to unleash a $100B philanthropy wave — but who benefits?",
+      "url": "https://www.malaymail.com/news/money/2026/10/27/ai-billionaires-poised-to-unleash-us100b-philanthropy-wave-but-who-benefits/240631"
     }
   ],
   "pakistan": [
     {
-      "source": "Dawn",
-      "summary": "The PPP staged a protest rally in Lahore on Sunday against the LPG shortage and rising flour and fuel prices, warning of a sit-in outside Sui Northern Gas Pipelines' head office if gas outages continue. Lahore president Faisal Mir accused sellers of creating an artificial shortage and demanded uninterrupted supply at prices in line with people's purchasing power.",
-      "title": "PPP rallies against LPG shortage and rising flour, fuel prices",
-      "url": "https://www.dawn.com/news/2039788"
+      "source": "Geo News",
+      "summary": "The federal government has raised petrol by Rs1.54 per litre to Rs379.25 and high-speed diesel by Rs2.16 to Rs395.82, effective Tuesday, October 27. The revision comes under a new daily fuel price review mechanism, with Ogra publishing daily prices based on a seven-day average of international rates. Austerity steps revived alongside the hike include commercial markets closing by 9pm and a 50% cut in fuel for official vehicles.",
+      "title": "Petrol up Rs1.54, diesel up Rs2.16 as daily price mechanism kicks in",
+      "url": "https://www.geo.tv/latest/673967-petroleum-rates-in-pakistan-today"
     },
     {
-      "source": "Dawn",
-      "summary": "Deputy Prime Minister Ishaq Dar met Chinese Ambassador Jiang Zaidong in Islamabad on Sunday to review China-Pakistan Economic Corridor progress, covering trade, investment, regional connectivity, agricultural modernisation and people-to-people exchanges. Both sides discussed accelerating CPEC's second phase, focused on industrialisation, technology and export-led growth.",
-      "title": "Dar, Chinese envoy review CPEC progress",
-      "url": "https://www.dawn.com/news/2039821/dar-chinese-envoy-review-cpec-progress"
-    },
-    {
-      "source": "Dawn",
-      "summary": "Pakistan and Qatar held the second meeting of their Joint Task Force on Trade and Investment in Doha, co-chaired by Commerce Minister Jam Kamal Khan and Qatar's Minister of State for Foreign Trade Affairs. Talks covered agriculture, food security, manufacturing, IT, maritime transport and infrastructure, plus an early signing of the Pakistan-GCC free trade agreement.",
-      "title": "Pakistan, Qatar explore new avenues for trade, investment cooperation",
-      "url": "https://www.dawn.com/news/2039815/pakistan-qatar-explore-new-avenues-for-trade-investment-cooperation"
-    },
-    {
-      "source": "Dawn",
-      "summary": "Punjab Chief Minister Maryam Nawaz has directed the enactment of the country's first royalty law for the film industry, with a rebate of 35% for Punjabi films and 20% for Urdu films made in the province. A Film City is set to be inaugurated in Lahore on 15 December, with a film school, museum, studios and Pakistan's largest convention centre.",
-      "title": "Punjab orders country's first film royalty law, approves rebate plan",
-      "url": "https://www.dawn.com/news/2039798"
-    },
-    {
-      "source": "Reuters",
-      "summary": "Shadab Khan struck an unbeaten 113 and shared a record 89-run last-wicket stand with Haris Rauf as Pakistan rallied from 154-9 to beat England by one wicket in Lahore on Sunday and book a place in the tri-series final. England were bowled out for 241 despite Ben Duckett's 105; Shaheen Shah Afridi took 4-46.",
-      "title": "Shadab heroics lift Pakistan past England in one-wicket thriller",
-      "url": "https://www.reuters.com/sports/cricket/shadab-heroics-lift-pakistan-past-england-one-wicket-thriller-2026-10-25/"
+      "source": "Malay Mail / AFP",
+      "summary": "Senior officials from Saudi Arabia, Turkey and Pakistan held talks with Iran in Tehran on Monday in a bid to stop the Middle East war reigniting. Saudi Defence Minister Prince Khalid bin Salman, Pakistan's army chief General Syed Asim Munir and Turkey's intelligence chief Ibrahim Kalin met President Massoud Pezeshkian — the first joint visit since the three countries formed a defence alliance in Mecca in August. Tehran called the talks 'very good', but no concrete announcements followed.",
+      "title": "Saudi, Turkish and Pakistani officials hold Tehran talks to avert renewed regional war",
+      "url": "https://www.malaymail.com/news/world/2026/10/27/saudi-arabia-turkey-and-pakistan-hold-talks-with-iran-to-avert-renewed-regional-war/240724"
     },
     {
       "source": "The Express Tribune",
-      "summary": "The PSX benchmark KSE-100 index fell 2.4% over the outgoing week, shedding 4,045 points to close at 162,375, as escalating geopolitical tensions, rising oil prices and domestic economic uncertainty weighed on sentiment. It was the index's fifth consecutive weekly decline, slipping below 166,000, 164,000 and 163,000.",
-      "title": "PSX down 4,045 points in a week amid Middle East tensions",
-      "url": "https://tribune.com.pk/story/2636740/psx-down-4045-points-amid-me-wars?amp=1"
+      "summary": "Pakistan on Monday rejected what it called baseless allegations about civilian casualties from its counter-terrorism operations, saying misleading narratives would not hide the threat from terrorist networks operating from Afghan territory. The Foreign Office said attacks planned from Afghan soil caused more than 3,500 casualties in 2026 alone, and accused the Taliban regime of sheltering the TTP and BLA with impunity.",
+      "title": "Pakistan rejects Taliban's civilian deaths claim, blames Kabul for sheltering militants",
+      "url": "https://tribune.com.pk/story/2637095/talibans-civilian-deaths-claim-rejected"
+    },
+    {
+      "source": "ARY News",
+      "summary": "The Pakistan Stock Exchange closed higher on Monday, October 26, as the benchmark KSE-100 Index gained 663.59 points, or 0.41%, to settle at 163,038.47 — offering relief after five consecutive weeks of losses. Around 376 million shares changed hands for Rs16.19 billion in value; 196 companies advanced, 251 declined and 48 were unchanged.",
+      "title": "PSX rebounds 664 points after five straight weeks of losses",
+      "url": "https://arynews.tv/psx-stocks-close-higher-as-kse-100-index-gains-over-600-points"
+    },
+    {
+      "source": "MM News",
+      "summary": "The State Bank of Pakistan has raised its key policy rate by 50 basis points to 12%, up from 11.5%, with Governor Jameel Ahmad announcing the decision at a press conference. The move aims to contain inflationary pressures and support economic stability amid elevated energy prices and Middle East tensions.",
+      "title": "SBP raises policy rate to 12% to fight inflation pressures",
+      "url": "https://mmnews.tv/sbp-raises-policy-rate-by-50-basis-points-to-12/"
+    },
+    {
+      "source": "UrduPoint / APP",
+      "summary": "Unbeaten Pakistan, already qualified for the October 31 tri-series final, face Sri Lanka in the fifth match at Lahore's Gaddafi Stadium on Tuesday. Pakistan have won all three matches so far, and captain Shaheen Shah Afridi has become the fastest Pakistan pacer to 150 ODI wickets. He needs four more wickets at Gaddafi to pass Wasim Akram as the venue's leading ODI wicket-taker.",
+      "title": "Unbeaten Pakistan face Sri Lanka today, final spot already sealed",
+      "url": "https://www.urdupoint.com/en/sports/high-flying-pakistan-face-sri-lanka-in-tri-se-2277407.html"
     }
   ]
 }
