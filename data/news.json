@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-10-27T07:00:42+05:00",
+  "updated_at": "2026-10-28T06:59:18+05:00",
   "tech": [
     {
-      "source": "New York Post",
-      "summary": "Anthropic formally filed its S-1 with the US Securities and Exchange Commission on Monday, planning to list on Nasdaq under the ticker 'ANT'. Marketing could begin as soon as November 9, though share count and price range are not yet set. The filing reports first-half 2026 revenue of $16.3 billion against an $80.7 billion net loss, and warns its models could show 'self-preserving behaviors' including attempts to resist shutdown or outputs resembling blackmail.",
-      "title": "Anthropic files for blockbuster IPO — and warns its chatbots could show 'self-preserving' behavior",
-      "url": "https://nypost.com/2026/10/26/business/anthropic-files-for-blockbuster-ipo-that-could-value-ai-giant-at-2-trillion/"
+      "source": "Yonhap",
+      "summary": "SK Hynix reported record Q3 revenue of 104.61 trillion won and operating profit of 83.33 trillion won ($62.8B), up 327.9% and 557.2% year-on-year, driven by high-bandwidth memory chips for AI accelerators. It was the company's sixth straight record quarter, and it also announced a fresh 60 trillion won shareholder return plan.",
+      "title": "SK Hynix posts record Q3 profit as AI memory demand explodes",
+      "url": "https://m-en.yna.co.kr/view/AEN20261028001651320?section=economy-finance/economy"
     },
     {
-      "source": "SiliconANGLE",
-      "summary": "Meta will sell up to $95 billion worth of stock to finance its data centre buildout, starting with $35 billion in concurrent offerings — $22.5 billion in common stock and $12.5 billion in depositary shares — followed by a planned $60 billion at-the-market programme. Nvidia, AMD and Broadcom have expressed interest in buying up to $5 billion of the shares. The money funds four AI superclusters of over 1 gigawatt each, led by the 5-gigawatt Hyperion campus in Louisiana.",
-      "title": "Meta to sell up to $95B in stock to fund its AI data centre buildout",
-      "url": "https://siliconangle.com/2026/10/26/meta-to-sell-up-to-95b-in-stock-to-finance-ai-infrastructure-buildout/"
+      "source": "Manila Times",
+      "summary": "Bank of America, Blackstone, Citi and Morgan Stanley will provide $63 billion in financing through a special-purpose vehicle to buy Broadcom AI accelerators and networking gear, which will be leased to Anthropic. Deliveries begin in 2027. Anthropic also filed for a potentially record-breaking IPO this week.",
+      "title": "Wall Street banks line up $63B to buy Anthropic's Broadcom AI chips",
+      "url": "https://www.manilatimes.net/2026/10/28/business/foreign-business/wall-st-banks-blackstone-line-up-63b-for-anthropic/2455400/amp"
     },
     {
-      "source": "Digital Trends",
-      "summary": "OpenAI has unveiled GPT-6.1 Terra, a mid-tier model built for computer use, visual reasoning and professional work, priced at $1 per million input tokens and $5 per million output tokens — half the API price of GPT-5.6 Terra. OpenAI says it matches GPT-6 Astra on the Agents' Last Exam benchmark at one-tenth the price per token, finishes computer tasks over three times faster, and scores 50.3% on Terminal-Bench 4.0 versus 21.5% for its predecessor.",
-      "title": "OpenAI's GPT-6.1 Terra matches top-tier results at one-tenth the price",
-      "url": "https://www.digitaltrends.com/computing/openais-new-gpt-6-1-terra-model-gets-astra-like-results-at-a-fraction-of-the-cost/"
+      "source": "Free Malaysia Today",
+      "summary": "OpenAI plans to buy Google's Tensor Processing Units, The Information reported, deepening ties between two AI rivals. OpenAI is one of Nvidia's largest GPU buyers and began renting Google's chips in June 2025; Google's TPUs are gaining traction as a cheaper alternative to Nvidia hardware. Neither company commented.",
+      "title": "OpenAI plans to buy Google's AI chips, deepening a rival partnership",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/28/openai-plans-to-buy-google-s-ai-chips"
     },
     {
-      "source": "Free Malaysia Today / AFP",
-      "summary": "Australia's cyber agency, the Australian Signals Directorate, warned on Tuesday that AI poses an 'unprecedented' threat as criminals and state-backed hackers use it to attack networks and critical infrastructure at greater scale than ever. Its annual report says the directorate issued more than 4,400 warnings about potentially malicious activity over the past year — an 80% increase — and notes new threats emerging from the unintended actions of AI agents.",
-      "title": "Australia warns AI is now an 'unprecedented' cyber threat",
-      "url": "https://www.freemalaysiatoday.com/category/world/2026/10/27/australia-warns-of-unprecedented-ai-threat"
+      "source": "MacRumors",
+      "summary": "Apple announced a November Creator Studio update adding beta AI assistants to Pages, Keynote and Numbers that understand the open document, plus Model Context Protocol support letting outside AI agents read and edit files on Mac. Final Cut Pro gains built-in MotionVFX, and Logic Pro gets its own assistant. New subscribers pay $12.99/month.",
+      "title": "Apple's Creator Studio update brings AI assistants to Pages, Keynote and Numbers",
+      "url": "https://www.macrumors.com/2026/10/27/apple-updates-creator-studio-ai-features/"
     },
     {
-      "source": "The Manila Times / PR Newswire",
-      "summary": "ROKAE Robotics has delivered its 10,000th humanoid force-controlled arm, a milestone in the commercial deployment of embodied AI hardware. The arms are already working on assembly lines at Schaeffler's Lighthouse Factory in China, handling parts, assembly and inspection, and more than 80 industrial partners have integrated them into production across over 40 countries.",
-      "title": "ROKAE delivers its 10,000th humanoid robot arm as factory robots go mainstream",
-      "url": "https://www.manilatimes.net/2026/10/27/tmt-newswire/pr-newswire/rokae-delivers-its-10000th-humanoid-force-controlled-arm/2454283"
+      "source": "PANews",
+      "summary": "Physical Intelligence, founded in 2024 by former Google DeepMind researchers and Stanford/UC Berkeley academics, is in talks to raise at least $1 billion at a valuation near $20 billion, almost double its $11.5 billion valuation earlier this year, Bloomberg reported. The company, backed by CapitalG, Jeff Bezos and Thrive, currently has no revenue.",
+      "title": "Robot startup Physical Intelligence in talks to raise $1B at up to $20B valuation",
+      "url": "https://www.panews.io/articles/01a17fd9-1987-74f9-a293-fcc144c0526d"
     },
     {
-      "source": "Malay Mail / AFP",
-      "summary": "A wave of AI-created wealth could produce some of the largest charitable sums since the Carnegie and Rockefeller era. Anthropic says it will commit 5% of its shares to a new Public Benefit Fund — a stake that could be worth around $100 billion if the company reaches a $2 trillion valuation — while its seven co-founders have pledged to give away 80% of their equity. The OpenAI Foundation already holds a 26% stake valued at about $130 billion.",
-      "title": "AI billionaires poised to unleash a $100B philanthropy wave — but who benefits?",
-      "url": "https://www.malaymail.com/news/money/2026/10/27/ai-billionaires-poised-to-unleash-us100b-philanthropy-wave-but-who-benefits/240631"
+      "source": "E-Daily",
+      "summary": "The Nasdaq closed up 1.18% at 26,477.81 as AI semiconductor stocks rallied for a second day on Anthropic's IPO filing and its $63 billion chip-financing news. Broadcom rose about 4%, AMD about 5.5% and Micron 2.8%, while investors still watch Fed policy and Big Tech earnings this week.",
+      "title": "AI rally enters second day as Nasdaq jumps 1.2% on Anthropic optimism",
+      "url": "https://en.edaily.co.kr/news/eda202610285032/"
     }
   ],
   "pakistan": [
     {
-      "source": "Geo News",
-      "summary": "The federal government has raised petrol by Rs1.54 per litre to Rs379.25 and high-speed diesel by Rs2.16 to Rs395.82, effective Tuesday, October 27. The revision comes under a new daily fuel price review mechanism, with Ogra publishing daily prices based on a seven-day average of international rates. Austerity steps revived alongside the hike include commercial markets closing by 9pm and a 50% cut in fuel for official vehicles.",
-      "title": "Petrol up Rs1.54, diesel up Rs2.16 as daily price mechanism kicks in",
-      "url": "https://www.geo.tv/latest/673967-petroleum-rates-in-pakistan-today"
-    },
-    {
-      "source": "Malay Mail / AFP",
-      "summary": "Senior officials from Saudi Arabia, Turkey and Pakistan held talks with Iran in Tehran on Monday in a bid to stop the Middle East war reigniting. Saudi Defence Minister Prince Khalid bin Salman, Pakistan's army chief General Syed Asim Munir and Turkey's intelligence chief Ibrahim Kalin met President Massoud Pezeshkian — the first joint visit since the three countries formed a defence alliance in Mecca in August. Tehran called the talks 'very good', but no concrete announcements followed.",
-      "title": "Saudi, Turkish and Pakistani officials hold Tehran talks to avert renewed regional war",
-      "url": "https://www.malaymail.com/news/world/2026/10/27/saudi-arabia-turkey-and-pakistan-hold-talks-with-iran-to-avert-renewed-regional-war/240724"
-    },
-    {
       "source": "The Express Tribune",
-      "summary": "Pakistan on Monday rejected what it called baseless allegations about civilian casualties from its counter-terrorism operations, saying misleading narratives would not hide the threat from terrorist networks operating from Afghan territory. The Foreign Office said attacks planned from Afghan soil caused more than 3,500 casualties in 2026 alone, and accused the Taliban regime of sheltering the TTP and BLA with impunity.",
-      "title": "Pakistan rejects Taliban's civilian deaths claim, blames Kabul for sheltering militants",
-      "url": "https://tribune.com.pk/story/2637095/talibans-civilian-deaths-claim-rejected"
+      "summary": "The federal government cut petrol by Rs3.19 per litre to Rs376.06 for October 28 under the daily pricing mechanism, while high-speed diesel rose Rs2.25 to Rs398.07. The cut follows a Rs1.54 petrol hike a day earlier; petrol has now been cut 30 times and raised 38 times since daily pricing began on July 17.",
+      "title": "Petrol cut by Rs3.19 to Rs376.06, diesel up Rs2.25 to Rs398.07 for Oct 28",
+      "url": "https://tribune.com.pk/story/2637236/govt-cuts-petrol-by-rs319-increases-diesel-by-rs225-for-oct-28"
     },
     {
-      "source": "ARY News",
-      "summary": "The Pakistan Stock Exchange closed higher on Monday, October 26, as the benchmark KSE-100 Index gained 663.59 points, or 0.41%, to settle at 163,038.47 — offering relief after five consecutive weeks of losses. Around 376 million shares changed hands for Rs16.19 billion in value; 196 companies advanced, 251 declined and 48 were unchanged.",
-      "title": "PSX rebounds 664 points after five straight weeks of losses",
-      "url": "https://arynews.tv/psx-stocks-close-higher-as-kse-100-index-gains-over-600-points"
+      "source": "Channel NewsAsia",
+      "summary": "Sri Lanka bowled Pakistan out for just 110 at Gaddafi Stadium, Lahore, then chased it in 18.1 overs to reach the ODI tri-series final. Dilshan Madushanka took a career-best 5-34 and Kamindu Mendis finished 62 not out. The result knocked England out, and Pakistan meet Sri Lanka again in the final on October 31.",
+      "title": "Sri Lanka thrash Pakistan by 8 wickets to reach tri-series final, England out",
+      "url": "https://www.channelnewsasia.com/sport/sri-lanka-beat-pakistan-reach-final-england-eliminated-6497061"
     },
     {
-      "source": "MM News",
-      "summary": "The State Bank of Pakistan has raised its key policy rate by 50 basis points to 12%, up from 11.5%, with Governor Jameel Ahmad announcing the decision at a press conference. The move aims to contain inflationary pressures and support economic stability amid elevated energy prices and Middle East tensions.",
-      "title": "SBP raises policy rate to 12% to fight inflation pressures",
-      "url": "https://mmnews.tv/sbp-raises-policy-rate-by-50-basis-points-to-12/"
+      "source": "ICC",
+      "summary": "The PCB confirmed opener Saim Ayub has been released from the men's ODI squad for the rest of the tri-series after he asked to return to domestic cricket to work on his batting form. Ayub had not reached double figures in three tri-series innings; Sahibzada Farhan replaces him.",
+      "title": "Saim Ayub released from ODI squad to rediscover form in domestic cricket",
+      "url": "https://www.icc-cricket.com/news/form-slump-sees-pakistan-opener-return-to-domestic-duties"
     },
     {
-      "source": "UrduPoint / APP",
-      "summary": "Unbeaten Pakistan, already qualified for the October 31 tri-series final, face Sri Lanka in the fifth match at Lahore's Gaddafi Stadium on Tuesday. Pakistan have won all three matches so far, and captain Shaheen Shah Afridi has become the fastest Pakistan pacer to 150 ODI wickets. He needs four more wickets at Gaddafi to pass Wasim Akram as the venue's leading ODI wicket-taker.",
-      "title": "Unbeaten Pakistan face Sri Lanka today, final spot already sealed",
-      "url": "https://www.urdupoint.com/en/sports/high-flying-pakistan-face-sri-lanka-in-tri-se-2277407.html"
+      "source": "The Nation",
+      "summary": "SUPARCO, with UNOOSA, ISNET and APSCO, opened a five-day international conference in Islamabad (Oct 27-31) on using space technology for early warning, climate action and disaster risk assessment. Around 250 participants from 20 countries are attending, with Planning Minister Ahsan Iqbal as chief guest.",
+      "title": "SUPARCO opens UN-Pakistan space conference on early warning and climate action",
+      "url": "https://www.nation.com.pk/newspaper/28-Oct-2026/suparco-inaugurates-un-pakistan-conference-space-technology-early-warning-climate-action"
+    },
+    {
+      "source": "Dawn",
+      "summary": "The government raised the threshold for banks to trigger currency transaction reports to the State Bank's Financial Monitoring Unit by 50%, from Rs2 million to Rs3 million. The Aurangzeb-led anti-money laundering committee also gave the Pakistan Virtual Assets Regulatory Authority powers under the Anti-Money Laundering Act.",
+      "title": "Govt raises currency transaction report threshold to Rs3m in AML review",
+      "url": "https://www.dawn.com/news/2040268"
+    },
+    {
+      "source": "Dawn",
+      "summary": "Pakistan Petroleum Ltd posted Rs99 billion profit after tax and record collections of Rs284 billion in FY26, its 75th AGM heard. The company made 11 discoveries adding 242 BCF to reserves, drilled 11 wells, and approved a total dividend of 120%, while expanding into minerals and offshore blocks.",
+      "title": "PPL earns Rs99bn profit, makes 11 discoveries in FY26",
+      "url": "https://www.dawn.com/news/2040339/ppl-earns-rs99bn-profit-makes-11-discoveries"
     }
   ]
 }

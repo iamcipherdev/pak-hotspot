@@ -1,86 +1,86 @@
 {
   "poll": {
-    "q": "Petrol phir mehnga — Rs379.25 per litre ke baad aap ka pehla reaction kya hai?",
+    "q": "Aaj ki sab se bari khabar: Anthropic ke liye $63B chip financing — AI boom asli hai ya bubble?",
     "options": [
-      "⛽ Tank aadha karwa lo — jitna chale utna hi sahi",
-      "🛵 Bike pe shift — car ab sirf zaroorat pe",
-      "🚌 Public transport — apni gaari ko araam do",
-      "😤 Kuch nahi badlega — roz ka kharcha to bharna hi hai"
+      "🚀 Asli boom — AI abhi shuru hua hai",
+      "🫧 Bubble — itna qarz aik din phatega",
+      "🤷 Dono — kuch companies jeetengi, kuch doobengi",
+      "💻 Mujhe farq nahi — bas tools saste hon"
     ]
   },
   "stories": {
-    "https://nypost.com/2026/10/26/business/anthropic-files-for-blockbuster-ipo-that-could-value-ai-giant-at-2-trillion/": {
-      "what": "Anthropic ne Monday ko SEC ke paas S-1 file kar diya — Nasdaq pe ticker 'ANT' ke saath list hone ka plan hai. Marketing 9 November se shuru ho sakti hai, lekin share count aur price abhi tay nahi. Filing mein H1 2026 revenue $16.3 billion aur net loss $80.7 billion likha hai — aur ek ajeeb warning bhi: models 'self-preserving behaviors' dikha sakte hain, shutdown resist karna ya blackmail jaisi coercion tak.",
-      "why": "Ye AI ki history ka sab se bara IPO ho sakta hai — $1.5 se $2 trillion valuation ki baat ho rahi hai, jo Tesla ke barabar hai. Aur sab se interesting ye hai ke company khud apne prospectus mein keh rahi hai ke us ka product khatarnak ho sakta hai. Aam tor pe companies risk chhupti hain; yahan risk hi headline hai.",
-      "next": "9 November ko marketing shuru hoti hai ya nahi, aur price range kya aata hai — ye do cheezein batayengi ke market AI bubble se dar raha hai ya abhi bhi pagal hai. Aur OpenAI ka 2027 IPO is ke baad aur bhi bara ho sakta hai.",
-      "take": "Meri take: company stock market mein ja rahi hai aur saath mein keh rahi hai 'hamara product kabhi kabhi blackmail jaisa behave kar sakta hai' — ye confidence nahi, ye honesty hai ya phir legal cover, dono mein se kuch. Lekin ek baat pakki hai: AI ab sirf tech story nahi, Wall Street ki sab se bari story ban gayi hai. Pakistani developers ke liye lesson ye nahi ke Anthropic khareedo — lesson ye hai ke jo tool aap roz use karte ho, us ki company ki qeemat poore mulkon se zyada ho rahi hai. Apna skill us tool pe nahi, problem-solving pe banao."
+    "https://m-en.yna.co.kr/view/AEN20261028001651320?section=economy-finance/economy": {
+      "what": "SK Hynix ne Q3 mein record profit banaya — revenue 104.6 trillion won, operating profit 83.3 trillion won, 80% ke qareeb margin.",
+      "why": "AI chips ki demand itni zyada hai ke memory banane wali company ka profit 6 quarters se lagatar record tor raha hai — ye AI boom ki asli engine room hai.",
+      "next": "Kya HBM4 ki supply 2027 tak bhi demand se peeche rahegi, ya Samsung aur baqi rivals gap band kar lenge?",
+      "take": "Meri take: jab memory chip wali company ka margin 80% ho, samajh lo AI ki race mein sab se zyada paisa wohi kama raha hai jo 'bailcha' bech raha hai. Hum developers sirf tools use karte hain — asli paisa infrastructure mein hai."
     },
-    "https://siliconangle.com/2026/10/26/meta-to-sell-up-to-95b-in-stock-to-finance-ai-infrastructure-buildout/": {
-      "what": "Meta $95 billion tak ke shares bechne ja raha hai apne data centres ke liye — pehle $35 billion ki offerings (common stock + depositary shares), phir $60 billion ka at-the-market programme. Nvidia, AMD aur Broadcom ne $5 billion tak khareedne mein dilchaspi dikhai hai. Paisa chaar AI superclusters mein jayega, jin mein Louisiana ka 5-gigawatt Hyperion campus sab se bara hai.",
-      "why": "Meta pehle shares wapas khareedta tha, ab bech raha hai — is ka matlab AI ki race mein cash khatam ho raha hai, chahe company kitni hi bari ho. 2026 ke liye capex guide $135–145 billion hai, aur Q3 mein pehli baar 10 saal mein free cash flow negative hua. Ye numbers batate hain ke AI infrastructure ab duniya ki sab se mehngi cheezon mein se ek hai.",
-      "next": "Dekhna hoga ke $35 billion ki pehli offering market kitni jaldi hazam karta hai — aur kya Meta ki share price girti hai ya investors isay growth ka signal samajhte hain. Hyperion ki construction timeline bhi asli test hogi.",
-      "take": "Meri take: Facebook wali company ab apne shares bech kar bijli ke plants bana rahi hai — ye sunkar hansi bhi aati hai aur dar bhi lagta hai. Hansi is liye ke 10 saal pehle Meta sirf app banata tha; dar is liye ke AI ki race ab itni mehngi ho gayi hai ke trillion-dollar company ko bhi paisa mangna par raha hai. Chhote developers ke liye is ka matlab simple hai: infrastructure ki race mein mat koodo, us infrastructure ke upar useful cheez banao."
+    "https://www.manilatimes.net/2026/10/28/business/foreign-business/wall-st-banks-blackstone-line-up-63b-for-anthropic/2455400/amp": {
+      "what": "Bank of America, Blackstone, Citi aur Morgan Stanley $63 billion ka financing de rahe hain taake Broadcom ke AI chips khareed kar Anthropic ko lease par diye jayen; delivery 2027 se.",
+      "why": "Ye AI ki history ke sab se baray debt deals mein se ek hai — aur ye cash nahi, lease hai. Matlab Anthropic ko chips milenge, lekin qarz ki qist bhi deni hogi.",
+      "next": "IPO ki pricing kya aati hai, aur kya ye lease model baqi AI labs bhi copy karengi?",
+      "take": "Meri take: $63 billion 'funding' sun kar lagta hai paisa hi paisa hai — asal mein ye kiraye par chips hain. AI ki race ab sirf smart models ki nahi, smart financing ki bhi ho gayi hai. Jo compute afford kar sake, wohi aage."
     },
-    "https://www.digitaltrends.com/computing/openais-new-gpt-6-1-terra-model-gets-astra-like-results-at-a-fraction-of-the-cost/": {
-      "what": "OpenAI ne GPT-6.1 Terra launch kiya hai — mid-tier model jo computer use, visual reasoning aur professional kaam ke liye bana hai. API price $1 per million input aur $5 per million output tokens hai, GPT-5.6 Terra se 50% sasta. OpenAI ka daawa hai ke ye Agents' Last Exam pe top-tier Astra ke barabar hai, lekin per-token price us ka daswaan hissa, aur computer tasks 3x tez karta hai.",
-      "why": "Ye AI pricing ki race ka naya chapter hai: har naya model pichle se sasta aur tez. Jab top-tier performance daswein qeemat pe milne lage to chhote businesses aur freelancers ke liye AI agents banana pehle se zyada mumkin ho jata hai. Lekin ye benchmarks OpenAI ke apne hain — independent tests abhi baqi hain.",
-      "next": "Independent benchmarks aur asli users ke reviews batayenge ke Terra waqai Astra-level hai ya sirf marketing. Aur dekhna hoga ke Anthropic is price war ka jawab kab aur kis model se deta hai.",
-      "take": "Meri take: har hafte naya model, har model pichle se sasta — ye sunkar khushi hoti hai, lekin ek developer ke liye ye thakaan bhi hai. Aaj jo model best hai, agle mahine purana ho jayega. Is liye model ke peeche mat bhago, workflow ke peeche bhago: aap ka kaam kya hai, wo pehchano, phir jo sasta aur kaam ka model ho usay use karo. Terra ki asli khabar price nahi, ye hai ke computer pe kaam karne wale agents ab aam aadmi ki pohanch mein aa rahe hain."
+    "https://www.freemalaysiatoday.com/category/business/2026/10/28/openai-plans-to-buy-google-s-ai-chips": {
+      "what": "OpenAI, Google ke Tensor Processing Units khareedne ka plan bana raha hai, The Information ki report ke mutabiq — jab ke dono search aur AI mein seedhay rivals hain.",
+      "why": "OpenAI Nvidia par apni dependence kam karna chahta hai, aur Google apne TPUs ko bahar bech kar Nvidia ka alternative ban raha hai.",
+      "next": "Deal ki value aur timing kya hogi, aur kya Nvidia is ka jawab price ya supply se dega?",
+      "take": "Meri take: dushman se chips khareedna ajeeb lagta hai, lekin business mein dushmani se zyada supply chain matter karti hai. Aaj ka sabak simple hai: kisi ek supplier par poora depend rehna sab se bara risk hai — chahe woh chip ho ya client."
     },
-    "https://www.freemalaysiatoday.com/category/world/2026/10/27/australia-warns-of-unprecedented-ai-threat": {
-      "what": "Australia ki cyber agency ASD ne apni annual report mein warning di hai ke AI ab cyber threats mein 'unprecedented' kirdar ada kar raha hai — criminals aur state-backed hackers is se pehle se zyada scale pe attacks kar rahe hain. Pichle saal agency ne 4,400 se zyada warnings jaari ki — pichle saal se 80% zyada. Report mein China, Russia aur North Korea se linked hackers ka zikr bhi hai.",
-      "why": "Ye wohi AI hai jo hum productivity ke liye use karte hain — doosri taraf wo vulnerabilities dhoondhne aur exploit karne mein bhi madad kar raha hai. Jab ek government agency khud kehti hai ke AI ne threat landscape badal diya hai, to ye sirf Australia ki khabar nahi, har internet user ki khabar hai.",
-      "next": "Dekhna hoga ke governments is ka jawab regulation se deti hain ya apne defensive AI se — aur kya agle saal warnings ka number phir barhta hai. Pakistan ke businesses ke liye bhi yehi sawal hai: aap ke systems kitne updated hain?",
-      "take": "Meri take: AI ne hacking ko bhi 'easy' kar diya hai — pehle hacker ko mahine lagte the vulnerability dhoondhne mein, ab AI ghanton mein kar deta hai. Darne ki baat nahi, samajhne ki baat hai: apna software update rakho, passwords mazboot rakho, aur ye mat socho ke 'hum chhote hain, humein kaun hack karega'. AI wale attacks chhote-bare ka farq nahi karte, wo scale pe chalte hain."
+    "https://www.macrumors.com/2026/10/27/apple-updates-creator-studio-ai-features/": {
+      "what": "Apple ne November update announce kiya: Pages, Keynote aur Numbers mein beta AI assistants aayenge, aur Mac par bahar ke AI agents bhi in apps ko read/edit kar sakenge.",
+      "why": "Apple apni productivity apps mein AI ko subscription ke peeche rakh raha hai — Creator Studio $12.99/month. Free apps, paid AI.",
+      "next": "November update mein assistants kitne logon tak pohnchte hain, aur MCP support se developers kya banate hain?",
+      "take": "Meri take: Apple der se aaya, lekin seedha paisay wali jagah par aaya — presentation aur document banane wala har banda ab AI ko kiraye par lega. Pakistani freelancers ke liye ye reminder hai: client ko slide nahi, waqt bachana becho."
     },
-    "https://www.manilatimes.net/2026/10/27/tmt-newswire/pr-newswire/rokae-delivers-its-10000th-humanoid-force-controlled-arm/2454283": {
-      "what": "China ki ROKAE Robotics ne apna 10,000th humanoid force-controlled arm deliver kar diya hai. Ye arms factories mein kaam kar rahe hain — Schaeffler ke Lighthouse Factory mein parts uthana, assembly aur inspection. 80 se zyada industrial partners inhein production mein use kar rahe hain, 40 se zyada mulkon mein.",
-      "why": "Humanoid robots ab sirf demo videos mein nahi, asli factory floors pe hain. Force control ka matlab hai ke robot cheezon ko mehsoos kar ke pakarta hai, sirf programmed movement nahi karta — ye woh step hai jo robots ko lab se factory tak le aaya hai.",
-      "next": "Ab sawal ye hai ke ye arms factories se nikal kar warehouses, hospitals aur phir gharon tak kab pohanchte hain — aur kya in ki qeemat itni neeche aati hai ke chhoti factories bhi afford kar sakein.",
-      "take": "Meri take: jab robot ki khabar '10,000 units deliver' tak pohanch jaye to samajh lo ke wo technology ab future nahi, present hai. Hum abhi AI chatbots pe hairan ho rahe hain, lekin asli tabdeeli factory floor pe ho rahi hai — jahan robot haath se kaam kar raha hai. Pakistan ke liye ye door ki khabar lagti hai, lekin jo mulk manufacturing mein peeche reh gaya, wo is race mein bhi peeche reh jayega. Skill seekhni hai to robotics aur automation ki taraf bhi nazar rakho, sirf web dev pe nahi."
+    "https://www.panews.io/articles/01a17fd9-1987-74f9-a293-fcc144c0526d": {
+      "what": "Robotics startup Physical Intelligence $1 billion raise karne ki baat-cheet mein hai, $20 billion valuation par — is saal ke shuru mein valuation $11.5 billion thi, aur revenue abhi zero hai.",
+      "why": "Do saal purani company, koi revenue nahi, phir bhi valuation double — investors robots ke future par bet laga rahe hain, aaj ke profit par nahi.",
+      "next": "Round close hota hai ya nahi, aur robot model developers ke liye kitna khulta hai?",
+      "take": "Meri take: zero revenue par $20 billion — ye ya to vision hai ya bubble, dono ki pehchan baad mein hoti hai. Lekin ek baat clear hai: jo log AI ko sirf chat samajhte hain, woh aglay chapter se peeche reh jayenge — robots aa rahe hain, chahe aaj revenue zero ho."
     },
-    "https://www.malaymail.com/news/money/2026/10/27/ai-billionaires-poised-to-unleash-us100b-philanthropy-wave-but-who-benefits/240631": {
-      "what": "AI ki daulat se philanthropy ki teesri lehar aa sakti hai — Carnegie aur Rockefeller ke zamanay ke baad sab se bari. Anthropic apne shares ka 5% ek Public Benefit Fund ko dega, jo $2 trillion valuation pe $100 billion tak ka ho sakta hai; us ke saat co-founders ne apni equity ka 80% dene ka wada kiya hai. OpenAI Foundation ke paas pehle se 26% stake hai, taqreeban $130 billion ka.",
-      "why": "Ye sirf daan ki khabar nahi — ye power ki khabar hai. Jab ek company ka fund poore mulkon ke budget se bara ho jaye to wo tay karta hai ke kis cause ko paisa milega: AI safety, global health, ya kuch aur. Critics ka dar ye hai ke paisa jahan jayega, duniya ki priorities bhi wahin mur jayengi.",
-      "next": "Anthropic ka IPO November mein expected hai — us ke baad fund ki asli value samne aayegi, aur ye bhi ke fund pehla paisa kis kaam mein lagata hai. Musk ka counter-idea (har American bachay ko ek SpaceX share) bhi debate mein rahega.",
-      "take": "Meri take: billionaires ka daan dekh kar dil khush hota hai, lekin aankh khuli rakhni chahiye. Jab paisa dene wala khud tay kare ke kis problem ka hal zaroori hai, to wo charity nahi, influence hoti hai. Aur ek aur baat: ye daan usi daulat se aa raha hai jo AI ne banayi hai — jis ne kai logon ki naukriyan bhi khayi hain. Asli sawal ye nahi ke kitna diya, sawal ye hai ke kisko diya, aur kis ki qeemat pe kamaya."
+    "https://en.edaily.co.kr/news/eda202610285032/": {
+      "what": "Nasdaq 1.18% barh kar 26,477.81 par band hua — AI chip stocks ki rally ka doosra din, Anthropic ki IPO filing aur $63B chip financing ki wajah se.",
+      "why": "Do haftay ki thand ke baad market ne phir AI par bet lagayi; Broadcom ~4%, AMD ~5.5% barhay. Lekin Fed ka faisla aur Big Tech earnings abhi baqi hain.",
+      "next": "Fed rate par kya kehta hai, aur Alphabet, Microsoft, Amazon ki earnings AI spending ko justify karti hain ya nahi?",
+      "take": "Meri take: market ka mood AI par aik din mein badal jata hai — kal dar, aaj rally. Is liye headline dekh kar career ya investment faisla mat karo. Trend dekho, shor nahi."
     },
-    "https://www.geo.tv/latest/673967-petroleum-rates-in-pakistan-today": {
-      "what": "Hukoomat ne petrol Rs1.54 aur diesel Rs2.16 mehnga kar diya — petrol ab Rs379.25 aur diesel Rs395.82 per litre. Nayi qeematein Tuesday 27 October se laagu hain, aur ab daily price review mechanism ke tahat Ogra rozana qeematein nikaalega. Saath mein austerity wapas aayi hai: markets raat 9 baje band, aur sarkari gaariyon ka fuel 50% kam.",
-      "why": "Petrol ki qeemat sirf petrol nahi — ye har cheez ki qeemat hai. Diesel mehnga hoga to transport mehnga hoga, transport mehnga hoga to sabzi, aata, har cheez mehngi hogi. Aur ab jab qeematein rozana badalengi to awam ko har subah nayi qeemat ka jhatka lag sakta hai.",
-      "next": "Kal ki qeemat kya hoti hai — daily mechanism ka pehla asli test yehi hai. Aur dekhna hoga ke 9 baje market band wali pabandi waqai lagti hai ya sirf kagaz pe rehti hai.",
-      "take": "Meri take: Rs1.54 ka izafa chhota lagta hai, lekin ye chhota izafa har mahine, har hafte jama hota hai — aur end mein aam aadmi ki jaib khaali ho jati hai. Daily pricing ka matlab ye bhi hai ke ab 'agle hafte sasta ho jayega' wali umeed bhi khatam. Sach ye hai ke jab duniya mein jang ho to hum jese mulkon ko sab se pehle aur sab se zyada chot lagti hai — aur us chot ka bill hamesha aam aadmi bharta hai, bari gaariyon wale nahi."
+    "https://tribune.com.pk/story/2637236/govt-cuts-petrol-by-rs319-increases-diesel-by-rs225-for-oct-28": {
+      "what": "Aaj se petrol Rs376.06 per litre — Rs3.19 sasta — lekin diesel Rs398.07, Rs2.25 mehnga. Daily pricing ke tehat ye sirf aaj ke liye hai.",
+      "why": "Petrol sasta, diesel mehnga — matlab bike/car walon ko thori relief, lekin transport aur samaan ki keemat par dabao barhega.",
+      "next": "Kal ki daily revision mein trend palatta hai ya diesel aur barhta hai?",
+      "take": "Meri take: Rs3.19 ki kami par khush hon ya Rs2.25 ke izafay par pareshan — asal kahani ye hai ke rozana price badalne se ab koi budget nahi bana sakta. Aam aadmi ko chahiye stability, rozana ki surprise nahi."
     },
-    "https://www.malaymail.com/news/world/2026/10/27/saudi-arabia-turkey-and-pakistan-hold-talks-with-iran-to-avert-renewed-regional-war/240724": {
-      "what": "Saudi Arabia, Turkey aur Pakistan ke senior officials ne Monday ko Tehran mein Iran se mulaqat ki taake Middle East ki jang dobara na bharak uthe. Saudi wazeer-e-difa Prince Khalid bin Salman, Pakistan ke army chief General Asim Munir aur Turkey ke intelligence chief Ibrahim Kalin ne President Pezeshkian se mulaqat ki. Ye pehli joint visit hai jab se teenon ne August mein Mecca mein defence alliance banaya tha. Koi concrete announcement nahi hui, bas 'discussions jari rakhne' pe ittefaq hua.",
-      "why": "Ye mulaqat is liye bari hai kyunki teenon mulk ek saath Tehran gaye — ye sirf baat-cheet nahi, ek signal hai ke region ke mulk ab apni security khud sambhalna chahte hain, bahar ki taaqaton ke baghair. Iran ne isay 'very good' kaha, lekin jab tak koi deal nahi, ye sirf umeed hai.",
-      "next": "Agla test ye hai ke discussions se koi ceasefire ya de-escalation deal nikalti hai ya nahi — aur Israel ke Tuesday ke elections aur US midterms se pehle region mein kya hota hai. UN chief Guterres ne bhi escalation rokne ki appeal ki hai.",
-      "take": "Meri take: teen mulkon ka ek saath Tehran jana waqai historic hai — pehle hum aise joint visits sirf Washington ya London ki taraf dekhte the. Lekin photo-op aur peace deal mein farq hota hai, aur abhi tak hamare paas sirf photo hai. Pakistan ke liye is mein izzat bhi hai aur khatra bhi: darmiyan mein beth kar sulah karwana achi baat hai, lekin jab do taraf se goliyan chal rahi hon to darmiyan mein khara aadmi sab se pehle nishane pe hota hai. Dua yehi hai ke ye mulaqat kaam aa jaye, kyunki dobara jang ka bill hum sab ko bharna parega — petrol ki qeemat mein, jo aaj phir barh gayi hai."
+    "https://www.channelnewsasia.com/sport/sri-lanka-beat-pakistan-reach-final-england-eliminated-6497061": {
+      "what": "Sri Lanka ne Lahore mein Pakistan ko sirf 110 par out kar ke 8 wickets se hara diya aur tri-series final mein jagah bana li; England bahar.",
+      "why": "Teen lagatar jeet ke baad Pakistan ko aisi haar — Madushanka ke 5-34 ne poori batting gira di. Final 31 Oct ko phir isi ground par hai.",
+      "next": "Final mein Pakistan batting kaise sudharti hai, aur kya Saim Ayub ki jagah Farhan farq dalta hai?",
+      "take": "Meri take: 110 all out ghar ke ground par — ye form ki kharabi nahi, mindset ki haar lagti hai. Achhi baat ye hai ke final mein badla lene ka mauqa foran mil raha hai. Ab excuses nahi, performance chahiye."
     },
-    "https://tribune.com.pk/story/2637095/talibans-civilian-deaths-claim-rejected": {
-      "what": "Pakistan ne Monday ko Taliban regime ke civilian casualties wale ilzamaat ko 'baseless' keh kar mustarad kar diya. Foreign Office ka kehna hai ke Afghan sarzameen se plan hone wale attacks ne 2026 mein 3,500 se zyada casualties di hain, aur Taliban regime TTP aur BLA ko panah de raha hai. Pakistan ne kaha ke us ka jawab self-defence mein, proportionate aur sirf terrorists ke khilaaf tha.",
-      "why": "Ye sirf bayan-bazi nahi — ye do mulkon ke beech barhti kashidgi ka ek aur chapter hai. Jab ek taraf civilian casualties ka ilzaam ho aur doosri taraf 3,500 casualties ka jawab, to sach kisi ek bayan mein nahi milta. Lekin ye tay hai ke border pe aman ke baghair dono taraf ke aam log hi marte hain.",
-      "next": "Dekhna hoga ke is bayan ke baad border ya diplomatic level pe kya hota hai — kya baat-cheet ka rasta khulta hai ya ilzamaat ka silsila aur barhta hai. Karachi Port pe Afghan traders ke containers ki auction ki khabar bhi isi kashidgi ka hissa hai.",
-      "take": "Meri take: jab dono taraf se 'hum ne kuch nahi kiya, unhon ne sab kiya' ki aawazein aayen to samajh lo ke sach beech mein kahin daba hua hai. Lekin ek baat pe dono taraf ke aam log mutafiq honge: jang aur dehshatgardi ka bill aam aadmi bharta hai, chahe wo Peshawar mein ho ya Kabul mein. Bayan se aman nahi aata — aman tab aata hai jab dono taraf ye maan lein ke un ki sarzameen doosre ke khilaaf use nahi hogi. Abhi tak wo din nahi aaya."
+    "https://www.icc-cricket.com/news/form-slump-sees-pakistan-opener-return-to-domestic-duties": {
+      "what": "Saim Ayub ne khud domestic cricket wapas jaane ki darkhwast ki — teen innings mein double figure bhi nahi ban saka — aur Sahibzada Farhan un ki jagah squad mein aaye.",
+      "why": "Khiladi ka khud kehna ke 'form kharab hai, waqt chahiye' — Pakistan cricket mein ye imandari kam dekhne ko milti hai.",
+      "next": "Domestic mein Ayub kitni jaldi form wapas laata hai, aur Farhan final tak apni jagah pakki karta hai ya nahi?",
+      "take": "Meri take: is faislay ki izzat karni chahiye — banda bahana nahi bana raha, kaam karne ja raha hai. Hum sab ko kabhi kabhi aisa hi break chahiye hota hai: peeche hatna haar nahi, tayyari hai."
     },
-    "https://arynews.tv/psx-stocks-close-higher-as-kse-100-index-gains-over-600-points": {
-      "what": "PSX Monday ko upar band hui — KSE-100 index 663.59 points barh kar 163,038.47 pe pohanch gaya, paanch hafton ki musalsal girawat ke baad. Ready market mein 376 million shares ka karobar hua, Rs16.19 billion value ke saath. 196 companies upar gayin, 251 neeche, 48 unchanged.",
-      "why": "Paanch hafte laal rehne ke baad ek din hara — ye recovery hai ya sirf saans lena, ye abhi kehna mushkil hai. Lekin is din ki khaas baat ye hai ke ye usi din hua jab SBP ne policy rate barhaya — aam tor pe rate hike market ko neeche le jata hai, yahan ulta hua, jo batata hai ke investors ne pehle se hi hike ki qeemat laga rakhi thi.",
-      "next": "Aaj Tuesday ka session batayega ke ye rebound tikta hai ya ek din ka tamasha tha. Agar index 163,000 se upar tik gaya to bharosa wapas aa sakta hai; warna phir wahi girawat.",
-      "take": "Meri take: paanch hafte baad ek din hara dekh kar khush hona samajh aata hai, lekin ek din se trend nahi banta. Market mein sab se bara dhoka yehi hai: ek din ki hari dekh kar log kehte hain 'ab to upar hi jayega' aur phir phas jate hain. Asli signal tab milega jab do-teen din lagatar upar band ho. Tab tak ye sirf ek saans hai — lambi race mein ek saans se jeet nahi hoti."
+    "https://www.nation.com.pk/newspaper/28-Oct-2026/suparco-inaugurates-un-pakistan-conference-space-technology-early-warning-climate-action": {
+      "what": "SUPARCO ne Islamabad mein UN ke saath 5 din ki conference shuru ki — space technology se early warning, climate action aur disaster risk par, 20 mumalik ke 250 shirkat ke saath.",
+      "why": "2022 ke sailaab ke baad Pakistan ke liye early warning sirf science nahi, zindagi-maut ka masla hai — satellite data is mein madadgar ho sakta hai.",
+      "next": "Conference se koi practical early-warning system ya pilot project nikalta hai ya sirf speeches hoti hain?",
+      "take": "Meri take: conference achhi baat hai, lekin asli test ye hai ke aglay sailaab se pehle gaon tak warning pohnchti hai ya nahi. Satellite upar hai, zameen par system chahiye."
     },
-    "https://mmnews.tv/sbp-raises-policy-rate-by-50-basis-points-to-12/": {
-      "what": "State Bank ne policy rate 50 basis points barha kar 12% kar diya hai, 11.5% se upar. Governor Jameel Ahmad ne press conference mein faisla announce kiya — maqsad inflation ke pressure ko rokna aur economic stability banana hai.",
-      "why": "Policy rate barhna ka matlab hai ke qarza mehnga hoga — business loans, ghar ke loans, sab. Lekin SBP ke paas choice kam hai: jab inflation barh rahi ho aur energy prices upar hon to rate na barhana bhi khatarnak hai. Ye wohi purani kashmakash hai: mehngai roko to growth rukti hai, growth chalao to mehngai barhti hai.",
-      "next": "Ab nazar agle inflation data pe hogi — agar mehngai neeche aayi to ye hike kaam kar gayi; agar nahi to agle meeting mein mazeed hike ka dar rahega. Aur businesses pe asar agle kuch hafton mein nazar aayega.",
-      "take": "Meri take: 12% policy rate sunkar aam aadmi ko sirf ek baat samajh aani chahiye — aap ka qarza mehnga, aap ki bachat pe munafa zyada, aur business ke liye paisa mushkil. Ye faisla sahi hai ya ghalat, ye to waqt batayega — lekin ye zaroor batata hai ke economy abhi ICU se bahar nahi aayi. Jab tak rate barh raha hai, samajh lo ke mehngai abhi qaabu mein nahi."
+    "https://www.dawn.com/news/2040268": {
+      "what": "Hukumat ne banks ke liye currency transaction report ka threshold Rs2 million se barha kar Rs3 million kar diya; crypto regulator PVARA ko bhi anti-money laundering powers mil gayi.",
+      "why": "50% izafa matlab choti-moti bari cash transactions par ab report nahi hogi — nizam ko bari machhliyon par focus karna hai, har transaction par nahi.",
+      "next": "Naya threshold money laundering rokne mein madad karta hai ya sirf reporting kam karta hai?",
+      "take": "Meri take: threshold barhana bura nahi — har choti transaction par nazar rakhna mumkin bhi nahi. Lekin asal sawal ye hai ke bari raqam walon par action hota hai ya sirf qanoon ki kitab mein izafa hota hai."
     },
-    "https://www.urdupoint.com/en/sports/high-flying-pakistan-face-sri-lanka-in-tri-se-2277407.html": {
-      "what": "Unbeaten Pakistan aaj Tuesday ko Gaddafi Stadium mein Sri Lanka se khelega — final ki ticket pehle se pakki hai, kyunki Pakistan apne teenon matches jeet chuka hai. Captain Shaheen Shah Afridi 150 ODI wickets tak pohanchne wale sab se tez Pakistani pacer ban gaye hain, aur Gaddafi pe Wasim Akram ka record torne se sirf 4 wickets door hain.",
-      "why": "Final se pehle ye match Pakistan ke liye form test hai, Sri Lanka ke liye survival — jo jeetega us ka confidence final mein kaam aayega. Aur Shaheen ka record is liye khaas hai kyunki Wasim Akram ka naam Gaddafi ke record book se hatana koi chhoti baat nahi.",
-      "next": "Aaj ka match 1pm PKT pe shuru hoga. Jeet gaye to Pakistan final mein unbeaten jayega; haar gaye to bhi final ki ticket mehfooz hai, lekin momentum ka sawal hoga. Final Saturday 31 October ko isi ground pe hai.",
-      "take": "Meri take: final pakka, team unbeaten, captain record pe — is se behtar form kya ho sakti hai? Lekin cricket mein sab se khatarnak waqt yehi hota hai: jab sab kuch acha chal raha ho to overconfidence aa jata hai. Aaj ka match jeetna zaroori nahi, lekin attitude jeetne wala hona chahiye. Aur Shaheen ke liye: Wasim ka record tor do, lekin final ke liye wickets bacha kar rakho — record ek din ka hai, trophy hamesha ki."
+    "https://www.dawn.com/news/2040339/ppl-earns-rs99bn-profit-makes-11-discoveries": {
+      "what": "PPL ne FY26 mein Rs99 billion profit aur record Rs284 billion collections ka elaan kiya; 11 nayi discoveries se reserves mein 242 BCF ka izafa hua.",
+      "why": "Gas curtailment, circular debt aur security challenges ke bawajood PPL ne 120% dividend diya — energy sector mein ye bari khabar hai.",
+      "next": "Nayi discoveries production mein kab tabdeel hoti hain, aur minerals division se kya nikalta hai?",
+      "take": "Meri take: Rs99 billion profit sun kar aam aadmi poochta hai — phir gas aur bijli mehngi kyun? Jawab simple nahi, lekin ye zaroor hai ke discoveries achhi khabar hain, bas un ka faida bill tak pohnchna chahiye."
     }
   },
-  "mood": "Tuesday mood: petrol phir upar ⛽, SBP ne rate 12% kar diya 📈, Anthropic IPO ki taraf 🤖 — aur Gaddafi mein aaj Pakistan vs Sri Lanka 🏏"
+  "mood": "AI paisa, cricket dhakka — aaj ka mood: paisa upar, batting neechay."
 }
