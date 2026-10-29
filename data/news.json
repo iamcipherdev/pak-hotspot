@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-10-28T06:59:18+05:00",
+  "updated_at": "2026-10-29T06:59:41+05:00",
   "tech": [
     {
-      "source": "Yonhap",
-      "summary": "SK Hynix reported record Q3 revenue of 104.61 trillion won and operating profit of 83.33 trillion won ($62.8B), up 327.9% and 557.2% year-on-year, driven by high-bandwidth memory chips for AI accelerators. It was the company's sixth straight record quarter, and it also announced a fresh 60 trillion won shareholder return plan.",
-      "title": "SK Hynix posts record Q3 profit as AI memory demand explodes",
-      "url": "https://m-en.yna.co.kr/view/AEN20261028001651320?section=economy-finance/economy"
+      "source": "Reuters via Mix 92.9",
+      "summary": "Samsung Electronics said its operating profit rose nearly ninefold year-on-year to a record high in the third quarter, driven by robust demand for AI chips, even as investors stayed cautious about how durable AI spending will be. Rival SK Hynix also reported strong earnings, and Samsung said the chip supply shortage would deepen next year.",
+      "title": "Samsung posts record Q3 profit on AI chip boom",
+      "url": "https://mix929.com/2026/10/28/samsung-posts-record-profit-in-q3-on-ai-chip-boom/"
     },
     {
-      "source": "Manila Times",
-      "summary": "Bank of America, Blackstone, Citi and Morgan Stanley will provide $63 billion in financing through a special-purpose vehicle to buy Broadcom AI accelerators and networking gear, which will be leased to Anthropic. Deliveries begin in 2027. Anthropic also filed for a potentially record-breaking IPO this week.",
-      "title": "Wall Street banks line up $63B to buy Anthropic's Broadcom AI chips",
-      "url": "https://www.manilatimes.net/2026/10/28/business/foreign-business/wall-st-banks-blackstone-line-up-63b-for-anthropic/2455400/amp"
+      "source": "EM360Tech",
+      "summary": "Nvidia will invest $3 billion in Meta's equity offering and expand work on Muse, Meta's personal AI agent, while Meta widens its use of Nvidia's Vera Rubin systems and networking tech. The investment sits inside Meta's $97.5 billion offering — the largest fundraising in its history — to pay for AI infrastructure; AMD committed $1 billion alongside Nvidia.",
+      "title": "Nvidia invests $3B in Meta's record $97.5B equity offering",
+      "url": "https://em360tech.com/tech-articles/nvidia-invests-3-billion-meta-equity-offering-expand-muse-ai"
     },
     {
-      "source": "Free Malaysia Today",
-      "summary": "OpenAI plans to buy Google's Tensor Processing Units, The Information reported, deepening ties between two AI rivals. OpenAI is one of Nvidia's largest GPU buyers and began renting Google's chips in June 2025; Google's TPUs are gaining traction as a cheaper alternative to Nvidia hardware. Neither company commented.",
-      "title": "OpenAI plans to buy Google's AI chips, deepening a rival partnership",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/28/openai-plans-to-buy-google-s-ai-chips"
+      "source": "Business Wire",
+      "summary": "Seoul-based AI chip startup FuriosaAI closed a $620 million Series D at a $2.9 billion valuation, roughly four times its early-2025 mark. South Korea's National Growth Fund led with $280 million; FuriosaAI began mass-producing its RNGD inference chip in January and plans to scale TSMC production from 20,000 chips this year to over 40,000 in 2027.",
+      "title": "FuriosaAI raises $620M at $2.9B valuation for AI inference chips",
+      "url": "https://www.businesswire.com/news/home/20261028655033/en/FuriosaAI-Secures-$620-Million-Series-D-to-Meet-Surging-Enterprise-AI-Inference-Demand-and-Accelerate-Next-Gen-Silicon"
     },
     {
-      "source": "MacRumors",
-      "summary": "Apple announced a November Creator Studio update adding beta AI assistants to Pages, Keynote and Numbers that understand the open document, plus Model Context Protocol support letting outside AI agents read and edit files on Mac. Final Cut Pro gains built-in MotionVFX, and Logic Pro gets its own assistant. New subscribers pay $12.99/month.",
-      "title": "Apple's Creator Studio update brings AI assistants to Pages, Keynote and Numbers",
-      "url": "https://www.macrumors.com/2026/10/27/apple-updates-creator-studio-ai-features/"
+      "source": "Seoul Economic Daily",
+      "summary": "LG Uplus said two of its papers on AI token optimization were accepted for the On-Device Intelligence Workshop at NeurIPS 2026 in Sydney. Applied to smartphones, the tech delivered roughly 4.5x faster processing and about 77% lower battery use than conventional methods, while keeping performance on par with cloud-based AI.",
+      "title": "LG Uplus token-optimization papers accepted at NeurIPS 2026",
+      "url": "https://en.sedaily.com/technology/2026/10/29/lg-uplus-token-optimization-papers-accepted-at-neurips-2026"
     },
     {
-      "source": "PANews",
-      "summary": "Physical Intelligence, founded in 2024 by former Google DeepMind researchers and Stanford/UC Berkeley academics, is in talks to raise at least $1 billion at a valuation near $20 billion, almost double its $11.5 billion valuation earlier this year, Bloomberg reported. The company, backed by CapitalG, Jeff Bezos and Thrive, currently has no revenue.",
-      "title": "Robot startup Physical Intelligence in talks to raise $1B at up to $20B valuation",
-      "url": "https://www.panews.io/articles/01a17fd9-1987-74f9-a293-fcc144c0526d"
+      "source": "Business Wire via Medianet",
+      "summary": "Cognite announced that companies using its Industrial AI and Data Platform have unlocked more than $1 billion in verified, realized value, one year after launching its $100 billion Moonshot goal for 2035. About 36% of the value came from cutting unplanned downtime, 27% from frontline productivity and 26% from higher production.",
+      "title": "Cognite says customers unlocked $1B in verified industrial AI value",
+      "url": "https://newshub.medianet.com.au/2026/10/cognite-reports-1-billion-in-verified-ai-value-confirming-impact-of-industrial-ai-solutions/179022/"
     },
     {
-      "source": "E-Daily",
-      "summary": "The Nasdaq closed up 1.18% at 26,477.81 as AI semiconductor stocks rallied for a second day on Anthropic's IPO filing and its $63 billion chip-financing news. Broadcom rose about 4%, AMD about 5.5% and Micron 2.8%, while investors still watch Fed policy and Big Tech earnings this week.",
-      "title": "AI rally enters second day as Nasdaq jumps 1.2% on Anthropic optimism",
-      "url": "https://en.edaily.co.kr/news/eda202610285032/"
+      "source": "Dealroom",
+      "summary": "Casap closed a $56 million Series B led by Base10 Partners, with strategic checks from Experian and Synchrony, bringing total funding to about $90 million since its 2023 launch. Its AI agents handle bank disputes, chargebacks and fraud end-to-end for 100+ financial institutions, reporting 51% fraud-loss cuts and 73% of cases resolved with no human touch.",
+      "title": "Casap raises $56M to grow AI agents for bank disputes and fraud",
+      "url": "https://dealroom.co/news/167621-casap-raises-56m-series-b-to-help-banks-fight-customer-driven-card-fraud/"
     }
   ],
   "pakistan": [
     {
       "source": "The Express Tribune",
-      "summary": "The federal government cut petrol by Rs3.19 per litre to Rs376.06 for October 28 under the daily pricing mechanism, while high-speed diesel rose Rs2.25 to Rs398.07. The cut follows a Rs1.54 petrol hike a day earlier; petrol has now been cut 30 times and raised 38 times since daily pricing began on July 17.",
-      "title": "Petrol cut by Rs3.19 to Rs376.06, diesel up Rs2.25 to Rs398.07 for Oct 28",
-      "url": "https://tribune.com.pk/story/2637236/govt-cuts-petrol-by-rs319-increases-diesel-by-rs225-for-oct-28"
-    },
-    {
-      "source": "Channel NewsAsia",
-      "summary": "Sri Lanka bowled Pakistan out for just 110 at Gaddafi Stadium, Lahore, then chased it in 18.1 overs to reach the ODI tri-series final. Dilshan Madushanka took a career-best 5-34 and Kamindu Mendis finished 62 not out. The result knocked England out, and Pakistan meet Sri Lanka again in the final on October 31.",
-      "title": "Sri Lanka thrash Pakistan by 8 wickets to reach tri-series final, England out",
-      "url": "https://www.channelnewsasia.com/sport/sri-lanka-beat-pakistan-reach-final-england-eliminated-6497061"
-    },
-    {
-      "source": "ICC",
-      "summary": "The PCB confirmed opener Saim Ayub has been released from the men's ODI squad for the rest of the tri-series after he asked to return to domestic cricket to work on his batting form. Ayub had not reached double figures in three tri-series innings; Sahibzada Farhan replaces him.",
-      "title": "Saim Ayub released from ODI squad to rediscover form in domestic cricket",
-      "url": "https://www.icc-cricket.com/news/form-slump-sees-pakistan-opener-return-to-domestic-duties"
+      "summary": "The federal government increased petrol by Rs1.85 per litre to Rs377.91 and high-speed diesel by Rs1.75 to Rs399.82, effective October 29, under the daily pricing mechanism. The move follows a petrol cut of Rs3.19 a day earlier, and comes as global crude rose about 2% on fighting in Yemen and an attack on a Saudi refinery.",
+      "title": "Petrol up Rs1.85, diesel up Rs1.75 from today",
+      "url": "https://tribune.com.pk/story/2637445/govt-increases-petrol-by-rs185-diesel-by-rs175-for-oct-29"
     },
     {
       "source": "The Nation",
-      "summary": "SUPARCO, with UNOOSA, ISNET and APSCO, opened a five-day international conference in Islamabad (Oct 27-31) on using space technology for early warning, climate action and disaster risk assessment. Around 250 participants from 20 countries are attending, with Planning Minister Ahsan Iqbal as chief guest.",
-      "title": "SUPARCO opens UN-Pakistan space conference on early warning and climate action",
-      "url": "https://www.nation.com.pk/newspaper/28-Oct-2026/suparco-inaugurates-un-pakistan-conference-space-technology-early-warning-climate-action"
+      "summary": "The Pak International Business Forum warned that the State Bank's decision to raise the policy rate from 11.5% to 12% will raise borrowing costs, squeeze production and discourage investment, with SMEs hit hardest. It said controlling inflation matters, but monetary policy must also protect growth, investment and jobs.",
+      "title": "Business forum warns rate hike to 12% will hurt industry",
+      "url": "https://www.nation.com.pk/newspaper/29-Oct-2026/interest-rate-hike-detrimental-business-industrial-growth"
+    },
+    {
+      "source": "The Nation",
+      "summary": "Pakistan imported over 4.5 gigawatts of battery storage equipment in the first six months of 2026 alone — nearly half its entire cumulative historical imports of 9.5GW. At a parliamentary dialogue, lawmakers warned against substandard imports, while the Power Division promised pilot storage tenders and NEPRA designation of storage as a regulated asset.",
+      "title": "Pakistan imported 4.5GW of battery storage gear in six months",
+      "url": "https://www.nation.com.pk/newspaper/29-Oct-2026/pakistan-imports-4-5gw-battery-storage-equipment-six-months"
+    },
+    {
+      "source": "The Nation",
+      "summary": "Prime Minister Shehbaz Sharif directed ministries to complete by November all necessary measures for projects with Alibaba Group covering AI, digitalisation, exports and public services. The agenda includes an AI training programme for IT graduates, an early cancer detection system, OGRA fuel-supply analytics and help for SMEs reaching global markets.",
+      "title": "PM orders Alibaba AI, digitalisation projects wrapped up by November",
+      "url": "https://www.nation.com.pk/newspaper/29-Oct-2026/ai-digitalisation-central-national-development-pm"
     },
     {
       "source": "Dawn",
-      "summary": "The government raised the threshold for banks to trigger currency transaction reports to the State Bank's Financial Monitoring Unit by 50%, from Rs2 million to Rs3 million. The Aurangzeb-led anti-money laundering committee also gave the Pakistan Virtual Assets Regulatory Authority powers under the Anti-Money Laundering Act.",
-      "title": "Govt raises currency transaction report threshold to Rs3m in AML review",
-      "url": "https://www.dawn.com/news/2040268"
+      "summary": "Pakistan batting coach Mike Smith conceded the batting unit is operating at only about 70% of its potential after the hosts were bowled out for 110 in 25.3 overs and crushed by eight wickets by Sri Lanka in the ODI tri-series at Gaddafi Stadium. Sri Lanka's Dilshan Madushanka took a career-best five for 34; the sides meet again in Saturday's final.",
+      "title": "Batting coach admits Pakistan at '70 per cent' after Sri Lanka rout",
+      "url": "https://www.dawn.com/news/2040333"
     },
     {
       "source": "Dawn",
-      "summary": "Pakistan Petroleum Ltd posted Rs99 billion profit after tax and record collections of Rs284 billion in FY26, its 75th AGM heard. The company made 11 discoveries adding 242 BCF to reserves, drilled 11 wells, and approved a total dividend of 120%, while expanding into minerals and offshore blocks.",
-      "title": "PPL earns Rs99bn profit, makes 11 discoveries in FY26",
-      "url": "https://www.dawn.com/news/2040339/ppl-earns-rs99bn-profit-makes-11-discoveries"
+      "summary": "Kashmir Black Day was observed in Rawalpindi, Murree and elsewhere with rallies, seminars, solidarity walks and photo exhibitions condemning India's occupation of Jammu and Kashmir and backing Kashmiris' right to self-determination. Students presented tableaus and songs, a minute's silence was observed, and speakers called for sustained international attention.",
+      "title": "Kashmir Black Day marked with rallies and seminars",
+      "url": "https://www.dawn.com/news/2040273/rallies-seminars-held-to-mark-kashmir-black-day"
     }
   ]
 }

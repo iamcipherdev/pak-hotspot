@@ -1,86 +1,86 @@
 {
   "poll": {
-    "q": "Aaj ki sab se bari khabar: Anthropic ke liye $63B chip financing — AI boom asli hai ya bubble?",
+    "q": "Aaj ki sab se bari khabar: petrol Rs377.91 aur rate 12% — aam aadmi par sab se zyada bojh kis ka?",
     "options": [
-      "🚀 Asli boom — AI abhi shuru hua hai",
-      "🫧 Bubble — itna qarz aik din phatega",
-      "🤷 Dono — kuch companies jeetengi, kuch doobengi",
-      "💻 Mujhe farq nahi — bas tools saste hon"
+      "⛽ Petrol — roz ka kharcha barh gaya",
+      "📈 Interest rate — karobar aur rozgar rukega",
+      "🏏 Dono nahi — cricket ki haar zyada dukh deti hai",
+      "🤷 Sab mil kar — har taraf se dabao hai"
     ]
   },
   "stories": {
-    "https://m-en.yna.co.kr/view/AEN20261028001651320?section=economy-finance/economy": {
-      "what": "SK Hynix ne Q3 mein record profit banaya — revenue 104.6 trillion won, operating profit 83.3 trillion won, 80% ke qareeb margin.",
-      "why": "AI chips ki demand itni zyada hai ke memory banane wali company ka profit 6 quarters se lagatar record tor raha hai — ye AI boom ki asli engine room hai.",
-      "next": "Kya HBM4 ki supply 2027 tak bhi demand se peeche rahegi, ya Samsung aur baqi rivals gap band kar lenge?",
-      "take": "Meri take: jab memory chip wali company ka margin 80% ho, samajh lo AI ki race mein sab se zyada paisa wohi kama raha hai jo 'bailcha' bech raha hai. Hum developers sirf tools use karte hain — asli paisa infrastructure mein hai."
+    "https://mix929.com/2026/10/28/samsung-posts-record-profit-in-q3-on-ai-chip-boom/": {
+      "what": "Samsung ka Q3 operating profit pichle saal ke muqable taqreeban 9 guna barh kar record level par — wajah AI chips ki demand.",
+      "why": "Memory chips AI data centers ki jaan hain, aur jab supply tight ho to chip banane wale ki chandi hoti hai — yehi wajah hai ke Samsung aur SK Hynix dono record tor rahe hain.",
+      "next": "Kya 2026 mein chip shortage aur gehra hoga, ya nayi capacity aane se daam normal honge?",
+      "take": "Meri take: AI ki race mein sab se zyada faida un ka hai jo 'bailcha' bech rahe hain — chips. Hum sirf AI tools use karte hain, asli paisa hardware mein ban raha hai."
     },
-    "https://www.manilatimes.net/2026/10/28/business/foreign-business/wall-st-banks-blackstone-line-up-63b-for-anthropic/2455400/amp": {
-      "what": "Bank of America, Blackstone, Citi aur Morgan Stanley $63 billion ka financing de rahe hain taake Broadcom ke AI chips khareed kar Anthropic ko lease par diye jayen; delivery 2027 se.",
-      "why": "Ye AI ki history ke sab se baray debt deals mein se ek hai — aur ye cash nahi, lease hai. Matlab Anthropic ko chips milenge, lekin qarz ki qist bhi deni hogi.",
-      "next": "IPO ki pricing kya aati hai, aur kya ye lease model baqi AI labs bhi copy karengi?",
-      "take": "Meri take: $63 billion 'funding' sun kar lagta hai paisa hi paisa hai — asal mein ye kiraye par chips hain. AI ki race ab sirf smart models ki nahi, smart financing ki bhi ho gayi hai. Jo compute afford kar sake, wohi aage."
+    "https://em360tech.com/tech-articles/nvidia-invests-3-billion-meta-equity-offering-expand-muse-ai": {
+      "what": "Nvidia ne Meta ki $97.5 billion equity offering mein $3 billion lagaye, aur Meta ke AI agent Muse par kaam gehra kiya; AMD ne $1 billion commit kiya.",
+      "why": "Meta ko AI infrastructure ke liye $135-145 billion kharch karne hain is saal, is liye itni bari fundraising — aur chip suppliers khud customer ke shares khareed rahe hain.",
+      "next": "Kya ye 'circular financing' hai — supplier customer ko paisa de, customer wapas supplier se chips khareede — ya ye sirf smart partnership hai?",
+      "take": "Meri take: jab chip bechne wala khud khareedne wale mein invest kare, to samajh lo game ab sirf product ka nahi, poori chain par qabze ka hai. Chhote developers ke liye lesson: ecosystem mein jagah banao, sirf tool par depend mat raho."
     },
-    "https://www.freemalaysiatoday.com/category/business/2026/10/28/openai-plans-to-buy-google-s-ai-chips": {
-      "what": "OpenAI, Google ke Tensor Processing Units khareedne ka plan bana raha hai, The Information ki report ke mutabiq — jab ke dono search aur AI mein seedhay rivals hain.",
-      "why": "OpenAI Nvidia par apni dependence kam karna chahta hai, aur Google apne TPUs ko bahar bech kar Nvidia ka alternative ban raha hai.",
-      "next": "Deal ki value aur timing kya hogi, aur kya Nvidia is ka jawab price ya supply se dega?",
-      "take": "Meri take: dushman se chips khareedna ajeeb lagta hai, lekin business mein dushmani se zyada supply chain matter karti hai. Aaj ka sabak simple hai: kisi ek supplier par poora depend rehna sab se bara risk hai — chahe woh chip ho ya client."
+    "https://www.businesswire.com/news/home/20261028655033/en/FuriosaAI-Secures-$620-Million-Series-D-to-Meet-Surging-Enterprise-AI-Inference-Demand-and-Accelerate-Next-Gen-Silicon": {
+      "what": "South Korea ki AI chip startup FuriosaAI ne $620 million Series D raise kiya, valuation $2.9 billion — pichli valuation se taqreeban 4 guna.",
+      "why": "Sab Nvidia ka alternative dhoond rahe hain, khaas kar inference ke liye energy-efficient chips — aur Korea ki government khud $280 million laga rahi hai.",
+      "next": "Kya FuriosaAI waqai Nvidia ko takkar de payegi, ya ye sirf aik aur 'Nvidia-killer' headline ban kar reh jayegi?",
+      "take": "Meri take: har saal koi na koi 'Nvidia killer' aata hai, lekin jeet us ki hoti hai jo chip mass produce kar ke customer tak pahuncha de. FuriosaAI ka RNGD ab production mein hai — yehi farq hai, baqi sirf slides hain."
     },
-    "https://www.macrumors.com/2026/10/27/apple-updates-creator-studio-ai-features/": {
-      "what": "Apple ne November update announce kiya: Pages, Keynote aur Numbers mein beta AI assistants aayenge, aur Mac par bahar ke AI agents bhi in apps ko read/edit kar sakenge.",
-      "why": "Apple apni productivity apps mein AI ko subscription ke peeche rakh raha hai — Creator Studio $12.99/month. Free apps, paid AI.",
-      "next": "November update mein assistants kitne logon tak pohnchte hain, aur MCP support se developers kya banate hain?",
-      "take": "Meri take: Apple der se aaya, lekin seedha paisay wali jagah par aaya — presentation aur document banane wala har banda ab AI ko kiraye par lega. Pakistani freelancers ke liye ye reminder hai: client ko slide nahi, waqt bachana becho."
+    "https://en.sedaily.com/technology/2026/10/29/lg-uplus-token-optimization-papers-accepted-at-neurips-2026": {
+      "what": "LG Uplus ke do papers NeurIPS 2026 ke On-Device Intelligence Workshop mein accept hue — phone par AI tez aur kam battery kharch wali.",
+      "why": "AI ko phone par chalana cloud se sasta aur private hai; token optimization se processing 4.5 guna tez aur battery use 77% kam hua.",
+      "next": "Kya ye tech asli phones mein kab aayegi, ya sirf research paper tak mehdood rahegi?",
+      "take": "Meri take: asli AI revolution wohi hai jo aap ke phone mein, bina internet ke, bina battery khaye chale. Cloud wali AI sab ko dikhti hai, on-device wali AI sab ko faida degi."
     },
-    "https://www.panews.io/articles/01a17fd9-1987-74f9-a293-fcc144c0526d": {
-      "what": "Robotics startup Physical Intelligence $1 billion raise karne ki baat-cheet mein hai, $20 billion valuation par — is saal ke shuru mein valuation $11.5 billion thi, aur revenue abhi zero hai.",
-      "why": "Do saal purani company, koi revenue nahi, phir bhi valuation double — investors robots ke future par bet laga rahe hain, aaj ke profit par nahi.",
-      "next": "Round close hota hai ya nahi, aur robot model developers ke liye kitna khulta hai?",
-      "take": "Meri take: zero revenue par $20 billion — ye ya to vision hai ya bubble, dono ki pehchan baad mein hoti hai. Lekin ek baat clear hai: jo log AI ko sirf chat samajhte hain, woh aglay chapter se peeche reh jayenge — robots aa rahe hain, chahe aaj revenue zero ho."
+    "https://newshub.medianet.com.au/2026/10/cognite-reports-1-billion-in-verified-ai-value-confirming-impact-of-industrial-ai-solutions/179022/": {
+      "what": "Cognite ke mutabiq us ke Industrial AI platform use karne wali companies ne $1 billion se zyada verified, haqeeqi value unlock ki — downtime kam, production barha.",
+      "why": "Factory aur energy companies ko AI se slides nahi, naapi ja sakne wali bachat chahiye — Cognite ne apni kamyabi customer ke KPI se naapi, apne license se nahi.",
+      "next": "Kya baqi AI vendors bhi 'verified value' ki taraf jayenge, ya sirf pilot projects dikha kar paisa lete rahenge?",
+      "take": "Meri take: AI vendor se hamesha ye poochho — 'kitne paisay bachaye, kahan, kis ne verify kiye?' Jo ye jawab na de sake, woh sirf demo bech raha hai."
     },
-    "https://en.edaily.co.kr/news/eda202610285032/": {
-      "what": "Nasdaq 1.18% barh kar 26,477.81 par band hua — AI chip stocks ki rally ka doosra din, Anthropic ki IPO filing aur $63B chip financing ki wajah se.",
-      "why": "Do haftay ki thand ke baad market ne phir AI par bet lagayi; Broadcom ~4%, AMD ~5.5% barhay. Lekin Fed ka faisla aur Big Tech earnings abhi baqi hain.",
-      "next": "Fed rate par kya kehta hai, aur Alphabet, Microsoft, Amazon ki earnings AI spending ko justify karti hain ya nahi?",
-      "take": "Meri take: market ka mood AI par aik din mein badal jata hai — kal dar, aaj rally. Is liye headline dekh kar career ya investment faisla mat karo. Trend dekho, shor nahi."
+    "https://dealroom.co/news/167621-casap-raises-56m-series-b-to-help-banks-fight-customer-driven-card-fraud/": {
+      "what": "Casap ne $56 million Series B raise kiya — us ke AI agents banks ke disputes aur chargebacks handle karte hain; total funding $90 million ho gayi.",
+      "why": "Ab card fraud ka taqreeban aik tihai hissa khud cardholders karte hain — jhooti disputes — aur banks ke liye har chhota case investigate karna mehnga hai.",
+      "next": "Kya AI agents banks ke back-office ka mustaqbil hain, ya customer ke haqooq ke liye ye khatra ban jayenge?",
+      "take": "Meri take: AI agents ki asli kamai boring kaam mein hai — dispute, form, back-office. Jo developer 'sexy' chatbot banane mein laga hai, woh paisa wahan chhor raha hai jahan koi dekh nahi raha."
     },
-    "https://tribune.com.pk/story/2637236/govt-cuts-petrol-by-rs319-increases-diesel-by-rs225-for-oct-28": {
-      "what": "Aaj se petrol Rs376.06 per litre — Rs3.19 sasta — lekin diesel Rs398.07, Rs2.25 mehnga. Daily pricing ke tehat ye sirf aaj ke liye hai.",
-      "why": "Petrol sasta, diesel mehnga — matlab bike/car walon ko thori relief, lekin transport aur samaan ki keemat par dabao barhega.",
-      "next": "Kal ki daily revision mein trend palatta hai ya diesel aur barhta hai?",
-      "take": "Meri take: Rs3.19 ki kami par khush hon ya Rs2.25 ke izafay par pareshan — asal kahani ye hai ke rozana price badalne se ab koi budget nahi bana sakta. Aam aadmi ko chahiye stability, rozana ki surprise nahi."
+    "https://tribune.com.pk/story/2637445/govt-increases-petrol-by-rs185-diesel-by-rs175-for-oct-29": {
+      "what": "Petrol Rs1.85 barh kar Rs377.91 aur diesel Rs1.75 barh kar Rs399.82 per litre ho gaya, aaj 29 October se.",
+      "why": "Daily pricing mechanism ke tehat qeematein global crude se jurri hain — Yemen mein larai aur Saudi refinery par hamle ke baad crude 2% barha.",
+      "next": "Kal phir qeemat badlegi ya neeche aayegi? Daily mechanism mein yehi sawal roz poochhna parega.",
+      "take": "Meri take: daily price ka matlab ye hai ke ab petrol ki khabar roz ki khabar ban gayi hai — aik din relief, agle din izafa. Aam aadmi ke liye budget banana ab aur mushkil, kyunke qeemat ka koi haftawar andaza hi nahi raha."
     },
-    "https://www.channelnewsasia.com/sport/sri-lanka-beat-pakistan-reach-final-england-eliminated-6497061": {
-      "what": "Sri Lanka ne Lahore mein Pakistan ko sirf 110 par out kar ke 8 wickets se hara diya aur tri-series final mein jagah bana li; England bahar.",
-      "why": "Teen lagatar jeet ke baad Pakistan ko aisi haar — Madushanka ke 5-34 ne poori batting gira di. Final 31 Oct ko phir isi ground par hai.",
-      "next": "Final mein Pakistan batting kaise sudharti hai, aur kya Saim Ayub ki jagah Farhan farq dalta hai?",
-      "take": "Meri take: 110 all out ghar ke ground par — ye form ki kharabi nahi, mindset ki haar lagti hai. Achhi baat ye hai ke final mein badla lene ka mauqa foran mil raha hai. Ab excuses nahi, performance chahiye."
+    "https://www.nation.com.pk/newspaper/29-Oct-2026/interest-rate-hike-detrimental-business-industrial-growth": {
+      "what": "State Bank ne policy rate 11.5% se barha kar 12% kar diya; business forum ne kaha is se qarza mehnga, production mehngi aur investment slow hogi.",
+      "why": "Mehngai control karna zaroori hai, lekin jab qarza mehnga ho to factory lagana, karobar barhana sab ruk jata hai — khaas kar SMEs ke liye.",
+      "next": "Kya agle review mein rate wapas neeche aayega, ya mehngai ke dabao mein mazeed sakhti hogi?",
+      "take": "Meri take: interest rate woh switch hai jo poori economy ko on/off karta hai — upar karo to mehngai rukti hai, lekin rozgar aur growth bhi ruk jati hai. Balance banana hi asal imtihan hai, aur abhi woh balance nazar nahi aa raha."
     },
-    "https://www.icc-cricket.com/news/form-slump-sees-pakistan-opener-return-to-domestic-duties": {
-      "what": "Saim Ayub ne khud domestic cricket wapas jaane ki darkhwast ki — teen innings mein double figure bhi nahi ban saka — aur Sahibzada Farhan un ki jagah squad mein aaye.",
-      "why": "Khiladi ka khud kehna ke 'form kharab hai, waqt chahiye' — Pakistan cricket mein ye imandari kam dekhne ko milti hai.",
-      "next": "Domestic mein Ayub kitni jaldi form wapas laata hai, aur Farhan final tak apni jagah pakki karta hai ya nahi?",
-      "take": "Meri take: is faislay ki izzat karni chahiye — banda bahana nahi bana raha, kaam karne ja raha hai. Hum sab ko kabhi kabhi aisa hi break chahiye hota hai: peeche hatna haar nahi, tayyari hai."
+    "https://www.nation.com.pk/newspaper/29-Oct-2026/pakistan-imports-4-5gw-battery-storage-equipment-six-months": {
+      "what": "Pakistan ne 2026 ke pehle 6 mahinon mein 4.5GW battery storage equipment import kiya — poori tareekh ke 9.5GW ka taqreeban aadha.",
+      "why": "Solar barh raha hai, lekin din ki bijli shaam ko kaam nahi aati — battery hi woh pull hai. 40 se zyada data centers aur EVs bhi demand barha rahe hain.",
+      "next": "Kya Pakistan apni battery industry banayega, ya sirf import kar ke aik aur import bill khara karega?",
+      "take": "Meri take: ye khabar chhoti lagti hai lekin bari hai — Pakistan chup chaap battery economy mein dakhil ho raha hai. Jo is waqt storage, solar aur EV ki skill seekh le, agle 5 saal us ke honge."
     },
-    "https://www.nation.com.pk/newspaper/28-Oct-2026/suparco-inaugurates-un-pakistan-conference-space-technology-early-warning-climate-action": {
-      "what": "SUPARCO ne Islamabad mein UN ke saath 5 din ki conference shuru ki — space technology se early warning, climate action aur disaster risk par, 20 mumalik ke 250 shirkat ke saath.",
-      "why": "2022 ke sailaab ke baad Pakistan ke liye early warning sirf science nahi, zindagi-maut ka masla hai — satellite data is mein madadgar ho sakta hai.",
-      "next": "Conference se koi practical early-warning system ya pilot project nikalta hai ya sirf speeches hoti hain?",
-      "take": "Meri take: conference achhi baat hai, lekin asli test ye hai ke aglay sailaab se pehle gaon tak warning pohnchti hai ya nahi. Satellite upar hai, zameen par system chahiye."
+    "https://www.nation.com.pk/newspaper/29-Oct-2026/ai-digitalisation-central-national-development-pm": {
+      "what": "PM Shehbaz Sharif ne ministries ko November tak Alibaba Group ke saath AI aur digitalisation projects ke tamam measures mukammal karne ka hukum diya.",
+      "why": "Agenda mein IT graduates ki AI training, early cancer detection, OGRA fuel analytics aur SMEs ki global market access shamil hai.",
+      "next": "Kya November ki deadline poori hogi aur projects zameen par nazar aayenge, ya ye sirf aik aur meeting ki khabar ban kar reh jayegi?",
+      "take": "Meri take: government ke AI plans aksar meeting se aage nahi barhte — farq sirf tab parega jab aik project poora ho kar awaam tak pahunche. Deadline achhi hai, lekin hisab November ke baad hoga, abhi nahi."
     },
-    "https://www.dawn.com/news/2040268": {
-      "what": "Hukumat ne banks ke liye currency transaction report ka threshold Rs2 million se barha kar Rs3 million kar diya; crypto regulator PVARA ko bhi anti-money laundering powers mil gayi.",
-      "why": "50% izafa matlab choti-moti bari cash transactions par ab report nahi hogi — nizam ko bari machhliyon par focus karna hai, har transaction par nahi.",
-      "next": "Naya threshold money laundering rokne mein madad karta hai ya sirf reporting kam karta hai?",
-      "take": "Meri take: threshold barhana bura nahi — har choti transaction par nazar rakhna mumkin bhi nahi. Lekin asal sawal ye hai ke bari raqam walon par action hota hai ya sirf qanoon ki kitab mein izafa hota hai."
+    "https://www.dawn.com/news/2040333": {
+      "what": "Pakistan tri-series mein Sri Lanka se 8 wickets se haar gaya — poori team 110 par out; batting coach ne mana ke batting sirf 70% par chal rahi hai.",
+      "why": "Top order phir collapse hua — Babar 29 par out, baqi koi lambi innings na khel saka; Madushanka ne 5 wickets liye. Final haftay ko phir Sri Lanka se hai.",
+      "next": "Kya final mein batting sudhar jayegi, ya yehi 70% wali team trophy bhi haath se nikal degi?",
+      "take": "Meri take: 70% ka aitiraf imaandari hai, lekin final se pehle ye kehna bhi khatre ki ghanti hai. Cricket mein confidence achha hota hai, lekin 110 par out hone ke baad confidence se zyada technique aur plan chahiye."
     },
-    "https://www.dawn.com/news/2040339/ppl-earns-rs99bn-profit-makes-11-discoveries": {
-      "what": "PPL ne FY26 mein Rs99 billion profit aur record Rs284 billion collections ka elaan kiya; 11 nayi discoveries se reserves mein 242 BCF ka izafa hua.",
-      "why": "Gas curtailment, circular debt aur security challenges ke bawajood PPL ne 120% dividend diya — energy sector mein ye bari khabar hai.",
-      "next": "Nayi discoveries production mein kab tabdeel hoti hain, aur minerals division se kya nikalta hai?",
-      "take": "Meri take: Rs99 billion profit sun kar aam aadmi poochta hai — phir gas aur bijli mehngi kyun? Jawab simple nahi, lekin ye zaroor hai ke discoveries achhi khabar hain, bas un ka faida bill tak pohnchna chahiye."
+    "https://www.dawn.com/news/2040273/rallies-seminars-held-to-mark-kashmir-black-day": {
+      "what": "Rawalpindi, Murree aur doosri jagahon par Kashmir Black Day rallies, seminars, solidarity walks aur photo exhibitions ke saath manaya gaya.",
+      "why": "27 October 1947 ko Srinagar mein Indian forces ki aamad ki yaad mein har saal ye din manaya jata hai — Kashmiri awaam ke haq-e-khudiradiyat ki himayat mein.",
+      "next": "Kya is saal ki sargarmiyan Kashmir cause ko international attention dilane mein kuch naya kar payengi?",
+      "take": "Meri take: Kashmir par har saal rallies hoti hain, lekin duniya tabhi sunti hai jab baat musalsal, documented aur naujawan nasal tak pahunche. Sirf aik din ki walk se zyada, saal bhar ki awaaz chahiye."
     }
   },
-  "mood": "AI paisa, cricket dhakka — aaj ka mood: paisa upar, batting neechay."
+  "mood": "AI chips ka paisa barh raha hai, petrol ka bojh bhi — aaj ka mood: tech upar, jeb neechay."
 }
