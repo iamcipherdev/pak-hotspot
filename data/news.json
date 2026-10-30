@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-10-29T06:59:41+05:00",
+  "updated_at": "2026-10-30T07:00:45+05:00",
   "tech": [
     {
-      "source": "Reuters via Mix 92.9",
-      "summary": "Samsung Electronics said its operating profit rose nearly ninefold year-on-year to a record high in the third quarter, driven by robust demand for AI chips, even as investors stayed cautious about how durable AI spending will be. Rival SK Hynix also reported strong earnings, and Samsung said the chip supply shortage would deepen next year.",
-      "title": "Samsung posts record Q3 profit on AI chip boom",
-      "url": "https://mix929.com/2026/10/28/samsung-posts-record-profit-in-q3-on-ai-chip-boom/"
+      "source": "Reuters",
+      "summary": "Amazon's cloud unit AWS posted its fastest growth in nearly five years, rising 39% to $46 billion in Q3, yet the stock dropped more than 7% in extended trading after Amazon forecast Q4 revenue of $240–247 billion, largely below Wall Street estimates. The company kept its annual capital spending forecast at about $220 billion as it races to build AI data centers.",
+      "title": "Amazon's AWS grows 39% to $46B — but shares still fell over 7%",
+      "url": "https://www.reuters.com/business/retail-consumer/amazon-projects-fourth-quarter-sales-below-estimates-2026-10-29/"
     },
     {
-      "source": "EM360Tech",
-      "summary": "Nvidia will invest $3 billion in Meta's equity offering and expand work on Muse, Meta's personal AI agent, while Meta widens its use of Nvidia's Vera Rubin systems and networking tech. The investment sits inside Meta's $97.5 billion offering — the largest fundraising in its history — to pay for AI infrastructure; AMD committed $1 billion alongside Nvidia.",
-      "title": "Nvidia invests $3B in Meta's record $97.5B equity offering",
-      "url": "https://em360tech.com/tech-articles/nvidia-invests-3-billion-meta-equity-offering-expand-muse-ai"
+      "source": "DEV Community",
+      "summary": "Microsoft's fiscal Q1 revenue rose 19% to $92.28 billion with Azure growing 48%, and shares gained about 3% after hours. But AI infrastructure is consuming capital faster than operations replace it, so reports say Microsoft plans to issue at least $25 billion in bonds to fund data center buildouts — alongside a 60,000-employee voluntary exit program.",
+      "title": "Microsoft's Azure jumps 48% — and it's borrowing $25B to build faster",
+      "url": "https://dev.to/hiroki-ii-ai/ai-daily-digest-october-30-2026-mistral-opens-a-trillion-parameters-cloud-giants-report-openai-1gk7"
     },
     {
-      "source": "Business Wire",
-      "summary": "Seoul-based AI chip startup FuriosaAI closed a $620 million Series D at a $2.9 billion valuation, roughly four times its early-2025 mark. South Korea's National Growth Fund led with $280 million; FuriosaAI began mass-producing its RNGD inference chip in January and plans to scale TSMC production from 20,000 chips this year to over 40,000 in 2027.",
-      "title": "FuriosaAI raises $620M at $2.9B valuation for AI inference chips",
-      "url": "https://www.businesswire.com/news/home/20261028655033/en/FuriosaAI-Secures-$620-Million-Series-D-to-Meet-Surging-Enterprise-AI-Inference-Demand-and-Accelerate-Next-Gen-Silicon"
+      "source": "Reuters via Q106",
+      "summary": "Alphabet's Q3 revenue rose 25% to $127.6 billion, but earnings missed Wall Street for the first time in nearly four years. Google Cloud doubled to $30.7 billion while search grew just 12% as AI Mode queries monetize slower; capex hit $51.36 billion, pushing quarterly free cash flow to negative $9.07 billion. Gemini has now passed one billion users.",
+      "title": "Alphabet's cloud doubles to $30.7B, but search slows and cash flow goes negative",
+      "url": "https://q106fm.com/2026/10/28/alphabets-heavy-cloud-spending-drives-bigger-than-expected-cash-burn/"
     },
     {
-      "source": "Seoul Economic Daily",
-      "summary": "LG Uplus said two of its papers on AI token optimization were accepted for the On-Device Intelligence Workshop at NeurIPS 2026 in Sydney. Applied to smartphones, the tech delivered roughly 4.5x faster processing and about 77% lower battery use than conventional methods, while keeping performance on par with cloud-based AI.",
-      "title": "LG Uplus token-optimization papers accepted at NeurIPS 2026",
-      "url": "https://en.sedaily.com/technology/2026/10/29/lg-uplus-token-optimization-papers-accepted-at-neurips-2026"
+      "source": "Mistral",
+      "summary": "Mistral released the open weights of Mistral Large 4 — nicknamed 'Le Chonk' — a 1-trillion-parameter, natively multimodal model trained on 3,800 Nvidia Grace Blackwell GPUs in its own European data centers. It claims the top open-weight score on FrontierCode 2.0 and a 96.6% refusal rate on malicious cyber requests, under a modified MIT license that lets anyone use and commercialize it.",
+      "title": "Mistral opens the weights on its 1-trillion-parameter flagship model",
+      "url": "https://mistral.ai/news/mistral-large-4/"
     },
     {
-      "source": "Business Wire via Medianet",
-      "summary": "Cognite announced that companies using its Industrial AI and Data Platform have unlocked more than $1 billion in verified, realized value, one year after launching its $100 billion Moonshot goal for 2035. About 36% of the value came from cutting unplanned downtime, 27% from frontline productivity and 26% from higher production.",
-      "title": "Cognite says customers unlocked $1B in verified industrial AI value",
-      "url": "https://newshub.medianet.com.au/2026/10/cognite-reports-1-billion-in-verified-ai-value-confirming-impact-of-industrial-ai-solutions/179022/"
+      "source": "Reuters",
+      "summary": "Nvidia is in talks to offer AI cloud provider Nscale billions of dollars in credit guarantees to support debt funding for a data center in West Virginia earmarked for Anthropic, The Information reported. Anthropic already struck a deal in August to spend $45 billion renting computing power from the campus, as debt financing behind the AI buildout faces growing scrutiny.",
+      "title": "Nvidia in talks to back Nscale's Anthropic data center with credit guarantees",
+      "url": "https://www.reuters.com/technology/nvidia-talks-give-credit-support-nscales-deal-with-anthropic-information-reports-2026-10-30/"
     },
     {
-      "source": "Dealroom",
-      "summary": "Casap closed a $56 million Series B led by Base10 Partners, with strategic checks from Experian and Synchrony, bringing total funding to about $90 million since its 2023 launch. Its AI agents handle bank disputes, chargebacks and fraud end-to-end for 100+ financial institutions, reporting 51% fraud-loss cuts and 73% of cases resolved with no human touch.",
-      "title": "Casap raises $56M to grow AI agents for bank disputes and fraud",
-      "url": "https://dealroom.co/news/167621-casap-raises-56m-series-b-to-help-banks-fight-customer-driven-card-fraud/"
+      "source": "OpenAI",
+      "summary": "OpenAI updated its Model Spec — the public document describing how its models should behave — reorganizing it around five values: faithfulness to human intent, harm minimization, honesty and transparency, human agency, and care. The revision adds guidance on context, oversight and agency, and retires most of the detailed style guidance.",
+      "title": "OpenAI rewrites its Model Spec around five values",
+      "url": "https://openai.com/index/updated-model-spec/"
     }
   ],
   "pakistan": [
     {
-      "source": "The Express Tribune",
-      "summary": "The federal government increased petrol by Rs1.85 per litre to Rs377.91 and high-speed diesel by Rs1.75 to Rs399.82, effective October 29, under the daily pricing mechanism. The move follows a petrol cut of Rs3.19 a day earlier, and comes as global crude rose about 2% on fighting in Yemen and an attack on a Saudi refinery.",
-      "title": "Petrol up Rs1.85, diesel up Rs1.75 from today",
-      "url": "https://tribune.com.pk/story/2637445/govt-increases-petrol-by-rs185-diesel-by-rs175-for-oct-29"
-    },
-    {
-      "source": "The Nation",
-      "summary": "The Pak International Business Forum warned that the State Bank's decision to raise the policy rate from 11.5% to 12% will raise borrowing costs, squeeze production and discourage investment, with SMEs hit hardest. It said controlling inflation matters, but monetary policy must also protect growth, investment and jobs.",
-      "title": "Business forum warns rate hike to 12% will hurt industry",
-      "url": "https://www.nation.com.pk/newspaper/29-Oct-2026/interest-rate-hike-detrimental-business-industrial-growth"
-    },
-    {
-      "source": "The Nation",
-      "summary": "Pakistan imported over 4.5 gigawatts of battery storage equipment in the first six months of 2026 alone — nearly half its entire cumulative historical imports of 9.5GW. At a parliamentary dialogue, lawmakers warned against substandard imports, while the Power Division promised pilot storage tenders and NEPRA designation of storage as a regulated asset.",
-      "title": "Pakistan imported 4.5GW of battery storage gear in six months",
-      "url": "https://www.nation.com.pk/newspaper/29-Oct-2026/pakistan-imports-4-5gw-battery-storage-equipment-six-months"
-    },
-    {
-      "source": "The Nation",
-      "summary": "Prime Minister Shehbaz Sharif directed ministries to complete by November all necessary measures for projects with Alibaba Group covering AI, digitalisation, exports and public services. The agenda includes an AI training programme for IT graduates, an early cancer detection system, OGRA fuel-supply analytics and help for SMEs reaching global markets.",
-      "title": "PM orders Alibaba AI, digitalisation projects wrapped up by November",
-      "url": "https://www.nation.com.pk/newspaper/29-Oct-2026/ai-digitalisation-central-national-development-pm"
-    },
-    {
       "source": "Dawn",
-      "summary": "Pakistan batting coach Mike Smith conceded the batting unit is operating at only about 70% of its potential after the hosts were bowled out for 110 in 25.3 overs and crushed by eight wickets by Sri Lanka in the ODI tri-series at Gaddafi Stadium. Sri Lanka's Dilshan Madushanka took a career-best five for 34; the sides meet again in Saturday's final.",
-      "title": "Batting coach admits Pakistan at '70 per cent' after Sri Lanka rout",
-      "url": "https://www.dawn.com/news/2040333"
+      "summary": "Singapore's Minister for Foreign Affairs Dr Vivian Balakrishnan undertakes an official visit to Islamabad today at the invitation of Deputy PM Ishaq Dar. The visit coincides with the 60th anniversary of diplomatic relations and comes ahead of Singapore assuming the Asean chairmanship in 2027; an MoU on disaster management cooperation will also be exchanged.",
+      "title": "Singapore's foreign minister visits Islamabad today on 60 years of ties",
+      "url": "https://www.dawn.com/news/2040677/singapore-foreign-minister-to-undertake-official-visit-to-pakistan-on-oct-30"
     },
     {
-      "source": "Dawn",
-      "summary": "Kashmir Black Day was observed in Rawalpindi, Murree and elsewhere with rallies, seminars, solidarity walks and photo exhibitions condemning India's occupation of Jammu and Kashmir and backing Kashmiris' right to self-determination. Students presented tableaus and songs, a minute's silence was observed, and speakers called for sustained international attention.",
-      "title": "Kashmir Black Day marked with rallies and seminars",
-      "url": "https://www.dawn.com/news/2040273/rallies-seminars-held-to-mark-kashmir-black-day"
+      "source": "The Tribune",
+      "summary": "Lahore topped the world for hazardous air on Thursday with an AQI of 419, while Karachi ranked eighth at 165. A Pakistan Air Quality Initiative study says toxic air cuts life expectancy across Pakistan by an estimated 3.9 years, drives roughly 128,000 premature deaths a year, and costs about 6.5% of GDP — with vehicles the top PM2.5 source in Lahore.",
+      "title": "Lahore named world's most polluted city as smog cuts life expectancy",
+      "url": "https://www.tribuneindia.com/news/world/lahore-worlds-most-polluted-city-as-air-pollution-blamed-for-cutting-life-expectancy-in-pakistan/"
+    },
+    {
+      "source": "UrduPoint",
+      "summary": "Planning Minister Ahsan Iqbal said goods exports rose 7.7% to $8.5 billion in July–September FY2026-27, combined goods and services exports reached $11.2 billion, ICT exports hit $1.2 billion, and workers' remittances grew 14% to $10.9 billion — despite disruptions in global markets and supply chains.",
+      "title": "Exports up 7.7% to $8.5B, remittances up 14% to $10.9B in first quarter",
+      "url": "https://www.urdupoint.com/en/business/exports-remittances-post-encouraging-grow-2279546.html"
+    },
+    {
+      "source": "The Nation",
+      "summary": "The finance ministry's October Economic Update warns that Gulf tensions, volatile oil prices, trade disruptions and elevated global inflation are downside risks for the economy, projecting October inflation at 9.5–10.5%. It says the current account deficit stood at $874 million in Jul–Sep FY2027, with remittances more than covering the combined goods and services trade deficit.",
+      "title": "Govt warns Gulf conflict and oil volatility threaten growth, sees inflation at 9.5–10.5%",
+      "url": "https://www.nation.com.pk/newspaper/30-Oct-2026/gulf-conflict-oil-price-volatility-pose-risks-economic-growth-warns-govt"
+    },
+    {
+      "source": "The Nation",
+      "summary": "The PPP has called for a parliamentary committee to discuss electoral reforms, saying it wants elections free, fair and transparent. Senior leader Raja Pervaiz Ashraf said Bilawal Bhutto Zardari raised the issue, that the PPP wants PTI to join standing committees and the proposed committee, and that PTI will convey its position after internal consultations.",
+      "title": "PPP wants a parliamentary committee on electoral reforms — and PTI at the table",
+      "url": "https://www.nation.com.pk/newspaper/30-Oct-2026/ppp-calls-parliamentary-committee-electoral-reforms"
+    },
+    {
+      "source": "The Herald",
+      "summary": "The ICC reprimanded and fined Pakistan fast bowler Haris Rauf 20% of his match fee for a code of conduct breach during Sunday's tri-series match against England in Lahore, which Pakistan won by one wicket. One demerit point takes his tally to five in 24 months; England were also fined 15% for a slow over rate. Pakistan and Sri Lanka contest Saturday's final in Lahore.",
+      "title": "ICC fines Haris Rauf 20% of match fee over conduct in England tri-series game",
+      "url": "https://theherald.co.za/sport/cricket/2026-10-29-icc-reprimands-pakistan-bowler-rauf-over-conduct-in-england-match/"
     }
   ]
 }
