@@ -1,86 +1,86 @@
 {
   "poll": {
-    "q": "Lahore duniya ka sab se polluted sheher (AQI 419) — smog se bachne ka sab se pehla qadam kya hona chahiye?",
+    "q": "Binance se $6.3B ki history ki sab se bari chori — crypto exchanges par aap ka bharosa ab kaisa hai?",
     "options": [
-      "😷 Masks + school closures — fori hifazat",
-      "🚗 Vehicles par sakhti — sab se bara source",
-      "🏭 Factories + brick kilns band — sakht action",
-      "🌳 Lambi muddat ka plan — abhi se shuru"
+      "😨 Bharosa uth gaya — funds nikaal lo",
+      "😐 Binance ne cover kar diya, theek hai",
+      "🔒 Sirf apni wallet mein rakho, exchange par nahi",
+      "💪 Hack se farq nahi — crypto future hai"
     ]
   },
   "stories": {
-    "https://www.reuters.com/business/retail-consumer/amazon-projects-fourth-quarter-sales-below-estimates-2026-10-29/": {
-      "what": "AWS 39% barh kar $46B par — 5 saal ki sab se tez growth — phir bhi Amazon ka share 7% se zyada gira, kyun ke Q4 forecast Wall Street se neeche tha.",
-      "why": "Cloud ka business zabardast chal raha hai, lekin investors ko ab sirf growth nahi, cash bhi chahiye. $220B kharch ka plan dekh kar market ne poocha: ye paisa kab wapas aayega?",
-      "next": "Holiday season batayega ke Amazon ki retail kamzori sirf forecast hai ya asal demand slowdown.",
-      "take": "Meri take: AWS jeet raha hai aur phir bhi share gir raha hai — matlab market ko ab 'AI ki kahani' nahi, 'AI ka hisab' chahiye. Growth ke saath profit dikhao, warna koi nahi bachta."
+    "https://www.coindesk.com/business/2026/10/30/binance-arranges-usd6-34-billion-to-cover-losses-from-record-crypto-hack": {
+      "what": "Binance se $6.3 billion — history ki sab se bari crypto chori — sirf 20 minute mein, multiple chains se.",
+      "why": "Ek DevOps engineer ka compromised laptop kaafi tha. Centralized exchange ka yehi masla hai: ek weak link, arabon ka nuqsan.",
+      "next": "Withdrawals 45-48 ghante mein reopen hone ka wada hai; $3B frozen hai, baaqi recovery lambi kahani hogi.",
+      "take": "Meri take: Binance ne nuqsan cover kar diya, ye bari baat hai — lekin 'your money is safe' tabhi sach hai jab withdrawal wapas khul jaye. Crypto mein exchange par bharosa hi sab se bara risk hai, ye hack phir sabit kar gaya."
     },
-    "https://dev.to/hiroki-ii-ai/ai-daily-digest-october-30-2026-mistral-opens-a-trillion-parameters-cloud-giants-report-openai-1gk7": {
-      "what": "Microsoft ki revenue 19% barh kar $92.28B, Azure 48% up — lekin data centers banane ke liye company $25B ke bonds issue karne ka plan bana rahi hai, saath 60,000 employees ka voluntary exit program bhi.",
-      "why": "AI infrastructure itni mehengi hai ke duniya ki sab se profitable companies ko bhi udhaar lena par raha hai. Ye race ab sirf technology ki nahi, balance sheet ki bhi hai.",
-      "next": "Kya ye debt AI boom ko aur tez karega, ya 2027 mein koi company 'bohat zyada kharch' ki keemat chukayegi?",
-      "take": "Meri take: Jab Microsoft ko bhi $25B udhaar lena pare to samajh lo AI race mein 'paise wala' bhi kaafi nahi — ab 'paise uthane wala' jeet raha hai. Ye boom hai ya bubble, yehi sawaal hai."
+    "https://www.malaymail.com/news/money/2026/10/31/tech-market-bloodbath-intel-crashes-30pc-amazon-misses-earnings/241348": {
+      "what": "Intel 30% crash, Amazon 5.5% gira, Nvidia aur AMD bhi neeche — Nasdaq 2.7% down. AI spending par market ka sabar jawab de gaya.",
+      "why": "Companies arabon kharch kar rahi hain AI data centers par, lekin investors ab pooch rahe hain: paisa kab wapas aayega? Growth ki kahani khatam, hisab shuru.",
+      "next": "Tuesday ke US midterms tak focus non-tech sectors aur safe havens par rahega; agle earnings hi batayenge ke ye correction hai ya bubble burst.",
+      "take": "Meri take: Ye AI ka khatma nahi, AI hype ka hangover hai. Jo company asal revenue dikhayegi woh bachegi, baaqi 'AI' likh kar valuation nahi barha sakengi. Healthy correction hai, darne ki nahi, samajhne ki baat hai."
     },
-    "https://q106fm.com/2026/10/28/alphabets-heavy-cloud-spending-drives-bigger-than-expected-cash-burn/": {
-      "what": "Alphabet ki revenue 25% barh kar $127.6B, Google Cloud double ho kar $30.7B — lekin search ads slow hue, capex $51.4B par pahuncha, aur free cash flow -$9.1B par chala gaya. Share 10% gira.",
-      "why": "Google ki asal kamai search se hai, aur AI Mode ki queries se utni kamai nahi ho rahi jitni purani search se hoti thi. Cloud jeet raha hai, lekin search wali kahani hil rahi hai.",
-      "next": "AI Mode mein ads international markets mein aayenge — wahan se pata chalega ke Google apni search machine bacha sakta hai ya nahi.",
-      "take": "Meri take: Google ke paas duniya ka best cloud quarter hai aur phir bhi market ne 10% kaat liya — kyun ke log pooch rahe hain: AI search ko kha to nahi raha? Jab apna hi product apni kamai khaye, yehi asli darr hai."
+    "https://emergent.sh/news/big-ai-labs-back-shared-robots-txt-token": {
+      "what": "Chaaron bari AI labs ne pehli baar ek hi robots.txt token '__usage_ai-training' maan liya — ek line se training se opt-out.",
+      "why": "Publishers saalon se shikayat kar rahe the ke har lab ka alag opt-out rule hai. Ab ek signal kaafi hai — lekin ye sirf draft hai, koi enforcement nahi.",
+      "next": "Microsoft Feb 2027, Google 2027 mein implement karega; draft May 2027 mein expire ho jayega agar update na hua.",
+      "take": "Meri take: Achi shuruaat, adhoora hal. Jo data pehle train ho chuka woh wapas nahi hoga, aur choti labs is rule ko ignore bhi kar sakti hain. Publishers ke liye jeet hai, lekin poori jeet abhi door hai."
     },
-    "https://mistral.ai/news/mistral-large-4/": {
-      "what": "Mistral ne apne flagship model Large 4 ke open weights release kar diye — 1 trillion parameters, apne European data centers mein 3,800 Nvidia GPUs par trained, aur cyber-security benchmarks par top open-weight score ka dawa.",
-      "why": "Europe ki strategy saaf hai: America aur China ke closed models par depend na raho, apna open model banao jo koi bhi apne servers par chala sake. Sovereignty ab sirf politics nahi, AI ki feature hai.",
-      "next": "Independent testing batayegi ke ye benchmarks kitne sach hain — aur kya developers sach mein isay closed giants ke muqable mein adopt karte hain.",
-      "take": "Meri take: Open weights ka matlab hai model ab kisi company ki meherbani nahi — apne ghar mein chalao, apne rules par. Europe ne AI race mein apni lane dhoondh li hai, aur wo lane 'khula' hai."
+    "https://dealroom.co/news/167596-anthropic-files-for-ipo-that-could-value-it-at-2t-raise-over-100b/": {
+      "what": "Anthropic Nasdaq par 'ANT' ticker se list hone ja raha hai — $1.5-2 trillion valuation, $100B+ raise ka target, history ka sab se bara IPO.",
+      "why": "Revenue 14x barh kar $16.3B ho gaya, lekin $807B ke 10-saal ke compute contracts bhi lock hain. Ye IPO ek company ki listing nahi, AI economy ka stress test hai.",
+      "next": "Roadshow November mein, listing 16 Nov wale hafte mein mutawaqqa — market ke mood par sab kuch depend karega.",
+      "take": "Meri take: $2 trillion? Itni bari valuation ke liye growth ko aasmaan tak jaana hoga. Numbers impressive hain, lekin $807B ki commitments dekh kar lagta hai ye bet hai, guarantee nahi. Investor banne se pehle S-1 parhna, headline nahi."
     },
-    "https://www.reuters.com/technology/nvidia-talks-give-credit-support-nscales-deal-with-anthropic-information-reports-2026-10-30/": {
-      "what": "Nvidia, AI cloud provider Nscale ko billions ki credit guarantees dene par baat kar raha hai, taake Anthropic ke liye West Virginia mein data center ban sake. Anthropic pehle hi $45B rent par kharch karne ka deal kar chuka hai.",
-      "why": "AI data centers itne mehenge hain ke ab chip banane wali company ko khud apne customers ki funding guarantee karni par rahi hai. Ye ecosystem hai ya ek doosre par khara house of cards? Market yehi samajhne ki koshish kar rahi hai.",
-      "next": "Deal sign hota hai ya nahi — aur debt par sawal uthne ke baad CoreWeave jesi companies ka kya banta hai, ye dekhna hoga.",
-      "take": "Meri take: Jab Nvidia apne customers ka udhaar guarantee kare to samajh lo game badal gaya hai — ab sirf chips bechna kaafi nahi, poori economy ko khara rakhna par raha hai. Ye confidence hai ya desperation, waqt batayega."
+    "https://tribune.com.pk/story/2637632/doordash-strikes-17-billion-deal-for-us-rival-instacart-in-mega-grocery-delivery-bet": {
+      "what": "DoorDash ne Instacart ko $17B mein khareed liya — $65 per share, 26% premium. Restaurant delivery se grocery tak ka safar.",
+      "why": "Restaurant delivery mature ho rahi hai; growth ab weekly grocery shops mein hai. Instacart ki grocery tech + DoorDash ki delivery network = Walmart/Amazon se muqabla.",
+      "next": "Close 2027 end/2028 start tak, antitrust review sab se bara risk — NYC ne pehle hi consolidation par tashweesh zahir kar di.",
+      "take": "Meri take: Delivery apps ki duniya mein ab sirf giants bachenge. Chote players ke liye ye warning hai: scale lo ya bik jao. Aur gig workers? Un ka zikr deal mein kahin nahi — hamesha ki tarah."
     },
-    "https://openai.com/index/updated-model-spec/": {
-      "what": "OpenAI ne apna Model Spec update kiya — ab saari guidance paanch values par khari hai: faithfulness, harm minimization, honesty, human agency, aur care. Detailed style guidance retire kar di gayi.",
-      "why": "Jab models zyada powerful aur consequential hote ja rahe hain, to sirf instructions follow karna kaafi nahi — model ko insani values samajhni hongi. Ye OpenAI ka public promise hai ke us ke models kis usool par chalenge.",
-      "next": "Asal test ye hai ke models is spec par kitna amal karte hain — OpenAI khud kehta hai models abhi poori tarah is par nahi chalte.",
-      "take": "Meri take: Rules likhna aasan hai, un par chalna mushkil. Spec aik dawa hai, proof nahi — lekin kam se kam ab dawa likha hua hai, jis par sab sawal utha sakte hain. Yehi transparency ki shuruat hai."
+    "https://medium.com/@shaaravraghu/todays-real-ai-news-31-oct-26-d03e9ff08004": {
+      "what": "Mistral ne 1-trillion-parameter 'Le Chonk' ke open weights release kar diye — koi bhi ise apne hardware par chala sakta hai.",
+      "why": "Closed models ke zamane mein open weights bari baat hai: Europe keh raha hai ke AI sirf 2-3 American companies ki jaagir nahi.",
+      "next": "Dekhna ye hai ke developers ise asal products mein use karte hain ya ye sirf ek PR headline ban kar reh jata hai.",
+      "take": "Meri take: Naam funny hai, move serious hai. Open weights ka matlab hai choti companies aur researchers bhi frontier-level AI chala sakenge — yehi asli democratization hai, keynote slides wali nahi."
     },
-    "https://www.dawn.com/news/2040677/singapore-foreign-minister-to-undertake-official-visit-to-pakistan-on-oct-30": {
-      "what": "Singapore ke Foreign Minister Dr Vivian Balakrishnan aaj Islamabad aa rahe hain — 60 saal ke diplomatic relations ka jashn, aur 2027 mein Singapore ki Asean chairmanship se pehle. Disaster management par MoU bhi sign hoga.",
-      "why": "Singapore chhota mulk hai lekin bara player — trade, ports aur disaster management mein us ka experience Pakistan ke kaam aa sakta hai. Asean chairmanship se pehle ye visit dono ko faida deta hai.",
-      "next": "MoU ke baad asal kaam: kya Pakistan Singapore se disaster response aur urban planning mein kuch seekh kar implement bhi karega?",
-      "take": "Meri take: Achi khabar hai, lekin visits se zyada implementation matter karti hai. MoU sign hona aasan hai, us par amal karna mushkil — umeed hai is dafa file drawer mein nahi jayegi."
+    "https://www.dawn.com/news/2041105/army-targets-afghan-border-positions": {
+      "what": "Angoor Adda mein Afghan firing ke jawab mein Pak Army ne Taliban posts tabah kar di — ek local shaheed, paanch zakhmi hue the.",
+      "why": "Border par ye silsila rukne ka naam nahi le raha. Har dafa jawab to diya jata hai, lekin asal masla — Afghan soil se attacks — waheen ka waheen hai.",
+      "next": "Dekhna hai ke ye ek waqea rehta hai ya border tensions phir barhti hain; diplomatic channel par bhi nazar rakhni hogi.",
+      "take": "Meri take: Jawabi karwai zaroori hai, lekin sirf jawab kaafi nahi. Jab tak Afghan side se attacks ka source band nahi hota, border ke gaon wale hi qeemat chukate rahenge. Un ki hifazat pehli priority honi chahiye."
     },
-    "https://www.tribuneindia.com/news/world/lahore-worlds-most-polluted-city-as-air-pollution-blamed-for-cutting-life-expectancy-in-pakistan/": {
-      "what": "Lahore duniya ka sab se polluted sheher ban gaya — AQI 419 — aur Karachi 8th par (165). Study kehti hai zehreeli hawa Pakistan mein life expectancy 3.9 saal kam kar rahi hai aur har saal ~128,000 premature deaths ki wajah hai.",
-      "why": "Lahore mein PM2.5 ka sab se bara source vehicles hain, phir industry (28%) aur brick kilns (17%). Winter aate hi smog har saal wapas aata hai — ye koi achanak aafat nahi, har saal ka routine hai.",
-      "next": "Punjab government ke paas solutions ka plan hai jo pollutants aadhe kar sakta hai — sawal ye hai ke is saal kuch hoga ya phir sirf masks aur school closures?",
-      "take": "Meri take: AQI 419 koi number nahi, ye hamari saans ka hisab hai. Har saal hum yehi khabar parhte hain aur har saal kuch nahi badalta. Smog ka hal pata hai — bas niyyat chahiye. 3.9 saal zindagi ka sawaal hai, ye choti baat nahi."
+    "https://www.dawn.com/news/2041095": {
+      "what": "Senate mein garm behas: 48% regional poor Pakistan mein, detained PTI khawateen ke ilaaj ka mutalba, aur extrajudicial killings par tashweesh.",
+      "why": "Ye teenon masle ek hi baat ki taraf ishara karte hain — aam aadmi ki zindagi mushkil, aur siyasat mein insani lehja kam hota ja raha hai.",
+      "next": "Noreen Niazi ke ilaaj aur family access par hukoomat ki assurance par amal hoga ya nahi, ye agle dinon mein saaf hoga.",
+      "take": "Meri take: 70 saal ki beemar khatoon ki detention par behas honi hi nahi chahiye thi. Siyasat apni jagah, lekin buzurg aur beemar logon ke saath insani salook par koi compromise nahi hona chahiye — yehi hamari pehchan hai."
     },
-    "https://www.urdupoint.com/en/business/exports-remittances-post-encouraging-grow-2279546.html": {
-      "what": "July-September mein goods exports 7.7% barh kar $8.5B, combined exports $11.2B, ICT exports $1.2B, aur remittances 14% barh kar $10.9B — government ke mutabiq 'encouraging growth' despite global disruptions.",
-      "why": "Overseas Pakistanis aur IT sector economy ko saans de rahe hain. Remittances ne trade deficit ko bhi cover kiya — matlab mulk ki economy ab bahir rehne walon ki mehnat par khari hai.",
-      "next": "Kya ye growth sustain hogi jab imports 14.3% barh kar $17.8B par hain? Trade gap ab bhi challenge hai.",
-      "take": "Meri take: Overseas Pakistanis ko salam — un ki bheji hui $10.9B ne economy ko sambhala hua hai. Lekin koi mulk sirf remittances par nahi chalta; exports ko bhi isi raftaar se barhna hoga warna gap barhta rahega."
+    "https://www.dawn.com/news/2041111": {
+      "what": "PPP doosre din bhi opposition ko electoral reforms committee mein lane ki koshish mein — opposition ne mashawarat ke liye waqt manga.",
+      "why": "Har election ke baad dhandli ka shor, phir committee, phir wahi kahani. Is dafa farq ye hai ke PPP khud opposition ko table par la raha hai.",
+      "next": "Opposition ka jawab aayega to pata chalega ke ye asal reform hai ya ek aur photo-op.",
+      "take": "Meri take: Ali Zafar ne sahi kaha — masla qanoon ki kami nahi, amal ka hai. Naye qanoon banane se pehle purane qanoon par amal kar ke dikhao, warna ye committee bhi fileon mein dafan ho jayegi."
     },
-    "https://www.nation.com.pk/newspaper/30-Oct-2026/gulf-conflict-oil-price-volatility-pose-risks-economic-growth-warns-govt": {
-      "what": "Finance ministry ne warn kiya ke Gulf tensions, oil prices ki volatility aur trade disruptions economy ke liye downside risk hain. October ki inflation 9.5–10.5% expected hai; Jul-Sep current account deficit $874M raha.",
-      "why": "Pakistan oil import karta hai, to Gulf mein jo bhi hota hai seedha hamari jeb par asar daalta hai. Government ne kaha targeted fuel subsidies vulnerable households ko cushion denge.",
-      "next": "Oil prices aur food supplies decide karenge ke inflation is range mein rehti hai ya upar nikalti hai.",
-      "take": "Meri take: Warning theek hai, lekin har mahina yehi warning sunte hain. Asal sawal ye hai ke hum oil par dependence kam kab karenge — warna har Gulf tension hamara budget kha jayegi."
+    "https://www.dawn.com/news/2041093": {
+      "what": "LPG cylinder market mein Rs6,000-7,200, Ogra price Rs3,296 — farq dogna se zyada. PM ne 8-member committee bana di, ek mahine mein report degi.",
+      "why": "Iran border band, sea imports kam — supply ka masla hai, lekin price-setting Ogra se SOEs ko dene ki tajweez par stakeholders ko aitbar nahi.",
+      "next": "Committee ki report batayegi ke price neeche aayega ya naya system purane se mehenga sabit hoga.",
+      "take": "Meri take: Sardiyan aa rahi hain aur cylinder ki qeemat dogni — ye ghareeb gharano ke liye seedha bojh hai. Committee achi hai, lekin logon ko fori relief chahiye, report ka ek mahina lamba lagta hai."
     },
-    "https://www.nation.com.pk/newspaper/30-Oct-2026/ppp-calls-parliamentary-committee-electoral-reforms": {
-      "what": "PPP ne electoral reforms par parliamentary committee banane ka mutalba kiya hai, aur chahti hai ke PTI bhi standing committees aur is committee mein shamil ho. Raja Pervaiz Ashraf ke mutabiq Bilawal ne ye issue uthaya hai.",
-      "why": "Elections par sab ka aitmad bahal karna zaroori hai — aur wo sirf tab hoga jab sab bari parties aik table par baith kar reforms par agree karein, na ke aik doosre par ilzam lagayein.",
-      "next": "PTI internal consultations ke baad apna jawab degi — us jawab se pata chalega ke ye committee banti hai ya sirf statement tak rehti hai.",
-      "take": "Meri take: Committee banane ki baat achi hai, lekin Pakistan mein committees banti bhi hain aur reports bhi aati hain — amal kahan hota hai? Reforms ka test ye hoga ke agle election mein farq nazar aaye, warna ye sirf aik aur press statement hai."
+    "https://www.dawn.com/news/2041022/pm-orders-completion-of-100mw-solar-power-project-in-gb": {
+      "what": "PM ne GB ke 100MW solar project ki jald takmeel ka hukm diya, aur 1 Nov ko GB visit bhi mutawaqqa hai — liberation day ke mauqe par.",
+      "why": "GB mein bijli ka masla purana hai; solar project agar waqt par mukammal ho to sardiyon mein farq par sakta hai.",
+      "next": "PM ki visit par elanat honge; asal test ye hai ke project ground par kab chalta hai.",
+      "take": "Meri take: GB ke logon ko bijli chahiye, taqreerein nahi. Solar project acha qadam hai — bas 'jald takmeel' ka wada is dafa waqei jald ho, kyun ke GB mein har saal yehi sunne ko milta hai."
     },
-    "https://theherald.co.za/sport/cricket/2026-10-29-icc-reprimands-pakistan-bowler-rauf-over-conduct-in-england-match/": {
-      "what": "ICC ne Haris Rauf ko England ke khilaf tri-series match mein conduct breach par 20% match fee fine kiya aur aik demerit point diya — ab us ke 24 mahine mein 5 points ho gaye hain. Pakistan ne wo match 1 wicket se jeeta tha, aur Saturday ko final mein Sri Lanka se khelega.",
-      "why": "Rauf ne wide appeal par umpire ki warning ke bawajood exchange jari rakha. 5 demerit points ka matlab hai ke aik aur ghalti suspension tak le ja sakti hai — fast bowler ke liye ye bara risk hai.",
-      "next": "Final mein Rauf ko apne jazbaat par control rakhna hoga — team ko us ki pace chahiye, us ki controversies nahi.",
-      "take": "Meri take: Match jeetna bari baat hai, lekin jeetne ke baad bhi discipline chahiye. Rauf hamara match-winner hai — lekin agar wo suspend hua to nuqsan team ka hoga. Jazba acha hai, control us se behtar hai."
+    "https://www.nation.com.pk/31-Oct-2026/pakistan-seek-historic-home-tri-series-title-confident-sri-lanka": {
+      "what": "Aaj Gaddafi Stadium mein final — Pakistan vs Sri Lanka, pehli home tri-series title ki talaash (aakhri 2008 mein).",
+      "why": "Pakistan ne teen matches jeete, phir 110 par out ho gaya. Top order (Fakhar 31, Babar 118 runs in 4 matches) hi sab se bari fikar hai; bowling strong hai.",
+      "next": "Final aaj hai — jo team pressure sambhalegi, trophy us ki. Babar ke liye bari innings ka mauqa hai.",
+      "take": "Meri take: Ghar mein final, crowd ke saamne — is se behtar mauqa nahi. Bas top order ko 110 wali kahani dobara nahi dohrani. Babar, aaj bari innings ka din hai, warna Sri Lanka phir party kharab kar dega."
     }
   },
-  "mood": "😶‍🌫️ Smog, big tech ka cash-burn aur Lahore ki saans — aaj ki hawa bhari hai."
+  "mood": "💥 $6.3B hack, tech stocks ka crash aur Lahore mein final — aaj ki hawa tez aur dilchasp hai."
 }
