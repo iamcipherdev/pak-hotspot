@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-10-31T07:06:17+05:00",
+  "updated_at": "2026-11-01T07:00:30+05:00",
   "tech": [
     {
-      "source": "CoinDesk",
-      "summary": "Duniya ki sab se bari crypto exchange Binance ke hot wallets se taqreeban $6.3 billion chori ho gaye — sirf 20 minute mein, multiple blockchains par. Binance ne $6.34 billion apne funds se side par rakh diye hain taake users ke balances poore hon, $3 billion frozen ho chuke hain, aur withdrawals filhal paused hain. Blockchain analysts ne attack ko high confidence ke saath North Korea ke hackers se jora hai.",
-      "title": "Binance se $6.3B ki history ki sab se bari crypto chori — exchange ne nuqsan poora karne ka wada kiya",
-      "url": "https://www.coindesk.com/business/2026/10/30/binance-arranges-usd6-34-billion-to-cover-losses-from-record-crypto-hack"
+      "source": "9to5Mac",
+      "summary": "Apple ne confirm kar diya ke China mein Apple Intelligence ki testing 4 November se iOS developer beta mein shuru hogi, aur public release December mein iOS 27.3 ke saath aayegi. Siri, Writing Tools aur Visual Intelligence mein kuch requests ke liye Alibaba ka Qwen model use hoga — lekin nayi Siri AI is waqt China mein nahi aayegi. Pehli wave sirf iPhone par hogi: iPhone 15 Pro/Max, iPhone 16 aur baad ke models, iPhone Air aur iPhone Duo.",
+      "title": "Apple Intelligence aakhir China pohanch gaya — Alibaba ke Qwen ke saath, testing 4 Nov se",
+      "url": "https://9to5mac.com/2026/10/30/apple-confirms-ios-27-3-beta-is-coming-next-week-with-apple-intelligence-in-china/"
     },
     {
-      "source": "Malay Mail (AFP)",
-      "summary": "US tech stocks mein Jumme ko bari girawat aayi: Intel 30% gir gaya jab us ne mana ke AI boom memory chip prices barha kar PC market ko slow kar raha hai, Amazon 5.5% gira after missing profit/revenue expectations, Nvidia 4.6% aur AMD 11.7% neeche. Nasdaq 2.7% gira. Analysts ke mutabiq market ab AI spending ki kahani nahi, us ka hisab maang rahi hai.",
-      "title": "Tech market bloodbath: Intel 30% crash, Amazon miss — AI trade par sawaal gehra",
-      "url": "https://www.malaymail.com/news/money/2026/10/31/tech-market-bloodbath-intel-crashes-30pc-amazon-misses-earnings/241348"
+      "source": "Manila Times",
+      "summary": "Financial Times ke mutabiq OpenAI ne apni latest funding round ka target $10 billion kam kar ke taqreeban $20 billion kar diya hai, aur desired valuation $1.4 trillion se gir kar $1.25 trillion ho gayi. Investors ko commit karne ki Friday deadline thi, lekin 'first close' $20 billion se kam hone ki umeed hai — kuch investors ne allocations ghata di. UAE consortium (jis mein MGX shamil hai) sab se bara participant hone ki umeed hai. Nasdaq Jumme ko 2.9% gira, aur apne 6 Oct ke peak se 7.8% neeche hai.",
+      "title": "OpenAI ne funding target $10B ghata diya — $20B par, valuation $1.25 trillion",
+      "url": "https://www.manilatimes.net/2026/11/01/business/openai-slashes-funding-target-by-10-billion/2458702/amp"
     },
     {
-      "source": "Emergent",
-      "summary": "OpenAI, Google, Microsoft aur Anthropic ne 30 Oct ko elan kiya ke woh ek shared robots.txt policy token '__usage_ai-training' ko maanenge — website owners ek hi directive se chaaron labs ko AI training se rok sakenge. Anthropic ne implementation shuru kar di, Microsoft 1 Feb 2027 aur Google 2027 ko target kar raha hai. Lekin ye sirf ek draft hai, enforcement nahi, aur pehle se train ho chuka data wapas nahi hoga.",
-      "title": "AI labs ne pehli baar ek hi opt-out rule par ittefaq kiya — ek robots.txt line se training se inkar",
-      "url": "https://emergent.sh/news/big-ai-labs-back-shared-robots-txt-token"
+      "source": "The News",
+      "summary": "Alphabet ke shares ek din mein 12% se zyada gir gaye — market value $3.97 trillion se $3.46 trillion tak aa gayi, taqreeban $500 billion ka wipeout, Wall Street history ka doosra sab se bara one-day drop. Wajah: Google ka AI Mode aur AI summaries users ko direct jawab de dete hain, to sponsored links par clicks kam ho rahe hain — search ad revenue growth 19% se gir kar 12% reh gayi, aur free cash flow -$9.1 billion ho gaya. Google ke CBO ne khud mana ke AI Mode ads ki kamai kha raha hai.",
+      "title": "Google ki apni AI ne Alphabet ko $500B ka nuqsan pohanchaya — ek din mein 12% crash",
+      "url": "https://www.thenews.com.pk/latest/1421918-google-loses-500b-as-ai-search-cannibalizes-ad-sales-what-to-know"
     },
     {
-      "source": "Dealroom",
-      "summary": "Claude banane wali Anthropic ne 26 Oct ko SEC ke paas S-1 file kiya, Nasdaq par 'ANT' ticker ke saath list hone ka plan hai. H1 2026 revenue $16.3 billion (14x saal-ba-saal) raha, lekin net loss $80.7 billion — zyadatar non-cash convertible note revaluation. Wall Street Journal ke mutabiq valuation $1.5–2 trillion aur raise $100 billion se zyada ho sakta hai, jo SpaceX ke record ko paar kar dega.",
-      "title": "Anthropic ka IPO history ka sab se bara ho sakta hai — $2 trillion valuation, $100B+ raise ka target",
-      "url": "https://dealroom.co/news/167596-anthropic-files-for-ipo-that-could-value-it-at-2t-raise-over-100b/"
+      "source": "Android Police",
+      "summary": "Google ne Gemini mein in-chat file editing launch kar di: ab documents, PDFs, spreadsheets, slides, Markdown aur code files chat ke andar hi create, preview aur edit ho sakenge — full-screen mein khud type karo, kisi text ko highlight kar ke Gemini se sawal poochho, ya use refine karne ko kaho. PDF editing web aur mobile dono par hai; baaqi formats filhal sirf web par. Ye April mein launch hui file-generation feature ka agla step hai, aur ChatGPT/Copilot ke barabar lane ki koshish hai.",
+      "title": "Gemini ab poora office ban gaya — Docs, Sheets, PDFs chat ke andar hi edit karo",
+      "url": "https://www.androidpolice.com/gemini-create-preview-edit-pdf-files-docs-directly-inside-your-chat/"
     },
     {
-      "source": "Tribune (Reuters)",
-      "summary": "DoorDash ne Instacart (Maplebear) ko taqreeban $17 billion mein acquire karne ka deal sign kiya — $65 per share, 26% premium. Ye DoorDash ka ab tak ka sab se bara acquisition hai, jis se woh restaurant delivery se aage grocery aur retail mein Walmart aur Amazon se muqabla karega. Deal 2027 ke aakhir ya 2028 ke shuru mein close hone ki umeed hai, regulatory approval sab se bara risk hai.",
-      "title": "DoorDash ne Instacart ko $17 billion mein khareed liya — grocery delivery ki bari jang",
-      "url": "https://tribune.com.pk/story/2637632/doordash-strikes-17-billion-deal-for-us-rival-instacart-in-mega-grocery-delivery-bet"
+      "source": "Tech in Asia",
+      "summary": "DeepSeek ne 31 Oct ko apni Harness team ka 'super-agent' system dikhaya: jab team members group chats mein software issues report karte hain, to system khud defect pehchan kar use reproduce aur fix karne ki koshish karta hai — bina directly tag kiye. Design two-layer architecture, event-driven workflows aur ek external watchdog par hai. Ye AI agents ko sirf prompt ka jawab dene se aage, team workflows mein autonomous teammate banane ki taraf ek qadam hai.",
+      "title": "DeepSeek ka 'super-agent' — AI khud bug dhoondhe, fix kare, bina tag kiye",
+      "url": "https://www.techinasia.com/news/deepseek-builds-superagent-autonomous-coding"
     },
     {
-      "source": "Medium",
-      "summary": "Europe ki sab se bari AI lab Mistral ne apna 1-trillion-parameter model 'Le Chonk' (Mistral Large 4) ke open weights release kar diye — organizations ise apne hardware par chala sakengi. Model coding aur cyber defense ke liye pitch kiya ja raha hai. Isi hafte Neuralink ne 'Hey Neuralink' soch kar activate hone wala Grok feature bhi dikhaya, jise ALS patient ne apni wife ko call karne ke liye use kiya.",
-      "title": "Mistral ka 'Le Chonk' — 1 trillion parameter open-weight model ab sab ke liye",
-      "url": "https://medium.com/@shaaravraghu/todays-real-ai-news-31-oct-26-d03e9ff08004"
+      "source": "KimKJ",
+      "summary": "Xiaomi ne 800-million-parameter document understanding model Xiaomi-OCR-0 open-source kar diya — documents parhna, images analyze karna aur sawalon ke jawab, ek hi halka model mein. Isi hafte 18 Chinese humanoid robotics companies listing ki taraf barh rahi hain, aur 2026 ki pehli half mein global humanoid shipments ka 97% se zyada China se aaya. Beijing AI Plus Conference mein Tsinghua ke academician ne kaha ke Chinese chips ki asal rukawat hardware nahi, software ecosystem hai.",
+      "title": "China ka AI shift: chote models, robots aur 97% humanoid shipments",
+      "url": "https://kimkj.com/en/ai-board-en/?mod=document&uid=20504"
     }
   ],
   "pakistan": [
     {
-      "source": "Dawn",
-      "summary": "Pakistan ki armed forces ne South Waziristan aur Parachinar se mutasil ilaqon mein Afghan Taliban ki kai posts aur military positions tabah kar di. State media ke mutabiq ye Angoor Adda mein Tuesday ko Afghan firing ka jawab tha, jis mein ek local jaan se gaya aur paanch afrad ka khandan zakhmi hua. KP Governor ne kaha Pakistan apne logon par hamle ya sovereignty ki khilaf-warzi 'kabhi bardasht nahi' karega.",
-      "title": "Pak Army ne Afghan border par Taliban posts tabah kar di — Angoor Adda firing ka jawab",
-      "url": "https://www.dawn.com/news/2041105/army-targets-afghan-border-positions"
+      "source": "Reuters",
+      "summary": "Fakhar Zaman ne 99 balls par 127 runs ki commanding innings kheli — taqreeban 3 saal baad pehli ODI century, 12th overall — aur Pakistan ne Gaddafi Stadium Lahore mein Sri Lanka ko 3 wickets se hara kar home tri-series trophy jeet li. Sri Lanka ne 325/8 banaye (Kamindu Mendis 131), Pakistan ne 326 ka target 48.3 overs mein 329/7 par poora kiya — ODI final mein joint-highest successful chase. Babar Azam 5-ball duck par out hue, lekin Saad Baig (74), Arafat Minhas aur Hassan Nawaz ki 94-run partnership ne match palat diya.",
+      "title": "Fakhar ka 127 — Pakistan ne 326 chase kar ke tri-series trophy jeet li, 2008 ke baad pehli baar",
+      "url": "https://www.reuters.com/sports/cricket/zaman-hundred-powers-pakistan-tri-series-title-over-sri-lanka-2026-10-31/"
     },
     {
       "source": "Dawn",
-      "summary": "Senate mein Jumme ko garm behas hui — PTI ne World Bank report ka hawala de kar kaha ke region mein poverty line se neeche rehne walon mein 48% Pakistani hain, aur detained PTI khawateen, jin mein Imran Khan ki behen Noreen Niazi shamil hain, ke ilaaj aur family access ka mutalba kiya. JUI-F ne extrajudicial killings ke Islamabad tak pohanchne par tashweesh zahir ki.",
-      "title": "Senate mein garmi: poverty, PTI khawateen ki detention aur extrajudicial killings par barbs",
-      "url": "https://www.dawn.com/news/2041095"
+      "summary": "Hukoomat ne diesel ki qeemat Rs2.29 per litre barha kar Rs402.96 kar di, jab ke petrol Rs377.91 par unchanged raha — nayi qeematein 31 Oct se 2 Nov tak lagu hain. Ye doosre din bhi petrol unchanged raha; diesel ek din pehle bhi 85 paisa barha tha aur Rs400 cross kar gaya tha. Petrol par Rs114 aur diesel par Rs100 per litre taxes/duties barqarar hain. JI chief ne levy khatam karne ka mutalba kiya hai, warna mid-November mein Islamabad march ki dhamki di hai.",
+      "title": "Diesel Rs2.29 mehenga (Rs402.96), petrol Rs377.91 par unchanged — 31 Oct se 2 Nov tak",
+      "url": "https://www.dawn.com/news/2040998/petrol-price-unchanged-high-speed-diesel-raised-by-rs229"
     },
     {
       "source": "Dawn",
-      "summary": "Sherry Rehman ki qiyadat mein PPP delegation ne doosre din bhi opposition leaders se mulaqat ki aur Parliamentary Committee on Electoral Reforms mein shirkat ki dawat di, saath hi boycott khatam kar ke standing committees mein wapas aane ka mutalba kiya. Opposition ne internal consultations ke baad jawab dene ka kaha; Ali Zafar ne kaha asal masla qanoon ki kami nahi, us par amal-daramad hai.",
-      "title": "PPP ne opposition ko electoral reforms committee mein shamil hone ki dawat di — jawab mashawarat ke baad",
-      "url": "https://www.dawn.com/news/2041111"
+      "summary": "November ke liye Ogra ne LPG Rs14.73 per kg mehenga kar diya — official rate Rs294/kg, 11.8kg cylinder Rs3,470 (Rs173 izafa). Lekin open market mein LPG Rs630/kg tak bik raha hai, company franchises Rs400/kg le rahe hain. Wajah: Iran border band honay se shortage — 70% LPG Iran se aata tha. LPG marketers ne dhamki di hai ke agar nayi policy mein private sector ko side-line kiya gaya to 16 Nov se strike hogi.",
+      "title": "LPG open market mein official rate se double — Rs630/kg tak, cylinder Rs3,470 official",
+      "url": "https://www.dawn.com/news/2041321"
+    },
+    {
+      "source": "Medical News Pakistan",
+      "summary": "Pakistan Medical Association ne 1–2 November ko mulk-gir strike ka elan kiya hai: public aur private facilities mein OPDs, elective surgeries aur routine diagnostics band rahenge, lekin government hospitals ki emergency services chalti rahengi. Mutalbat: FBR taxation aur clinics par mandatory POS system ka khatma, doctors ke khilaf criminal FIRs ka khatma (baghair medical board assessment), aur workplace security. YDA Sindh aur PMA Punjab ne bhi support ka elan kar diya hai.",
+      "title": "Aaj aur kal doctors ki mulk-gir strike — OPDs, elective surgeries, diagnostics band; emergency khuli",
+      "url": "https://www.medicalnews.pk/31-Oct-2026/pakistan-doctors-strike-november-1-2-pma-yda-healthcare-shutdown"
     },
     {
       "source": "Dawn",
-      "summary": "Market mein LPG cylinder Rs6,000–7,200 tak pohanch gaya hai jab ke Ogra ka notified price Rs3,296 hai — Iran border band aur sea imports mein kami ke baad. PM Shehbaz Sharif ne Petroleum Division ki tajweez review ke liye 8-rukni ministerial committee bana di hai, jo ek mahine mein report degi. Tajweez mein LPG imports aur price-setting Ogra se le kar state-owned enterprises ko dene ki baat hai.",
-      "title": "LPG cylinder Rs6,000–7,200 tak — PM ne policy reforms review ke liye 8-member committee bana di",
-      "url": "https://www.dawn.com/news/2041093"
+      "summary": "Election Commission ne gender gap kam karne ke liye Kasur (Punjab) aur Qamber-Shahdadkot (Sindh) mein pilot project shuru kiya hai: November mein data collection, December 2026 se February 2027 tak voter registration. Door-to-door visits, awareness campaigns aur Nadra Mobile Registration Vans ke zariye 115,689 khawateen Kasur mein aur 59,156 Qamber-Shahdadkot mein register karne ka target hai.",
+      "title": "ECP ka voter registration pilot — Kasur aur Qamber-Shahdadkot mein khawateen ki registration barhane ka plan",
+      "url": "https://www.dawn.com/news/2041303"
     },
     {
       "source": "Dawn",
-      "summary": "PM Shehbaz Sharif ne Gilgit-Baltistan ke development projects ka jaiza lete hue 100MW solar power project ki jald takmeel ki hidayat di, saath hi Naltar Power Project, counterterrorism capacity aur digital infrastructure par bhi baat hui. GB 1 Nov ko Dogra rule se liberation aur Pakistan se accession ka din manata hai, aur PM ki us mauqe par GB visit mutawaqqa hai.",
-      "title": "PM ka GB ke liye 100MW solar project jald mukammal karne ka hukm — 1 Nov ko GB visit mutawaqqa",
-      "url": "https://www.dawn.com/news/2041022/pm-orders-completion-of-100mw-solar-power-project-in-gb"
-    },
-    {
-      "source": "The Nation",
-      "summary": "Pakistan aaj Lahore mein ODI tri-series final mein Sri Lanka se takrayega, pehli baar home soil par tri-series title jeetne ki umeed ke saath — aakhri baar 2008 mein jeeta tha. Pakistan ne pehle teen matches jeete (England se do, Sri Lanka se ek) lekin aakhri league match mein 110 par out ho kar 8 wickets se haara. Coach Mike Hesson ko umeed hai ke team apna best game final ke liye bacha rahi hai.",
-      "title": "Aaj Gaddafi Stadium mein final: Pakistan vs Sri Lanka — pehli home tri-series title ki talaash",
-      "url": "https://www.nation.com.pk/31-Oct-2026/pakistan-seek-historic-home-tri-series-title-confident-sri-lanka"
+      "summary": "IAEA ki report ke mutabiq Pakistan ne nuclear (isotope-based) techniques se groundwater track karne ki salahiyat mazboot kar li hai — recharge sources, paani ki umar aur contamination pathways ka pata chal sakta hai. Pinstech ab region ki sab se advanced isotope analysis facilities mein se ek hai, 12 labs ke saath. Indus Plain, Quetta Valley aur Cholistan Desert mein recharge rates aur pollution pathways ke reliable estimates mil chuke hain, jo over-extraction aur salinity ko jaldi pakarne mein madad denge.",
+      "title": "Nuclear science se Pakistan ki groundwater tracking behtar — Indus Plain se Cholistan tak",
+      "url": "https://www.dawn.com/news/2041294"
     }
   ]
 }
