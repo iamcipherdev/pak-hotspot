@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-11-01T07:00:30+05:00",
+  "updated_at": "2026-11-02T06:59:54+05:00",
   "tech": [
     {
-      "source": "9to5Mac",
-      "summary": "Apple ne confirm kar diya ke China mein Apple Intelligence ki testing 4 November se iOS developer beta mein shuru hogi, aur public release December mein iOS 27.3 ke saath aayegi. Siri, Writing Tools aur Visual Intelligence mein kuch requests ke liye Alibaba ka Qwen model use hoga — lekin nayi Siri AI is waqt China mein nahi aayegi. Pehli wave sirf iPhone par hogi: iPhone 15 Pro/Max, iPhone 16 aur baad ke models, iPhone Air aur iPhone Duo.",
-      "title": "Apple Intelligence aakhir China pohanch gaya — Alibaba ke Qwen ke saath, testing 4 Nov se",
-      "url": "https://9to5mac.com/2026/10/30/apple-confirms-ios-27-3-beta-is-coming-next-week-with-apple-intelligence-in-china/"
+      "source": "Economic Times (Reuters)",
+      "summary": "Reuters ke mutabiq October mein Nasdaq 100 se $2 trillion se zyada market value khatam ho gayi, index 5.8% se zyada gira. Meta, Alphabet aur Amazon ne AI infrastructure par kharch ke forecasts aur barha diye, to investors ko shak hua ke itni bari investment ka return kab aayega. Alphabet ka ek din mein record percentage drop bhi isi daur mein aaya.",
+      "title": "AI ka bill ab market ko bhaari par raha — Nasdaq 100 se October mein $2 trillion saaf",
+      "url": "https://m.economictimes.com/tech/artificial-intelligence/nasdaq-faces-2-trillion-wipeout-in-october-as-ai-spending-fears-deepen/amp_articleshow/135368339.cms"
     },
     {
-      "source": "Manila Times",
-      "summary": "Financial Times ke mutabiq OpenAI ne apni latest funding round ka target $10 billion kam kar ke taqreeban $20 billion kar diya hai, aur desired valuation $1.4 trillion se gir kar $1.25 trillion ho gayi. Investors ko commit karne ki Friday deadline thi, lekin 'first close' $20 billion se kam hone ki umeed hai — kuch investors ne allocations ghata di. UAE consortium (jis mein MGX shamil hai) sab se bara participant hone ki umeed hai. Nasdaq Jumme ko 2.9% gira, aur apne 6 Oct ke peak se 7.8% neeche hai.",
-      "title": "OpenAI ne funding target $10B ghata diya — $20B par, valuation $1.25 trillion",
-      "url": "https://www.manilatimes.net/2026/11/01/business/openai-slashes-funding-target-by-10-billion/2458702/amp"
+      "source": "TechTimes",
+      "summary": "OpenAI aur Anthropic ne 26 October ko alag alag daawa kiya ke un ke internal AI models ne Exponential Time Hypothesis ko ghalat sabit kar diya — dono ne core algorithm 16 October ko paane ka daawa kiya aur Lean 4 mein machine-checked proofs diye. Agar review mein ye sabit ho gaya, to 800 se zyada papers jin ki bunyaad ETH par thi, dobara dekhne parenge. Ye P vs NP ka hal NAHI hai, aur reviewers ne abhi certify nahi kiya.",
+      "title": "Do AI labs ne ek hi din mein 27 saal purana maths assumption gira diya — ETH false?",
+      "url": "https://www.Techtimes.com/articles/329569/20261027/two-ai-systems-disproved-same-complexity-conjecture-independently-same-day-800-papers-risk.htm"
     },
     {
-      "source": "The News",
-      "summary": "Alphabet ke shares ek din mein 12% se zyada gir gaye — market value $3.97 trillion se $3.46 trillion tak aa gayi, taqreeban $500 billion ka wipeout, Wall Street history ka doosra sab se bara one-day drop. Wajah: Google ka AI Mode aur AI summaries users ko direct jawab de dete hain, to sponsored links par clicks kam ho rahe hain — search ad revenue growth 19% se gir kar 12% reh gayi, aur free cash flow -$9.1 billion ho gaya. Google ke CBO ne khud mana ke AI Mode ads ki kamai kha raha hai.",
-      "title": "Google ki apni AI ne Alphabet ko $500B ka nuqsan pohanchaya — ek din mein 12% crash",
-      "url": "https://www.thenews.com.pk/latest/1421918-google-loses-500b-as-ai-search-cannibalizes-ad-sales-what-to-know"
+      "source": "Silicon Report (Reuters)",
+      "summary": "Reuters ke mutabiq US Department of Justice pooch raha hai ke Nvidia ka $12.93 billion mein Hugging Face khareedna AI competition ko nuqsan to nahi pohanchayega — kyun ke Hugging Face open AI models ka sab se bara hub hai. Deal September mein announce hui thi aur 2027 ki pehli half mein close hone ki umeed hai. Inquiry ka matlab ghalat kaam sabit hona nahi hai.",
+      "title": "Nvidia ke $12.9B Hugging Face deal par US Justice Department ki nazar",
+      "url": "https://www.siliconreport.com/doj-asks-how-nvidia-s-12-9b-hugging-face-deal-affects-ai-competition"
     },
     {
-      "source": "Android Police",
-      "summary": "Google ne Gemini mein in-chat file editing launch kar di: ab documents, PDFs, spreadsheets, slides, Markdown aur code files chat ke andar hi create, preview aur edit ho sakenge — full-screen mein khud type karo, kisi text ko highlight kar ke Gemini se sawal poochho, ya use refine karne ko kaho. PDF editing web aur mobile dono par hai; baaqi formats filhal sirf web par. Ye April mein launch hui file-generation feature ka agla step hai, aur ChatGPT/Copilot ke barabar lane ki koshish hai.",
-      "title": "Gemini ab poora office ban gaya — Docs, Sheets, PDFs chat ke andar hi edit karo",
-      "url": "https://www.androidpolice.com/gemini-create-preview-edit-pdf-files-docs-directly-inside-your-chat/"
+      "source": "Medium",
+      "summary": "Google ke Project Suncatcher ke prototype satellite ne 30 October ko orbit mein TPU par generative AI model chalaya: Gemma 4 ne space par haiku likha aur jawab ground station tak pohanchaya. Google isay data-center-class TPU ka pehla orbit response kehta hai, lekin ye abhi sirf 'Hello World' stage hai — radiation, cooling aur lambi reliability abhi prove honi baqi hai, aur 2027 mein do satellites ka experiment planned hai.",
+      "title": "Google ne AI chip khala mein chala di — TPU orbit mein Gemma 4 se haiku likh aaya",
+      "url": "https://tai-semicon.medium.com/google-runs-ai-on-a-tpu-in-orbit-an-important-step-but-only-a-first-step-nov-2-2026-cd0ae91ed083"
     },
     {
-      "source": "Tech in Asia",
-      "summary": "DeepSeek ne 31 Oct ko apni Harness team ka 'super-agent' system dikhaya: jab team members group chats mein software issues report karte hain, to system khud defect pehchan kar use reproduce aur fix karne ki koshish karta hai — bina directly tag kiye. Design two-layer architecture, event-driven workflows aur ek external watchdog par hai. Ye AI agents ko sirf prompt ka jawab dene se aage, team workflows mein autonomous teammate banane ki taraf ek qadam hai.",
-      "title": "DeepSeek ka 'super-agent' — AI khud bug dhoondhe, fix kare, bina tag kiye",
-      "url": "https://www.techinasia.com/news/deepseek-builds-superagent-autonomous-coding"
+      "source": "AIToolsRecap",
+      "summary": "Artificial Analysis Intelligence Index ke mutabiq Claude Opus 5.5 abhi bhi 58 score ke saath pehle number par hai, lekin October mein poora top-5 Anthropic ka tha — ab Meta ka Muse Wonder Full 56 par fourth aur Moonshot ka Kimi K3.1 Pro 55 par fifth aa gaya hai, jo is board par pehla non-US model hai top-5 mein. Muse Wonder 162 tokens/sec ke saath top-15 mein sab se tez bhi hai.",
+      "title": "November AI rankings: Claude abhi bhi #1, lekin top-5 ka sweep toot gaya",
+      "url": "https://aitoolsrecap.com/Blog/top-ai-models-ranking-november-2026"
     },
     {
-      "source": "KimKJ",
-      "summary": "Xiaomi ne 800-million-parameter document understanding model Xiaomi-OCR-0 open-source kar diya — documents parhna, images analyze karna aur sawalon ke jawab, ek hi halka model mein. Isi hafte 18 Chinese humanoid robotics companies listing ki taraf barh rahi hain, aur 2026 ki pehli half mein global humanoid shipments ka 97% se zyada China se aaya. Beijing AI Plus Conference mein Tsinghua ke academician ne kaha ke Chinese chips ki asal rukawat hardware nahi, software ecosystem hai.",
-      "title": "China ka AI shift: chote models, robots aur 97% humanoid shipments",
-      "url": "https://kimkj.com/en/ai-board-en/?mod=document&uid=20504"
+      "source": "TechTimes Vietnam (GlobeNewswire)",
+      "summary": "Profound ne 2 November ko Singapore mein apna Asia-Pacific headquarters banane ka elan kiya — regional leadership, go-to-market aur customer teams wahin se Southeast Asia, Japan, Australia aur New Zealand ko serve karengi. Company ke mutabiq Singapore ki 61% abadi AI tools use karti hai, aur ChatGPT/Gemini par khareedne ki research wali conversations January se September tak 23% barhi hain.",
+      "title": "AI marketing platform Profound ne Singapore ko Asia-Pacific HQ bana liya",
+      "url": "https://www.techtimes.vn/en/profound-establishes-singapore-as-asia-pacific-headquarters-as-ai-becomes-the-new-front-door-for-brands/"
     }
   ],
   "pakistan": [
     {
-      "source": "Reuters",
-      "summary": "Fakhar Zaman ne 99 balls par 127 runs ki commanding innings kheli — taqreeban 3 saal baad pehli ODI century, 12th overall — aur Pakistan ne Gaddafi Stadium Lahore mein Sri Lanka ko 3 wickets se hara kar home tri-series trophy jeet li. Sri Lanka ne 325/8 banaye (Kamindu Mendis 131), Pakistan ne 326 ka target 48.3 overs mein 329/7 par poora kiya — ODI final mein joint-highest successful chase. Babar Azam 5-ball duck par out hue, lekin Saad Baig (74), Arafat Minhas aur Hassan Nawaz ki 94-run partnership ne match palat diya.",
-      "title": "Fakhar ka 127 — Pakistan ne 326 chase kar ke tri-series trophy jeet li, 2008 ke baad pehli baar",
-      "url": "https://www.reuters.com/sports/cricket/zaman-hundred-powers-pakistan-tri-series-title-over-sri-lanka-2026-10-31/"
+      "source": "Dawn",
+      "summary": "Pakistan ne Sunday ko Group of 24 (G-24) ki chairmanship sambhal li. Finance Minister Muhammad Aurangzeb ne kaha ke Pakistan developing economies ki collective awaz mazboot karega aur 'more responsive, fair and development-oriented' international financial system ke liye kaam karega. Un ki teen priorities: development ko policymaking ke centre mein rakhna, multilateral frameworks mazboot karna, aur development-oriented financial architecture.",
+      "title": "Pakistan ne G-24 ki chairmanship sambhal li — developing countries ki awaz ab Islamabad ke haath",
+      "url": "https://www.dawn.com/news/2041544"
     },
     {
       "source": "Dawn",
-      "summary": "Hukoomat ne diesel ki qeemat Rs2.29 per litre barha kar Rs402.96 kar di, jab ke petrol Rs377.91 par unchanged raha — nayi qeematein 31 Oct se 2 Nov tak lagu hain. Ye doosre din bhi petrol unchanged raha; diesel ek din pehle bhi 85 paisa barha tha aur Rs400 cross kar gaya tha. Petrol par Rs114 aur diesel par Rs100 per litre taxes/duties barqarar hain. JI chief ne levy khatam karne ka mutalba kiya hai, warna mid-November mein Islamabad march ki dhamki di hai.",
-      "title": "Diesel Rs2.29 mehenga (Rs402.96), petrol Rs377.91 par unchanged — 31 Oct se 2 Nov tak",
-      "url": "https://www.dawn.com/news/2040998/petrol-price-unchanged-high-speed-diesel-raised-by-rs229"
+      "summary": "September 2026 mein Pakistan ne 420,000 tonnes chawal export kiye, jab ke Vietnam ke 337,000 tonnes rahe — aur Pakistani exporters ko $621 per tonne mila jab ke Vietnam ko $563. Dawn ke mutabiq July-September quarter mein total rice export volumes 51% barhe aur foreign exchange earnings 37% barhi, Gulf shipping disruptions ke bawajood.",
+      "title": "Basmati ka kamal: Pakistan ne September mein rice exports mein Vietnam ko peeche chhor diya",
+      "url": "https://www.dawn.com/news/2041438"
+    },
+    {
+      "source": "The Nation",
+      "summary": "Punjab Emergency Operations Centre aaj 2 November se 13 districts mein polio eradication campaign shuru kar raha hai, jis mein 5 saal se kam umar ke 9.3 million se zyada bachon ko vaccinate kiya jayega. 77,000 se zyada frontline workers ghar ghar jayenge; Lahore mein campaign 7 din aur baqi 12 districts mein 4 din chalegi.",
+      "title": "Punjab mein aaj se polio campaign — 13 districts mein 9.3 million bachon ko drops",
+      "url": "https://www.nation.com.pk/02-Nov-2026/punjab-launch-polio-eradication-campaign-today"
+    },
+    {
+      "source": "The Nation",
+      "summary": "Deputy PM aur Foreign Minister Ishaq Dar aur Maldivian Foreign Minister Iruthisham Adam ke darmiyan telephone conversation mein dono mulkon ne bilateral relations aur cooperation ko mazeed mazboot karne par ittefaq kiya. Maldivian FM ne President Mohamed Muizzu ke recent Islamabad visit par Pakistan ki mezbani ki tareef ki, aur dono ne Commonwealth meeting ke agenda par bhi baat ki.",
+      "title": "Pakistan aur Maldives ne bilateral cooperation aur mazboot karne ka azm dohraya",
+      "url": "https://www.nation.com.pk/02-Nov-2026/pakistan-maldives-reaffirm-commitment-to-strengthen-bilateral-coop"
+    },
+    {
+      "source": "Business Recorder",
+      "summary": "Business Recorder ke mutabiq security forces ne Afghan Taliban border posts ki taraf se unprovoked firing ka jawab dete hue un posts ko target kiya. Report mein firing Pakistani positions ko target karne ki baat ki gayi hai; mazeed tafseelat report mein mukhtasar hain.",
+      "title": "Border par firing ke baad security forces ne Taliban posts ko nishana banaya",
+      "url": "https://www.brecorder.com/news/40446980"
     },
     {
       "source": "Dawn",
-      "summary": "November ke liye Ogra ne LPG Rs14.73 per kg mehenga kar diya — official rate Rs294/kg, 11.8kg cylinder Rs3,470 (Rs173 izafa). Lekin open market mein LPG Rs630/kg tak bik raha hai, company franchises Rs400/kg le rahe hain. Wajah: Iran border band honay se shortage — 70% LPG Iran se aata tha. LPG marketers ne dhamki di hai ke agar nayi policy mein private sector ko side-line kiya gaya to 16 Nov se strike hogi.",
-      "title": "LPG open market mein official rate se double — Rs630/kg tak, cylinder Rs3,470 official",
-      "url": "https://www.dawn.com/news/2041321"
-    },
-    {
-      "source": "Medical News Pakistan",
-      "summary": "Pakistan Medical Association ne 1–2 November ko mulk-gir strike ka elan kiya hai: public aur private facilities mein OPDs, elective surgeries aur routine diagnostics band rahenge, lekin government hospitals ki emergency services chalti rahengi. Mutalbat: FBR taxation aur clinics par mandatory POS system ka khatma, doctors ke khilaf criminal FIRs ka khatma (baghair medical board assessment), aur workplace security. YDA Sindh aur PMA Punjab ne bhi support ka elan kar diya hai.",
-      "title": "Aaj aur kal doctors ki mulk-gir strike — OPDs, elective surgeries, diagnostics band; emergency khuli",
-      "url": "https://www.medicalnews.pk/31-Oct-2026/pakistan-doctors-strike-november-1-2-pma-yda-healthcare-shutdown"
-    },
-    {
-      "source": "Dawn",
-      "summary": "Election Commission ne gender gap kam karne ke liye Kasur (Punjab) aur Qamber-Shahdadkot (Sindh) mein pilot project shuru kiya hai: November mein data collection, December 2026 se February 2027 tak voter registration. Door-to-door visits, awareness campaigns aur Nadra Mobile Registration Vans ke zariye 115,689 khawateen Kasur mein aur 59,156 Qamber-Shahdadkot mein register karne ka target hai.",
-      "title": "ECP ka voter registration pilot — Kasur aur Qamber-Shahdadkot mein khawateen ki registration barhane ka plan",
-      "url": "https://www.dawn.com/news/2041303"
-    },
-    {
-      "source": "Dawn",
-      "summary": "IAEA ki report ke mutabiq Pakistan ne nuclear (isotope-based) techniques se groundwater track karne ki salahiyat mazboot kar li hai — recharge sources, paani ki umar aur contamination pathways ka pata chal sakta hai. Pinstech ab region ki sab se advanced isotope analysis facilities mein se ek hai, 12 labs ke saath. Indus Plain, Quetta Valley aur Cholistan Desert mein recharge rates aur pollution pathways ke reliable estimates mil chuke hain, jo over-extraction aur salinity ko jaldi pakarne mein madad denge.",
-      "title": "Nuclear science se Pakistan ki groundwater tracking behtar — Indus Plain se Cholistan tak",
-      "url": "https://www.dawn.com/news/2041294"
+      "summary": "Asia Web3 Alliance Japan ki President Hinza Asif ne kaha hai ke Pakistan ko ek unified crypto industry body chahiye jo digital asset investors ko safeguard kare aur international exchanges ke saath coordination behtar banaye — ye tajweez Binance se mutaliq recent multibillion-dollar cybersecurity breach ke baad aayi hai. Unhon ne kaha ke Pakistan crypto adoption mein teesre number par hai, lekin investors ki numaindagi ka koi organised mechanism nahi.",
+      "title": "Binance breach ke baad Pakistan mein unified crypto industry body ki tajweez",
+      "url": "https://www.dawn.com/news/2041524"
     }
   ]
 }

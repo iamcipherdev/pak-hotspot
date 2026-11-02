@@ -1,86 +1,86 @@
 {
   "poll": {
-    "q": "Fakhar Zaman ka 127 aur tri-series trophy — Pakistan cricket ka ye comeback kaisa laga?",
+    "q": "AI market se October mein $2 trillion saaf — ye AI bubble ka phatna hai ya sirf ek jhatka?",
     "options": [
-      "🏆 Fakhar GOAT — final mein aisi innings hi yaad rehti hai",
-      "🔥 Team effort tha — Saad, Minhas, Hassan sab ne kamal kiya",
-      "😐 Trophy achi hai, lekin Tests mein yehi form chahiye",
-      "😴 Cricket se dil uth gaya — koi farq nahi parta"
+      "💥 Bubble phat raha hai — kharch trillion, return zero",
+      "📉 Sirf jhatka hai — AI kahin nahi ja raha",
+      "🤔 Dono sach hain — kuch companies overvalued, AI real hai",
+      "😴 Market ki khabar se koi farq nahi parta"
     ]
   },
   "stories": {
-    "https://www.reuters.com/sports/cricket/zaman-hundred-powers-pakistan-tri-series-title-over-sri-lanka-2026-10-31/": {
-      "what": "Fakhar Zaman ka 127 (99 balls) — Pakistan ne 326 chase kar ke Sri Lanka ko 3 wickets se hara diya, Gaddafi Stadium mein tri-series trophy jeet li.",
-      "why": "Babar 5-ball duck par out, phir bhi team ne chase poora kiya — kyun ke Saad Baig, Minhas aur Hassan Nawaz ne pressure moments mein zimmedari li. Yehi farq hai final jeetne wali team ka.",
-      "next": "Ab Tests ka season hai: Sri Lanka ke khilaf 9 Nov se Rawalpindi mein pehla Test. Fakhar ki form white-ball se red-ball confidence mein translate hoti hai ya nahi, ye dekhna hoga.",
-      "take": "Meri take: Fakhar ne teen saal ka wait ek hi innings mein khatam kar diya — aur woh bhi final mein, jab Babar duck par gaya tha. Aisi innings par hi teams yaad rehti hain. Trophy ghar aayi hai, enjoy karo, lekin Test series mein yehi jazba chahiye hoga."
+    "https://m.economictimes.com/tech/artificial-intelligence/nasdaq-faces-2-trillion-wipeout-in-october-as-ai-spending-fears-deepen/amp_articleshow/135368339.cms": {
+      "what": "October mein Nasdaq 100 se $2 trillion se zyada value saaf ho gayi, index 5.8% se zyada gira — Meta, Alphabet, Amazon ke AI kharch barhne ke baad.",
+      "why": "AI par kharch real hai, return abhi future ki kahani hai. Jab borrowing mehenga ho aur profit ka waada door nazar aaye, to market pehle dar jati hai, hisab baad mein lagati hai.",
+      "next": "Apple ke results next week aur Nvidia mid-November mein — ye do reports batayengi ke ye sirf ek jhatka tha ya AI trade ka mood badal gaya hai.",
+      "take": "Meri take: AI bubble ki cheekhain har hafte sunayi deti hain, lekin ye wala dar thoda real lag raha hai — kharch trillion mein hai aur return PowerPoint mein. Phir bhi, jo log sirf ek month ki girawat dekh kar AI ko khatam samajh rahe hain, woh bhi jaldi kar rahe hain. Sach darmiyan mein hai: AI slow nahi hoga, lekin har company AI ke naam par blank cheque nahi le sakti."
     },
-    "https://www.dawn.com/news/2040998/petrol-price-unchanged-high-speed-diesel-raised-by-rs229": {
-      "what": "Diesel Rs2.29 barh kar Rs402.96, petrol Rs377.91 par unchanged — 31 Oct se 2 Nov tak.",
-      "why": "Diesel barhne ka matlab sirf pump par zyada bill nahi — transport, sabzi, aur har woh cheez jo truck par aati hai, sab mehenga hone ka rasta khulta hai. Petrol rukna achi khabar hai, lekin diesel ka asar har ghar tak pohanchta hai.",
-      "next": "Daily pricing mechanism ke tehat agli revision jald aayegi; JI ne mid-November tak levy relief na mila to Islamabad march ki dhamki di hai.",
-      "take": "Meri take: Petrol unchanged rakh kar hukoomat ne bike walon ko thori relief di, lekin diesel walon ka bojh aakhir mein aam aadmi hi uthata hai. Fuel prices ka ye daily khel ab har hafte ki tension ban gaya hai — koi stable plan nazar nahi aata."
+    "https://www.Techtimes.com/articles/329569/20261027/two-ai-systems-disproved-same-complexity-conjecture-independently-same-day-800-papers-risk.htm": {
+      "what": "OpenAI aur Anthropic ke internal models ne alag alag 16 October ko hi ETH ko ghalat sabit karne ka daawa kiya, Lean-verified proofs ke saath.",
+      "why": "ETH 27 saal se complexity theory ki bunyaad thi — 800+ papers us par khare hain. Agar ye proof tik gaya, to sirf ek theorem nahi, poori field ki 'ye mumkin nahi' wali line dobara likhni hogi.",
+      "next": "Ab ball Impagliazzo, Paturi aur Ryan Williams ke court mein hai — unhon ne khud ye hypothesis banayi thi, aur un ka verdict hi asli faisla hoga.",
+      "take": "Meri take: Do rival labs, ek hi din, ek hi jawab — ye coincidence se zyada lagta hai, jaise tools ab is level tak pohanch gaye hain ke purani deewarein girne lagi hain. Lekin hype se bacho: ye P vs NP ka hal nahi, aur practical computers par is algorithm ka koi faida nahi. Bari khabar hai, lekin 'AI ne maths khatam kar di' wali headline jhoot hai."
     },
-    "https://www.dawn.com/news/2041321": {
-      "what": "LPG official Rs294/kg, cylinder Rs3,470 — lekin open market mein Rs630/kg tak bik raha hai, aur marketers 16 Nov se strike ki dhamki de rahe hain.",
-      "why": "70% LPG Iran se aata tha, border band hai, to shortage hai. Lekin official aur market price mein dogna farq shortage se zyada, black market aur weak enforcement ki kahani lagta hai.",
-      "next": "16 Nov ki strike deadline aur nayi LPG policy — agar private sector ko side-line kiya gaya to sardiyon mein crisis aur gehra ho sakta hai.",
-      "take": "Meri take: Sardiyan sir par hain aur gas ka cylinder aam aadmi ki pohanch se bahar ho raha hai — ye numbers nahi, gharon ki kahani hai. Policy committee aur deadline se pehle logon ko fori relief chahiye, warna har sardi yehi drama dobara hoga."
+    "https://www.siliconreport.com/doj-asks-how-nvidia-s-12-9b-hugging-face-deal-affects-ai-competition": {
+      "what": "US Justice Department pooch raha hai ke Nvidia ka $12.93B mein Hugging Face khareedna AI competition ko nuqsan pohanchayega ya nahi.",
+      "why": "Hugging Face sirf ek website nahi — ye open models ka sab se bara adda hai, 3 million models aur 18 million developers. Chips banane wali company agar models ka darwaza bhi sambhal le, to rival chipmakers ki saans phoolna laazmi hai.",
+      "next": "Deal 2027 ki pehli half mein close honi hai, lekin antitrust review lamba bhi ho sakta hai — aur Nvidia ke Groq/Run:ai deals bhi isi radar par hain.",
+      "take": "Meri take: Nvidia kehta hai Hugging Face sab ke liye open rahega, lekin jab aap darwaze ke malik ban jao to 'open' ka matlab waqt ke saath badal jata hai. Ye inquiry rok nahi, warning hai — aur ye warning sahi waqt par aayi hai."
     },
-    "https://www.medicalnews.pk/31-Oct-2026/pakistan-doctors-strike-november-1-2-pma-yda-healthcare-shutdown": {
-      "what": "PMA ki 1–2 Nov mulk-gir strike: OPDs, elective surgeries aur diagnostics band; government hospitals ki emergency khuli rahegi.",
-      "why": "Doctors ke mutalbat — FBR/POS pressure, criminal FIRs, workplace security — ek din ke nahi, mahinon ke gusse ka natija hain. Lekin strike ki qeemat mareez chukate hain, ye bhi sach hai.",
-      "next": "Agar 2 din mein baat na bani to PMA 28 Nov ko agla course of action decide karega — matlab ye aakhri dafa nahi ho sakta.",
-      "take": "Meri take: Doctors ki baat mein dum hai — kisi doctor par criminal case sirf is liye nahi hona chahiye ke treatment ka natija kharab nikla. Lekin OPD band hone se gaon ke mareez sab se zyada takleef uthate hain. Hukoomat ko table par aana chahiye, is se pehle ke ye strike routine ban jaye."
+    "https://tai-semicon.medium.com/google-runs-ai-on-a-tpu-in-orbit-an-important-step-but-only-a-first-step-nov-2-2026-cd0ae91ed083": {
+      "what": "Google ke satellite ne orbit mein TPU par Gemma 4 chalaya aur space se haiku likh kar zameen par bheja — Project Suncatcher ka pehla live test.",
+      "why": "Space mein solar power muft lagti hai, lekin heat nikalna, radiation se bachna aur kharab chip badalna — ye teeno zameen se mushkil hain. Ek haiku chalna aur data center chalana, do alag duniyain hain.",
+      "next": "2027 mein do interconnected satellites ka experiment planned hai — wahan pata chalega ke ye sirf demo tha ya asal roadmap.",
+      "take": "Meri take: Haiku wali khabar par hansna asaan hai, lekin socho — hum ne chip ko khala mein zinda chala liya hai. Ye future ka trailer hai, film nahi. Google khud kehta hai 5 saal se pehle space data center sasta nahi hoga, aur is baar Google ki honesty hi sab se achi khabar hai."
     },
-    "https://www.dawn.com/news/2041303": {
-      "what": "ECP ne Kasur aur Qamber-Shahdadkot mein khawateen ki voter registration ke liye pilot shuru kiya — target taqreeban 175,000 khawateen.",
-      "why": "Pakistan mein khawateen ki voter registration ka gender gap ek purana masla hai: CNIC na hona = vote na hona. Door-to-door aur mobile vans isi gap ko bharne ki koshish hain.",
-      "next": "November mein data collection, phir Dec–Feb registration — agar pilot kaam kar gaya to is model ko pooray mulk mein phailana chahiye.",
-      "take": "Meri take: Ye choti khabar lagti hai, lekin asal mein bari hai — vote ka haq CNIC se shuru hota hai. Har khatoon ka naam voter list mein hona jamhooriyat ki bunyad hai, aur is kaam mein der nahi honi chahiye thi."
+    "https://aitoolsrecap.com/Blog/top-ai-models-ranking-november-2026": {
+      "what": "November rankings mein Claude Opus 5.5 (58) abhi bhi #1 hai, lekin top-5 mein Meta ka Muse Wonder Full (56) aur Kimi K3.1 Pro (55) aa gaye — Anthropic ka sweep toot gaya.",
+      "why": "Ek company ka top-5 par qabza khatam hona sehatmand nishani hai. Meta ki wapsi aur pehle non-US model ka top-5 mein aana batata hai ke AI race ab sirf do labs ki nahi rahi.",
+      "next": "Leaderboards har hafte badalte hain — agla farq price aur speed se parega, sirf index number se nahi.",
+      "take": "Meri take: Leaderboard dekh kar model chunna aise hai jaise poster dekh kar film chunna. Asli sawal ye hai: tumhara kaam, tumhari speed, tumhara bill. Claude #1 hai, theek hai — lekin Kimi ka top-5 mein aana zyada bari kahani hai, kyun ke is race mein ab naye players bhi table par baith gaye hain."
     },
-    "https://www.dawn.com/news/2041294": {
-      "what": "IAEA report: Pakistan ne isotope-based nuclear techniques se groundwater tracking mazboot kar li — Pinstech ki facility region ki advanced facilities mein se ek.",
-      "why": "Pakistan ka paani zameen ke neeche chupa hai aur tezi se khatam ho raha hai. Baghair sahi data ke na over-extraction pakri ja sakti hai, na salinity ka pata chalta hai — ye science ab policy ka hissa ban rahi hai.",
-      "next": "Isotope data ko national water models mein shamil kiya ja raha hai; agla step ye hai ke is data par sakht faislay hon — warna report sirf report reh jayegi.",
-      "take": "Meri take: Ye woh khabar hai jo headline nahi banti, lekin 10 saal baad sab se zyada farq isi se parega. Paani ka masla naare se nahi, data se hal hoga — aur achi baat ye hai ke Pakistan is mein peeche nahi raha."
+    "https://www.techtimes.vn/en/profound-establishes-singapore-as-asia-pacific-headquarters-as-ai-becomes-the-new-front-door-for-brands/": {
+      "what": "Profound ne Singapore mein Asia-Pacific HQ banaya, $180M Series D ke baad — teams Southeast Asia, Japan, Australia aur NZ ko serve karengi.",
+      "why": "Jab log Google ki bajaye ChatGPT/Gemini se pooch kar khareedne lagein, to brands ko ye fikar hoti hai ke AI un ke baare mein kya jawab deta hai. Yehi naya 'SEO' hai — answer-engine optimization.",
+      "next": "Singapore office Q4 2026 mein khulega aur 12 mahine mein 15+ roles hire honge — dekhna ye hai ke Pakistani/Asian brands is race mein kab utarte hain.",
+      "take": "Meri take: 'AI is the new front door' sunne mein marketing jumla lagta hai, lekin numbers sach bol rahe hain — Singapore mein shopping research wali AI chats 23% barhi hain. Jo brand AI ke jawab mein nazar nahi aayega, woh dukaan ke bahar wale board ki tarah ho jayega: maujood, lekin koi dekh nahi raha."
     },
-    "https://9to5mac.com/2026/10/30/apple-confirms-ios-27-3-beta-is-coming-next-week-with-apple-intelligence-in-china/": {
-      "what": "Apple Intelligence aakhir China mein — 4 Nov se beta testing, December mein iOS 27.3 ke saath public release, Alibaba ke Qwen model ke saath.",
-      "why": "China duniya ka sab se bara iPhone market hai aur 2 saal se AI features se mehroom tha. Regulators ki manzoori ke baghair Apple wahan AI launch nahi kar sakta tha — is liye local partner (Alibaba) zaroori tha.",
-      "next": "4 Nov ki beta batayegi ke Qwen integration kitna smooth hai; Siri AI abhi bhi China mein nahi aa raha, us ka timeline baad mein aayega.",
-      "take": "Meri take: Apple ne China mein jeetne ke liye apna rule tor diya — apne ecosystem mein doosri company ka model. Ye compromise hai, lekin samajhdaar compromise: market itni bari hai ke usay ignore nahi kiya ja sakta. Baqi duniya ke liye sabak ye hai ke AI ab har mulk ke apne rules se chalega."
+    "https://www.dawn.com/news/2041544": {
+      "what": "Pakistan ne G-24 ki chairmanship sambhal li; Finance Minister Aurangzeb ne development-oriented global financial system ki baat ki.",
+      "why": "G-24 developing countries ka group hai jo IMF/World Bank ke saamne apni baat rakhta hai. Chair milna izzat hai, lekin asal test ye hai ke is kursi se Pakistan ke liye climate finance aur debt relief jaisi cheezon mein kuch haasil hota hai ya sirf bayan aate hain.",
+      "next": "Pakistan ki chairmanship ke dauran IMF/World Bank meetings mein us ki priorities — development finance aur climate shocks — par amal dekha jayega.",
+      "take": "Meri take: Kursi milna achi khabar hai, kursi par beth kar kya kiya ye bari khabar hogi. Pakistan ne is chair se agar sirf speeches li to ye bhi ek aur photo-op hai; agar climate finance par koi thos deal nikli to history hai. Umeed rakho, hisab bhi rakho."
     },
-    "https://www.manilatimes.net/2026/11/01/business/openai-slashes-funding-target-by-10-billion/2458702/amp": {
-      "what": "OpenAI ne funding target $10B ghata kar ~$20B kar diya, valuation $1.4T se $1.25T par aa gayi — investors ne allocations kam kar di.",
-      "why": "AI par arabon kharch ho rahe hain, lekin investors ab pooch rahe hain ke paisa kab wapas aayega. Jab market gir rahi ho to sab se bari company ko bhi discount dena parta hai.",
-      "next": "First close $20B se kam hone ki umeed hai; OpenAI ki 2027 listing aur Anthropic ke IPO se pehle ye round band karna us ke liye zaroori hai.",
-      "take": "Meri take: Ye OpenAI ke khatme ki khabar nahi, hype ke normal hone ki khabar hai. $1.25 trillion bhi koi choti valuation nahi — lekin ye din yaad rakhna: jab investors ne pehli baar AI ki kahani par hisab manga."
+    "https://www.dawn.com/news/2041438": {
+      "what": "September mein Pakistan ne 420,000 tonnes chawal export kiye (Vietnam: 337,000) aur $621/tonne kamaye (Vietnam: $563).",
+      "why": "Ye sirf ek month ki jeet nahi — Gulf war, mehenga freight aur insurance ke bawajood Basmati ki demand ne Pakistan ko teesre number ki race mein mazboot rakha hai. Aur free-market system mein ye jeet private millers/exporters ki mehnat hai, subsidy ki nahi.",
+      "next": "Agle quarter mein dekhna ye hai ke ye momentum barkarar rehta hai ya September ek acha month tha — khaas kar jab shipping routes abhi bhi pressure mein hain.",
+      "take": "Meri take: Basmati ne phir sabit kar diya ke Pakistan ki asal taqat us ki zameen aur us ke log hain, bayan nahi. Vietnam ko peeche chhorna choti baat nahi — lekin is jeet ko policy mein badalna hoga: agar exporters ko sasta credit aur behtar logistics mil jaye, to ye jeet aadat ban sakti hai."
     },
-    "https://www.thenews.com.pk/latest/1421918-google-loses-500b-as-ai-search-cannibalizes-ad-sales-what-to-know": {
-      "what": "Alphabet ek din mein 12% gira, $500B market value gayab — apni hi AI search ne ad revenue kha liya.",
-      "why": "Google ki kamai ka asal engine search ads hain. AI Mode user ko direct jawab de deta hai, to woh ads par click nahi karta — growth 19% se 12% par aa gayi, cash flow negative ho gaya.",
-      "next": "Google ab AI Mode mein ads daalne ki koshish kar raha hai, lekin sawal ye hai ke users AI jawab ke beech mein ad bardasht karenge ya nahi.",
-      "take": "Meri take: Ye tech history ka sab se ironic moment hai — Google ne apne haathon apna sab se bara business kharab kiya, kyun ke agar woh na karta to koi aur kar deta. 'Eat your own lunch' wali baat sahi hai, lekin lunch $500B ka tha — investors ko ye hazam nahi ho raha."
+    "https://www.nation.com.pk/02-Nov-2026/punjab-launch-polio-eradication-campaign-today": {
+      "what": "Punjab mein aaj se 13 districts mein polio campaign — 9.3 million bachon ko drops, 77,000 workers ghar ghar jayenge.",
+      "why": "Polio ka koi ilaj nahi, sirf bachao hai — aur har campaign ek mauqa hai ke koi bacha reh na jaye. 2027 ko decisive year kaha ja raha hai, to ye campaign sirf routine nahi hai.",
+      "next": "Lahore mein 7 din, baqi districts mein 4 din — phir follow-up visits un bachon tak pohanchengi jo pehli dafa miss ho gaye.",
+      "take": "Meri take: Ye khabar parh kar sirf 'achi baat' kehna kafi nahi. Agar aap ke ghar ya gali mein 5 saal se kam ka bacha hai, to drops yaqeeni banayen — chahe pehle bhi lag chuke hon. Polio ke khilaf jang worker ki nahi, poore mohalle ki zimmedari hai."
     },
-    "https://www.androidpolice.com/gemini-create-preview-edit-pdf-files-docs-directly-inside-your-chat/": {
-      "what": "Gemini mein ab Docs, Sheets, Slides aur PDFs chat ke andar hi banao, preview karo aur edit karo — bina app chhore.",
-      "why": "ChatGPT aur Copilot ye kaam mahinon se kar rahe the; Google peeche tha. Ab Gemini chat sirf baat-cheet nahi, poora workspace ban raha hai.",
-      "next": "Dekhna ye hai ke log chat mein file edit karna pasand karenge ya asli Docs app mein hi wapas jayenge — aur mobile par Docs/Sheets editing kab aayegi.",
-      "take": "Meri take: Achi feature hai, lekin der se aayi. Students aur office walon ke liye ye waqei kaam ki cheez hai — assignment ya report chat mein ban jaye, edit ho jaye, export ho jaye. Google ko ab isay mobile par bhi poora lana hoga, warna aadha kaam hi reh jayega."
+    "https://www.nation.com.pk/02-Nov-2026/pakistan-maldives-reaffirm-commitment-to-strengthen-bilateral-coop": {
+      "what": "Ishaq Dar aur Maldivian FM Iruthisham Adam ne phone par bilateral cooperation mazboot karne par ittefaq kiya, President Muizzu ke recent visit ke baad.",
+      "why": "Chote mulkon ke saath rishtay aksar headlines mein nahi aate, lekin diplomacy isi tarah banti hai — visits ke baad ke follow-up se, sirf photo se nahi.",
+      "next": "Ab dekhna ye hai ke presidential visit mein jo understandings hui thin, wo trade, tourism ya education mein kisi thos deal mein badalti hain ya nahi.",
+      "take": "Meri take: Diplomacy ki khabrain aksar boring lagti hain, lekin yehi boring kaam mulkon ko qareeb rakhta hai. Maldives ke saath dosti ki qeemat tab pata chalegi jab koi thos faida — trade ya tourism — saamne aayega. Tab tak ye ek acha signal hai, bari khabar nahi."
     },
-    "https://www.techinasia.com/news/deepseek-builds-superagent-autonomous-coding": {
-      "what": "DeepSeek ka 'super-agent': group chat mein bug report ho to AI khud defect dhoondhe aur fix karne ki koshish kare, bina tag kiye.",
-      "why": "Coding agents ab sirf code likhne se aage ja rahe hain — poori team workflow sambhalne ki taraf. DeepSeek ne ise open-source bhi kar diya, jo is race mein us ka signature move hai.",
-      "next": "Internal instance pehle se chal raha hai; asal test ye hai ke ye system production code mein kitne fixes sahi karta hai aur kitne naye bugs banata hai.",
-      "take": "Meri take: Ye future ki jhalak hai — AI jo sirf tumhare kehne par nahi, khud dekh kar kaam kare. Darawna bhi hai, dilchasp bhi: agar AI bina pooche code change kare to zimmedari kis ki? Ye sawal abhi se poochna hoga, baad mein nahi."
+    "https://www.brecorder.com/news/40446980": {
+      "what": "Security forces ne Afghan Taliban border posts ki unprovoked firing ka jawab diya aur un posts ko target kiya.",
+      "why": "Border par firing ki har khabar ke peeche ek bara sawal hota hai: ye ek waqia hai ya pattern? Report mukhtasar hai, to is par bari raye banana jaldbazi hogi.",
+      "next": "Aane wale dinon mein official statements aur border ki surat-e-haal batayengi ke tension kam hui ya barhi.",
+      "take": "Meri take: Is khabar par jazbati hone se pehle poori tafseel ka intezar karo. Border ki khabrain aksar adhoori aati hain aur poori tasveer baad mein banti hai. Jo pakka hai wo ye: jawan border par khare hain, aur un ki qurbani par behas nahi, sirf shukriya banta hai."
     },
-    "https://kimkj.com/en/ai-board-en/?mod=document&uid=20504": {
-      "what": "Xiaomi ne 800M-parameter OCR model open-source kar diya; China ki humanoid shipments 97% global share par; chips ki rukawat software ecosystem hai.",
-      "why": "China ab sirf bare models ki race nahi, chote efficient models + robots + poora ecosystem ki race khel raha hai. Open-source us ki strategy ka hissa hai — duniya ko apne tools par build karwana.",
-      "next": "18 humanoid companies listing ki taraf — agar robots real duniya mein 80% tasks na kar sake to ye investment bubble bhi ban sakta hai.",
-      "take": "Meri take: West bari models par lar raha hai, China chote models aur robots par chup-chap aage nikal raha hai. 97% shipments koi chota number nahi — ye woh jagah hai jahan agle 5 saal ki asli race hogi, aur hum sirf dekh rahe hain."
+    "https://www.dawn.com/news/2041524": {
+      "what": "Binance breach ke baad Pakistan mein unified crypto industry body ki tajweez — investors ki numaindagi aur exchanges se coordination ke liye.",
+      "why": "Pakistan crypto adoption mein teesre number par hai, 40 million accounts ka andaza hai, lekin jab koi bara exchange doobta hai to Pakistani investor kis darwaze par jaye, ye koi nahi janta. PVARA regulator hai, lekin industry ki apni awaz abhi nahi.",
+      "next": "Tajweez abhi tajweez hai — asal imtihan ye hai ke kya koi body banti hai, aur kya wo investor ki shikayat sunne ka ikhtiyar rakhti hai ya sirf ek aur committee ban jati hai.",
+      "take": "Meri take: Crypto ke deewane aksar 'decentralized' ka nara lagate hain, lekin jab paisa phansta hai to sab ko ek darwaza chahiye hota hai. Ye tajweez sahi direction hai — lekin ek body banana asaan hai, usay investor ke kaam ka banana mushkil. Naam par nahi, ikhtiyar par nazar rakho."
     }
   },
-  "mood": "🏆 Fakhar ka 127, diesel-LPG ki mehngai aur AI market ka $500B jhatka — aaj khushi aur tension dono hain."
+  "mood": "💥 AI market ka $2T jhatka, ETH par maths ki larai, aur Basmati ki jeet — aaj tech mein tension, Pakistan mein thodi umeed hai."
 }
