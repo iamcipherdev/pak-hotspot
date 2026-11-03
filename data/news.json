@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-11-02T06:59:54+05:00",
+  "updated_at": "2026-11-03T06:59:59+05:00",
   "tech": [
     {
-      "source": "Economic Times (Reuters)",
-      "summary": "Reuters ke mutabiq October mein Nasdaq 100 se $2 trillion se zyada market value khatam ho gayi, index 5.8% se zyada gira. Meta, Alphabet aur Amazon ne AI infrastructure par kharch ke forecasts aur barha diye, to investors ko shak hua ke itni bari investment ka return kab aayega. Alphabet ka ek din mein record percentage drop bhi isi daur mein aaya.",
-      "title": "AI ka bill ab market ko bhaari par raha — Nasdaq 100 se October mein $2 trillion saaf",
-      "url": "https://m.economictimes.com/tech/artificial-intelligence/nasdaq-faces-2-trillion-wipeout-in-october-as-ai-spending-fears-deepen/amp_articleshow/135368339.cms"
+      "source": "Reuters",
+      "summary": "Amended IPO filing ke mutabiq Anthropic ka Q3 net loss $66.3 billion se ghat kar $23.29 billion reh gaya, jabke revenue $11.56 billion se barh kar $16.96 billion ho gaya. Company ne pichle hafte IPO file kiya tha, jo record-breaking ho sakta hai — lekin investors AI infrastructure par kharch ko lekar ab bhi sawal utha rahe hain.",
+      "title": "Anthropic ka IPO se pehle bara signal — loss kam, revenue tez",
+      "url": "https://www.reuters.com/business/anthropics-quarterly-loss-shrinks-revenue-jumps-ahead-blockbuster-ipo-2026-11-02/"
     },
     {
-      "source": "TechTimes",
-      "summary": "OpenAI aur Anthropic ne 26 October ko alag alag daawa kiya ke un ke internal AI models ne Exponential Time Hypothesis ko ghalat sabit kar diya — dono ne core algorithm 16 October ko paane ka daawa kiya aur Lean 4 mein machine-checked proofs diye. Agar review mein ye sabit ho gaya, to 800 se zyada papers jin ki bunyaad ETH par thi, dobara dekhne parenge. Ye P vs NP ka hal NAHI hai, aur reviewers ne abhi certify nahi kiya.",
-      "title": "Do AI labs ne ek hi din mein 27 saal purana maths assumption gira diya — ETH false?",
-      "url": "https://www.Techtimes.com/articles/329569/20261027/two-ai-systems-disproved-same-complexity-conjecture-independently-same-day-800-papers-risk.htm"
+      "source": "Reuters",
+      "summary": "UK ke National Cyber Security Centre ne kaha hai ke mulk ko agle do saal mein critical infrastructure par AI-powered cyberattack ke liye tayyar rehna chahiye, aur China is mein sab se zyada capable hai. Annual report ke mutabiq 2028 tak AI-powered malware ke saath ransomware attack 'highly likely' hai.",
+      "title": "UK ki warning: 2 saal mein AI-powered attack ka khatra",
+      "url": "https://www.reuters.com/legal/government/uk-must-expect-ai-powered-attack-critical-infrastructure-within-two-years-report-2026-11-03/"
     },
     {
-      "source": "Silicon Report (Reuters)",
-      "summary": "Reuters ke mutabiq US Department of Justice pooch raha hai ke Nvidia ka $12.93 billion mein Hugging Face khareedna AI competition ko nuqsan to nahi pohanchayega — kyun ke Hugging Face open AI models ka sab se bara hub hai. Deal September mein announce hui thi aur 2027 ki pehli half mein close hone ki umeed hai. Inquiry ka matlab ghalat kaam sabit hona nahi hai.",
-      "title": "Nvidia ke $12.9B Hugging Face deal par US Justice Department ki nazar",
-      "url": "https://www.siliconreport.com/doj-asks-how-nvidia-s-12-9b-hugging-face-deal-affects-ai-competition"
+      "source": "Reuters",
+      "summary": "CommSec ke mutabiq Anthropic apne IPO prospectus mein Australian retail share offer bhi shamil karega, aur CommSec lead Australian retail broker hoga. Company Thanksgiving se pehle Nasdaq par 'ANT' ticker se list hone ki umeed hai, lekin kuch investors $2 trillion se ghat kar $1.5 trillion valuation par soch rahe hain.",
+      "title": "Anthropic ka IPO Australia tak — retail investors ko bhi offer",
+      "url": "https://www.reuters.com/business/finance/anthropic-plans-australian-share-offer-ipo-commsec-says-2026-11-03/"
     },
     {
-      "source": "Medium",
-      "summary": "Google ke Project Suncatcher ke prototype satellite ne 30 October ko orbit mein TPU par generative AI model chalaya: Gemma 4 ne space par haiku likha aur jawab ground station tak pohanchaya. Google isay data-center-class TPU ka pehla orbit response kehta hai, lekin ye abhi sirf 'Hello World' stage hai — radiation, cooling aur lambi reliability abhi prove honi baqi hai, aur 2027 mein do satellites ka experiment planned hai.",
-      "title": "Google ne AI chip khala mein chala di — TPU orbit mein Gemma 4 se haiku likh aaya",
-      "url": "https://tai-semicon.medium.com/google-runs-ai-on-a-tpu-in-orbit-an-important-step-but-only-a-first-step-nov-2-2026-cd0ae91ed083"
+      "source": "Notebookcheck",
+      "summary": "Google ne Gemini app mein file editor add kar diya hai — Gemini ki banayi hui documents, PDFs, presentations aur spreadsheets chat ke andar hi edit ho sakengi, bina kisi subscription ke. Phones par sirf PDFs edit honge, baaki formats web version par milenge.",
+      "title": "Gemini mein ab free users bhi files edit kar sakenge",
+      "url": "https://www.notebookcheck.net/Google-Gemini-now-lets-free-users-edit-generated-PDFs-in-chat.1439329.0.html"
     },
     {
-      "source": "AIToolsRecap",
-      "summary": "Artificial Analysis Intelligence Index ke mutabiq Claude Opus 5.5 abhi bhi 58 score ke saath pehle number par hai, lekin October mein poora top-5 Anthropic ka tha — ab Meta ka Muse Wonder Full 56 par fourth aur Moonshot ka Kimi K3.1 Pro 55 par fifth aa gaya hai, jo is board par pehla non-US model hai top-5 mein. Muse Wonder 162 tokens/sec ke saath top-15 mein sab se tez bhi hai.",
-      "title": "November AI rankings: Claude abhi bhi #1, lekin top-5 ka sweep toot gaya",
-      "url": "https://aitoolsrecap.com/Blog/top-ai-models-ranking-november-2026"
+      "source": "New Straits Times",
+      "summary": "Researchers ke mutabiq AI chatbots US midterm elections se pehle ghalat voter information de rahe hain, candidates ko ghalat pehchan rahe hain aur kabhi Russian propaganda bhi dohra rahe hain. Ek study mein election sawalon ke taqreeban 40% jawabon mein kam az kam ek factual ghalti mili.",
+      "title": "US election se pehle AI chatbots ghalat maloomat phaila rahe hain",
+      "url": "https://www.nst.com.my/opinion/columnists/2026/11/1569392/ai-chatbots-spewing-us-election-falsehoods-face-scrutiny"
     },
     {
-      "source": "TechTimes Vietnam (GlobeNewswire)",
-      "summary": "Profound ne 2 November ko Singapore mein apna Asia-Pacific headquarters banane ka elan kiya — regional leadership, go-to-market aur customer teams wahin se Southeast Asia, Japan, Australia aur New Zealand ko serve karengi. Company ke mutabiq Singapore ki 61% abadi AI tools use karti hai, aur ChatGPT/Gemini par khareedne ki research wali conversations January se September tak 23% barhi hain.",
-      "title": "AI marketing platform Profound ne Singapore ko Asia-Pacific HQ bana liya",
-      "url": "https://www.techtimes.vn/en/profound-establishes-singapore-as-asia-pacific-headquarters-as-ai-becomes-the-new-front-door-for-brands/"
+      "source": "NewsBytes",
+      "summary": "Google Gemini ne avatar feature roll out kiya hai jis se users apne chehre aur awaz ka AI version bana sakte hain, aur doston ke saath images aur videos mein share kar sakte hain. Feature 18+ English-speaking personal accounts ke liye hai, UK, EEA aur Switzerland mein nahi; videos ke liye Google AI plan chahiye.",
+      "title": "Gemini ka naya avatar feature — apna chehra aur awaz, AI version",
+      "url": "https://www.newsbytesapp.com/news/science/google-gemini-rolls-out-avatar-feature-using-face-and-voice/tldr"
     }
   ],
   "pakistan": [
     {
-      "source": "Dawn",
-      "summary": "Pakistan ne Sunday ko Group of 24 (G-24) ki chairmanship sambhal li. Finance Minister Muhammad Aurangzeb ne kaha ke Pakistan developing economies ki collective awaz mazboot karega aur 'more responsive, fair and development-oriented' international financial system ke liye kaam karega. Un ki teen priorities: development ko policymaking ke centre mein rakhna, multilateral frameworks mazboot karna, aur development-oriented financial architecture.",
-      "title": "Pakistan ne G-24 ki chairmanship sambhal li — developing countries ki awaz ab Islamabad ke haath",
-      "url": "https://www.dawn.com/news/2041544"
+      "source": "Daily Pakistan",
+      "summary": "Hukumat ne 3 November se petrol Rs 3.40 kami ke baad Rs 374.51 aur high-speed diesel Rs 7.76 kami ke baad Rs 395.20 per litre kar diya hai. Petroleum Minister Ali Pervaiz Malik ke mutabiq refineries taqreeban Rs 15 billion mahana bojh uthayengi taake consumers par international qeematon ka poora bojh na pare.",
+      "title": "Petrol Rs 3.40, diesel Rs 7.76 sasta — nayi qeematein aaj se",
+      "url": "https://en.dailypakistan.com.pk/02-Nov-2026/petrol-price-in-pakistan-drops-to-rs374-51-diesel-hovers-at-rs395"
     },
     {
       "source": "Dawn",
-      "summary": "September 2026 mein Pakistan ne 420,000 tonnes chawal export kiye, jab ke Vietnam ke 337,000 tonnes rahe — aur Pakistani exporters ko $621 per tonne mila jab ke Vietnam ko $563. Dawn ke mutabiq July-September quarter mein total rice export volumes 51% barhe aur foreign exchange earnings 37% barhi, Gulf shipping disruptions ke bawajood.",
-      "title": "Basmati ka kamal: Pakistan ne September mein rice exports mein Vietnam ko peeche chhor diya",
+      "summary": "Khyber district se 13 mah ki bachi mein polio ka 2026 ka 8waan case confirm hua hai, jabke 2 se 8 November tak subnational campaign mein 97 districts ke taqreeban 24 million bachon ko vaccine dene ka target hai. Balochistan mein 8,888 teams ke saath 2.2 million se zyada bachon tak pahuncha jayega.",
+      "title": "Polio ka 2026 ka 8waan case — 24 million bachon ki drive shuru",
+      "url": "https://www.dawn.com/news/2041525/eighth-polio-case-of-year-reported-as-vaccination-drive-kicks-off-today"
+    },
+    {
+      "source": "Dawn",
+      "summary": "Pakistan ne 2026-27 ke liye Shanghai Cooperation Organisation Interbank Consortium ki chairmanship sambhal li hai; HBL Chairman Sultan Ali Allana consortium ke head ban gaye hain. Wazarat-e-Khazana ke mutabiq ye Pakistan ki SCO chairmanship ke saath regional trade aur financial connectivity ko barhane ki koshish ka hissa hai.",
+      "title": "Pakistan ne SCO Interbank Consortium ki chairmanship sambhal li",
+      "url": "https://www.dawn.com/news/2041585"
+    },
+    {
+      "source": "Dawn",
+      "summary": "September 2026 mein Pakistan ne 420,000 tonnes chawal export kiye, jabke Vietnam 337,000 tonnes par raha; Pakistani exporters ko $621 per tonne average mila, Vietnam ke $563 ke muqable. July-September quarter mein total rice export volumes 51% barhe aur foreign exchange earnings 37% upar gayi, Gulf ki disruptions ke bawajood.",
+      "title": "Basmati ki jeet — Pakistan ne rice exports mein Vietnam ko peeche chhoda",
       "url": "https://www.dawn.com/news/2041438"
     },
     {
-      "source": "The Nation",
-      "summary": "Punjab Emergency Operations Centre aaj 2 November se 13 districts mein polio eradication campaign shuru kar raha hai, jis mein 5 saal se kam umar ke 9.3 million se zyada bachon ko vaccinate kiya jayega. 77,000 se zyada frontline workers ghar ghar jayenge; Lahore mein campaign 7 din aur baqi 12 districts mein 4 din chalegi.",
-      "title": "Punjab mein aaj se polio campaign — 13 districts mein 9.3 million bachon ko drops",
-      "url": "https://www.nation.com.pk/02-Nov-2026/punjab-launch-polio-eradication-campaign-today"
-    },
-    {
-      "source": "The Nation",
-      "summary": "Deputy PM aur Foreign Minister Ishaq Dar aur Maldivian Foreign Minister Iruthisham Adam ke darmiyan telephone conversation mein dono mulkon ne bilateral relations aur cooperation ko mazeed mazboot karne par ittefaq kiya. Maldivian FM ne President Mohamed Muizzu ke recent Islamabad visit par Pakistan ki mezbani ki tareef ki, aur dono ne Commonwealth meeting ke agenda par bhi baat ki.",
-      "title": "Pakistan aur Maldives ne bilateral cooperation aur mazboot karne ka azm dohraya",
-      "url": "https://www.nation.com.pk/02-Nov-2026/pakistan-maldives-reaffirm-commitment-to-strengthen-bilateral-coop"
-    },
-    {
       "source": "Business Recorder",
-      "summary": "Business Recorder ke mutabiq security forces ne Afghan Taliban border posts ki taraf se unprovoked firing ka jawab dete hue un posts ko target kiya. Report mein firing Pakistani positions ko target karne ki baat ki gayi hai; mazeed tafseelat report mein mukhtasar hain.",
-      "title": "Border par firing ke baad security forces ne Taliban posts ko nishana banaya",
-      "url": "https://www.brecorder.com/news/40446980"
+      "summary": "Volatile session ke baad KSE-100 Index 154.81 points (0.09%) barh kar 166,564.06 par band hua, jabke rupee interbank mein 3 paisa mazboot ho kar Rs 276.72 par aa gaya. Topline Securities ke mutabiq investors inflation aur saste crude ke darmiyan cautious rahe; banking aur cement stocks mein buying nazar aayi.",
+      "title": "PSX halka upar band — KSE-100 166,564 par, rupee bhi mazboot",
+      "url": "https://www.brecorder.com/news/40447010"
     },
     {
-      "source": "Dawn",
-      "summary": "Asia Web3 Alliance Japan ki President Hinza Asif ne kaha hai ke Pakistan ko ek unified crypto industry body chahiye jo digital asset investors ko safeguard kare aur international exchanges ke saath coordination behtar banaye — ye tajweez Binance se mutaliq recent multibillion-dollar cybersecurity breach ke baad aayi hai. Unhon ne kaha ke Pakistan crypto adoption mein teesre number par hai, lekin investors ki numaindagi ka koi organised mechanism nahi.",
-      "title": "Binance breach ke baad Pakistan mein unified crypto industry body ki tajweez",
-      "url": "https://www.dawn.com/news/2041524"
+      "source": "Sport 247 News",
+      "summary": "Pakistan ki premier first-class competition Quaid-e-Azam Trophy ka 69th edition aaj 3 November se shuru ho raha hai, Gold tier mein 8 aur Silver tier mein 12 teams ke saath. Opening round mein Babar Azam Lahore Whites ki taraf se Shaheen Shah Afridi ki FATA ke khilaf Diamond Cricket Ground, Islamabad mein khelenge.",
+      "title": "Quaid-e-Azam Trophy aaj se — Babar vs Shaheen opening round mein",
+      "url": "https://sports.247news.pk/quaid-e-azam-trophy-2026-27-set-to-begin-on-november-3-babar-and-shaheen-to-feature/"
     }
   ]
 }

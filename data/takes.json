@@ -1,86 +1,86 @@
 {
   "poll": {
-    "q": "AI market se October mein $2 trillion saaf — ye AI bubble ka phatna hai ya sirf ek jhatka?",
+    "q": "Anthropic ka IPO, UK ki AI-attack warning, aur petrol ki kami — aaj ki sab se bari khabar kaun si hai?",
     "options": [
-      "💥 Bubble phat raha hai — kharch trillion, return zero",
-      "📉 Sirf jhatka hai — AI kahin nahi ja raha",
-      "🤔 Dono sach hain — kuch companies overvalued, AI real hai",
-      "😴 Market ki khabar se koi farq nahi parta"
+      "🤖 Anthropic IPO — AI ki sab se bari listing",
+      "⚠️ UK AI-attack warning — cyber khatra real hai",
+      "⛽ Petrol sasta — seedha faida aam aadmi ko",
+      "🏏 Quaid Trophy — Babar vs Shaheen"
     ]
   },
   "stories": {
-    "https://m.economictimes.com/tech/artificial-intelligence/nasdaq-faces-2-trillion-wipeout-in-october-as-ai-spending-fears-deepen/amp_articleshow/135368339.cms": {
-      "what": "October mein Nasdaq 100 se $2 trillion se zyada value saaf ho gayi, index 5.8% se zyada gira — Meta, Alphabet, Amazon ke AI kharch barhne ke baad.",
-      "why": "AI par kharch real hai, return abhi future ki kahani hai. Jab borrowing mehenga ho aur profit ka waada door nazar aaye, to market pehle dar jati hai, hisab baad mein lagati hai.",
-      "next": "Apple ke results next week aur Nvidia mid-November mein — ye do reports batayengi ke ye sirf ek jhatka tha ya AI trade ka mood badal gaya hai.",
-      "take": "Meri take: AI bubble ki cheekhain har hafte sunayi deti hain, lekin ye wala dar thoda real lag raha hai — kharch trillion mein hai aur return PowerPoint mein. Phir bhi, jo log sirf ek month ki girawat dekh kar AI ko khatam samajh rahe hain, woh bhi jaldi kar rahe hain. Sach darmiyan mein hai: AI slow nahi hoga, lekin har company AI ke naam par blank cheque nahi le sakti."
+    "https://www.reuters.com/business/anthropics-quarterly-loss-shrinks-revenue-jumps-ahead-blockbuster-ipo-2026-11-02/": {
+      "what": "Anthropic ka Q3 loss $66.3B se ghat kar $23.29B hua, revenue $16.96B tak pahunch gaya — IPO se pehle amended filing mein.",
+      "why": "AI companies ab sirf growth ki kahani nahi, numbers ki kahani suna rahi hain, kyunke IPO ke waqt investors hisab maangte hain, hype nahi.",
+      "next": "Thanksgiving se pehle Nasdaq listing aur final valuation batayegi ke market ne ye numbers khareede ya phir bhi shak mein hai.",
+      "take": "Meri take: loss ab bhi $23 billion hai, is liye 'profitable' wali khushfehmi mat palna — lekin direction sahi hai. Anthropic ki asal kahani ye nahi ke loss kam hua, ye hai ke revenue itni tezi se barh raha hai ke market ko ignore karna mushkil ho gaya hai. Phir bhi $895B commitments dekh kar lagta hai ye company nahi, ek poora mulk ban raha hai."
     },
-    "https://www.Techtimes.com/articles/329569/20261027/two-ai-systems-disproved-same-complexity-conjecture-independently-same-day-800-papers-risk.htm": {
-      "what": "OpenAI aur Anthropic ke internal models ne alag alag 16 October ko hi ETH ko ghalat sabit karne ka daawa kiya, Lean-verified proofs ke saath.",
-      "why": "ETH 27 saal se complexity theory ki bunyaad thi — 800+ papers us par khare hain. Agar ye proof tik gaya, to sirf ek theorem nahi, poori field ki 'ye mumkin nahi' wali line dobara likhni hogi.",
-      "next": "Ab ball Impagliazzo, Paturi aur Ryan Williams ke court mein hai — unhon ne khud ye hypothesis banayi thi, aur un ka verdict hi asli faisla hoga.",
-      "take": "Meri take: Do rival labs, ek hi din, ek hi jawab — ye coincidence se zyada lagta hai, jaise tools ab is level tak pohanch gaye hain ke purani deewarein girne lagi hain. Lekin hype se bacho: ye P vs NP ka hal nahi, aur practical computers par is algorithm ka koi faida nahi. Bari khabar hai, lekin 'AI ne maths khatam kar di' wali headline jhoot hai."
+    "https://www.reuters.com/legal/government/uk-must-expect-ai-powered-attack-critical-infrastructure-within-two-years-report-2026-11-03/": {
+      "what": "UK NCSC ne warning di hai ke 2 saal mein critical infrastructure par AI-powered attack ho sakta hai, aur 2028 tak AI ransomware 'highly likely' hai.",
+      "why": "AI ne naya attack invent nahi kiya, purani kamzoriyan ab scale par exploit ho rahi hain — jo cheez pehle slow thi, ab tez ho gayi hai.",
+      "next": "NCSC chief ki speech aur annual report ke baad UK organisations par patching aur security spending ka pressure barhega.",
+      "take": "Meri take: ye warning sirf UK ke liye nahi hai — 'tech on the cheap' wali aadat har mulk mein hai, hamare yahan bhi. AI ka asal khatra robot nahi, ye hai ke jo systems saalon se unpatched pare hain, unhe ab koi machine minutes mein dhoond legi."
     },
-    "https://www.siliconreport.com/doj-asks-how-nvidia-s-12-9b-hugging-face-deal-affects-ai-competition": {
-      "what": "US Justice Department pooch raha hai ke Nvidia ka $12.93B mein Hugging Face khareedna AI competition ko nuqsan pohanchayega ya nahi.",
-      "why": "Hugging Face sirf ek website nahi — ye open models ka sab se bara adda hai, 3 million models aur 18 million developers. Chips banane wali company agar models ka darwaza bhi sambhal le, to rival chipmakers ki saans phoolna laazmi hai.",
-      "next": "Deal 2027 ki pehli half mein close honi hai, lekin antitrust review lamba bhi ho sakta hai — aur Nvidia ke Groq/Run:ai deals bhi isi radar par hain.",
-      "take": "Meri take: Nvidia kehta hai Hugging Face sab ke liye open rahega, lekin jab aap darwaze ke malik ban jao to 'open' ka matlab waqt ke saath badal jata hai. Ye inquiry rok nahi, warning hai — aur ye warning sahi waqt par aayi hai."
+    "https://www.reuters.com/business/finance/anthropic-plans-australian-share-offer-ipo-commsec-says-2026-11-03/": {
+      "what": "Anthropic IPO mein Australian retail offer bhi la raha hai, CommSec lead broker hoga; Nasdaq ticker 'ANT' hoga aur valuation $1.5T tak neeche aane ki baat ho rahi hai.",
+      "why": "Retail offer ka matlab hai company sirf Wall Street ko nahi, aam investor ko bhi apni kahani bechna chahti hai — IPO ko bara event banane ki koshish.",
+      "next": "Prospectus aur final price batayega ke retail demand real hai ya sirf headline ke liye rakhi gayi hai.",
+      "take": "Meri take: aam aadmi ko IPO mein jagah dena achi baat hai, lekin is se risk kam nahi hota. $1.5T valuation par bhi ye bet hai ke AI ka kharch kabhi wapas aayega — retail investor ko ye samajh kar aana chahiye ke ye lottery ticket nahi, lambi race hai."
     },
-    "https://tai-semicon.medium.com/google-runs-ai-on-a-tpu-in-orbit-an-important-step-but-only-a-first-step-nov-2-2026-cd0ae91ed083": {
-      "what": "Google ke satellite ne orbit mein TPU par Gemma 4 chalaya aur space se haiku likh kar zameen par bheja — Project Suncatcher ka pehla live test.",
-      "why": "Space mein solar power muft lagti hai, lekin heat nikalna, radiation se bachna aur kharab chip badalna — ye teeno zameen se mushkil hain. Ek haiku chalna aur data center chalana, do alag duniyain hain.",
-      "next": "2027 mein do interconnected satellites ka experiment planned hai — wahan pata chalega ke ye sirf demo tha ya asal roadmap.",
-      "take": "Meri take: Haiku wali khabar par hansna asaan hai, lekin socho — hum ne chip ko khala mein zinda chala liya hai. Ye future ka trailer hai, film nahi. Google khud kehta hai 5 saal se pehle space data center sasta nahi hoga, aur is baar Google ki honesty hi sab se achi khabar hai."
+    "https://www.notebookcheck.net/Google-Gemini-now-lets-free-users-edit-generated-PDFs-in-chat.1439329.0.html": {
+      "what": "Gemini app mein ab free users bhi generated files chat ke andar edit kar sakte hain; phones par sirf PDFs, baaki formats web par.",
+      "why": "Google chatbot ko sirf jawab dene wali cheez se kaam karne wali jagah bana raha hai — user ko app badalne ki zaroorat na pare.",
+      "next": "Dekhna ye hai ke ye editor sirf Gemini ki files tak mehdood rehta hai ya apni files bhi upload karke edit karne deta hai.",
+      "take": "Meri take: ye chhota feature lagta hai, lekin asal mein bara hai — jo tool aapke kaam ka last step bhi khud kar de, wohi jeet ta hai. Sirf ek mashwara: bank statement ya medical letter jesi cheezain is mein mat dalo, ye chat hai, locker nahi."
     },
-    "https://aitoolsrecap.com/Blog/top-ai-models-ranking-november-2026": {
-      "what": "November rankings mein Claude Opus 5.5 (58) abhi bhi #1 hai, lekin top-5 mein Meta ka Muse Wonder Full (56) aur Kimi K3.1 Pro (55) aa gaye — Anthropic ka sweep toot gaya.",
-      "why": "Ek company ka top-5 par qabza khatam hona sehatmand nishani hai. Meta ki wapsi aur pehle non-US model ka top-5 mein aana batata hai ke AI race ab sirf do labs ki nahi rahi.",
-      "next": "Leaderboards har hafte badalte hain — agla farq price aur speed se parega, sirf index number se nahi.",
-      "take": "Meri take: Leaderboard dekh kar model chunna aise hai jaise poster dekh kar film chunna. Asli sawal ye hai: tumhara kaam, tumhari speed, tumhara bill. Claude #1 hai, theek hai — lekin Kimi ka top-5 mein aana zyada bari kahani hai, kyun ke is race mein ab naye players bhi table par baith gaye hain."
+    "https://www.nst.com.my/opinion/columnists/2026/11/1569392/ai-chatbots-spewing-us-election-falsehoods-face-scrutiny": {
+      "what": "US midterms se pehle AI chatbots ghalat voter info, ghalat candidate pehchan aur propaganda dohra rahe hain; 40% jawabon mein kam az kam ek ghalti mili.",
+      "why": "Chatbot confident lehje mein jawab deta hai, chahe jawab ghalat ho — aur election ki date jesi chhoti ghalti bhi vote zaya kar sakti hai.",
+      "next": "Election ke din tak researchers aur newsrooms ki scrutiny barhegi; companies par fact-checking ka pressure bhi barhega.",
+      "take": "Meri take: AI se election ki date mat poocho, official source se poocho. Ye tool research ke liye zabardast hai, lekin vote jesi cheez par is ki baat par andha aitbar karna apni zimmedari kisi machine ko dena hai."
     },
-    "https://www.techtimes.vn/en/profound-establishes-singapore-as-asia-pacific-headquarters-as-ai-becomes-the-new-front-door-for-brands/": {
-      "what": "Profound ne Singapore mein Asia-Pacific HQ banaya, $180M Series D ke baad — teams Southeast Asia, Japan, Australia aur NZ ko serve karengi.",
-      "why": "Jab log Google ki bajaye ChatGPT/Gemini se pooch kar khareedne lagein, to brands ko ye fikar hoti hai ke AI un ke baare mein kya jawab deta hai. Yehi naya 'SEO' hai — answer-engine optimization.",
-      "next": "Singapore office Q4 2026 mein khulega aur 12 mahine mein 15+ roles hire honge — dekhna ye hai ke Pakistani/Asian brands is race mein kab utarte hain.",
-      "take": "Meri take: 'AI is the new front door' sunne mein marketing jumla lagta hai, lekin numbers sach bol rahe hain — Singapore mein shopping research wali AI chats 23% barhi hain. Jo brand AI ke jawab mein nazar nahi aayega, woh dukaan ke bahar wale board ki tarah ho jayega: maujood, lekin koi dekh nahi raha."
+    "https://www.newsbytesapp.com/news/science/google-gemini-rolls-out-avatar-feature-using-face-and-voice/tldr": {
+      "what": "Gemini ne apne chehre aur awaz ka AI avatar banane ka feature diya hai, jo doston ke saath share bhi ho sakta hai; videos ke liye paid plan chahiye.",
+      "why": "Google AI ko personal banana chahta hai — aap khud content ban jao, baar baar record kiye baghair.",
+      "next": "Privacy aur misuse ka sawaal jald uthega: kis ka avatar, kis ki ijazat se, kahan use hua — ye rules abhi banne hain.",
+      "take": "Meri take: ye feature mazay ka hai, lekin thoda darawna bhi. Apna chehra aur awaz kisi system ko dena chhoti cheez nahi — control aapke haath mein hai, ye baat yaad rakhni hai, kyunke ek dafa avatar ban gaya to woh aapki marzi ke baghair bhi kahin nazar aa sakta hai."
     },
-    "https://www.dawn.com/news/2041544": {
-      "what": "Pakistan ne G-24 ki chairmanship sambhal li; Finance Minister Aurangzeb ne development-oriented global financial system ki baat ki.",
-      "why": "G-24 developing countries ka group hai jo IMF/World Bank ke saamne apni baat rakhta hai. Chair milna izzat hai, lekin asal test ye hai ke is kursi se Pakistan ke liye climate finance aur debt relief jaisi cheezon mein kuch haasil hota hai ya sirf bayan aate hain.",
-      "next": "Pakistan ki chairmanship ke dauran IMF/World Bank meetings mein us ki priorities — development finance aur climate shocks — par amal dekha jayega.",
-      "take": "Meri take: Kursi milna achi khabar hai, kursi par beth kar kya kiya ye bari khabar hogi. Pakistan ne is chair se agar sirf speeches li to ye bhi ek aur photo-op hai; agar climate finance par koi thos deal nikli to history hai. Umeed rakho, hisab bhi rakho."
+    "https://en.dailypakistan.com.pk/02-Nov-2026/petrol-price-in-pakistan-drops-to-rs374-51-diesel-hovers-at-rs395": {
+      "what": "3 November se petrol Rs 374.51 aur diesel Rs 395.20 per litre; refineries Rs 15B mahana bojh uthayengi.",
+      "why": "International qeematein upar hain aur hukumat ko relief bhi dikhana hai, is liye bojh refineries par dala gaya — ye subsidy nahi, ek arrangement hai.",
+      "next": "Agle fortnight ki review aur refineries ke profit par nazar rahegi — ye arrangement lamba chalega ya sirf ek dafa ka relief hai, ye wahan se pata chalega.",
+      "take": "Meri take: Rs 3.40 ki kami par khushi to banti hai, lekin asli sawal ye hai ke Rs 15 per litre ka farq kaun de raha hai aur kab tak dega. Agar refineries ye bojh uthayengi to kahin na kahin wapas bhi lenge — relief ka shukrana ada karo, lekin is ko permanent sasta samajhna jaldi hogi."
+    },
+    "https://www.dawn.com/news/2041525/eighth-polio-case-of-year-reported-as-vaccination-drive-kicks-off-today": {
+      "what": "2026 ka 8waan polio case Khyber se, aur 2-8 November ki campaign mein 97 districts ke 24 million bachon ko vaccine ka target.",
+      "why": "Virus ab bhi Peshawar Block mein circulate kar raha hai — ek bhi miss hua bacha poori mehnat ko risk mein daal deta hai.",
+      "next": "Campaign ke baad environmental samples aur naye cases batayenge ke ye drive asar kar rahi hai ya nahi.",
+      "take": "Meri take: 8 cases ko 'sirf 8' kehna aasan hai, lekin har case ek bache ki zindagi hai. Polio ki larai mein jeet sirf tab hogi jab har bacha, har dafa, vaccine le — is mein na siyasat hai, na shak ki gunjaish."
+    },
+    "https://www.dawn.com/news/2041585": {
+      "what": "Pakistan ne SCO Interbank Consortium ki 2026-27 chairmanship li; HBL ke Sultan Ali Allana head ban gaye.",
+      "why": "SCO ab sirf security ka forum nahi raha, economic cooperation ka bhi ban raha hai — aur Pakistan is mein apni jagah mazboot karna chahta hai.",
+      "next": "Agla SCO Council of Heads of State meeting Pakistan host karega, wahan ye chairmanship ka asli test hoga.",
+      "take": "Meri take: chairmanship ki khabar par taali bajana theek hai, lekin asli faida tab hoga jab is se trade finance sasta ho ya investment aaye. Kursi milna achi baat hai, kursi se kaam lena asli kaam hai."
     },
     "https://www.dawn.com/news/2041438": {
-      "what": "September mein Pakistan ne 420,000 tonnes chawal export kiye (Vietnam: 337,000) aur $621/tonne kamaye (Vietnam: $563).",
-      "why": "Ye sirf ek month ki jeet nahi — Gulf war, mehenga freight aur insurance ke bawajood Basmati ki demand ne Pakistan ko teesre number ki race mein mazboot rakha hai. Aur free-market system mein ye jeet private millers/exporters ki mehnat hai, subsidy ki nahi.",
-      "next": "Agle quarter mein dekhna ye hai ke ye momentum barkarar rehta hai ya September ek acha month tha — khaas kar jab shipping routes abhi bhi pressure mein hain.",
-      "take": "Meri take: Basmati ne phir sabit kar diya ke Pakistan ki asal taqat us ki zameen aur us ke log hain, bayan nahi. Vietnam ko peeche chhorna choti baat nahi — lekin is jeet ko policy mein badalna hoga: agar exporters ko sasta credit aur behtar logistics mil jaye, to ye jeet aadat ban sakti hai."
+      "what": "September mein Pakistan ne Vietnam se zyada chawal export kiye (420k vs 337k tonnes) aur behtar qeemat bhi li ($621 vs $563).",
+      "why": "Basmati ki demand ne Gulf war aur shipping crisis ka jhatka absorb kar liya — premium product ki taqat yehi hoti hai.",
+      "next": "Q1 mein 51% volume growth ke baad dekhna ye hai ke ye momentum saal bhar qaim rehta hai ya sirf ek quarter ki kahani thi.",
+      "take": "Meri take: ye khabar is liye khaas hai ke ye kisi subsidy ya support price ke baghair hui — free market mein Pakistani millers ne jeet haasil ki. Basmati hamara brand hai, is ko sirf export nahi, premium brand banana chahiye."
     },
-    "https://www.nation.com.pk/02-Nov-2026/punjab-launch-polio-eradication-campaign-today": {
-      "what": "Punjab mein aaj se 13 districts mein polio campaign — 9.3 million bachon ko drops, 77,000 workers ghar ghar jayenge.",
-      "why": "Polio ka koi ilaj nahi, sirf bachao hai — aur har campaign ek mauqa hai ke koi bacha reh na jaye. 2027 ko decisive year kaha ja raha hai, to ye campaign sirf routine nahi hai.",
-      "next": "Lahore mein 7 din, baqi districts mein 4 din — phir follow-up visits un bachon tak pohanchengi jo pehli dafa miss ho gaye.",
-      "take": "Meri take: Ye khabar parh kar sirf 'achi baat' kehna kafi nahi. Agar aap ke ghar ya gali mein 5 saal se kam ka bacha hai, to drops yaqeeni banayen — chahe pehle bhi lag chuke hon. Polio ke khilaf jang worker ki nahi, poore mohalle ki zimmedari hai."
+    "https://www.brecorder.com/news/40447010": {
+      "what": "KSE-100 154 points barh kar 166,564 par band, rupee Rs 276.72 par; volumes kam hue, lekin market green mein rahi.",
+      "why": "Investors inflation se dar rahe hain, crude sasta hone se thodi rahat mili — is liye market neeche upar hui, lekin aakhir mein upar band hui.",
+      "next": "US midterms aur Apple ke results global mood tay karenge; PSX par is ka asar aane wale sessions mein nazar aayega.",
+      "take": "Meri take: 0.09% ki growth par jashn manana ajeeb lagta hai, lekin 5 hafton ki losing streak ke baad green close hi bari baat hai. Market abhi bhi cautious hai — ye recovery hai, rally nahi, is liye fomo mein mat aao."
     },
-    "https://www.nation.com.pk/02-Nov-2026/pakistan-maldives-reaffirm-commitment-to-strengthen-bilateral-coop": {
-      "what": "Ishaq Dar aur Maldivian FM Iruthisham Adam ne phone par bilateral cooperation mazboot karne par ittefaq kiya, President Muizzu ke recent visit ke baad.",
-      "why": "Chote mulkon ke saath rishtay aksar headlines mein nahi aate, lekin diplomacy isi tarah banti hai — visits ke baad ke follow-up se, sirf photo se nahi.",
-      "next": "Ab dekhna ye hai ke presidential visit mein jo understandings hui thin, wo trade, tourism ya education mein kisi thos deal mein badalti hain ya nahi.",
-      "take": "Meri take: Diplomacy ki khabrain aksar boring lagti hain, lekin yehi boring kaam mulkon ko qareeb rakhta hai. Maldives ke saath dosti ki qeemat tab pata chalegi jab koi thos faida — trade ya tourism — saamne aayega. Tab tak ye ek acha signal hai, bari khabar nahi."
-    },
-    "https://www.brecorder.com/news/40446980": {
-      "what": "Security forces ne Afghan Taliban border posts ki unprovoked firing ka jawab diya aur un posts ko target kiya.",
-      "why": "Border par firing ki har khabar ke peeche ek bara sawal hota hai: ye ek waqia hai ya pattern? Report mukhtasar hai, to is par bari raye banana jaldbazi hogi.",
-      "next": "Aane wale dinon mein official statements aur border ki surat-e-haal batayengi ke tension kam hui ya barhi.",
-      "take": "Meri take: Is khabar par jazbati hone se pehle poori tafseel ka intezar karo. Border ki khabrain aksar adhoori aati hain aur poori tasveer baad mein banti hai. Jo pakka hai wo ye: jawan border par khare hain, aur un ki qurbani par behas nahi, sirf shukriya banta hai."
-    },
-    "https://www.dawn.com/news/2041524": {
-      "what": "Binance breach ke baad Pakistan mein unified crypto industry body ki tajweez — investors ki numaindagi aur exchanges se coordination ke liye.",
-      "why": "Pakistan crypto adoption mein teesre number par hai, 40 million accounts ka andaza hai, lekin jab koi bara exchange doobta hai to Pakistani investor kis darwaze par jaye, ye koi nahi janta. PVARA regulator hai, lekin industry ki apni awaz abhi nahi.",
-      "next": "Tajweez abhi tajweez hai — asal imtihan ye hai ke kya koi body banti hai, aur kya wo investor ki shikayat sunne ka ikhtiyar rakhti hai ya sirf ek aur committee ban jati hai.",
-      "take": "Meri take: Crypto ke deewane aksar 'decentralized' ka nara lagate hain, lekin jab paisa phansta hai to sab ko ek darwaza chahiye hota hai. Ye tajweez sahi direction hai — lekin ek body banana asaan hai, usay investor ke kaam ka banana mushkil. Naam par nahi, ikhtiyar par nazar rakho."
+    "https://sports.247news.pk/quaid-e-azam-trophy-2026-27-set-to-begin-on-november-3-babar-and-shaheen-to-feature/": {
+      "what": "Quaid-e-Azam Trophy aaj se shuru, Gold mein 8 aur Silver mein 12 teams; Babar Lahore Whites se, Shaheen FATA ki kaptani mein.",
+      "why": "Domestic cricket hi woh factory hai jahan se Test team banti hai — aur is dafa stars khud domestic khel rahe hain, jo achi nishani hai.",
+      "next": "Opening round ke baad Babar ki form aur Sri Lanka Tests ki tayyari par sab ki nazar rahegi.",
+      "take": "Meri take: Babar aur Shaheen ko domestic mein dekhna achi baat hai, lekin is ka matlab ye bhi hai ke un ki form par sawal abhi khatam nahi hue. Quaid Trophy koi warm-up nahi, ye woh jagah hai jahan selection ka faisla hota hai — jo yahan run banayega, wohi Test mein tikega."
     }
   },
-  "mood": "💥 AI market ka $2T jhatka, ETH par maths ki larai, aur Basmati ki jeet — aaj tech mein tension, Pakistan mein thodi umeed hai."
+  "mood": "🤖 IPO ka shor, ⚠️ cyber warning, ⛽ petrol mein thodi rahat — aaj tech mein tension, Pakistan mein mixed mood."
 }
