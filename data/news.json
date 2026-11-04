@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-11-03T06:59:59+05:00",
+  "updated_at": "2026-11-04T06:59:44+05:00",
   "tech": [
     {
-      "source": "Reuters",
-      "summary": "Amended IPO filing ke mutabiq Anthropic ka Q3 net loss $66.3 billion se ghat kar $23.29 billion reh gaya, jabke revenue $11.56 billion se barh kar $16.96 billion ho gaya. Company ne pichle hafte IPO file kiya tha, jo record-breaking ho sakta hai — lekin investors AI infrastructure par kharch ko lekar ab bhi sawal utha rahe hain.",
-      "title": "Anthropic ka IPO se pehle bara signal — loss kam, revenue tez",
-      "url": "https://www.reuters.com/business/anthropics-quarterly-loss-shrinks-revenue-jumps-ahead-blockbuster-ipo-2026-11-02/"
+      "source": "Business Today",
+      "summary": "Google ke Project Suncatcher ke prototype satellite ne apne onboard TPU par Gemma 4 model chala kar khala se pehla AI jawab bheja — ek haiku: 'Blue marble below / Data streams in silent grace / Starlight feeds my core.' Satellite 1 October ko SpaceX Falcon 9 par launch hua tha, aur sirf 1 kilowatt power par ek waqt mein sirf ek chip 20 minute chala sakta hai. 2027 mein laser links wale do aur satellites ki planning hai.",
+      "title": "Google ka AI ab khala se shayari bhej raha hai — satellite par pehla poem",
+      "url": "https://www.businesstoday.in/technology/news/story/googles-ai-satellite-sends-first-poem-from-space-using-onboard-chip-heres-how-it-worked-565155-2026-11-04"
     },
     {
       "source": "Reuters",
-      "summary": "UK ke National Cyber Security Centre ne kaha hai ke mulk ko agle do saal mein critical infrastructure par AI-powered cyberattack ke liye tayyar rehna chahiye, aur China is mein sab se zyada capable hai. Annual report ke mutabiq 2028 tak AI-powered malware ke saath ransomware attack 'highly likely' hai.",
-      "title": "UK ki warning: 2 saal mein AI-powered attack ka khatra",
-      "url": "https://www.reuters.com/legal/government/uk-must-expect-ai-powered-attack-critical-infrastructure-within-two-years-report-2026-11-03/"
+      "summary": "Reuters ke mutabiq OpenAI ke employees ChatGPT se pehle se hi internal security par sawal utha rahe the — code ek hi monorepo mein, sensitive info aasani se accessible. October mein executive conference room mein recording device milne ke baad company ne ek chauthai production engineers security par laga diye hain, aur ab 'next internal security sprint' ki planning hai.",
+      "title": "OpenAI ke apne log saalon se security ki warning de rahe the — Reuters report",
+      "url": "https://www.reuters.com/business/openai-employees-warned-about-operational-security-lapses-years-sources-say-2026-11-03/"
+    },
+    {
+      "source": "TechCrunch",
+      "summary": "New York Times ne Brave par Manhattan federal court mein case kiya hai — ilzaam hai ke Brave ne 30 billion pages ka index bana kar khabrein copy kein, AI companies (Anthropic, Perplexity, Mistral, xAI, Cohere) ko bechi, aur paywall bypass feature bhi diya. Daily News, Chicago Tribune aur Orlando Sentinel ne bhi alag case file kiya hai.",
+      "title": "New York Times ne Brave browser par case kar diya — AI scraping ka ilzaam",
+      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/"
+    },
+    {
+      "source": "Tech Times",
+      "summary": "Meituan ne LongCat-2.5 launch kiya hai — 1.6 trillion parameters wala multimodal model jo lambi agentic coding tasks ke liye bana hai, aur poori tarah domestic Chinese accelerators par train hua hai. Company ke apne benchmarks ke mutabiq ye Claude Opus 4.8 aur 5 ke darmiyan hai, lekin independent testing abhi baqi hai — is liye numbers ko claim hi samjho, faisla nahi.",
+      "title": "China ka Meituan le aaya LongCat 2.5 — 1.6 trillion parameters, sirf Chinese chips par trained",
+      "url": "https://www.techtimes.com/articles/329925/20261103/meituan-releases-longcat-25-chinese-chips-benchmark-claims-await-independent-tests.htm"
     },
     {
       "source": "Reuters",
-      "summary": "CommSec ke mutabiq Anthropic apne IPO prospectus mein Australian retail share offer bhi shamil karega, aur CommSec lead Australian retail broker hoga. Company Thanksgiving se pehle Nasdaq par 'ANT' ticker se list hone ki umeed hai, lekin kuch investors $2 trillion se ghat kar $1.5 trillion valuation par soch rahe hain.",
-      "title": "Anthropic ka IPO Australia tak — retail investors ko bhi offer",
-      "url": "https://www.reuters.com/business/finance/anthropic-plans-australian-share-offer-ipo-commsec-says-2026-11-03/"
+      "summary": "OpenAI ne former US Secretary of the Army Dan Driscoll ko senior counselor for national security modernization banaya hai — wo leadership ko advise karenge ke advanced AI national security aur cybersecurity mein kaise use ho. Driscoll is saal ke shuru mein Pentagon se resign kar chuke hain, aur Ukraine-Russia talks mein bhi Trump ke liye kaam kar chuke hain.",
+      "title": "OpenAI ne ex-Army Secretary Dan Driscoll ko national security role de diya",
+      "url": "https://www.reuters.com/business/openai-taps-former-us-army-secretary-dan-driscoll-national-security-role-2026-11-03/"
     },
     {
-      "source": "Notebookcheck",
-      "summary": "Google ne Gemini app mein file editor add kar diya hai — Gemini ki banayi hui documents, PDFs, presentations aur spreadsheets chat ke andar hi edit ho sakengi, bina kisi subscription ke. Phones par sirf PDFs edit honge, baaki formats web version par milenge.",
-      "title": "Gemini mein ab free users bhi files edit kar sakenge",
-      "url": "https://www.notebookcheck.net/Google-Gemini-now-lets-free-users-edit-generated-PDFs-in-chat.1439329.0.html"
-    },
-    {
-      "source": "New Straits Times",
-      "summary": "Researchers ke mutabiq AI chatbots US midterm elections se pehle ghalat voter information de rahe hain, candidates ko ghalat pehchan rahe hain aur kabhi Russian propaganda bhi dohra rahe hain. Ek study mein election sawalon ke taqreeban 40% jawabon mein kam az kam ek factual ghalti mili.",
-      "title": "US election se pehle AI chatbots ghalat maloomat phaila rahe hain",
-      "url": "https://www.nst.com.my/opinion/columnists/2026/11/1569392/ai-chatbots-spewing-us-election-falsehoods-face-scrutiny"
-    },
-    {
-      "source": "NewsBytes",
-      "summary": "Google Gemini ne avatar feature roll out kiya hai jis se users apne chehre aur awaz ka AI version bana sakte hain, aur doston ke saath images aur videos mein share kar sakte hain. Feature 18+ English-speaking personal accounts ke liye hai, UK, EEA aur Switzerland mein nahi; videos ke liye Google AI plan chahiye.",
-      "title": "Gemini ka naya avatar feature — apna chehra aur awaz, AI version",
-      "url": "https://www.newsbytesapp.com/news/science/google-gemini-rolls-out-avatar-feature-using-face-and-voice/tldr"
+      "source": "China Daily",
+      "summary": "China ke National Development and Reform Commission ne kaha hai ke 15th Five-Year Plan (2026-30) mein 'AI Plus' initiative ko gehra kiya jayega — AI ab sirf pilot projects se nikal kar research, production aur distribution mein coordinated tareeqe se use hogi, taake nayi economic growth paida ho.",
+      "title": "China ka 'AI Plus' ab full speed — 2026-30 plan mein har industry mein AI",
+      "url": "https://epaper.chinadaily.com.cn/a/202611/04/WS6aea80ebe4b07a432ddc9eac.html"
     }
   ],
   "pakistan": [
     {
-      "source": "Daily Pakistan",
-      "summary": "Hukumat ne 3 November se petrol Rs 3.40 kami ke baad Rs 374.51 aur high-speed diesel Rs 7.76 kami ke baad Rs 395.20 per litre kar diya hai. Petroleum Minister Ali Pervaiz Malik ke mutabiq refineries taqreeban Rs 15 billion mahana bojh uthayengi taake consumers par international qeematon ka poora bojh na pare.",
-      "title": "Petrol Rs 3.40, diesel Rs 7.76 sasta — nayi qeematein aaj se",
-      "url": "https://en.dailypakistan.com.pk/02-Nov-2026/petrol-price-in-pakistan-drops-to-rs374-51-diesel-hovers-at-rs395"
+      "source": "Business Recorder",
+      "summary": "Haftay mein doosri dafa petrol sasta: hukumat ne petrol Rs 5.45 kami ke baad Rs 369.06 aur diesel Rs 3.68 kami ke baad Rs 391.52 per litre kar diya hai, 4 November se effective. OGRA ke mutabiq global crude taqreeban 2% gir kar 3 haftay ki low par aaya, is liye ye kami mumkin hui.",
+      "title": "Petrol phir sasta — Rs 369.06, diesel Rs 391.52, aaj se nayi qeematein",
+      "url": "https://www.brecorder.com/news/amp/40447233"
     },
     {
       "source": "Dawn",
-      "summary": "Khyber district se 13 mah ki bachi mein polio ka 2026 ka 8waan case confirm hua hai, jabke 2 se 8 November tak subnational campaign mein 97 districts ke taqreeban 24 million bachon ko vaccine dene ka target hai. Balochistan mein 8,888 teams ke saath 2.2 million se zyada bachon tak pahuncha jayega.",
-      "title": "Polio ka 2026 ka 8waan case — 24 million bachon ki drive shuru",
-      "url": "https://www.dawn.com/news/2041525/eighth-polio-case-of-year-reported-as-vaccination-drive-kicks-off-today"
+      "summary": "Pakistan ne apne pehle indigenously developed air-to-air missile Fa'az ka kamyab flight test kar liya hai — ISPR ke mutabiq is mein state-of-the-art terminal guidance system hai aur ye lambi range par aerial targets ko engage kar sakta hai. Test JF-17 fighter se hua, aur sadr, wazir-e-azam aur army chief ne scientists ko mubarakbad di.",
+      "title": "Pakistan ka pehla apna air-to-air missile Fa'az — JF-17 se kamyab test",
+      "url": "https://www.dawn.com/news/2041885"
     },
     {
       "source": "Dawn",
-      "summary": "Pakistan ne 2026-27 ke liye Shanghai Cooperation Organisation Interbank Consortium ki chairmanship sambhal li hai; HBL Chairman Sultan Ali Allana consortium ke head ban gaye hain. Wazarat-e-Khazana ke mutabiq ye Pakistan ki SCO chairmanship ke saath regional trade aur financial connectivity ko barhane ki koshish ka hissa hai.",
-      "title": "Pakistan ne SCO Interbank Consortium ki chairmanship sambhal li",
-      "url": "https://www.dawn.com/news/2041585"
+      "summary": "Mohmand district mein polio team ki security duty par jaate hue 2 policemen shaheed aur 1 zakhmi ho gaya; Tank mein 4 polio workers ko aghwa kar liya gaya. KP Governor ne fori recovery ka hukm diya hai. Ye waqiat us waqt hue jab 24 million bachon ki vaccination campaign jaari hai — Pakistan aur Afghanistan hi ab polio-endemic mulk reh gaye hain.",
+      "title": "Polio duty par hamla — Mohmand mein 2 policemen shaheed, Tank mein 4 workers aghwa",
+      "url": "https://www.dawn.com/news/2041809"
     },
     {
       "source": "Dawn",
-      "summary": "September 2026 mein Pakistan ne 420,000 tonnes chawal export kiye, jabke Vietnam 337,000 tonnes par raha; Pakistani exporters ko $621 per tonne average mila, Vietnam ke $563 ke muqable. July-September quarter mein total rice export volumes 51% barhe aur foreign exchange earnings 37% upar gayi, Gulf ki disruptions ke bawajood.",
-      "title": "Basmati ki jeet — Pakistan ne rice exports mein Vietnam ko peeche chhoda",
-      "url": "https://www.dawn.com/news/2041438"
+      "summary": "Pakistan ne Lahore mein Sri Lanka ke khilaf tri-series final jeeta — 326 ka target 3 wickets aur 9 balls pehle chase kiya, Fakhar Zaman ke 127 (99 balls) ki badolat. Lekin slow over-rate par team par 5% match fee jurmana bhi laga; captain Shaheen Shah Afridi ne ghalti maan li.",
+      "title": "Tri-series jeetne ke baad bhi jurmana — Pakistan par slow over-rate fine, Fakhar ka 127 yaadgar",
+      "url": "https://www.dawn.com/news/2041745"
+    },
+    {
+      "source": "Dawn",
+      "summary": "ISPR ke mutabiq 1 November ko Kachhi aur Kharan mein intelligence-based operations mein 17 dehshatgard halak hue — Kachhi ke Sanni area mein 10 (roadblock ki koshish nakaam), Kharan mein 7. Firing ke dauran 25 saala Sepoy Hikmatullah shaheed hue; Sadr Zardari ne un ki qurbani ko khiraj-e-tehseen paish kiya.",
+      "title": "Balochistan mein 2 operations — 17 dehshatgard halak, Sepoy Hikmatullah shaheed",
+      "url": "https://www.dawn.com/news/2041875"
     },
     {
       "source": "Business Recorder",
-      "summary": "Volatile session ke baad KSE-100 Index 154.81 points (0.09%) barh kar 166,564.06 par band hua, jabke rupee interbank mein 3 paisa mazboot ho kar Rs 276.72 par aa gaya. Topline Securities ke mutabiq investors inflation aur saste crude ke darmiyan cautious rahe; banking aur cement stocks mein buying nazar aayi.",
-      "title": "PSX halka upar band — KSE-100 166,564 par, rupee bhi mazboot",
-      "url": "https://www.brecorder.com/news/40447010"
-    },
-    {
-      "source": "Sport 247 News",
-      "summary": "Pakistan ki premier first-class competition Quaid-e-Azam Trophy ka 69th edition aaj 3 November se shuru ho raha hai, Gold tier mein 8 aur Silver tier mein 12 teams ke saath. Opening round mein Babar Azam Lahore Whites ki taraf se Shaheen Shah Afridi ki FATA ke khilaf Diamond Cricket Ground, Islamabad mein khelenge.",
-      "title": "Quaid-e-Azam Trophy aaj se — Babar vs Shaheen opening round mein",
-      "url": "https://sports.247news.pk/quaid-e-azam-trophy-2026-27-set-to-begin-on-november-3-babar-and-shaheen-to-feature/"
+      "summary": "Pakistan Stock Exchange mein Tuesday ko bullish session raha — KSE-100 Index 1,454.80 points (0.87%) barh kar 168,018.86 par band hua. Topline Securities ke mutabiq US-Iran talks ki umeed par crude sasta hua, jis se investor sentiment behtar hua; rupee bhi halka mazboot ho kar Rs 276.71 par aa gaya.",
+      "title": "PSX mein tezi — KSE-100 1,455 points barh kar 168,018 par band",
+      "url": "https://www.brecorder.com/news/40447178/psx-kse-100-settles-above-168000-amid-optimism-over-us-iran-talks"
     }
   ]
 }
