@@ -1,86 +1,86 @@
 {
   "poll": {
-    "q": "Aaj ki sab se bari khabar kaun si hai — khala se AI poem, Fa'az missile, ya petrol ki doosri kami?",
+    "q": "Aaj ki sab se bari khabar kaun si hai — united opposition, Google ka school AI band, ya Maryam ka Rs5bn notice?",
     "options": [
-      "🛰️ Google ka khala se AI poem — future yahin hai",
-      "🚀 Fa'az missile test — apna hathiyar, apni taqat",
-      "⛽ Petrol phir sasta — seedha faida aam aadmi ko",
-      "🏏 Tri-series jeet + jurmana — jeet bhi, sabak bhi"
+      "🏛️ United opposition — KP emergency ke baad ek awaaz",
+      "🎓 Google ne bachon ka AI band kiya — school control wapas",
+      "⚖️ Maryam ka Rs5bn notice — saboot lao warna adalat",
+      "⚽ SAFF mein Pak vs India — Thursday ko bara match"
     ]
   },
   "stories": {
-    "https://www.businesstoday.in/technology/news/story/googles-ai-satellite-sends-first-poem-from-space-using-onboard-chip-heres-how-it-worked-565155-2026-11-04": {
-      "what": "Google ke Suncatcher satellite ne khala mein TPU par Gemma 4 chala kar pehla AI haiku zameen par bheja; sirf 1 kW power par ek chip 20 minute chalta hai.",
-      "why": "AI ko chahiye bijli aur cooling — zameen par dono mehngi hoti ja rahi hain, is liye Google dekh raha hai ke kya compute khala mein sasta aur solar-powered ho sakta hai.",
-      "next": "2027 mein laser links wale do satellites batayenge ke ye sirf demo tha ya asal infrastructure ki shuruat.",
-      "take": "Meri take: haiku sunne mein pyara lagta hai, lekin asal kahani bijli hai. Jo company AI ki power problem ko pehle hal karegi, wohi agle 10 saal jeetegi — chahe woh zameen par ho ya khala mein. Bas ek baat: khala mein data centre banana aasan nahi, 1,800 Starship flights wali estimate yaad rakhna."
+    "https://www.gmanetwork.com/news/scitech/technology/1008334/google-turns-off-ai-for-schoolchildren-by-default/story/": {
+      "what": "Google ne K-12 student accounts par Gemini aur Search ke AI features default par band kar diye — ab school admin khud on karega, tab hi bachon ko milega.",
+      "why": "150 million students Google Classroom use karte hain, aur senators ne poocha tha ke bachon ke devices par AI default on kyun hai jabke schools abhi policy par behas kar rahe hain.",
+      "next": "Dekhna ye hai ke US ke baad dunya bhar mein rollout kab hota hai, aur kya doosri companies (Microsoft, OpenAI) bhi school accounts par default off karengi.",
+      "take": "Meri take: ye faisla dair se aaya lekin sahi aaya. Bachon par AI thopna aur unhe AI ke baare mein sikhana do alag cheezein hain. Lekin Google ka ye kehna ke 'AI ban karo to Search bhi gaya' ek warning bhi hai — jab ek company ke paas classroom aur search dono hon, to us ki 'choice' bhi us ki shartein par milti hai."
     },
-    "https://www.reuters.com/business/openai-employees-warned-about-operational-security-lapses-years-sources-say-2026-11-03/": {
-      "what": "Reuters ke mutabiq OpenAI ke employees saalon se keh rahe the ke internal security kamzor hai — code ek monorepo mein, info aasani se accessible; October mein recording device milne ke baad company ne engineers security par laga diye.",
-      "why": "AI race mein speed sab kuch ban gayi hai — jab tezi hi strategy ho, to security pehle qurban hoti hai, aur ye sirf OpenAI ka masla nahi.",
-      "next": "OpenAI ka 'next internal security sprint' aur Anthropic ke hack ke baad AI labs par security audit ka pressure barhega.",
-      "take": "Meri take: ye report is liye zaroori hai ke ye kisi bahar ke hacker ki kahani nahi, andar ke logon ki warning hai jo ignore hui. Jab company ke apne log keh rahe hon ke darwaza khula hai, to us par action na lena laaparwahi nahi, choice hai — aur ab ye choice sab ke saamne hai."
+    "https://startupfortune.com/tencent-launches-hunyuan-hy4-with-vision-and-the-ability-to-click-through-apps/": {
+      "what": "Tencent ka Hy4 ab screen dekh sakta hai aur computer khud operate kar sakta hai — 770B parameters, Blender/CAD jaise professional tools par trained, API se live.",
+      "why": "AI ki agle stage sirf jawab dena nahi, kaam karna hai — jo model screen par click kar sakta hai, wo office ka kaam seedha kar sakta hai, bina insaan ke beech mein.",
+      "next": "Weights kab release honge ye sab se bara sawal hai — jab tak weights nahi, koi bahar wala is ke benchmarks khud verify nahi kar sakta.",
+      "take": "Meri take: Hy4 ki kahani doosri hai — ek taraf computer-use ka darwaza khul gaya, doosri taraf Tencent ne apna open playbook khud tor diya. Jab company apne weights chhupaye, to samajh jao ke model ab sirf research nahi, hathiyar ban gaya hai. Aur hallucination 5.45% bhi tab maano jab koi bahar wala khud test kare."
     },
-    "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/": {
-      "what": "NYT aur 3 aur akhbaron ne Brave par case kiya — 30 billion pages ka index, AI companies ko content bechna, aur paywall bypass ka ilzaam.",
-      "why": "AI ki training aur answers ke liye content chahiye, aur content banane walon ko us ki qeemat chahiye — ye jang ab browser tak pahunch gayi hai, sirf chatbot tak nahi.",
-      "next": "Court ka faisla batayega ke search index banana copyright violation hai ya fair use — poori AI industry is case ko dekh rahi hai.",
-      "take": "Meri take: Brave ne apni pehchan privacy wale browser ki banayi thi, aur ab us par 'chor' ka label lag raha hai — ye irony hai. Sach ye hai ke AI ki poori economy kisi aur ke content par khari hai, aur ye case us hisab ki pehli qist hai, aakhri nahi."
+    "https://interestingengineering.com/ai-robotics/anthropic-first-3d-bacterial-vault-map": {
+      "what": "Anthropic ne Claude ke saath bacteria se mutaliq vault particle ki pehli 3D structure banayi — 96 copies ka L05 protein shell, 34 ghante mein pehla model, purification 3 din se 90 minute par.",
+      "why": "Vaults 40 saal se mystery hain — insan ke cells mein sab se bara protein structure, lekin kaam maloom nahi. Bacteria mein milne se scientists ko ek sasta, simple system mil gaya hai study ke liye.",
+      "next": "BioRxiv preprint aur data release ke baad independent labs is structure ko verify karenge — aur asal sawal (vault karta kya hai) abhi bhi khula hai.",
+      "take": "Meri take: ye khabar is liye khaas hai ke is mein AI ki tareef ke saath us ki ghalti bhi likhi hai — ek ghalat map, do haftay ki delay. Jo AI lab apni ghaltiyan bhi report kare, us par bharosa zyada banta hai. Aur ye bhi yaad rakhna: AI ne structure dhoonda hai, us ka matlab abhi bhi insaan ko dhoondna hai."
     },
-    "https://www.techtimes.com/articles/329925/20261103/meituan-releases-longcat-25-chinese-chips-benchmark-claims-await-independent-tests.htm": {
-      "what": "Meituan ka LongCat-2.5 — 1.6T parameters, 48B active per token, domestic Chinese chips par trained, company ke benchmarks ke mutabiq Claude Opus 4.8-5 ke darmiyan.",
-      "why": "US export controls ne China ko Nvidia chips se door rakha, to China ne architecture se jawab diya — MoE mein sirf chhota hissa chalta hai, is liye kamzor chip bhi kaam aa gayi.",
-      "next": "Independent benchmarks batayenge ke ye model waqai frontier ke qareeb hai ya sirf company ki marketing table hai.",
-      "take": "Meri take: khana deliver karne wali company ab frontier AI bana rahi hai — ye line apne aap mein batati hai ke AI ki race mein koi bhi peeche nahi rehna chahta. Lekin jab tak bahar ke testers ye model khud na chalayein, is ke numbers ko khushkhabri nahi, daawa samjho."
+    "https://www.tradingview.com/news/business_wire:d044a51b6fcc7:0-crowdstrike-unveils-agentic-adversary-emulation-on-the-falcon-platform-to-identify-and-close-exploitable-attack-paths/": {
+      "what": "CrowdStrike ka Red Tempest AI ab customer ke system par khud hacker ban kar hamla karta hai — kamzoriyon ko chain kar ke critical assets tak pahuncha, phir fix karke dobara test karta hai.",
+      "why": "Ab hamlaawar bhi AI agents chala rahe hain — ek agent ne sirf ek vulnerability se 726 databases nikaal liye. Saal mein ek baar ka pen test is speed ka muqabla nahi kar sakta.",
+      "next": "Early access se general availability tak ye batayega ke automated red teaming ek premium feature rehta hai ya har company ki basic security ban jata hai.",
+      "take": "Meri take: ye wo waqt hai jab defender ko attacker ki naqal karni par rahi hai — aur ye theek hai. Lekin ek sawal mat bhoolo: jo AI aap ke system par hamla karna seekh rahi hai, wo seekh kahan ja rahi hai? Offensive AI ka data bhi utna hi sensitive hai jitna wo system jis ki hifazat ho rahi hai."
     },
-    "https://www.reuters.com/business/openai-taps-former-us-army-secretary-dan-driscoll-national-security-role-2026-11-03/": {
-      "what": "OpenAI ne ex-Army Secretary Dan Driscoll ko national security modernization ka senior counselor banaya; wo batayenge ke AI defence aur cybersecurity mein kaise use ho.",
-      "why": "AI ab sirf product nahi, strategic asset hai — is liye AI companies seedha Pentagon aur governments ke saath baith rahi hain.",
-      "next": "Dekhna ye hai ke ye role sirf advisory rahega ya OpenAI ke defence contracts ka darwaza kholega.",
-      "take": "Meri take: jab ek AI company apne boardroom mein general bitha le, to samajh jao ke AI ki larai ab sirf market share ki nahi rahi. Ye theek bhi hai aur thoda darawna bhi — technology jitni taqatwar hoti hai, utni hi us ke faislay siyasat ke qareeb aa jate hain."
+    "https://www.unite.ai/salesforce-agrees-to-buy-cresta-for-voice-led-customer-service-ai/": {
+      "what": "Salesforce ne Cresta khareedne ka agreement kiya — voice AI agents jo customer calls end-to-end handle karte hain, plus live human agents ko real-time coaching.",
+      "why": "Chat to AI ne jeet liya, ab bari phone ki hai — customer service ka sab se mushkil channel voice hai, aur jo isay jeetega wo enterprise AI ka agla darwaza kholega.",
+      "next": "Deal Feb-Apr 2027 mein close hogi (regulatory approval ke baad) — tab pata chalega ke Cresta Service Cloud mein ghul jata hai ya apni pehchan rakhta hai.",
+      "take": "Meri take: $2.7 billion ki reported qeemat batati hai ke voice AI ab side feature nahi, core business hai. Lekin Pakistani users ke liye asal sawal ye hai: jab aap call karenge to samne insaan hoga ya AI? Aur agar AI hai to kya aap ko bataya jayega? Transparency is deal ki sab se bara test hogi."
     },
-    "https://epaper.chinadaily.com.cn/a/202611/04/WS6aea80ebe4b07a432ddc9eac.html": {
-      "what": "China ne 2026-30 plan mein 'AI Plus' ko gehra karne ka elaan kiya — AI har industry mein, pilot projects se nikal kar coordinated use tak.",
-      "why": "China ke liye AI sirf tech sector nahi, poori economy ka engine hai — jab state khud plan banaye, to adoption speed alag hoti hai.",
-      "next": "Agli reports batayengi ke ye plan manufacturing aur services mein kitni tezi se nazar aata hai.",
-      "take": "Meri take: hum aksar AI ko chatbot samajhte hain, China is ko factory, farm aur hospital ka hissa bana raha hai. Ye farq yaad rakhna — jo mulk AI ko sirf app samjhega, wo peeche reh jayega; jo is ko infrastructure samjhega, wo aage nikal jayega."
+    "https://forklog.com/en/china-to-fast-track-ai-law-calls-on-developers-to-disclose-incidents/": {
+      "what": "China ne ek comprehensive AI law ki tayyari tez kar di — poori lifecycle par safety standards, risk disclosure aur incident reporting, DeepSeek/Moonshot/Alibaba scope mein.",
+      "why": "China ke paas ab 700 million se zyada AI users hain — jab itne log ek technology use karein, to qanoon banana option nahi, zaroorat ban jata hai.",
+      "next": "Draft text aur deadline abhi nahi aayi — asal test ye hoga ke qanoon innovation ko rokta hai ya sirf guardrail lagata hai.",
+      "take": "Meri take: dilchasp baat ye hai ke China apne hi champions ko regulate kar raha hai — DeepSeek aur Alibaba ko bhi wahi rules jinhay wo dunya par lagana chahta hai. Jo mulk AI ke rules pehle likhega, wo agle 10 saal ki race ki shakal bhi tay karega. Pakistan ke liye sabak: rules tab banao jab technology aaye, us ke baad nahi."
     },
-    "https://www.brecorder.com/news/amp/40447233": {
-      "what": "Petrol Rs 5.45 kami ke baad Rs 369.06 aur diesel Rs 3.68 kami ke baad Rs 391.52, aaj 4 November se — haftay mein doosri kami.",
-      "why": "Global crude 2% gir kar 3 haftay ki low par aaya, is liye hukumat ko relief dene ki gunjaish mili — aur petrol levy par JI se baat cheet bhi chal rahi hai.",
-      "next": "Agle fortnight ki review batayegi ke ye silsila jaari rehta hai ya crude wapas upar jata hai.",
-      "take": "Meri take: do din mein do kami achi lagti hai, lekin ye yaad rakhna ke ye relief crude ki qeemat se aaya hai, kisi permanent policy se nahi. Jab tak levy Rs 80 per litre hai, petrol ki asal qeemat ka aadha bojh wahi hai — kami ka shukrana ada karo, lekin is ko sasta petrol samajhna jaldi hogi."
+    "https://www.dawn.com/news/2042114/united-opposition-gathers-at-fazls-islamabad-residence-to-discuss-kp-situation-other-matters": {
+      "what": "Opposition leaders Fazlur Rehman ke ghar jama hue — alliance aur parliamentary coordination mazboot karne, committees banane aur multiparty conference ki mashawarat par ittefaq.",
+      "why": "KP mein emergency aur governor's rule ke baad opposition ke paas parliament ke andar ek awaaz banana ke ilawa koi rasta nahi bacha — bikhri hui opposition ka koi wazan nahi hota.",
+      "next": "MPC ki date aur Charter of Democracy ka draft batayega ke ye ittehad sirf mulaqat hai ya koi joint roadmap bhi ban raha hai.",
+      "take": "Meri take: opposition ka ek kamre mein baithna khabar hai, lekin ye pehli dafa nahi ho raha. Asal test ye hai ke kya ye log apne ikhtilafat (jo committees ko diye gaye hain) hal kar sakte hain — kyun ke Pakistan mein opposition ittehad aksar ek photo-op tak mehdood rehta hai, aur photo-op se koi hukumat nahi girti."
     },
-    "https://www.dawn.com/news/2041885": {
-      "what": "Pakistan ne pehla apna air-to-air missile Fa'az ka kamyab test kiya — JF-17 se launch, advanced terminal guidance, lambi range.",
-      "why": "Apna missile banana sirf defence nahi, self-reliance ka signal hai — jo mulk apna hathiyar khud banata hai, wo kisi aur ki marzi ka mohtaj nahi rehta.",
-      "next": "Induction timeline aur asli range abhi disclose nahi hui — wo details batayengi ke ye test kitna operational hai.",
-      "take": "Meri take: ye khabar is liye khaas hai ke ye kisi imported system ki khareed nahi, apne engineers ki mehnat hai. Haan, range aur specs chhupana samajh aata hai, lekin awaam ko ye bhi batana chahiye ke is kaam ke peeche kitne saal ki research thi — taake naujawan engineers ko rasta nazar aaye, sirf headline nahi."
+    "https://www.theweek.in/wire-updates/international/2026/11/03/peshawar-high-court-refers-petitions-challenging-detention-of-former-kpk-cm-afridi-to-chief-justice.html": {
+      "what": "Peshawar High Court ne Afridi aur doosre PTI leaders ki detention ke khilaf petitions larger bench ko refer kar di — leaders 11 October se laapata, 200+ MPO cases darj.",
+      "why": "Jab ek former CM ki whereabouts par adalat ko bhi report na mile, to ye sirf ek shakhs ka case nahi rehta — ye adalat ke apne orders ki implementation ka sawal ban jata hai.",
+      "next": "Larger bench ka faisla aur government ki report batayengi ke ye leaders protective custody mein hain ya MPO detention mein — aur kab tak.",
+      "take": "Meri take: sab se pareshan kun line ye hai ke adalat ki 10 din ki deadline guzar gayi aur report phir bhi nahi aayi. Adalat ka hukm agar sirf kagaz par rahe to wo adalat nahi, mashwara ban jata hai. Is case par nazar rakhna — is ka natija KP ke har detention case ke liye precedent banega."
     },
-    "https://www.dawn.com/news/2041809": {
-      "what": "Mohmand mein polio duty par jaate 2 policemen shaheed, 1 zakhmi; Tank mein 4 polio workers aghwa — 24 million bachon ki campaign ke dauran.",
-      "why": "Polio workers par hamla sirf ek team par hamla nahi, poori campaign par hamla hai — ek din ki rukawat bhi hazaaron bachon ko risk mein daal deti hai.",
-      "next": "Tank ke workers ki recovery aur campaign ki security arrangements par sab ki nazar rahegi.",
-      "take": "Meri take: jo log bachon ko qatre pilane ja rahe hain, un par goli chalana na siyasat hai, na mazhab hai — ye seedha zulm hai. Polio ki larai mein sab se bara dushman virus nahi, ye khauf hai jo workers ko rokta hai. In shaheedon ka naam yaad rakhna chahiye, sirf number nahi."
+    "https://www.dawn.com/news/2041984": {
+      "what": "SAFF Championship aaj Dhaka mein shuru — Pakistan ka pehla match Thursday ko India se, Solano ka target semi-final, diaspora players shuru mein nahi.",
+      "why": "Pakistan football ke liye ye tournament sirf trophy nahi — ye test hai ke local talent, bina overseas players ke, regional level par kahan khara hai.",
+      "next": "India aur Maldives ke khilaf do matches hi decide karenge ke Pakistan last four mein jata hai ya group stage se wapas aata hai.",
+      "take": "Meri take: Solano ka 'no excuses' kehna achha lagta hai, lekin sach ye hai ke bina diaspora players ke team kamzor zaroor hai. Phir bhi — India ke khilaf match mein motivation ki kami nahi hoti. Agar local boys is pressure mein perform kar gaye, to ye Pakistan football ke liye sirf jeet nahi, ek naya confidence hoga."
     },
-    "https://www.dawn.com/news/2041745": {
-      "what": "Pakistan ne tri-series final jeeta (Fakhar 127, 326 chase) lekin slow over-rate par 5% match fee jurmana bhi laga; Shaheen ne ghalti maan li.",
-      "why": "Over-rate ka rule boring lagta hai, lekin ye game ki discipline hai — jeet ke saath bhi rule sab par barabar lagta hai.",
-      "next": "Quaid Trophy ke opening round mein Babar aur Shaheen ki form par nazar rahegi, Sri Lanka Tests se pehle.",
-      "take": "Meri take: trophy jeetna mubarak hai, lekin jurmana bhi ek yaad dilaata hai ke jeetna hi kaafi nahi, tareeqe se jeetna bhi zaroori hai. Fakhar ka 127 is final ki asal kahani hai — jab team early collapse ke baad bhi wapas aaye, to wohi champion wali nishani hai."
+    "https://www.dawn.com/news/2041988": {
+      "what": "Shaheens ka Asia Cup Rising Stars squad announce — captain Abdul Samad, Maaz Sadaqat aur Hasan Nawaz bhi shamil, title defence Qatar mein 20 November se.",
+      "why": "Rising Stars jaise tournaments hi wo seedhi hai jahan se agle senior players aate hain — Maaz aur Hasan is ki zinda misaal hain, senior side mein jagah bana chuke.",
+      "next": "India A ke khilaf 22 November ka match group ka sab se bara test hoga — aur final 29 November ko.",
+      "take": "Meri take: Shaheens ka system kaam kar raha hai — jo larke yahan chamakte hain, wo seedha senior team mein jate hain. Lekin ye bhi yaad rakhna ke Maaz jese players ko senior aur Shaheens dono mein khilana workload ka masla ban sakta hai. Trophy jeetna acha hai, larke ko thakana nahi."
     },
-    "https://www.dawn.com/news/2041875": {
-      "what": "Balochistan ke Kachhi aur Kharan mein 2 IBOs mein 17 dehshatgard halak, Sanni mein roadblock ki koshish nakaam; Sepoy Hikmatullah shaheed.",
-      "why": "Balochistan mein dehshatgardi ka pattern roadblock aur hideout dono se chalta hai — is liye operations bhi dono jagah ek saath hue.",
-      "next": "Sanitisation operations ke baad pata chalega ke ye network kitna kamzor hua ya sirf ek hissa kata gaya.",
-      "take": "Meri take: 17 ka number headline ban jata hai, lekin ek shaheed ka naam us se zyada bhaari hai. Security operations ki kamyabi sirf halakaton se nahi naapi jaani chahiye — asal sawal ye hai ke jo log in ko bhej rahe hain, un tak kab pahuncha jayega."
+    "https://www.dawn.com/news/2041979": {
+      "what": "Yellow Line case mein final charge sheet manzoor — Zameer Abbasi aur ex-directors par Rs8.5bn advance payments baghair bank guarantee ka ilzaam, 2 farar directors ke warrant.",
+      "why": "Karachi ka BRT project saalon se atka hua hai aur is case mein paisa advance mein de diya gaya — ye sirf corruption ka case nahi, Karachi ke commuters ka case hai.",
+      "next": "23 November ki hearing batayegi ke trial kitni tezi se aage barhta hai — aur kya farar directors giraftar hote hain ya nahi.",
+      "take": "Meri take: Rs8.5 billion advance, baghair guarantee, baghair clause — ye number sun kar hairani nahi hoti, afsos hota hai. Kyun ke ye paisa kisi file ka nahi, Karachi ke us shehri ka hai jo roz ghanton traffic mein phansa rehta hai. Charge sheet manzoor hona pehla qadam hai, aakhri nahi — asal insaf tab hoga jab paisa wapas aaye ya zimmedar saza paye."
     },
-    "https://www.brecorder.com/news/40447178/psx-kse-100-settles-above-168000-amid-optimism-over-us-iran-talks": {
-      "what": "KSE-100 Tuesday ko 1,454.80 points barh kar 168,018.86 par band — US-Iran talks ki umeed par crude sasta, investor sentiment behtar; rupee Rs 276.71.",
-      "why": "Pakistan ki market ka mood ab sirf local numbers se nahi, global siyasat se banta hai — oil sasta ho to import bill, inflation aur market teeno ko rahat milti hai.",
-      "next": "US midterms aur Iran talks ka natija batayega ke ye rally tikti hai ya sirf ek din ki khushi thi.",
-      "take": "Meri take: 1,455 points ki tezi dekh kar fomo mein mat aao — analysts khud keh rahe hain ke ye recovery headline-driven hai, aur koi bhi kharab khabar is ko wapas le ja sakti hai. Market mein paisa wahi bachata hai jo khabar par nahi, company ke fundamentals par khareedta hai."
+    "https://www.dawn.com/news/2041953/cm-maryam-sends-rs5bn-defamation-notice-to-minister": {
+      "what": "CM Maryam ne federal minister Salik Hussain ko Rs5bn defamation notice bheja — TV par Punjab mein corruption ke ilzamat par, 7 din mein maafi ya adalat.",
+      "why": "Ye case sirf do siyasatdanon ki larai nahi — ye sawal hai ke ek minister ke ilzamat par saboot mangna theek hai ya dhamki, aur media par ilzaam lagana kitna mehfooz hai.",
+      "next": "7 din ki deadline mein Salik maafi mangte hain, saboot dete hain, ya case adalat mein jata hai — aur Khawaja Asif ka bayan bhi is kahani ko aage barha raha hai.",
+      "take": "Meri take: Maryam ka 'saboot lao warna adalat' wala stance usooli tor par theek hai — ilzaam baghair saboot ke nahi lagna chahiye, chahe lagane wala minister hi kyun na ho. Lekin ye bhi sach hai ke Rs5bn ka notice ek taqatwar signal hai — chhote log isay dekh kar sochenge ke hukumat par tanqeed mehngi par sakti hai. Tanqeed aur ilzaam mein farq hona chahiye, aur ye farq adalat mein hi tay hoga."
     }
   },
-  "mood": "🛰️ Khala se AI poem, 🚀 Fa'az ka test, ⛽ petrol mein doosri rahat — aaj tech mein wonder, Pakistan mein garma-garmi."
+  "mood": "🏛️ Opposition ek table par, 🎓 bachon ka AI off, ⚖️ Rs5bn ka notice — aaj siyasat garam, tech mein bari tabdeeli."
 }
