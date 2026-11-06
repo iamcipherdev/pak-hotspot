@@ -1,79 +1,73 @@
 {
-  "updated_at": "2026-11-05T06:59:23+05:00",
+  "updated_at": "2026-11-06T07:00:04+05:00",
   "tech": [
     {
-      "source": "GMA News",
-      "summary": "Google ne elaan kiya hai ke K-12 student accounts par Gemini, Gemini Notebook, Gemini in Classroom aur Search ke AI features default par band rahenge, jab tak school admin unhe khud on na kare. Ye tabdeeli dunya bhar mein laagu hogi, pehle US se shuru ho kar. Tanqeed ye thi ke Google ne bachon par AI features default on kar diye the jabke schools abhi ye behas kar rahe hain ke classroom mein AI kaise use ho. Google ka kehna hai ke Search aur AI ab itne jud gaye hain ke agar school AI ban kare to students ko Search bhi nahi milega.",
-      "title": "Google ne bachon ke liye AI default par band kar di — school admins ko control wapas",
-      "url": "https://www.gmanetwork.com/news/scitech/technology/1008334/google-turns-off-ai-for-schoolchildren-by-default/story/"
+      "source": "Reuters",
+      "summary": "OpenAI ne 5 November ko GPT-6 Cyber launch kiya — ek aisa model jo software ki kamzoriyan dhoond kar un ke working exploits bhi bana sakta hai. Is ne Firefox mein 81 pehle se unknown high-severity flaws dhoonde aur Linux kernel ki 1,724 vulnerabilities reproduce kar ke 948 ke exploits banaye. ExploitGym benchmark par is ka score 48.5% hai (GPT-5.6 Cyber ka 32.1%). OpenAI ne isay apne safety framework mein 'Critical' — sab se oonchi cybersecurity rating — di hai. Access sirf Daybreak Red ke approved customers ko milega, API aur Codex se.",
+      "title": "OpenAI ka GPT-6 Cyber — hacking seekhne wala AI, lekin sirf vetted defenders ko milega",
+      "url": "https://www.reuters.com/technology/openai-launches-gpt-6-cyber-with-critical-cybersecurity-rating-2026-11-05/"
     },
     {
-      "source": "Startup Fortune",
-      "summary": "Tencent ne 4 November ko Hunyuan Hy4 ka full version launch kiya — 770 billion parameters wala mixture-of-experts model jo pehli dafa images samajh sakta hai aur command line ya graphical interface se computer operate kar sakta hai. Training mein office tasks, financial analysis aur Blender/CAD jaise software par focus raha. Lekin weights abhi download ke liye nahi diye gaye — sirf API (TokenHub, OpenRouter, WorkBuddy/CodeBuddy) se mil raha hai, 4-15 November tak free quota ke saath. Company ke apne benchmarks ke mutabiq hallucination rate 15.76% se gir kar 5.45% hua hai, lekin independent testing abhi baqi hai.",
-      "title": "Tencent ka Hy4 ab screen dekh kar computer chala sakta hai — lekin weights abhi nahi mile",
-      "url": "https://startupfortune.com/tencent-launches-hunyuan-hy4-with-vision-and-the-ability-to-click-through-apps/"
+      "source": "Reuters",
+      "summary": "Anthropic ne 5 November ko Claude mein Personal Finance beta launch kiya — users apne bank aur card accounts Plaid ke zariye link kar ke pooch sakte hain 'mera paisa is mahine kahan gaya?' ya 'kya main trip afford kar sakta hoon?' Access poori tarah read-only hai: Claude paisa move, manage ya invest nahi kar sakta, aur investment advice dene ke liye bhi design nahi hai. Beta sirf US mein Pro, Max aur Ultra plans par hai, 16 banks tak link ho sakte hain, 24 mahine ki transactions parh sakta hai — aur is mein na ads hain, na sponsored recommendations, aur ye chats models ko train karne ke liye use nahi hongi.",
+      "title": "Claude ab aap ka bank parh sakta hai — dekh sakta hai, chhoo nahi sakta",
+      "url": "https://www.reuters.com/business/anthropic-rolls-out-personal-finance-feature-claude-2026-11-05/"
     },
     {
-      "source": "Interesting Engineering",
-      "summary": "Anthropic ki biology team ne Claude ki madad se pehli dafa bacteria se mutaliq vault particle ki 3D structure map ki hai — ek bacteriophage se liya gaya L05 protein jo 96 copies mein mil kar ek khaali barrel jaisa shell banata hai, taqreeban 54 x 45 nanometers aur 9.5 megadaltons. Team ne 15 billion predicted proteins mein se 44 candidates test kiye; 7 ne vault jaisi shakal banayi, 4 ki cryo-EM se tasdeeq hui. Claude ne protein search, DNA design, purification (3 din se 90 minute tak) aur microscopy analysis mein madad ki — pehla poora model 34 ghante mein bana. Lekin vault ka asal kaam abhi bhi maloom nahi, aur ye kaam preprint stage par hai.",
-      "title": "Claude ne bacteria ki duniya ka pehla 3D vault map kar diya — 96 protein copies ka khaali shell",
-      "url": "https://interestingengineering.com/ai-robotics/anthropic-first-3d-bacterial-vault-map"
+      "source": "Google Blog",
+      "summary": "Google ne Gemini Omni 1.2 Flash generally available kar diya — Gemini API aur Gemini for business par. Ab native video clips 10 ki bajaye 15 second tak ban sakte hain, multi-turn conversational editing se ek hi clip ko baat cheet mein edit kiya ja sakta hai, aur reference images (character, product, style) pehle se behtar follow hoti hain. Qeemat 30% kam kar ke 720p video ke liye $0.07 per second kar di gayi hai. Har output par SynthID watermark bhi lagta hai. Ye pehli dafa hai ke koi Gemini Omni model generally available hua hai.",
+      "title": "Google ka Gemini Omni 1.2 Flash — ab 15 second ki AI video, 30% sasti",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
     },
     {
-      "source": "Business Wire",
-      "summary": "CrowdStrike ne Fal.Con Europe mein Agentic Adversary Emulation launch kiya hai — SafeMind models par bana Red Tempest naam ka offensive AI jo customer ke environment mein hazaaron steps chala kar kamzoriyon ko ek exploitable attack path mein jorta hai, phir fix ki sifarish karta hai aur hamla dobara chala kar prove karta hai ke rasta band ho gaya. Company ki report ke mutabiq ek AI agent ne sirf ek vulnerability se cluster-admin access le kar 726 databases nikaal liye the, bina kisi insaan ke. Ye feature abhi sirf early access mein hai, select customers ke liye.",
-      "title": "CrowdStrike ka AI ab hacker ban kar apne hi customers par hamla karega — phir fix bhi prove karega",
-      "url": "https://www.tradingview.com/news/business_wire:d044a51b6fcc7:0-crowdstrike-unveils-agentic-adversary-emulation-on-the-falcon-platform-to-identify-and-close-exploitable-attack-paths/"
+      "source": "The Decoder",
+      "summary": "Baidu ne 5 November ko ERNIE 5.5 Flash Base ke weights open kar diye — 280 billion parameters wala mixture-of-experts model jo har token par sirf 14 billion parameters activate karta hai. Ye 33.5 trillion tokens par train hua hai aur 1 million tokens tak ka context support karta hai. Weights Hugging Face par FP8 aur BF16 mein mil rahe hain, vLLM aur SGLang support ke saath. Lekin ye sirf ek raw base model hai — na fine-tuning, na post-training — aur is ki custom license EU, UK aur South Korea mein use ki ijazat nahi deti. Baidu ka kehna hai ke post-trained version jald aayega.",
+      "title": "Baidu ne ERNIE 5.5 Flash khol diya — 280 billion parameters, lekin shartein bhi sakht",
+      "url": "https://the-decoder.com/baidu-releases-ernie-5-5-flash-base-with-280-billion-parameters-as-an-open-source-foundation-model/"
     },
     {
-      "source": "Unite.AI",
-      "summary": "Salesforce ne 2 November ko Cresta khareedne ka definitive agreement sign kiya hai — ye voice-first platform hai jo customer service calls end-to-end AI agents se handle karta hai, live calls mein human representatives ko real-time guidance deta hai, aur har conversation ka analysis karta hai. Marriott, Comcast aur Alaska Airlines jaise brands isay enterprise scale par use kar rahe hain. Deal Salesforce ke fiscal Q1 2028 (Feb-Apr 2027) mein close hone ki umeed hai, regulatory approval ke baad; Salesforce ne qeemat disclose nahi ki, lekin The Information ne $2.7 billion report kiya hai.",
-      "title": "Salesforce ne Cresta khareed li — ab customer calls bhi AI voice agents uthayenge",
-      "url": "https://www.unite.ai/salesforce-agrees-to-buy-cresta-for-voice-led-customer-service-ai/"
-    },
-    {
-      "source": "ForkLog",
-      "summary": "China ke top economic planner NDRC ne 3 November ko elaan kiya ke wo ek basic, comprehensive AI law ki tayyari tez karega jo AI ki poori lifecycle — data, computing power, algorithms aur deployment — par safety standards aur ethical guidelines lagayega. Developers aur operators ko safety risks disclose karne aur incidents aur vulnerabilities report karne honge, transition period aur sector-wise regulatory sandboxes ke saath. DeepSeek, Moonshot aur Alibaba ke Qwen models ko frontline developers ke tor par naam diya gaya. Abhi na draft hai, na koi deadline — ye sirf legislative planning phase hai.",
-      "title": "China ne AI ke liye ek bara qanoon fast-track kar diya — DeepSeek, Moonshot, Alibaba sab scope mein",
-      "url": "https://forklog.com/en/china-to-fast-track-ai-law-calls-on-developers-to-disclose-incidents/"
+      "source": "TechRepublic",
+      "summary": "OpenAI ne 4 November ko Images 2.6 launch kiya — ChatGPT, Codex aur API par. Ab users text prompt ya photo se animated GIF bana sakte hain, us ki speed badal sakte hain aur frame by frame edit kar sakte hain. Image generation 50% tez hone ka daawa hai, aur saved reference images ko @ se dobara use kiya ja sakta hai. API ke liye do models hain — tez Flare (low quality par 6 second mein image) aur detail-oriented Sunburst. Company ke mutabiq ChatGPT, Codex aur API par har hafte 4 billion se zyada images ban rahi hain.",
+      "title": "ChatGPT Images 2.6 — ab photos se GIF banao, aur image 50% tez bane",
+      "url": "https://www.techrepublic.com/article/news-chatgpt-images-2-6-gif-creation/"
     }
   ],
   "pakistan": [
     {
       "source": "Dawn",
-      "summary": "Opposition leaders ne budh ko Islamabad mein JUI-F chief Maulana Fazlur Rehman ki rehaishgah par mulaqat ki aur apna alliance aur parliamentary coordination mazboot karne par ittefaq kiya. JUI-F aur TTAP ne ikhtilafat door karne ke liye committees banane aur multiparty conference (MPC) ki mashawarat aage barhane ka faisla kiya. Mulaqat mein KP mein emergency aur governor's rule par bhi baat hui; PTI ne Imran Khan ki sehat par tashweesh zahir ki, daawa kiya ke un ka blood pressure 192 tak pahunch gaya hai aur Shifa International Hospital transfer ka mutalba kiya.",
-      "title": "'United opposition' Fazl ke ghar jama — KP emergency aur multiparty conference par ittefaq",
-      "url": "https://www.dawn.com/news/2042114/united-opposition-gathers-at-fazls-islamabad-residence-to-discuss-kp-situation-other-matters"
-    },
-    {
-      "source": "The Week",
-      "summary": "Peshawar High Court ne Tuesday ko PTI leaders ki detention ke khilaf petitions chief justice ko refer kar di taake larger bench banaya ja sake. Former KP CM Sohail Afridi, Babar Saleem Swati aur Junaid Akbar 11 October ko governor's rule lagne ke baad se nazar nahi aaye; petitioners ke wakeel ne kaha ke wo protective custody mein hain. Advocate General ne bataya ke Section 3 MPO ke tehat 200 se zyada cases darj hue hain, aur mazeed waqt manga — jabke judge ne yaad dilaya ke adalat ki 10 din ki deadline pehle hi guzar chuki hai.",
-      "title": "Peshawar High Court ne Afridi detention petitions larger bench ko bhej di — 200+ MPO cases ka inkishaf",
-      "url": "https://www.theweek.in/wire-updates/international/2026/11/03/peshawar-high-court-refers-petitions-challenging-detention-of-former-kpk-cm-afridi-to-chief-justice.html"
+      "summary": "Hukumat ne Thursday ko petrol ki qeemat Rs9.41 per litre aur high-speed diesel ki Rs5.56 kam kar di — ye chauthe din musalsal kami hai. Ab petrol Rs352.59 aur diesel Rs382.25 per litre milega, 6 November se. OGRA ke notification ke mutabiq petrol par ab bhi Rs114 aur diesel par Rs100 per litre taxes aur duties lag rahe hain. Kami ke peeche 30 din ka arrangement hai jis mein oil refineries petroleum levy ka Rs15 billion ka bojh khud utha rahi hain. July se fuel prices daily basis par fix ho rahi hain.",
+      "title": "Petrol phir sasta — Rs9.41 kami, chauthe din musalsal relief",
+      "url": "https://www.dawn.com/news/2042367/petrol-price-slashed-by-rs941-per-litre-high-speed-diesel-by-rs556"
     },
     {
       "source": "Dawn",
-      "summary": "Pakistan football head coach Nolberto Solano ne SAFF Championship ke semi-final tak pahunchne ka target rakha hai — tournament 5 se 17 November tak Dhaka mein ho raha hai, aur Pakistan Group B mein India aur Maldives ke saath hai. Solano ne India ke khilaf Thursday ke match ko 'final' qarar diya, Peru-Chile rivalry se compare kiya, aur kaha ke diaspora players FIFA window se bahar hone ki wajah se shuru mein nahi honge — lekin 'no excuses, we believe in our boys'. Team ki strategy pehle solid defence hai, Thailand se 4-0 haar ke sabak ke baad.",
-      "title": "SAFF Championship aaj se Dhaka mein — Solano ka target semi-final, pehla match India se",
-      "url": "https://www.dawn.com/news/2041984"
+      "summary": "Pakistan Air Force ne Tuesday ko mulk ke pehle indigenously developed air-to-air missile Fa'az ka kamyab flight test kiya — JF-17 fighter jet se launch, video bhi jaari ki gayi. ISPR ke mutabiq missile mein state-of-the-art terminal guidance system hai jo lambi range par hawai ahdaaf ko nishana bana sakta hai. Ye NESCOM ke tehat banaya gaya hai; GIDS ki specifications ke mutabiq is ki range 100km se zyada aur speed Mach 3.5 hai (ISPR ne range ya speed confirm nahi ki). Ye ek mahine mein teesra bara missile test hai — pehle Fatah-2 ER aur Fatah-IV ER test ho chuke hain.",
+      "title": "Pakistan ne apna pehla air-to-air missile Fa'az test kar liya — JF-17 se launch",
+      "url": "https://www.dawn.com/news/2041885"
     },
     {
       "source": "Dawn",
-      "summary": "PCB ne Qatar mein hone wale Asia Cup Rising Stars (50-over) ke liye 15-member Pakistan Shaheens squad ka elaan kar diya hai — captain Abdul Samad, aur Maaz Sadaqat aur Hasan Nawaz bhi shamil, jo abhi senior T20I aur ODI sides mein jagah bana chuke hain. Maaz ne Sri Lanka ke khilaf T20I series mein 96 off 51 ki innings kheli thi. Shaheens 2023 ke 50-over champions hain; campaign 20 November ko UAE ke khilaf shuru hogi, phir 22 ko India A aur 24 ko Nepal se matches hain, final 29 November ko.",
-      "title": "Shaheens ka Asia Cup Rising Stars squad — Maaz aur Hasan bhi shamil, captain Abdul Samad",
-      "url": "https://www.dawn.com/news/2041988"
+      "summary": "Pakistan ne SAFF Championship ke opener mein India ke khilaf 3-2 se haar khayi — Dhaka mein half-time par 3-0 peeche tha, phir stoppage time mein Najeebullah ka header aur Alamgir Ghazi ka shandaar overhead kick score 3-2 kar gaya, lekin equaliser na ho saka. India ke Suhail Ahmad Bhat ne do goals kiye, teesra Manglenthang Kipgen ne. Pakistan ko pehle half mein penalty bhi mili thi jo Shayek Dost ne miss kar di. Ab Pakistan ko semi-final ki umeed zinda rakhne ke liye Sunday 8 November ko Maldives se positive result chahiye.",
+      "title": "SAFF opener mein Pakistan ki India se 3-2 haar — akhri lamhon mein overhead kick bhi kaam na aaya",
+      "url": "https://www.dawn.com/news/2042348"
     },
     {
       "source": "Dawn",
-      "summary": "Karachi ki anti-corruption court ne BRT Yellow Line graft case mein final charge sheet accept kar li hai — prime suspect Zameer Abbasi (grade-19 Sindh officer) aur former Karachi Mobility Project directors par ilzaam hai ke unhon ne bank guarantees ke baghair contractors ko Rs8.5 billion advance payments diye. Special Judge Muhammad Aminullah Siddiqui ne 2 farar ex-directors Tauha Aziz Syed aur Saleem Hussain Bhayo ke non-bailable warrants jaari kiye aur hearing 23 November tak multavi kar di. Abbasi pehle hi Sindh High Court se bail le chuke hain.",
-      "title": "Yellow Line Rs8.5bn case mein final charge sheet manzoor — 2 ex-directors ke naqabil-e-zamanat warrant",
-      "url": "https://www.dawn.com/news/2041979"
+      "summary": "World Bank ki International Debt Report 2026 ke mutabiq Pakistan ka total external debt 2025 tak khatam hone wali dahai mein taqreeban dugna ho kar $135.1 billion tak pahunch gaya. Ye aaj Dawn ki front page khabar hai. Report batati hai ke mulk ne das saal mein kitna bahari qarz liya — aur ye number is waqt samne aaya hai jab hukumat petrol sasta kar ke awam ko relief de rahi hai, lekin qarz ka bojh ab bhi barh raha hai.",
+      "title": "Pakistan ka bahari qarz aik dahai mein taqreeban dugna — $135.1 billion",
+      "url": "https://epaper.dawn.com/DetailNews.php?StoryText=06_11_2026_001_009"
+    },
+    {
+      "source": "The Nation",
+      "summary": "Pakistan mein 2026 ka 9th polio case Khyber district se report hua — 7 mahine ka bacha, Bara tehsil ke Mastak Union Council se. Is saal ke 9 cases mein se 7 Khyber Pakhtunkhwa se hain (3 Khyber, 3 Bannu, 1 North Waziristan) aur 2 Sindh se. Khyber ke teenon cases ka virus Afghanistan se genetically linked hai, jahan is saal 50 cases report hue hain. PM Shehbaz Sharif ne Thursday ko review meeting mein chaaron subon se mashawarat kar ke ek hafte mein comprehensive strategy banane ki hidayat di. 2-8 November ki qomi campaign Pakistan aur Afghanistan mein ek saath chal rahi hai.",
+      "title": "Polio ka 9th case — Khyber mein 7 mahine ka bacha, PM ne ek hafte mein strategy mang li",
+      "url": "https://www.nation.com.pk/06-Nov-2026/pm-seeks-national-strategy-country-reports-9th-polio-case"
     },
     {
       "source": "Dawn",
-      "summary": "Punjab CM Maryam Nawaz ne Tuesday ko Federal Minister Chaudhry Salik Hussain ko Rs5 billion ka defamation notice bheja — ilzaam hai ke unhon ne TV talk show mein Punjab mein corruption ke sweeping, baghair saboot ilzamat lagaye. Notice Salik, ARY News host Naeem Ashraf Butt aur channel ke chairman ko bheja gaya hai, jis mein unconditional apology, retraction aur Rs5bn damages ka mutalba hai, 7 din ki deadline ke saath. Maryam ne kaha: 'If you have evidence, bring it forth; otherwise, I will drag you to court.' Salik apne bayan par qaim hain.",
-      "title": "Maryam Nawaz ne Salik Hussain ko Rs5bn defamation notice bhej diya — 7 din mein maafi ya adalat",
-      "url": "https://www.dawn.com/news/2041953/cm-maryam-sends-rs5bn-defamation-notice-to-minister"
+      "summary": "NCCIA ne Karachi ki Sharea Faisal par Voxtron Solutions call centre par chhapa maar kar 273 logon ko giraftar kar liya — jin mein 100 se zyada khawateen aur 42 nabaligh bhi shamil hain. Raid 4 November ko Kavish Crown Plaza ke qareeb hua; 339 laptops, 152 mobile phones aur 4 computers zabt hue. Ilzaam hai ke centre foreign nationals ko bank aur debt validation services ke naam par call kar ke un ki personal aur financial maloomat (Social Security Numbers, card details) nikalta tha aur phir merchant accounts se unauthorized transactions karta tha. PECA 2016 ke tehat case darj, 9 key suspects ka 2 din ka remand mil gaya. NCCIA ke mutabiq Karachi mein taqreeban 350 call centres is tarah ke scams mein involved hain.",
+      "title": "NCCIA ka Karachi mein bara raid — 273 giraftar, 'scam call centre' ka bhanda phoot gaya",
+      "url": "https://www.dawn.com/news/2042369"
     }
   ]
 }
