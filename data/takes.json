@@ -1,80 +1,86 @@
 {
   "poll": {
-    "q": "Aaj ki sab se bari khabar kaun si hai — petrol sasta, GPT-6 Cyber, ya Fa'az missile?",
+    "q": "Aaj ki sab se bari khabar kaun si hai — Cybertruck band, cashless Pakistan, ya PCB-T10 sulah?",
     "options": [
-      "⛽ Petrol Rs9.41 sasta — chauthe din musalsal kami",
-      "🤖 GPT-6 Cyber — hacking AI, sirf vetted teams ko",
-      "🚀 Fa'az missile — Pakistan ka pehla apna air-to-air missile",
-      "💰 Claude ab bank parh sakta hai — dekh sakta hai, chhoo nahi sakta"
+      "🚗 Cybertruck band — Musk ne robotaxi par daav lagaya",
+      "💵 Cashless Pakistan — 100% digital payments ka roadmap",
+      "🏏 PCB-T10 sulah — 16 stars Abu Dhabi khelenge",
+      "🤖 OpenAI $11B — lekin valuation giri hui"
     ]
   },
   "stories": {
-    "https://www.reuters.com/technology/openai-launches-gpt-6-cyber-with-critical-cybersecurity-rating-2026-11-05/": {
-      "what": "OpenAI ne GPT-6 Cyber launch kiya — security research ke liye model jo flaws dhoond kar un ke working exploits bhi bana sakta hai. Firefox mein 81 unknown flaws, Linux kernel ki 948 vulnerabilities ke exploits. Sirf Daybreak Red ke approved customers ko access.",
-      "why": "Attackers bhi AI use kar rahe hain — defender ko un se tez hona par raha hai. Ek model jo exploit bana sakta hai, wo hi bata sakta hai ke aap ka system kahan se tootega.",
-      "next": "Dekhna ye hai ke independent evaluators is ke 48.5% ExploitGym score ko verify karte hain ya nahi — aur kya ye model kabhi aam developers tak pahunchega ya hamesha gated rahega.",
-      "take": "Meri take: ye model ek hi waqt mein sab se useful aur sab se khatarnaak cheez hai jo OpenAI ne banayi hai. 'Critical' rating sahi hai — lekin sawal ye hai ke jab ek AI exploit likhna seekh jaye, to wo seekh kahan jaati hai? OpenAI ka Daybreak Red gate is ka jawab hai, lekin gate jitna mazboot ho, leak ka risk utna hi bara hota hai. Defenders ke liye khushkhabri, baaqi sab ke liye warning."
+    "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/": {
+      "what": "Elon Musk ne X par elaan kiya ke Tesla Cybertruck ki production 2027 ke darmiyan mein band kar dega — Giga Texas ki jagah Cybercab robotaxis banengi. 2019 mein unveil hua truck kabhi wada poora na kar saka: kul dasiyon hazaar hi beche, 2025 mein US mein 20,237 — 2024 se 48% kam. Model S aur X pehle hi band ho chuke hain.",
+      "why": "Tesla ab car company nahi rehna chahti — AI aur robotics company banna chahti hai. Cybercab aur Optimus us ka asal daav hain, aur factory ki jagah wahi banegi jo aane wale waqt mein bikega.",
+      "next": "Dekhna ye hai ke Cybercab ki paid rides Austin se bahar kitni tezi se phailti hain — aur kya Tesla robotaxi waqai Cybertruck ki kami poori kar sakta hai, ya ye sirf ek aur Musk ka wada hai jo waqt par poora nahi hota.",
+      "take": "Meri take: Cybertruck ek aisi gaari thi jo sirf Musk ko pasand thi — buyers ko kabhi nahi. 250,000 saalana ka wada, dasiyon hazaar ki asal sales: ye failure hai, chahe Musk isay 'end of an era' kahe. Lekin yehi Tesla ki taqat bhi hai — galti maan kar aage barhna. Robotaxi par sab kuch daav par lagana brave hai, lekin Cybercab abhi bhi chhota program hai. Musk ne ek daav haara, doosra lagaya — dekhte hain."
     },
-    "https://www.reuters.com/business/anthropic-rolls-out-personal-finance-feature-claude-2026-11-05/": {
-      "what": "Claude mein Personal Finance beta — bank aur card accounts Plaid se link karo, Claude spending, balance aur bills ke sawal jawab dega. Read-only: paisa move nahi kar sakta. Sirf US, Pro/Max/Ultra plans.",
-      "why": "ChatGPT ne 6 mahine pehle yehi kiya tha — ab Claude ki bari hai. AI assistants ka agla maidan aap ka bank account hai, kyun ke jo aap ka paisa samajhta hai, wo aap ki zindagi samajhta hai.",
-      "next": "US ke bahar kab aayega, koi date nahi — Pakistan to door ki baat hai. Aur asal test tab hoga jab Claude koi ghalat hisaab de aur user us par bharosa kar ke faisla kar le.",
-      "take": "Meri take: read-only hona achhi baat hai — Claude dekh sakta hai, chhoo nahi sakta. Lekin ye mat bhoolo ke 'sirf dekhna' bhi data hai: aap ki 2 saal ki spending history ek AI ke paas ja rahi hai. Anthropic kehta hai chats training ke liye use nahi hongi — is waade par nazar rakhna. Pakistani users ke liye abhi ye khabar sirf dekhne ki hai, use karne ki nahi."
+    "https://stocktwits.com/news-articles/markets/equity/nvidia-eyes-apollo-s-struggling-telecom-sites-to-sidestep-data-center-moratoriums-report/cNG1vn9R94o": {
+      "what": "The Information ki report: Nvidia ne Apollo se Brightspeed ki 130+ purani telecom buildings ko chhote AI data centers mein badalne ki proposal di — 20 states, taqreeban 1 GW bijli. Retrofits 2027 ki pehli timaahi se Vera Rubin servers ke saath. Abhi sirf proposal hai, koi final deal nahi.",
+      "why": "Naye data centers par shehron mein mukhalfat aur moratoriums barh rahe hain — purani telephone buildings mein bijli, fiber aur zoning pehle se maujood hai. Nvidia ko chips lagane ki jaldi hai, aur ye shortcut hai.",
+      "next": "Kya Brightspeed site visits aur data ke baad deal hoti hai, aur kya regulators is 'workaround' ko bhi rokne ki koshish karte hain — wo dekhna hoga. Aur kaun khareedega ye chips, ye bhi abhi saaf nahi.",
+      "take": "Meri take: ye Nvidia ki sab se clever chaal hai — purani buildings, nayi daulat. Lekin irony dekho: AI ka future banane ke liye hum 100 saal purani telephone exchange wapas la rahe hain. Aur NVDA ka stock usi din 9% gira — market ko bhi samajh nahi aa raha ke AI boom abhi bhi boom hai ya bubble ki hawa nikal rahi hai."
     },
-    "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/": {
-      "what": "Gemini Omni 1.2 Flash generally available — 15 second ki native video, multi-turn editing, behtar reference following, aur qeemat 30% kam ($0.07/sec 720p). Gemini API aur business par live.",
-      "why": "AI video ki race mein ab lambi clip aur sasti qeemat hi jeet ka rasta hai — 10 second se 15 second matlab poora ad spot ek generation mein, bina stitching ke.",
-      "next": "Dekhna ye hai ke Pakistani creators isay kab aur kis qeemat par use kar paate hain — Gemini app par 15 second clips sirf Ultra subscribers ko mil rahe hain, aur rollout dheere hai.",
-      "take": "Meri take: 15 second chhota lagta hai, lekin yehi woh line hai jahan AI video 'demo' se 'kaam ki cheez' ban jata hai. Aur 30% sasta hona bhi wahi signal hai — Google ab video generation ko premium toy nahi, bulk utility bana raha hai. Lekin SynthID watermark yaad rakhna: jo video banao, wo pehchani jayegi — aur ye achhi baat hai."
+    "https://www.unite.ai/openai-secures-11b-in-initial-funding-at-1-25t-valuation/": {
+      "what": "Reuters (6 Nov): OpenAI ne naye round ka pehla hissa band kiya — $11 billion, $1.25 trillion valuation par. Original target $30 billion tha, valuation $1.4 trillion se gir kar $1.25 trillion hui. SoftBank aur MGX ne hissa liya. Anthropic ke IPO ki valuation bhi $2T se $1.5T ke aas-paas aayi.",
+      "why": "Compute ke liye paisa chahiye — OpenAI ke data centers aur chips par kharcha ruk nahi sakta. Lekin investors ab purani qeematein dene ko tayyar nahi; AI selloff ne sab ki valuation thandi kar di hai.",
+      "next": "Round ka baaqi hissa kab aur kis valuation par band hota hai — aur kya OpenAI 2027 ke IPO se pehle ye kahani badal sakta hai. Anthropic ka IPO bhi abhi baaqi hai, dono ek hi investors ke peeche hain.",
+      "take": "Meri take: $11 billion milna bhi bari baat hai — lekin ye wohi OpenAI hai jo ek waqt $1.4 trillion mang rahi thi aur ab $1.25 par khush hai. Market keh raha hai: 'AI great hai, lekin har qeemat par nahi.' Ye correction sehatmand hai — hype se haqeeqat ki taraf wapsi. Pakistani devs ke liye sabak: valuation se zyada revenue aur compute ki haqeeqat matter karti hai."
     },
-    "https://the-decoder.com/baidu-releases-ernie-5-5-flash-base-with-280-billion-parameters-as-an-open-source-foundation-model/": {
-      "what": "Baidu ne ERNIE 5.5 Flash Base open kar diya — 280B parameters, har token par sirf 14B active, 33.5T tokens par trained, 1M context. Weights Hugging Face par hain, lekin ye raw base model hai — na fine-tuning, na post-training — aur license EU/UK/South Korea mein use rokta hai.",
-      "why": "China ki open-source race mein Baidu ne 16 mahine baad wapsi ki hai — ERNIE 4.5 ke baad 5.0 aur 5.1 band rahe. Ab wo DeepSeek aur Tencent ko challenge kar raha hai, lekin apni shartein par.",
-      "next": "Post-trained version ka intezar hai — jab tak wo nahi aata, is base model ki asal taqat ka andaza koi nahi laga sakta. Aur benchmarks abhi sirf Baidu ke apne hain.",
-      "take": "Meri take: 'open-source' likhna aur open-source hona do alag cheezein hain. EU/UK/Korea ban aur $50M revenue wali shart ke saath ye open weights hain, open license nahi. Phir bhi — 280B ka model free mein milna chhoti baat nahi. Jo developer isay fine-tune karega, wo asal mein Baidu ki research par apna ghar bana raha hai. Bas ye yaad rakho ke ghar ki buniyad kisi aur ki hai."
+    "https://venturebeat.com/technology/thinking-machines-launches-inkling-2-small-with-near-frontier-performance-on-enterprise-benchmarks": {
+      "what": "Mira Murati ki Thinking Machines Lab ne 5 Nov ko Inkling 2 Small launch kiya — 594B total parameters, 17B active per token, AA Intelligence Index 31, enterprise benchmark CoreCraft par 71.8%. Abhi sirf Tinker par — weights Apache 2.0 ke under agle hafte aane ki umeed hai, safety testing ke baad.",
+      "why": "Open-weights race mein ab har lab daav laga raha hai: Mistral, Meta, Nvidia — aur ab TML. Jo lab weights kholta hai, wo developers ki loyalty jeetta hai. Lekin 'agle hafte' ka wada pehle bhi suna gaya hai.",
+      "next": "Weights waqai release hote hain ya 'safety testing' lambi hoti jati hai — aur independent testers is ke 31 score ko verify karte hain ya nahi. 1M context ka dawa bhi Tinker par 64K/256K ki limit se takra raha hai.",
+      "take": "Meri take: 'Small' naam mein 594 billion parameters — AI ki duniya mein ab 'small' ka matlab bhi hamare liye bada hai. Model impressive hai, lekin weights ke baghair ye sirf ek demo hai jo aap rent par le sakte hain. Asal test tab hoga jab weights khulenge aur community khud chala kar dekhegi. Tab tak: wait, don't hype."
     },
-    "https://www.techrepublic.com/article/news-chatgpt-images-2-6-gif-creation/": {
-      "what": "OpenAI Images 2.6 — ChatGPT mein GIF generation, 50% tez image creation, saved reference images, aur API par do naye models (Flare for speed, Sunburst for quality). Har hafte 4 billion images ban rahi hain.",
-      "why": "Static image se GIF tak ka safar matlab hai ke ChatGPT ab sirf tasveer nahi, movement bhi bana raha hai — aur jo tool GIF bana sakta hai, wo social media ka kaam aadha kar deta hai.",
-      "next": "GIF creation abhi roll out ho raha hai — sab ko nahi mila. Aur dekhna ye hai ke Flare ki 6-second speed asal istemal mein bhi waisi hi rehti hai ya sirf low quality par.",
-      "take": "Meri take: 4 billion images per week sun kar hairani hoti hai — ye number batata hai ke AI image ab experiment nahi, infrastructure hai. GIF wala feature chhota lagta hai lekin asal mein sab se zyada istemal hone wala hoga — kyun ke har banda meme aur reaction GIF chahta hai, poster nahi. Bas itna yaad rakhna: tez hona aur acha hona do alag cheezein hain."
+    "https://www.gadgetreview.com/meta-rolls-out-real-time-video-calls-with-customizable-muse-ai-avatars-across-the-united-states": {
+      "what": "Meta ne 5 Nov se US mein Muse app par voice calls aur avatar video chats roll out kar diye — mobile, web, Mac, 18+ users. Muse Realtime Voice + Avatar: avatar sirf awaz sun kar expressions banata hai, camera aap ko nahi dekhta. Jawab ~870ms mein, ek GB200 GPU par 12 sessions. Baad mein AI glasses aur Muse Charm device par.",
+      "why": "Meta chahta hai ke AI sirf text box na rahe — ek chehra, ek awaz, ek saathi ban jaye. Jo company aap ka 'personal AI' banegi, wo aap ki zindagi ke har device par hogi — phone se glasses tak.",
+      "next": "US ke bahar kab aata hai — Pakistan to door ki baat — aur privacy sawal: ye calls record hoti hain? Data kahan jata hai? Meta ne abhi in ka jawab nahi diya. Muse Charm ki launch bhi is saal expected hai.",
+      "take": "Meri take: AI se baat karna ab 'type karo, jawab parho' se aage nikal gaya — ab wo aap ko dekh kar muskurayega. Ye cool bhi hai aur ajeeb bhi: ek avatar jo aap ki awaz se aap ke mood ka andaza lagaye. Lekin yaad rakho — chehra hone se AI samajhdar nahi ho jata, sirf convincing ho jata hai. Apni baatein share karne se pehle sochna."
     },
-    "https://www.dawn.com/news/2042367/petrol-price-slashed-by-rs941-per-litre-high-speed-diesel-by-rs556": {
-      "what": "Petrol Rs9.41 sasta ho kar Rs352.59, diesel Rs5.56 kam ho kar Rs382.25 — chauthe din musalsal kami. OGRA notification ke mutabiq petrol par ab bhi Rs114 aur diesel par Rs100 per litre tax aur duties hain.",
-      "why": "Refineries 30 din ke liye petroleum levy ka Rs15 billion ka bojh utha rahi hain — isi liye qeemat gir rahi hai. Aur July se daily pricing mechanism hai, is liye har subah nayi qeemat.",
-      "next": "Ye relief 30 din ke arrangement par khara hai — jab arrangement khatam hoga, to qeemat phir kya hogi, ye sab se bara sawal hai. Aur daily mechanism ka matlab ye bhi hai ke kal subah qeemat phir badh bhi sakti hai.",
-      "take": "Meri take: Rs9.41 ki kami achhi khabar hai, lekin ye mat bhoolo ke petrol ab bhi Rs352 ka hai — aur is mein Rs114 sirf tax hai. Asal relief tab hoga jab tax kam ho, sirf qeemat nahi. Phir bhi, chauthe din kami ka matlab hai ke system kaam kar raha hai — bas ye dekhna hai ke ye 30 din ka arrangement khatam hone ke baad bhi chalta hai ya nahi."
+    "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/": {
+      "what": "Dropbox ne Tigris Data ko taqreeban $350 million cash mein khareedne ka agreement kiya — company ki sab se bari acquisition, close Q4 2026 expected. Saath hi DBX Agent Cloud launch — AI developers ke liye S3-compatible object storage. Tigris ex-Uber engineers ki company hai, Series A mein $25M uthaye the.",
+      "why": "File storage ka zamana khatam ho raha hai — ab paisa AI infrastructure mein hai. Dropbox ke paas 20 saal ka storage experience hai, aur wo use AI agents ke data layer mein badalna chahta hai.",
+      "next": "DBX Agent Cloud ki pricing aur launch date abhi nahi aayi — aur kya developers Dropbox ko AWS/Google ke muqable mein storage ke liye chunein ge, ye asal sawal hai. Tigris ke zero egress fees wala model bhi test hoga.",
+      "take": "Meri take: Dropbox ko samajh aa gaya ke sirf files sync karna 2026 mein business nahi hai — AI agents ka data rakhna business hai. $350M bara daav hai, lekin ye wohi Dropbox hai jis ne abhi 9% workforce kaat di. Ek taraf log nikal rahe hain, doosri taraf AI khareed rahe hain — yehi aaj ki tech industry ki kahani hai."
     },
-    "https://www.dawn.com/news/2041885": {
-      "what": "Pakistan ne apne pehle indigenously developed air-to-air missile Fa'az ka kamyab flight test kiya — JF-17 se launch, terminal guidance system, lambi range par hawai ahdaaf ko nishana bana sakta hai. Ek mahine mein teesra bara missile test.",
-      "why": "Apna missile banana matlab hai ke aap ko har dafa bahar se khareedna nahi parhta — aur jab tension ho, to supplier ki marzi par nahi, apni marzi par hote ho.",
-      "next": "ISPR ne range aur speed nahi batayi — GIDS ke mutabiq 100km+ aur Mach 3.5. Asal sawal ye hai ke ye missile kab operational hoga aur PAF ki squadrons mein kab shamil hoga.",
-      "take": "Meri take: ye test is liye khaas hai ke ye sirf ek missile nahi, ek capability hai — Pakistan ab hawa mein bhi apna hathiyar khud bana sakta hai. Lekin is khushi mein ye mat bhoolo ke missile ki asal taqat us ki range nahi, us ki reliability hai — aur wo sirf waqt aur mazeed tests se sabit hoti hai."
+    "https://www.nation.com.pk/07-Nov-2026/pm-seeks-roadmap-establishing-100pc-digital-payments-system": {
+      "what": "PM Shehbaz Sharif ne 100% digital payments ke liye clear roadmap manga — timelines aur targets ke saath. Raast QR system se merchant payments, govt idaron ki payments Dec 2026 tak digitize, BISP ki 100% payments digital wallets se. 15 Nov se cheque band, 16 Nov se sirf Raast.",
+      "why": "Cash economy mein tax chhupana aasan hai aur corruption bhi. Digital payments se har transaction ka record banta hai — hukoomat ke liye revenue, awam ke liye sahulat. Lekin ye tabhi kaam karega jab internet aur smartphones har jagah hon.",
+      "next": "Roadmap kab aata hai aur December 2026 ka deadline poora hota hai ya nahi — aur sab se bara test: internet na hone wale ilaqon mein digital payment kaise chalegi, jahan abhi cash hi chalta hai.",
+      "take": "Meri take: cashless Pakistan ka khwab acha hai — lekin 15 November se cheque band karne ka faisla jaldi lagta hai. Dukaan-daar aur chhote karobari abhi bhi cash par chalte hain, aur bijli jaane par QR bhi nahi chalta. Roadmap pehle, pabandi baad mein honi chahiye thi. Warna ye digital revolution sirf shehron ke liye rahegi, gaon ke liye nahi."
     },
-    "https://www.dawn.com/news/2042348": {
-      "what": "SAFF Championship opener mein Pakistan India se 3-2 se haar gaya — half-time par 3-0 peeche, phir stoppage time mein Najeebullah ka header aur Alamgir Ghazi ka overhead kick. Ab semi-final ke liye Sunday ko Maldives se jeetna zaroori hai.",
-      "why": "India ke khilaf match sirf 3 points ka nahi hota — ye izzat ka match hota hai. Aur jab aap 3-0 se peeche ho kar bhi wapas aate ho, to wo haar mein bhi ek jeet hoti hai.",
-      "next": "Sunday 8 November ko Maldives ke khilaf match — jeeto to semi-final ki umeed zinda, haaro to group stage se wapsi. Aur diaspora players FIFA window ke baad shamil honge.",
-      "take": "Meri take: Alamgir ka overhead kick is match ki sab se bari baat hai — ek aisi goal jo saalon yaad rehti hai. Lekin sach ye bhi hai ke pehle half mein 3 goals khana aur penalty miss karna bata raha hai ke team abhi bari teams ke khilaf poori tayyar nahi. Solano ka 'no excuses' theek hai — lekin excuses ke baghair bhi, mehnat ke baghair kuch nahi hota."
+    "https://www.dawn.com/news/2042720": {
+      "what": "IBA Karachi ki conference 'Beyond Polycrisis' mein Climate Minister Musadik Malik ne kaha: climate disasters, tech disruption aur ghair-barabar global order mil kar Pakistan ki kamzoriyan barha rahe hain. Paanch bade floods: ~6,000 amwaat, 20,000 zakhmi, 3-4 crore beghar. Sherry Rehman ne 'Axial Age' aur 'recovery trap' ki baat ki — agla disaster pehle se theek hone se pehle aa jata hai. Abadi 25 crore se 2030 tak 27 crore.",
+      "why": "Pakistan duniya ke sab se zyada climate-vulnerable mulkon mein hai, jab ke is ka carbon footprint na hone ke barabar hai. Floods sirf paani nahi — ghareebi, taleem, sehat sab kuch beh jata hai. Aur AI/automation se low-skill jobs bhi khatre mein hain.",
+      "next": "Kya is conference ki baatein policy mein badalti hain ya sirf speeches reh jati hain — aur kya climate finance aur solar/battery ki taraf asal investment hoti hai, ye dekhna hai.",
+      "take": "Meri take: 'Recovery trap' ek aisi baat hai jo har Pakistani samajhta hai — hum har saal flood se theek hone se pehle agle flood mein aa jate hain. Lekin conference mein baat karna aasan hai, budget dena mushkil. Solar aur wind ka zikr acha hai — lekin jab tak bijli sasti aur storage sasta nahi, ye sirf presentation slides mein rahega."
     },
-    "https://epaper.dawn.com/DetailNews.php?StoryText=06_11_2026_001_009": {
-      "what": "World Bank ki International Debt Report 2026 ke mutabiq Pakistan ka total external debt 2025 tak khatam hone wali dahai mein taqreeban dugna ho kar $135.1 billion ho gaya.",
-      "why": "Qarz lena bura nahi — lekin jab qarz dugna ho jaye aur us se banne wali cheezein nazar na aayein, to sawal banta hai ke paisa gaya kahan.",
-      "next": "Is report ke baad ab budget aur IMF talks mein ye number baar baar aayega — aur har naye qarz par yehi sawal uthenga ke wapsi ka plan kya hai.",
-      "take": "Meri take: $135.1 billion sirf ek number nahi, ek bojh hai jo har Pakistani ke sar par hai — chahe wo janta ho ya nahi. Petrol sasta hona achha hai, lekin jab tak qarz ki kahani nahi badalti, relief hamesha temporary rahega. Asal khabar ye nahi ke qarz kitna hai — asal khabar ye hai ke hum isay wapas kaise karenge."
+    "https://www.dawn.com/news/2042686": {
+      "what": "Commerce Minister Jam Kamal ne Istanbul mein 42nd COMCEC session mein OIC mumalik ke darmiyan maashi yakjehti, behtar trade financing aur intra-OIC trade ki appeal ki. Tarjeehi shobay: trade, transport, food security, poverty alleviation, digital transformation — khaas taur par chhote exporters (MSMEs) ko sasti financing.",
+      "why": "Muslim mumalik ke darmiyan trade abhi bhi bohot kam hai — har mulk bahar se khareedta hai, apne parosi se nahi. Geopolitical tensions aur protectionism ne ye aur mushkil kar diya hai. Is liye collective action ki baat ho rahi hai.",
+      "next": "COMCEC ki sifarishat amal mein aati hain ya har saal ki tarah sirf bayan reh jati hain — aur kya Pakistani MSMEs ko waqai sasti trade financing milti hai, ye dekhna hoga.",
+      "take": "Meri take: OIC mein 57 mumalik, 2 billion log — aur intra-OIC trade phir bhi chhoti si hai. Ye baat har saal kehte hain, har saal wahi. Jab tak ek Pakistani exporter ko Malaysia ya Turkiye bechna asaan nahi hota, ye yakjehti sirf stage ki baat hai. Kam az kam is baar MSMEs ka naam to aaya — ab amal bhi chahiye."
     },
-    "https://www.nation.com.pk/06-Nov-2026/pm-seeks-national-strategy-country-reports-9th-polio-case": {
-      "what": "2026 ka 9th polio case Khyber district se — 7 mahine ka bacha. 7 cases KP se, 2 Sindh se. PM Shehbaz ne ek hafte mein chaaron subon se mashawarat kar ke comprehensive strategy mang li. 2-8 November ki campaign Pakistan aur Afghanistan mein ek saath chal rahi hai.",
-      "why": "Polio sirf ek bache ki bimari nahi — ye is baat ka test hai ke kya hum har ghar tak pahunch sakte hain. Jab virus Afghanistan se aata hai, to sirf Pakistan ki koshish kaafi nahi.",
-      "next": "Ek hafte mein jo strategy aayegi, us mein dekhna ye hai ke Khyber aur Bannu jese high-risk areas mein teams ki security aur access ka kya plan hai — kyun ke wahan hi cases barh rahe hain.",
-      "take": "Meri take: 9 cases ka number chhota lagta hai, lekin polio mein ek case bhi zyada hai — kyun ke ek case matlab hai ke virus abhi bhi zinda hai. Achi baat ye hai ke Punjab mein February 2025 ke baad koi case nahi aur Balochistan mein 2 saal se koi case nahi — matlab eradication mumkin hai. Lekin jab tak Khyber mein virus hai, koi bacha mehfooz nahi."
+    "https://www.dawn.com/news/2042682": {
+      "what": "SBP ne Cisco ke saath apna naya core banking network aur software-defined data centre deploy kar liya — multimillion-dollar project. US Chargé d'Affaires Natalie Baker aur Governor Jameel Ahmad ne SBP HQ mein launch mark kiya. Migration baghair kisi rukawat ke complete hui.",
+      "why": "Central bank ka infrastructure mulk ki financial backbone hai — agar ye purana ya kamzor ho, to har bank, har payment, har transaction khatre mein hai. Modernization ka matlab hai zyada secure aur reliable banking.",
+      "next": "Kya is naye backbone par banks ki services — khaas taur par Raast aur digital payments — waqai tez aur behtar hoti hain, ya sirf SBP ke andar ki kahani hai.",
+      "take": "Meri take: ye woh khabar hai jo boring lagti hai lekin sab se zyada important hai — central bank ka network upgrade hona matlab aap ki har payment ke peeche mazboot buniyad. US-Pakistan tech cooperation bhi ek acha signal hai. Bas ye daikhen ke is ka faida aam account holder tak kab pahunchega, sirf press release tak nahi."
     },
-    "https://www.dawn.com/news/2042369": {
-      "what": "NCCIA ne Karachi ki Sharea Faisal par Voxtron Solutions call centre par raid kar ke 273 log giraftar kiye — 339 laptops, 152 phones zabt. Ilzaam: foreign nationals ko bank aur debt validation ke naam par call kar ke un ki personal aur card details nikalna. NCCIA ke mutabiq Karachi mein taqreeban 350 aise call centres hain.",
-      "why": "Ye sirf ek raid nahi — ye Pakistan ki image ka sawal hai. Jab dunya mein 'Pakistani call centre' ka matlab scam ban jaye, to har genuine call centre aur har freelancer ki izzat daao par lag jati hai.",
-      "next": "Court ne 9 key suspects ka 2 din ka remand diya — ab forensic analysis batayegi ke network kitna bara tha aur paisa kahan gaya. Aur 350 centres wale dawe par agla action kya hoga, ye bhi dekhna hai.",
-      "take": "Meri take: 273 giraftariyan bari khabar hain, lekin is mein 42 nabaligh aur 100+ khawateen bhi hain — ye batata hai ke ye scam sirf kuch criminals ka kaam nahi, ek poora system hai jismein berozgar naujawan phans rahe hain. Raid karna zaroori hai, lekin asal hal ye hai ke naujawanon ko legal kaam mile — warna ek centre band hoga, doosra khul jayega."
+    "https://www.cricexec.com/pcb-secures-usd-200000-abu-dhabi-t10-deal-after-noc-fee-dispute-threatens-pakistan-player-exodus/689584688/": {
+      "what": "PCB aur Abu Dhabi T10 organisers mein $200,000 tak ki deal ho gayi — 16 Pakistani players (Naseem Shah, Shadab Khan, Mohammad Amir, Fakhar Zaman) 7 Nov se shuru hone wale tournament mein khel sakenge. Pehle PCB ne har NOC ke liye $10,000 manga tha, jab ke draft 30 September ko ho chuka tha. Individual NOCs ki tasdeeq abhi pending hai.",
+      "why": "PCB ke liye NOC fees ek revenue stream hain — lekin der se demand karna franchises ke liye mushkil banata hai. Players ke liye ye paise aur exposure dono ka sawal tha — T10 un ke liye acha moqa hai, khaas taur par jab PSL ke bahar moqay kam hain.",
+      "next": "Kya saare 16 players waqai khelte hain ya kuch NOCs phir bhi atke rehte hain — aaj pehla din batayega. Aur PCB ki overseas NOC policy par sawal phir bhi baaqi hai.",
+      "take": "Meri take: PCB ne $10,000 per player manga, $200,000 ki deal par raazi hua — matlab board ko bhi pata tha ke demand zyada thi. Khiladi bechare beech mein phas gaye the: khelna hai, lekin board ki fee kaun de? Sulah hui, acha hua — lekin NOC ki policy abhi bhi 'jo marzi, jab marzi' wali hai. Agli league mein phir yehi drama hoga, bas date badal jayegi."
+    },
+    "https://www.nation.com.pk/07-Nov-2026/nuwantha-malinga-shine-sri-lanka-rout-pcb-patrons-xi-142-runs": {
+      "what": "Sri Lanka ne PCB Patrons XI ko warm-up match mein 142 runs se hara diya — 254 ka target, Patrons XI 111 all out. Nuwantha 4/26, Malinga 3 wickets. Pakistan ne 14-rukni squad mein 4 izafi khiladiyon (Ubaid Shah, Ali Shabbir, Saqib Khan, Tayyab Arif) par ghaur shuru kar diya. Test series 9 Nov se Rawalpindi mein, WTC ka hissa.",
+      "why": "Warm-up match ka maqsad hi ye hai ke kamzoriyan samne aayen — aur 111 all out hona ek bari warning hai. Sri Lanka ne bataya ke un ki bowling Test ke liye tayyar hai, aur Pakistan ke emerging players abhi pressure handle nahi kar paaye.",
+      "next": "9 Nov Rawalpindi Test mein Pakistan ki asal XI kaisi hoti hai — aur kya 4 naye chehre squad mein aate hain. Pace-friendly pitch par Sri Lanka bhi khatarnak hogi.",
+      "take": "Meri take: warm-up mein 142 runs se haarna sharam ki baat nahi — lekin 111 par all out hona zaroor hai. Ye wohi kahani hai: hamare emerging players domestic mein run banate hain, international bowling ke samne atak jate hain. Test 9 Nov se hai — selectors ke paas 2 din hain. Sri Lanka ko halka mat lo, wo warm-up jeet kar confidence ke saath aa rahe hain."
     }
   },
-  "mood": "⛽ Petrol sasta, 🚀 Fa'az test, 🤖 AI ki nayi race — aaj relief bhi, taqat bhi, aur ek bara sawal bhi."
+  "mood": "🚗 Cybertruck khatam, 💵 cashless Pakistan, 🏏 T10 sulah — aaj har taraf badlav hai."
 }

@@ -1,73 +1,79 @@
 {
-  "updated_at": "2026-11-06T07:00:04+05:00",
+  "updated_at": "2026-11-07T07:01:03+05:00",
   "tech": [
     {
-      "source": "Reuters",
-      "summary": "OpenAI ne 5 November ko GPT-6 Cyber launch kiya — ek aisa model jo software ki kamzoriyan dhoond kar un ke working exploits bhi bana sakta hai. Is ne Firefox mein 81 pehle se unknown high-severity flaws dhoonde aur Linux kernel ki 1,724 vulnerabilities reproduce kar ke 948 ke exploits banaye. ExploitGym benchmark par is ka score 48.5% hai (GPT-5.6 Cyber ka 32.1%). OpenAI ne isay apne safety framework mein 'Critical' — sab se oonchi cybersecurity rating — di hai. Access sirf Daybreak Red ke approved customers ko milega, API aur Codex se.",
-      "title": "OpenAI ka GPT-6 Cyber — hacking seekhne wala AI, lekin sirf vetted defenders ko milega",
-      "url": "https://www.reuters.com/technology/openai-launches-gpt-6-cyber-with-critical-cybersecurity-rating-2026-11-05/"
+      "source": "TechCrunch",
+      "summary": "Elon Musk ne X par elaan kiya ke Tesla Cybertruck ki production 2027 ke darmiyan mein band kar dega — Giga Texas ki jagah do-seater Cybercab robotaxis banengi. 2019 mein unveil hone wala truck kabhi wada poora na kar saka: 2023 mein launch ke baad kul sirf dasiyon hazaar beche, 2025 mein US mein 20,237 — 2024 se 48% kam. Is se pehle Model S aur Model X bhi band ho chuke hain, un ki jagah Optimus robots ban rahe hain. Tesla ab car company se AI aur robotics company banne ki taraf tezi se ja rahi hai.",
+      "title": "Tesla ne Cybertruck ko khatam kar diya — factory ab robotaxis banayegi",
+      "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/"
     },
     {
-      "source": "Reuters",
-      "summary": "Anthropic ne 5 November ko Claude mein Personal Finance beta launch kiya — users apne bank aur card accounts Plaid ke zariye link kar ke pooch sakte hain 'mera paisa is mahine kahan gaya?' ya 'kya main trip afford kar sakta hoon?' Access poori tarah read-only hai: Claude paisa move, manage ya invest nahi kar sakta, aur investment advice dene ke liye bhi design nahi hai. Beta sirf US mein Pro, Max aur Ultra plans par hai, 16 banks tak link ho sakte hain, 24 mahine ki transactions parh sakta hai — aur is mein na ads hain, na sponsored recommendations, aur ye chats models ko train karne ke liye use nahi hongi.",
-      "title": "Claude ab aap ka bank parh sakta hai — dekh sakta hai, chhoo nahi sakta",
-      "url": "https://www.reuters.com/business/anthropic-rolls-out-personal-finance-feature-claude-2026-11-05/"
+      "source": "Stocktwits",
+      "summary": "The Information ki report ke mutabiq Nvidia ne private equity firm Apollo se baat ki hai ke us ki Brightspeed ki 130 se zyada purani telecom buildings ko chhote AI data centers mein badal diya jaye — 20 US states mein, taqreeban 1 gigawatt bijli ke saath. Retroﬁts 2027 ki pehli timaahi se Vera Rubin servers ke saath shuru ho sakte hain. Maqsad: naye data centers par local moratoriums aur mukhalfat se bachna, kyun ke purani buildings mein bijli, ﬁber aur zoning pehle se maujood hai. Abhi ye sirf proposal hai — koi ﬁnal deal nahi hui.",
+      "title": "Nvidia ki nayi chaal — purani telephone buildings ko AI data center banao",
+      "url": "https://stocktwits.com/news-articles/markets/equity/nvidia-eyes-apollo-s-struggling-telecom-sites-to-sidestep-data-center-moratoriums-report/cNG1vn9R94o"
     },
     {
-      "source": "Google Blog",
-      "summary": "Google ne Gemini Omni 1.2 Flash generally available kar diya — Gemini API aur Gemini for business par. Ab native video clips 10 ki bajaye 15 second tak ban sakte hain, multi-turn conversational editing se ek hi clip ko baat cheet mein edit kiya ja sakta hai, aur reference images (character, product, style) pehle se behtar follow hoti hain. Qeemat 30% kam kar ke 720p video ke liye $0.07 per second kar di gayi hai. Har output par SynthID watermark bhi lagta hai. Ye pehli dafa hai ke koi Gemini Omni model generally available hua hai.",
-      "title": "Google ka Gemini Omni 1.2 Flash — ab 15 second ki AI video, 30% sasti",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
+      "source": "Unite.AI",
+      "summary": "Reuters ki 6 November ki report ke mutabiq OpenAI ne apne naye funding round ka pehla hissa band kar liya: $11 billion, $1.25 trillion valuation par. Ye original $30 billion target ka sirf ek hissa hai — valuation pehle $1.4 trillion se gir kar $1.25 trillion hui, aur SoftBank aur UAE ke MGX ne hissa liya. AI market mein thand ka asar saaf hai: Anthropic ke expected IPO ki valuation bhi $2 trillion se gir kar $1.5 trillion ke aas-paas aayi hai. OpenAI ko compute ke liye paisa chahiye, lekin investors ab purani qeematein dene ko tayyar nahi.",
+      "title": "OpenAI ko $11 billion mil gaye — lekin valuation $1.25 trillion par atki",
+      "url": "https://www.unite.ai/openai-secures-11b-in-initial-funding-at-1-25t-valuation/"
     },
     {
-      "source": "The Decoder",
-      "summary": "Baidu ne 5 November ko ERNIE 5.5 Flash Base ke weights open kar diye — 280 billion parameters wala mixture-of-experts model jo har token par sirf 14 billion parameters activate karta hai. Ye 33.5 trillion tokens par train hua hai aur 1 million tokens tak ka context support karta hai. Weights Hugging Face par FP8 aur BF16 mein mil rahe hain, vLLM aur SGLang support ke saath. Lekin ye sirf ek raw base model hai — na fine-tuning, na post-training — aur is ki custom license EU, UK aur South Korea mein use ki ijazat nahi deti. Baidu ka kehna hai ke post-trained version jald aayega.",
-      "title": "Baidu ne ERNIE 5.5 Flash khol diya — 280 billion parameters, lekin shartein bhi sakht",
-      "url": "https://the-decoder.com/baidu-releases-ernie-5-5-flash-base-with-280-billion-parameters-as-an-open-source-foundation-model/"
+      "source": "VentureBeat",
+      "summary": "Thinking Machines Lab ne 5 November ko Inkling 2 Small launch kiya — 594 billion total parameters wala MoE model, har token par 17 billion active, jo Artificial Analysis ke Intelligence Index par 31 score karta hai, aur enterprise benchmark CoreCraft par 71.8%. Model abhi sirf Tinker platform par inference aur fine-tuning ke liye hai — weights agle hafte Apache 2.0 ke under aane ki umeed hai, lekin external safety testing mukammal hone par. Pehli generation se do guna bara, aur lambe autonomous kaam ke liye banaya gaya hai.",
+      "title": "Mira Murati ka Inkling 2 Small — 594 billion parameters, weights abhi bhi band",
+      "url": "https://venturebeat.com/technology/thinking-machines-launches-inkling-2-small-with-near-frontier-performance-on-enterprise-benchmarks"
     },
     {
-      "source": "TechRepublic",
-      "summary": "OpenAI ne 4 November ko Images 2.6 launch kiya — ChatGPT, Codex aur API par. Ab users text prompt ya photo se animated GIF bana sakte hain, us ki speed badal sakte hain aur frame by frame edit kar sakte hain. Image generation 50% tez hone ka daawa hai, aur saved reference images ko @ se dobara use kiya ja sakta hai. API ke liye do models hain — tez Flare (low quality par 6 second mein image) aur detail-oriented Sunburst. Company ke mutabiq ChatGPT, Codex aur API par har hafte 4 billion se zyada images ban rahi hain.",
-      "title": "ChatGPT Images 2.6 — ab photos se GIF banao, aur image 50% tez bane",
-      "url": "https://www.techrepublic.com/article/news-chatgpt-images-2-6-gif-creation/"
+      "source": "Gadget Review",
+      "summary": "Meta ne 5 November se US mein Muse app par real-time voice calls aur avatar video chats roll out kar diye — mobile, web aur Mac par, 18 saal se zyada umar ke users ke liye. Muse Realtime Voice aur Realtime Avatar se avatar aap ki awaz sun kar expressions aur gestures banata hai — camera aap ko nahi dekhta, sirf awaz se kaam chalta hai. Jawab taqreeban 870 milliseconds mein aata hai, aur ek Nvidia GB200 GPU par 12 live sessions chal sakte hain. Agla qadam: AI glasses aur is saal aane wala Muse Charm pocket device.",
+      "title": "Meta ka Muse ab aap se video call par baat karega — avatar ke saath",
+      "url": "https://www.gadgetreview.com/meta-rolls-out-real-time-video-calls-with-customizable-muse-ai-avatars-across-the-united-states"
+    },
+    {
+      "source": "TechCrunch",
+      "summary": "Dropbox ne cloud storage startup Tigris Data ko taqreeban $350 million cash mein khareedne ka agreement kiya hai — ye company ki ab tak ki sab se bari acquisition hai, aur deal 2026 ki aakhri timaahi mein close hone ki umeed hai. Saath hi DBX Agent Cloud launch kiya gaya — AI developers ke liye S3-compatible object storage, jo aage chal kar filesystem aur content-processing bhi dega. Tigris ex-Uber engineers ne banayi thi aur us ne Series A mein $25 million uthaye the. Dropbox ab sirf file storage nahi, AI infrastructure bechna chahta hai.",
+      "title": "Dropbox ne $350 million mein Tigris khareeda — AI storage ki race mein bara daav",
+      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/"
     }
   ],
   "pakistan": [
     {
-      "source": "Dawn",
-      "summary": "Hukumat ne Thursday ko petrol ki qeemat Rs9.41 per litre aur high-speed diesel ki Rs5.56 kam kar di — ye chauthe din musalsal kami hai. Ab petrol Rs352.59 aur diesel Rs382.25 per litre milega, 6 November se. OGRA ke notification ke mutabiq petrol par ab bhi Rs114 aur diesel par Rs100 per litre taxes aur duties lag rahe hain. Kami ke peeche 30 din ka arrangement hai jis mein oil refineries petroleum levy ka Rs15 billion ka bojh khud utha rahi hain. July se fuel prices daily basis par fix ho rahi hain.",
-      "title": "Petrol phir sasta — Rs9.41 kami, chauthe din musalsal relief",
-      "url": "https://www.dawn.com/news/2042367/petrol-price-slashed-by-rs941-per-litre-high-speed-diesel-by-rs556"
+      "source": "The Nation",
+      "summary": "Wazir-e-Azam Shehbaz Sharif ne jumme ko hukam diya ke 100% digital payments system ke liye clear roadmap — timelines aur targets ke saath — pesh kiya jaye. Raast QR Code system ke zariye dukaan-daar aur customer ke darmiyan digital payments barhaye jaayenge, aur hukoomati idaron ki payments December 2026 tak mukammal digitize karne ka hadaf hai. BISP ki 100% payments ab digital wallets se ho rahi hain. 15 November se Easy Assignment Accounts mein cheque band, 16 November se sirf Raast.",
+      "title": "PM ka cashless Pakistan plan — 100% digital payments ka roadmap manga",
+      "url": "https://www.nation.com.pk/07-Nov-2026/pm-seeks-roadmap-establishing-100pc-digital-payments-system"
     },
     {
       "source": "Dawn",
-      "summary": "Pakistan Air Force ne Tuesday ko mulk ke pehle indigenously developed air-to-air missile Fa'az ka kamyab flight test kiya — JF-17 fighter jet se launch, video bhi jaari ki gayi. ISPR ke mutabiq missile mein state-of-the-art terminal guidance system hai jo lambi range par hawai ahdaaf ko nishana bana sakta hai. Ye NESCOM ke tehat banaya gaya hai; GIDS ki specifications ke mutabiq is ki range 100km se zyada aur speed Mach 3.5 hai (ISPR ne range ya speed confirm nahi ki). Ye ek mahine mein teesra bara missile test hai — pehle Fatah-2 ER aur Fatah-IV ER test ho chuke hain.",
-      "title": "Pakistan ne apna pehla air-to-air missile Fa'az test kar liya — JF-17 se launch",
-      "url": "https://www.dawn.com/news/2041885"
+      "summary": "IBA Karachi ki do-roza conference 'Beyond Polycrisis' ke ikhtitam par Climate Minister Musadik Malik ne kaha ke climate disasters, tech disruption aur ghair-barabar global economic order mil kar Pakistan ki kamzoriyan gehra kar rahe hain — paanch bade floods mein taqreeban 6,000 amwaat, 20,000 zakhmi aur 3-4 crore log beghar hue. Senator Sherry Rehman ne kaha ke duniya 'Axial Age' mein dakhil ho rahi hai jahan climate, AI aur geopolitics ek saath badal rahe hain, aur Pakistan 'recovery trap' mein hai — agla disaster pehle se theek hone se pehle aa jata hai. Abadi 25 crore se 2030 tak 27 crore hone ki peshgoi hai.",
+      "title": "Climate, AI aur maeeshat — IBA moot mein Pakistan ke 'polycrisis' par warning",
+      "url": "https://www.dawn.com/news/2042720"
     },
     {
       "source": "Dawn",
-      "summary": "Pakistan ne SAFF Championship ke opener mein India ke khilaf 3-2 se haar khayi — Dhaka mein half-time par 3-0 peeche tha, phir stoppage time mein Najeebullah ka header aur Alamgir Ghazi ka shandaar overhead kick score 3-2 kar gaya, lekin equaliser na ho saka. India ke Suhail Ahmad Bhat ne do goals kiye, teesra Manglenthang Kipgen ne. Pakistan ko pehle half mein penalty bhi mili thi jo Shayek Dost ne miss kar di. Ab Pakistan ko semi-final ki umeed zinda rakhne ke liye Sunday 8 November ko Maldives se positive result chahiye.",
-      "title": "SAFF opener mein Pakistan ki India se 3-2 haar — akhri lamhon mein overhead kick bhi kaam na aaya",
-      "url": "https://www.dawn.com/news/2042348"
+      "summary": "Commerce Minister Jam Kamal ne Istanbul mein 42nd COMCEC Ministerial Session ke ikhtitami ijlas mein OIC mumalik ke darmiyan mazboot maashi yakjehti, behtar trade financing aur intra-OIC trade barhane ki appeal ki. Unhon ne kaha ke geopolitical tensions, supply chain disruptions aur protectionism ne mushtarka kaam ko pehle se zyada zaroori bana diya hai. Session mein trade, transport connectivity, food security, poverty alleviation aur digital transformation ko tarjeehi shobay qarar diya gaya — khaas taur par chhote exporters (MSMEs) ko sasti financing ki zaroorat par zor diya gaya.",
+      "title": "Pakistan ne OIC se maashi yakjehti aur behtar trade financing mangi",
+      "url": "https://www.dawn.com/news/2042686"
     },
     {
       "source": "Dawn",
-      "summary": "World Bank ki International Debt Report 2026 ke mutabiq Pakistan ka total external debt 2025 tak khatam hone wali dahai mein taqreeban dugna ho kar $135.1 billion tak pahunch gaya. Ye aaj Dawn ki front page khabar hai. Report batati hai ke mulk ne das saal mein kitna bahari qarz liya — aur ye number is waqt samne aaya hai jab hukumat petrol sasta kar ke awam ko relief de rahi hai, lekin qarz ka bojh ab bhi barh raha hai.",
-      "title": "Pakistan ka bahari qarz aik dahai mein taqreeban dugna — $135.1 billion",
-      "url": "https://epaper.dawn.com/DetailNews.php?StoryText=06_11_2026_001_009"
+      "summary": "State Bank of Pakistan ne US tech company Cisco ke saath apna naya core banking network aur software-defined data centre deploy kar liya — ek multimillion-dollar project jo Pakistan ki financial infrastructure ko modernize karega. US Chargé d'Affaires Natalie Baker ne SBP Governor Jameel Ahmad aur Cisco Pakistan ke senior executives ke saath SBP headquarters mein is ka iftitah mark kiya. Project baghair kisi rukawat ke complete hua, jab ke central banking operations musalsal chalte rahe.",
+      "title": "SBP aur Cisco ka bara project — Pakistan ki banking ka naya digital backbone",
+      "url": "https://www.dawn.com/news/2042682"
+    },
+    {
+      "source": "CricExec",
+      "summary": "PCB aur Abu Dhabi T10 League organisers ke darmiyan $200,000 tak ki compensation aur facilities par agreement ho gaya, jis se 16 Pakistani cricketers — jin mein Naseem Shah, Shadab Khan, Mohammad Amir aur Fakhar Zaman shamil hain — 7 November se shuru hone wale tournament mein khel sakenge. Tanaza is par tha ke PCB ne har NOC ke liye $10,000 manga tha, jab ke draft 30 September ko ho chuka tha. Ye sulah Geo News ki report ke mutabiq hui hai — lekin abhi tak har khiladi ka individual NOC jaari hone ki tasdeeq nahi hui.",
+      "title": "PCB aur Abu Dhabi T10 mein sulah — 16 Pakistani stars khel sakenge",
+      "url": "https://www.cricexec.com/pcb-secures-usd-200000-abu-dhabi-t10-deal-after-noc-fee-dispute-threatens-pakistan-player-exodus/689584688/"
     },
     {
       "source": "The Nation",
-      "summary": "Pakistan mein 2026 ka 9th polio case Khyber district se report hua — 7 mahine ka bacha, Bara tehsil ke Mastak Union Council se. Is saal ke 9 cases mein se 7 Khyber Pakhtunkhwa se hain (3 Khyber, 3 Bannu, 1 North Waziristan) aur 2 Sindh se. Khyber ke teenon cases ka virus Afghanistan se genetically linked hai, jahan is saal 50 cases report hue hain. PM Shehbaz Sharif ne Thursday ko review meeting mein chaaron subon se mashawarat kar ke ek hafte mein comprehensive strategy banane ki hidayat di. 2-8 November ki qomi campaign Pakistan aur Afghanistan mein ek saath chal rahi hai.",
-      "title": "Polio ka 9th case — Khyber mein 7 mahine ka bacha, PM ne ek hafte mein strategy mang li",
-      "url": "https://www.nation.com.pk/06-Nov-2026/pm-seeks-national-strategy-country-reports-9th-polio-case"
-    },
-    {
-      "source": "Dawn",
-      "summary": "NCCIA ne Karachi ki Sharea Faisal par Voxtron Solutions call centre par chhapa maar kar 273 logon ko giraftar kar liya — jin mein 100 se zyada khawateen aur 42 nabaligh bhi shamil hain. Raid 4 November ko Kavish Crown Plaza ke qareeb hua; 339 laptops, 152 mobile phones aur 4 computers zabt hue. Ilzaam hai ke centre foreign nationals ko bank aur debt validation services ke naam par call kar ke un ki personal aur financial maloomat (Social Security Numbers, card details) nikalta tha aur phir merchant accounts se unauthorized transactions karta tha. PECA 2016 ke tehat case darj, 9 key suspects ka 2 din ka remand mil gaya. NCCIA ke mutabiq Karachi mein taqreeban 350 call centres is tarah ke scams mein involved hain.",
-      "title": "NCCIA ka Karachi mein bara raid — 273 giraftar, 'scam call centre' ka bhanda phoot gaya",
-      "url": "https://www.dawn.com/news/2042369"
+      "summary": "Sri Lanka ne PCB Patrons XI ko Islamabad Club Oval mein teen-din ke warm-up match mein 142 runs se shikast de di — 254 runs ka target, Patrons XI sirf 111 par all out. Keshara Nuwantha ne 4 wickets liye, Eshan Malinga ne 3. Pakistan ne apne 14-rukni Test squad mein chaar izafi khiladiyon — Ubaid Shah, Ali Shabbir, Saqib Khan aur Tayyab Arif — ko shamil karne par ghaur shuru kar diya hai. Do-match Test series 9 November se Rawalpindi mein shuru hogi, jo ICC World Test Championship ka hissa hai.",
+      "title": "Sri Lanka ne warm-up mein Pakistan ko 142 runs se hara diya — Test se pehle warning",
+      "url": "https://www.nation.com.pk/07-Nov-2026/nuwantha-malinga-shine-sri-lanka-rout-pcb-patrons-xi-142-runs"
     }
   ]
 }
