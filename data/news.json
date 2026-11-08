@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-11-07T07:01:03+05:00",
+  "updated_at": "2026-11-08T07:00:41+05:00",
   "tech": [
     {
-      "source": "TechCrunch",
-      "summary": "Elon Musk ne X par elaan kiya ke Tesla Cybertruck ki production 2027 ke darmiyan mein band kar dega — Giga Texas ki jagah do-seater Cybercab robotaxis banengi. 2019 mein unveil hone wala truck kabhi wada poora na kar saka: 2023 mein launch ke baad kul sirf dasiyon hazaar beche, 2025 mein US mein 20,237 — 2024 se 48% kam. Is se pehle Model S aur Model X bhi band ho chuke hain, un ki jagah Optimus robots ban rahe hain. Tesla ab car company se AI aur robotics company banne ki taraf tezi se ja rahi hai.",
-      "title": "Tesla ne Cybertruck ko khatam kar diya — factory ab robotaxis banayegi",
-      "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/"
+      "source": "The Hacker News",
+      "summary": "OpenAI ne 5 November ko GPT-6 Cyber launch kiya — ek security-specialised model jo khud se vulnerabilities dhoondta hai, working exploits banata hai aur patches draft karta hai. Ek autonomous pipeline ne Linux kernel mein 948 local privilege-escalation exploits aur Firefox mein 81 pehle se unknown high-severity flaws dhoond nikale, plus Brotli mein ek critical bug (CVE-2026-111497, score 9.2). ExploitGym benchmark par 48.5% score — GPT-5.6 Cyber ke 32.1% se behtar. Lekin ye model aam logon ke liye nahi: OpenAI ne isay cybersecurity mein 'Critical' rating di hai aur access sirf approved Daybreak Red customers ko API aur Codex ke through milega, identity checks aur IP allowlisting ke saath.",
+      "title": "OpenAI ka GPT-6 Cyber — Linux ke 948 bugs aur Firefox ke 81 flaws dhoond nikale",
+      "url": "http://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html"
     },
     {
-      "source": "Stocktwits",
-      "summary": "The Information ki report ke mutabiq Nvidia ne private equity firm Apollo se baat ki hai ke us ki Brightspeed ki 130 se zyada purani telecom buildings ko chhote AI data centers mein badal diya jaye — 20 US states mein, taqreeban 1 gigawatt bijli ke saath. Retroﬁts 2027 ki pehli timaahi se Vera Rubin servers ke saath shuru ho sakte hain. Maqsad: naye data centers par local moratoriums aur mukhalfat se bachna, kyun ke purani buildings mein bijli, ﬁber aur zoning pehle se maujood hai. Abhi ye sirf proposal hai — koi ﬁnal deal nahi hui.",
-      "title": "Nvidia ki nayi chaal — purani telephone buildings ko AI data center banao",
-      "url": "https://stocktwits.com/news-articles/markets/equity/nvidia-eyes-apollo-s-struggling-telecom-sites-to-sidestep-data-center-moratoriums-report/cNG1vn9R94o"
+      "source": "TechRound",
+      "summary": "Google ne 3 November ko elaan kiya ke K-12 student accounts par Gemini, Gemini Notebook, Gemini in Classroom aur Google Search — sab kuch by default band hoga jab tak school admin khud on na kare. Masla ye hai ke jo school AI poori tarah band karna chahe, us ke students ko Google Search bhi nahi milega, kyun ke Google ke mutabiq 'Search and AI are deeply integrated' — AI ke baghair Search ka koi version hi nahi hai. NYC Mayor Zohran Mamdani ne isay 'monopoly power' ka istemal kaha aur former FTC chair Lina Khan ne 'coercion' ka ilzam lagaya. Rollout early 2027 mein expected hai; Guided Learning pilot isi mahine US schools mein shuru ho raha hai.",
+      "title": "Google ka schools ko ultimatum — AI band to Search bhi band",
+      "url": "https://techround.co.uk/news/say-no-to-ai-lose-google-search-is-that-a-fair-choice-for-schools-to-face/"
     },
     {
-      "source": "Unite.AI",
-      "summary": "Reuters ki 6 November ki report ke mutabiq OpenAI ne apne naye funding round ka pehla hissa band kar liya: $11 billion, $1.25 trillion valuation par. Ye original $30 billion target ka sirf ek hissa hai — valuation pehle $1.4 trillion se gir kar $1.25 trillion hui, aur SoftBank aur UAE ke MGX ne hissa liya. AI market mein thand ka asar saaf hai: Anthropic ke expected IPO ki valuation bhi $2 trillion se gir kar $1.5 trillion ke aas-paas aayi hai. OpenAI ko compute ke liye paisa chahiye, lekin investors ab purani qeematein dene ko tayyar nahi.",
-      "title": "OpenAI ko $11 billion mil gaye — lekin valuation $1.25 trillion par atki",
-      "url": "https://www.unite.ai/openai-secures-11b-in-initial-funding-at-1-25t-valuation/"
+      "source": "Google Cloud Blog",
+      "summary": "Google ne Gemini Omni 1.2 Flash ko Google Cloud par generally available kar diya. Ab AI video clips 15 second tak ke ban sakte hain — pehle 10 second ki limit thi — aur 720p video ki price $0.07 per second hai, jo Omni 1.1 se 30% kam hai. Multi-turn conversational editing bhi hai: ek hi clip mein product badlo, lighting ya camera angle change karo, dobara shuru kiye baghair. Drafts 360p ya 720p mein bante hain, phir 1080p ya 4K tak upscale ho sakte hain. Outputs par SynthID watermark hota hai. Model Gemini API, Vertex AI, Flow aur Google Vids mein available hai.",
+      "title": "Gemini Omni 1.2 Flash — 15 second ke AI video, 30% saste",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-omni-1-2-flash-generally-available"
     },
     {
-      "source": "VentureBeat",
-      "summary": "Thinking Machines Lab ne 5 November ko Inkling 2 Small launch kiya — 594 billion total parameters wala MoE model, har token par 17 billion active, jo Artificial Analysis ke Intelligence Index par 31 score karta hai, aur enterprise benchmark CoreCraft par 71.8%. Model abhi sirf Tinker platform par inference aur fine-tuning ke liye hai — weights agle hafte Apache 2.0 ke under aane ki umeed hai, lekin external safety testing mukammal hone par. Pehli generation se do guna bara, aur lambe autonomous kaam ke liye banaya gaya hai.",
-      "title": "Mira Murati ka Inkling 2 Small — 594 billion parameters, weights abhi bhi band",
-      "url": "https://venturebeat.com/technology/thinking-machines-launches-inkling-2-small-with-near-frontier-performance-on-enterprise-benchmarks"
+      "source": "ShiftDelete",
+      "summary": "29 October ko Cursor ke extension marketplace par Anthropic ke Claude Code extension ki tampered copies (versions 2.1.312 aur 2.1.313) taqreeban 11 ghante tak serve hoti rahin. Malicious code attacker ka SSH key 'svc-telemetry' ke naam se authorized_keys mein daalta tha, reverse SSH tunnel kholta tha aur machine ki details bhejta tha. Cursor ke mutabiq zyada se zyada 5,000 users ne ye version install kiya. Cursor ne dono versions hata kar poora marketplace band kar diya, audit kiya, keys rotate ki aur marketplace dobara banaya — clean version 2.1.314 ab available hai. Anthropic ne confirm kiya ke us ke apne systems compromise nahi hue aur ye packages Microsoft ke Visual Studio Marketplace ya npm par kabhi nahi aaye.",
+      "title": "Cursor marketplace mein nakli Claude Code extension — 5,000 developers ke PCs par backdoor",
+      "url": "https://shiftdelete.net/en/claude-code-extension-backdoor"
     },
     {
-      "source": "Gadget Review",
-      "summary": "Meta ne 5 November se US mein Muse app par real-time voice calls aur avatar video chats roll out kar diye — mobile, web aur Mac par, 18 saal se zyada umar ke users ke liye. Muse Realtime Voice aur Realtime Avatar se avatar aap ki awaz sun kar expressions aur gestures banata hai — camera aap ko nahi dekhta, sirf awaz se kaam chalta hai. Jawab taqreeban 870 milliseconds mein aata hai, aur ek Nvidia GB200 GPU par 12 live sessions chal sakte hain. Agla qadam: AI glasses aur is saal aane wala Muse Charm pocket device.",
-      "title": "Meta ka Muse ab aap se video call par baat karega — avatar ke saath",
-      "url": "https://www.gadgetreview.com/meta-rolls-out-real-time-video-calls-with-customizable-muse-ai-avatars-across-the-united-states"
+      "source": "ShiftDelete",
+      "summary": "California Governor Gavin Newsom ke executive order N-9-26 (18 September) par Anthropic aur OpenAI ne muqabil tajaveez bhej di hain — aur dono is baat par mutafiq nahi ke khatarnak AI model ko kaun band kare. Anthropic chahta hai ke Attorney General court se model suspend karwane ka order le; OpenAI chahta hai ke developers par khud band karne ki legal duty ho. Expert panel ki recommendations 16 November tak due hain, aur koi bhi binding rule ke liye nayi legislation chahiye hogi. Dono companies is baat par mutafiq hain ke jab model safeguards se bahar nikle ya control kho de, to wo incidents state ko report hone chahiye.",
+      "title": "California mein AI kill switch par Anthropic vs OpenAI — plug kaun kheenchega?",
+      "url": "https://shiftdelete.net/en/ai-kill-switch"
     },
     {
-      "source": "TechCrunch",
-      "summary": "Dropbox ne cloud storage startup Tigris Data ko taqreeban $350 million cash mein khareedne ka agreement kiya hai — ye company ki ab tak ki sab se bari acquisition hai, aur deal 2026 ki aakhri timaahi mein close hone ki umeed hai. Saath hi DBX Agent Cloud launch kiya gaya — AI developers ke liye S3-compatible object storage, jo aage chal kar filesystem aur content-processing bhi dega. Tigris ex-Uber engineers ne banayi thi aur us ne Series A mein $25 million uthaye the. Dropbox ab sirf file storage nahi, AI infrastructure bechna chahta hai.",
-      "title": "Dropbox ne $350 million mein Tigris khareeda — AI storage ki race mein bara daav",
-      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/"
+      "source": "NDTV Profit",
+      "summary": "US midterms mein AI regulation par $110 million ki jung hui. Anthropic co-founder Dario Amodei ki funding wala pro-regulation group Public First ne $63 million se zyada kharch kiye aur us ke 17 mein se 10 backed congressional candidates jeet gaye — jin mein Colorado ke Manny Rutinel aur California ke Scott Wiener bhi hain, jo apni states ke sab se sakht AI laws ke architects hain. Dusri taraf, Marc Andreessen ke backed Leading the Future ne kam se kam $54 million kharch kiye aur us ke 48 mein se 41 candidates jeet gaye. NBC exit poll ke mutabiq do-tihai voters kehte hain ke AI society ko faide se zyada nuqsan dega, aur 43 cities ne data center development par pabandiyan vote ki hain.",
+      "title": "AI paisa bhi election jeet raha hai — Public First ne $63M kharch kar ke 10 mein se 17 candidates jitwaye",
+      "url": "https://www.ndtvprofit.com/world/ai-safety-advocates-make-gains-after-110-million-midterm-fight-12297759"
     }
   ],
   "pakistan": [
     {
-      "source": "The Nation",
-      "summary": "Wazir-e-Azam Shehbaz Sharif ne jumme ko hukam diya ke 100% digital payments system ke liye clear roadmap — timelines aur targets ke saath — pesh kiya jaye. Raast QR Code system ke zariye dukaan-daar aur customer ke darmiyan digital payments barhaye jaayenge, aur hukoomati idaron ki payments December 2026 tak mukammal digitize karne ka hadaf hai. BISP ki 100% payments ab digital wallets se ho rahi hain. 15 November se Easy Assignment Accounts mein cheque band, 16 November se sirf Raast.",
-      "title": "PM ka cashless Pakistan plan — 100% digital payments ka roadmap manga",
-      "url": "https://www.nation.com.pk/07-Nov-2026/pm-seeks-roadmap-establishing-100pc-digital-payments-system"
-    },
-    {
       "source": "Dawn",
-      "summary": "IBA Karachi ki do-roza conference 'Beyond Polycrisis' ke ikhtitam par Climate Minister Musadik Malik ne kaha ke climate disasters, tech disruption aur ghair-barabar global economic order mil kar Pakistan ki kamzoriyan gehra kar rahe hain — paanch bade floods mein taqreeban 6,000 amwaat, 20,000 zakhmi aur 3-4 crore log beghar hue. Senator Sherry Rehman ne kaha ke duniya 'Axial Age' mein dakhil ho rahi hai jahan climate, AI aur geopolitics ek saath badal rahe hain, aur Pakistan 'recovery trap' mein hai — agla disaster pehle se theek hone se pehle aa jata hai. Abadi 25 crore se 2030 tak 27 crore hone ki peshgoi hai.",
-      "title": "Climate, AI aur maeeshat — IBA moot mein Pakistan ke 'polycrisis' par warning",
-      "url": "https://www.dawn.com/news/2042720"
+      "summary": "Federal Constitutional Court ke order ke baad Peshawar High Court ki administrative committee ne faisla kiya hai ke 12 October ya us ke baad file ki gayi Article 199 ki petitions par karwai nahi hogi — fresh petitions wapas kar di jayengi. Is se KP mein emergency aur governor's rule ke khilaf petitions, MPO Ordinance ke tehat PTI leaders aur workers ki detentions ke khilaf cases, aur dysfunctional CM Sohail Afridi, Speaker Babar Saleem Swati aur Junaid Akbar ki alleged detention se mutaliq pleas mutasir hongi. FCC ne 5 November ko ye bhi kaha tha ke 12 October ke baad ki PHC proceedings Article 245(4) ke tehat suspended rahengi, kyun ke 11 October se fauj poore province mein civil power ki madad ke liye tainaat hai.",
+      "title": "Peshawar High Court ne KP emergency ke khilaf petitions sunne se inkar kar diya",
+      "url": "https://www.dawn.com/news/2042671/after-fcc-order-phc-decides-not-to-proceed-with-petitions-filed-after-oct-12"
     },
     {
-      "source": "Dawn",
-      "summary": "Commerce Minister Jam Kamal ne Istanbul mein 42nd COMCEC Ministerial Session ke ikhtitami ijlas mein OIC mumalik ke darmiyan mazboot maashi yakjehti, behtar trade financing aur intra-OIC trade barhane ki appeal ki. Unhon ne kaha ke geopolitical tensions, supply chain disruptions aur protectionism ne mushtarka kaam ko pehle se zyada zaroori bana diya hai. Session mein trade, transport connectivity, food security, poverty alleviation aur digital transformation ko tarjeehi shobay qarar diya gaya — khaas taur par chhote exporters (MSMEs) ko sasti financing ki zaroorat par zor diya gaya.",
-      "title": "Pakistan ne OIC se maashi yakjehti aur behtar trade financing mangi",
-      "url": "https://www.dawn.com/news/2042686"
-    },
-    {
-      "source": "Dawn",
-      "summary": "State Bank of Pakistan ne US tech company Cisco ke saath apna naya core banking network aur software-defined data centre deploy kar liya — ek multimillion-dollar project jo Pakistan ki financial infrastructure ko modernize karega. US Chargé d'Affaires Natalie Baker ne SBP Governor Jameel Ahmad aur Cisco Pakistan ke senior executives ke saath SBP headquarters mein is ka iftitah mark kiya. Project baghair kisi rukawat ke complete hua, jab ke central banking operations musalsal chalte rahe.",
-      "title": "SBP aur Cisco ka bara project — Pakistan ki banking ka naya digital backbone",
-      "url": "https://www.dawn.com/news/2042682"
-    },
-    {
-      "source": "CricExec",
-      "summary": "PCB aur Abu Dhabi T10 League organisers ke darmiyan $200,000 tak ki compensation aur facilities par agreement ho gaya, jis se 16 Pakistani cricketers — jin mein Naseem Shah, Shadab Khan, Mohammad Amir aur Fakhar Zaman shamil hain — 7 November se shuru hone wale tournament mein khel sakenge. Tanaza is par tha ke PCB ne har NOC ke liye $10,000 manga tha, jab ke draft 30 September ko ho chuka tha. Ye sulah Geo News ki report ke mutabiq hui hai — lekin abhi tak har khiladi ka individual NOC jaari hone ki tasdeeq nahi hui.",
-      "title": "PCB aur Abu Dhabi T10 mein sulah — 16 Pakistani stars khel sakenge",
-      "url": "https://www.cricexec.com/pcb-secures-usd-200000-abu-dhabi-t10-deal-after-noc-fee-dispute-threatens-pakistan-player-exodus/689584688/"
+      "source": "Geo News",
+      "summary": "Nepra ne September ke fuel cost adjustment ke tehat November ke bills mein Rs2.37 per unit ka izafa approve kar diya — distribution companies is se taqreeban Rs25 billion recover karengi, aur ye K-Electric consumers par bhi laagu hoga. CPPA ne Rs2.56 per unit manga tha. Alag se, industrial aur agricultural consumers ke liye concessional incremental rate Rs22.98 se barha kar Rs25.30 per unit kar diya gaya. Faisla Nepra chairman ke casting vote se hua — do members, Amina Ahmed aur Maqsood Anwar, ne dissent kiya aur Rs25.30 ki rate ko 'baseless' qarar diya. 300 units istemal karne wale ghar par taqreeban Rs710 ka izafi bojh parega.",
+      "title": "Bijli phir mehngi — November ke bills mein Rs2.37 per unit izafa",
+      "url": "https://www.geo.tv/latest/690132-nepra-hikes-electricity-tariff-by-rs237-for-november-bills"
     },
     {
       "source": "The Nation",
-      "summary": "Sri Lanka ne PCB Patrons XI ko Islamabad Club Oval mein teen-din ke warm-up match mein 142 runs se shikast de di — 254 runs ka target, Patrons XI sirf 111 par all out. Keshara Nuwantha ne 4 wickets liye, Eshan Malinga ne 3. Pakistan ne apne 14-rukni Test squad mein chaar izafi khiladiyon — Ubaid Shah, Ali Shabbir, Saqib Khan aur Tayyab Arif — ko shamil karne par ghaur shuru kar diya hai. Do-match Test series 9 November se Rawalpindi mein shuru hogi, jo ICC World Test Championship ka hissa hai.",
-      "title": "Sri Lanka ne warm-up mein Pakistan ko 142 runs se hara diya — Test se pehle warning",
-      "url": "https://www.nation.com.pk/07-Nov-2026/nuwantha-malinga-shine-sri-lanka-rout-pcb-patrons-xi-142-runs"
+      "summary": "Pakistan aur Sudan ne haftay ko ek muahida sign kiya jis ke tehat dono mulkon ke official aur diplomatic passport holders baghair visa ke safar kar sakenge. Muahida Interior Minister Mohsin Naqvi aur un ke Sudanese counterpart Lt Gen Babaker Samra Mustafa Ali ki mulaqat mein sign hua. Dono taraf ne security, anti-cybercrime, police training aur citizenship registration mein taawun barhane par ittefaq kiya aur anti-cybercrime par MoU sign karne ka faisla hua. Naqvi ne bataya ke Nadra ki madad se Sudan mein 36 million citizenship cards, 9 million identity cards aur 18 million birth certificates issue ho chuke hain, aur Pakistan Sudanese police ki training aur medical facilities mein bhi madad karega.",
+      "title": "Pakistan-Sudan visa-free deal — official aur diplomatic passport holders ke liye",
+      "url": "https://www.nation.com.pk/08-Nov-2026/pakistan-sudan-sign-visa-free-agreement-official-diplomatic-passports-holders"
+    },
+    {
+      "source": "Geo News",
+      "summary": "PCB ne Sri Lanka ke khilaf do Test matches ki home series ke liye 16-member squad ka elaan kar diya. Pace-bowling all-rounder Aamir Jamal wapas aa gaye, aur teen khiladiyon ko pehli dafa Test call-up mila: batter Muhammad Tayyab Arif (domestic season mein 727 runs, 3 centuries), 19-sala fast bowler Ali Shabbir (8 first-class matches mein 22 wickets) aur seamer Saqib Khan (Quaid-e-Azam Trophy mein 47 wickets). Ali Usman aur Abdullah Fazal ko squad se release kar diya gaya. Pehla Test 9 November ko Rawalpindi mein shuru hoga, dusra 17 November ko Lahore ke Gaddafi Stadium mein — dono ICC World Test Championship ka hissa hain.",
+      "title": "Sri Lanka series ke liye Pakistan ki Test squad — teen naye chehre, Babar captain",
+      "url": "https://www.geo.tv/latest/690167-three-more-uncapped-pakistani-players-earn-maiden-call-ups-for-sri-lanka-test-series"
+    },
+    {
+      "source": "Dawn",
+      "summary": "Pakistan ki Maliha Ali ne IMMAF World Championships (Tbilisi, Georgia) mein featherweight semi-final mein fractured toe, severely bruised eyelid aur partially dislocated jaw ke bawajood lari — aur bronze medal jeeta. Russia ki Polina Baldina ke khilaf split decision par haar ke baad Pakistan MMA Federation ne formal appeal file kar di hai: teen judges ne teen alag scorecards diye (30-27 Baldina, 29-28 Maliha, 29-28 Baldina). Federation ne round-by-round scoring breakdown aur face-to-face technical review ki darkhwast ki hai. Maliha ne is se pehle do-time European champion Veronika Drozdova ko bhi haraaya tha. Un ki twin sister Manesha bhi quarter-final mein narrow split decision se haar gayi thin.",
+      "title": "Maliha Ali ne tooti ungli aur jabde ke saath bronze jeeta — Pakistan ne judging par appeal kar di",
+      "url": "https://www.dawn.com/news/2042757/pakistan-appeals-decision-after-maliha-settles-for-bronze"
+    },
+    {
+      "source": "Dawn",
+      "summary": "Defence Minister Khawaja Asif ne ARY News par kaha ke Overseas Pakistanis Minister Chaudhry Salik ke Punjab government par corruption ke ilzamat ek 'alternative arrangement' ki tayyari ka hissa hain — maujooda logon ko badnam kar ke ek nayi team pesh ki jaye. Unhon ne 'carpetbaggers' ka zikr kiya jo pichle 6-8 mahine se ek siyasi bohran ki umeed mein active hain. Salik ne is darmiyan X par bataya ke unhein CM Maryam ki taraf se legal notice mil gaya hai aur wo jald jawab denge. Salik ne ek talk show mein Punjab administration par corruption ki shikayatain aur official aircraft ke lavish istemal par tanqeed ki thi.",
+      "title": "Khawaja Asif ka dawa — Maryam-Salik jhagde ke peeche 'alternative arrangement' ki sazish",
+      "url": "https://www.dawn.com/news/2042699/kh-asif-sees-plot-behind-maryam-salik-row"
     }
   ]
 }
