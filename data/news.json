@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-11-08T07:00:41+05:00",
+  "updated_at": "2026-11-09T07:01:45+05:00",
   "tech": [
     {
-      "source": "The Hacker News",
-      "summary": "OpenAI ne 5 November ko GPT-6 Cyber launch kiya — ek security-specialised model jo khud se vulnerabilities dhoondta hai, working exploits banata hai aur patches draft karta hai. Ek autonomous pipeline ne Linux kernel mein 948 local privilege-escalation exploits aur Firefox mein 81 pehle se unknown high-severity flaws dhoond nikale, plus Brotli mein ek critical bug (CVE-2026-111497, score 9.2). ExploitGym benchmark par 48.5% score — GPT-5.6 Cyber ke 32.1% se behtar. Lekin ye model aam logon ke liye nahi: OpenAI ne isay cybersecurity mein 'Critical' rating di hai aur access sirf approved Daybreak Red customers ko API aur Codex ke through milega, identity checks aur IP allowlisting ke saath.",
-      "title": "OpenAI ka GPT-6 Cyber — Linux ke 948 bugs aur Firefox ke 81 flaws dhoond nikale",
-      "url": "http://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html"
+      "source": "Engadget",
+      "summary": "The New York Times aur Financial Times ki reports ke baad Nvidia ke board ne CEO Jensen Huang ke khilaf independent investigation ka elaan kar diya. Reports ke mutabiq Huang ka Singapore-based Megaspeed ki executive Alice Huang (Jensen se koi rishta nahi) se qareebi taluq tha, jise US intelligence ne China ki Ministry of State Security ki asset qarar diya hai. Huang ne staff ko bheje gaye memo mein affair tasleem karte hue maafi mangi. Board ka kehna hai ke national security ya company secrets compromise hone ka koi saboot nahi, lekin inquiry har pehlu dekhegi. US Congress ne Huang ko 18 November ko closed-door briefing ke liye bhi bula liya hai.",
+      "title": "Nvidia board ne Jensen Huang ki jaanch shuru kar di — Chinese spy se taluq ka ilzaam",
+      "url": "https://www.engadget.com/2310336/nvidia-is-investigating-reports-that-ceo-jensen-huang-was-the-target-of-chinese-spy-efforts/"
     },
     {
-      "source": "TechRound",
-      "summary": "Google ne 3 November ko elaan kiya ke K-12 student accounts par Gemini, Gemini Notebook, Gemini in Classroom aur Google Search — sab kuch by default band hoga jab tak school admin khud on na kare. Masla ye hai ke jo school AI poori tarah band karna chahe, us ke students ko Google Search bhi nahi milega, kyun ke Google ke mutabiq 'Search and AI are deeply integrated' — AI ke baghair Search ka koi version hi nahi hai. NYC Mayor Zohran Mamdani ne isay 'monopoly power' ka istemal kaha aur former FTC chair Lina Khan ne 'coercion' ka ilzam lagaya. Rollout early 2027 mein expected hai; Guided Learning pilot isi mahine US schools mein shuru ho raha hai.",
-      "title": "Google ka schools ko ultimatum — AI band to Search bhi band",
-      "url": "https://techround.co.uk/news/say-no-to-ai-lose-google-search-is-that-a-fair-choice-for-schools-to-face/"
+      "source": "Intelligent Living",
+      "summary": "France ki Mistral ne 29 October ko apne Mistral Large 4 ke weights Hugging Face par release kar diye — taqreeban 1 trillion total parameters, 49 billion active per token aur 1 million token context window ke saath. Company kehti hai ye coding aur cybersecurity mein behtareen open-weight model hai, lekin independent tests mein is ke headline numbers kam nikle: Terminal-Bench 4.0 par 25-26% jab ke Mistral ne 41% claim kiya tha. Model laptop par nahi chalega — official recipes 8-GPU servers mangte hain. License modified MIT hai, lekin model-as-a-service ke liye alag commercial license chahiye.",
+      "title": "Mistral ka 'Le Chonk' — 1 trillion parameters wala open-weight model ab sab ke liye",
+      "url": "https://www.intelligentliving.co/mistral-large-4-le-chonk/"
     },
     {
-      "source": "Google Cloud Blog",
-      "summary": "Google ne Gemini Omni 1.2 Flash ko Google Cloud par generally available kar diya. Ab AI video clips 15 second tak ke ban sakte hain — pehle 10 second ki limit thi — aur 720p video ki price $0.07 per second hai, jo Omni 1.1 se 30% kam hai. Multi-turn conversational editing bhi hai: ek hi clip mein product badlo, lighting ya camera angle change karo, dobara shuru kiye baghair. Drafts 360p ya 720p mein bante hain, phir 1080p ya 4K tak upscale ho sakte hain. Outputs par SynthID watermark hota hai. Model Gemini API, Vertex AI, Flow aur Google Vids mein available hai.",
-      "title": "Gemini Omni 1.2 Flash — 15 second ke AI video, 30% saste",
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-omni-1-2-flash-generally-available"
+      "source": "GE Roundtable",
+      "summary": "xAI ne 7 November se Grok API se aane wale text par invisible statistical watermark by default on kar diya hai. Ye saat models par laagu hai — grok-4.7 se le kar grok-4.20 ke teen variants tak — aur har API endpoint par chalega. Wajah EU AI Act ki transparency rules hain. Team admins per-model watermark band kar sakte hain, lekin unhein legal exception declare karni hogi aur faisla audit log mein record hoga. Watermark sirf API par hai — Grok app ya X par nahi — aur usay check karne ka detector sirf application par milta hai.",
+      "title": "Grok ke jawabon par ab invisible watermark — 7 November se by default",
+      "url": "https://geroundtable.com/grok-api-hidden-watermark-november-7/"
     },
     {
-      "source": "ShiftDelete",
-      "summary": "29 October ko Cursor ke extension marketplace par Anthropic ke Claude Code extension ki tampered copies (versions 2.1.312 aur 2.1.313) taqreeban 11 ghante tak serve hoti rahin. Malicious code attacker ka SSH key 'svc-telemetry' ke naam se authorized_keys mein daalta tha, reverse SSH tunnel kholta tha aur machine ki details bhejta tha. Cursor ke mutabiq zyada se zyada 5,000 users ne ye version install kiya. Cursor ne dono versions hata kar poora marketplace band kar diya, audit kiya, keys rotate ki aur marketplace dobara banaya — clean version 2.1.314 ab available hai. Anthropic ne confirm kiya ke us ke apne systems compromise nahi hue aur ye packages Microsoft ke Visual Studio Marketplace ya npm par kabhi nahi aaye.",
-      "title": "Cursor marketplace mein nakli Claude Code extension — 5,000 developers ke PCs par backdoor",
-      "url": "https://shiftdelete.net/en/claude-code-extension-backdoor"
+      "source": "CIO",
+      "summary": "OpenAI ne 4 November ko Pierre Computer Company khareedne ka agreement kar liya — ek chhoti San Francisco startup jis ka Code Storage service aur Trees aur Diffs open-source libraries pehle se Codex ke andar use hoti hain. Deal ki price disclose nahi hui aur regulatory approval baqi hai. OpenAI ne isi hafte apna Git backend Pando bhi introduce kiya tha, kyun ke AI agents ke parallel kaam ne Git ki limits expose kar di thin. Code Storage customers service use karte rahenge jab tak us ke features Codex mein integrate nahi ho jate, aur Pierre ke open-source projects open hi rahenge.",
+      "title": "OpenAI ne Pierre khareed liya — Codex ke liye Git ki nayi neev",
+      "url": "https://www.cio.com/article/4245726/openai-buys-tiny-software-developer-to-improve-codex-2.html"
     },
     {
-      "source": "ShiftDelete",
-      "summary": "California Governor Gavin Newsom ke executive order N-9-26 (18 September) par Anthropic aur OpenAI ne muqabil tajaveez bhej di hain — aur dono is baat par mutafiq nahi ke khatarnak AI model ko kaun band kare. Anthropic chahta hai ke Attorney General court se model suspend karwane ka order le; OpenAI chahta hai ke developers par khud band karne ki legal duty ho. Expert panel ki recommendations 16 November tak due hain, aur koi bhi binding rule ke liye nayi legislation chahiye hogi. Dono companies is baat par mutafiq hain ke jab model safeguards se bahar nikle ya control kho de, to wo incidents state ko report hone chahiye.",
-      "title": "California mein AI kill switch par Anthropic vs OpenAI — plug kaun kheenchega?",
-      "url": "https://shiftdelete.net/en/ai-kill-switch"
+      "source": "Gadgets Now",
+      "summary": "Anthropic ne 5 November ko Claude mein Personal Finance feature launch kar diya: US ke Pro, Max aur Ultra subscribers apne bank aur credit card accounts Plaid ke through link kar ke Claude se kharch, bills aur balances ke bare mein pooch sakte hain. Access sirf read-only hai — Claude paise move, pay ya invest nahi kar sakta — aur do saal tak ki transaction history parh sakta hai. Bank password Claude kabhi nahi dekhta, sign-in Plaid ki screen par hota hai. Feature beta mein hai, sirf US mein, aur is ki conversations AI training mein use nahi hongi.",
+      "title": "Claude ab aap ka bank statement parhega — Personal Finance beta US mein",
+      "url": "https://gadgetsnow.indiatimes.com/tech-news/anthropic-brings-personal-finance-feature-to-claude-users-can-connect-bank-accounts-and-track-spending/articleshow/135612095.cms"
     },
     {
-      "source": "NDTV Profit",
-      "summary": "US midterms mein AI regulation par $110 million ki jung hui. Anthropic co-founder Dario Amodei ki funding wala pro-regulation group Public First ne $63 million se zyada kharch kiye aur us ke 17 mein se 10 backed congressional candidates jeet gaye — jin mein Colorado ke Manny Rutinel aur California ke Scott Wiener bhi hain, jo apni states ke sab se sakht AI laws ke architects hain. Dusri taraf, Marc Andreessen ke backed Leading the Future ne kam se kam $54 million kharch kiye aur us ke 48 mein se 41 candidates jeet gaye. NBC exit poll ke mutabiq do-tihai voters kehte hain ke AI society ko faide se zyada nuqsan dega, aur 43 cities ne data center development par pabandiyan vote ki hain.",
-      "title": "AI paisa bhi election jeet raha hai — Public First ne $63M kharch kar ke 10 mein se 17 candidates jitwaye",
-      "url": "https://www.ndtvprofit.com/world/ai-safety-advocates-make-gains-after-110-million-midterm-fight-12297759"
+      "source": "OpenAI",
+      "summary": "OpenAI ne 4 November ko ChatGPT Images 2.6 launch kar diya — ab ChatGPT, Codex aur API mein animated GIFs ban sakte hain, aur images pehle se 50% tez generate hoti hain. API mein do naye models aaye hain: tez Flare (low quality par taqreeban 6 second mein image) aur detail-oriented Sunburst. Developers ko SVG export, image markup aur ek naya complexity control bhi mila hai. OpenAI ke mutabiq log ab ChatGPT par har hafte 4 billion images banate hain. Images 2.6 sab subscription tiers par globally available hai.",
+      "title": "ChatGPT Images 2.6 — ab GIFs banao, 50% tez",
+      "url": "https://openai.com/index/introducing-images-2-6"
     }
   ],
   "pakistan": [
     {
       "source": "Dawn",
-      "summary": "Federal Constitutional Court ke order ke baad Peshawar High Court ki administrative committee ne faisla kiya hai ke 12 October ya us ke baad file ki gayi Article 199 ki petitions par karwai nahi hogi — fresh petitions wapas kar di jayengi. Is se KP mein emergency aur governor's rule ke khilaf petitions, MPO Ordinance ke tehat PTI leaders aur workers ki detentions ke khilaf cases, aur dysfunctional CM Sohail Afridi, Speaker Babar Saleem Swati aur Junaid Akbar ki alleged detention se mutaliq pleas mutasir hongi. FCC ne 5 November ko ye bhi kaha tha ke 12 October ke baad ki PHC proceedings Article 245(4) ke tehat suspended rahengi, kyun ke 11 October se fauj poore province mein civil power ki madad ke liye tainaat hai.",
-      "title": "Peshawar High Court ne KP emergency ke khilaf petitions sunne se inkar kar diya",
-      "url": "https://www.dawn.com/news/2042671/after-fcc-order-phc-decides-not-to-proceed-with-petitions-filed-after-oct-12"
-    },
-    {
-      "source": "Geo News",
-      "summary": "Nepra ne September ke fuel cost adjustment ke tehat November ke bills mein Rs2.37 per unit ka izafa approve kar diya — distribution companies is se taqreeban Rs25 billion recover karengi, aur ye K-Electric consumers par bhi laagu hoga. CPPA ne Rs2.56 per unit manga tha. Alag se, industrial aur agricultural consumers ke liye concessional incremental rate Rs22.98 se barha kar Rs25.30 per unit kar diya gaya. Faisla Nepra chairman ke casting vote se hua — do members, Amina Ahmed aur Maqsood Anwar, ne dissent kiya aur Rs25.30 ki rate ko 'baseless' qarar diya. 300 units istemal karne wale ghar par taqreeban Rs710 ka izafi bojh parega.",
-      "title": "Bijli phir mehngi — November ke bills mein Rs2.37 per unit izafa",
-      "url": "https://www.geo.tv/latest/690132-nepra-hikes-electricity-tariff-by-rs237-for-november-bills"
-    },
-    {
-      "source": "The Nation",
-      "summary": "Pakistan aur Sudan ne haftay ko ek muahida sign kiya jis ke tehat dono mulkon ke official aur diplomatic passport holders baghair visa ke safar kar sakenge. Muahida Interior Minister Mohsin Naqvi aur un ke Sudanese counterpart Lt Gen Babaker Samra Mustafa Ali ki mulaqat mein sign hua. Dono taraf ne security, anti-cybercrime, police training aur citizenship registration mein taawun barhane par ittefaq kiya aur anti-cybercrime par MoU sign karne ka faisla hua. Naqvi ne bataya ke Nadra ki madad se Sudan mein 36 million citizenship cards, 9 million identity cards aur 18 million birth certificates issue ho chuke hain, aur Pakistan Sudanese police ki training aur medical facilities mein bhi madad karega.",
-      "title": "Pakistan-Sudan visa-free deal — official aur diplomatic passport holders ke liye",
-      "url": "https://www.nation.com.pk/08-Nov-2026/pakistan-sudan-sign-visa-free-agreement-official-diplomatic-passports-holders"
-    },
-    {
-      "source": "Geo News",
-      "summary": "PCB ne Sri Lanka ke khilaf do Test matches ki home series ke liye 16-member squad ka elaan kar diya. Pace-bowling all-rounder Aamir Jamal wapas aa gaye, aur teen khiladiyon ko pehli dafa Test call-up mila: batter Muhammad Tayyab Arif (domestic season mein 727 runs, 3 centuries), 19-sala fast bowler Ali Shabbir (8 first-class matches mein 22 wickets) aur seamer Saqib Khan (Quaid-e-Azam Trophy mein 47 wickets). Ali Usman aur Abdullah Fazal ko squad se release kar diya gaya. Pehla Test 9 November ko Rawalpindi mein shuru hoga, dusra 17 November ko Lahore ke Gaddafi Stadium mein — dono ICC World Test Championship ka hissa hain.",
-      "title": "Sri Lanka series ke liye Pakistan ki Test squad — teen naye chehre, Babar captain",
-      "url": "https://www.geo.tv/latest/690167-three-more-uncapped-pakistani-players-earn-maiden-call-ups-for-sri-lanka-test-series"
+      "summary": "Wazir-e-Azam Shehbaz Sharif ne Jati Umra mein Nawaz Sharif ko Khyber Pakhtunkhwa ki security situation par brief kiya — Nawaz ne kaha ke emergency wali intervention pehle honi chahiye thi. KP set-up ne 'faceless' anti-terrorism courts ka elaan kiya hai taake judges, prosecutors aur witnesses ki pehchan chhupi rahe. Police aur CTD ke liye saalana Rs70bn ka package hai — Rs59.8bn police aur Rs10.3bn CTD ke liye. Home Secretary ke mutabiq pichle 2-3 saal mein 1,003 fauj, 627 police ahelkar aur 808 civilians shaheed hue, jab ke 3,788 terrorists mare gaye. Merged districts mein security ke liye budget ka sirf 3.2% mukhtas tha.",
+      "title": "KP security plan: Shehbaz ne Nawaz ko brief kiya — faceless ATCs aur Rs70bn ka elaan",
+      "url": "https://www.dawn.com/news/2043160/pm-briefs-nawaz-on-kp-after-new-security-plan-unveiled"
     },
     {
       "source": "Dawn",
-      "summary": "Pakistan ki Maliha Ali ne IMMAF World Championships (Tbilisi, Georgia) mein featherweight semi-final mein fractured toe, severely bruised eyelid aur partially dislocated jaw ke bawajood lari — aur bronze medal jeeta. Russia ki Polina Baldina ke khilaf split decision par haar ke baad Pakistan MMA Federation ne formal appeal file kar di hai: teen judges ne teen alag scorecards diye (30-27 Baldina, 29-28 Maliha, 29-28 Baldina). Federation ne round-by-round scoring breakdown aur face-to-face technical review ki darkhwast ki hai. Maliha ne is se pehle do-time European champion Veronika Drozdova ko bhi haraaya tha. Un ki twin sister Manesha bhi quarter-final mein narrow split decision se haar gayi thin.",
-      "title": "Maliha Ali ne tooti ungli aur jabde ke saath bronze jeeta — Pakistan ne judging par appeal kar di",
-      "url": "https://www.dawn.com/news/2042757/pakistan-appeals-decision-after-maliha-settles-for-bronze"
+      "summary": "World Bank ki Pakistan Poverty and Equity Brief (October 2026) ke mutabiq mulk mein ghurbat 21.9% (2018-19) se barh kar 28.9% (2024-25) ho gayi hai, aur 47.9% abadi $4.20 rozana wali international poverty line se neeche zindagi guzar rahi hai. Dehati areas mein masla aur gehra hai: combine harvesters aur self-propelled transplanters mazdooron ki jagah le rahe hain — ek Rs2.5m ki machine roz 10 acre transplant kar ke 60 se zyada mazdooron ka kaam kar deti hai. Industry itni jobs nahi bana rahi ke be-rozgar mazdooron ko absorb kar sake, jab ke 66% abadi 30 saal se kam umar ki hai.",
+      "title": "Pakistan mein ghurbat 28.9% tak — dehati mazdoor ki rozi par machine ka hamla",
+      "url": "https://www.dawn.com/news/print/2043209"
     },
     {
       "source": "Dawn",
-      "summary": "Defence Minister Khawaja Asif ne ARY News par kaha ke Overseas Pakistanis Minister Chaudhry Salik ke Punjab government par corruption ke ilzamat ek 'alternative arrangement' ki tayyari ka hissa hain — maujooda logon ko badnam kar ke ek nayi team pesh ki jaye. Unhon ne 'carpetbaggers' ka zikr kiya jo pichle 6-8 mahine se ek siyasi bohran ki umeed mein active hain. Salik ne is darmiyan X par bataya ke unhein CM Maryam ki taraf se legal notice mil gaya hai aur wo jald jawab denge. Salik ne ek talk show mein Punjab administration par corruption ki shikayatain aur official aircraft ke lavish istemal par tanqeed ki thi.",
-      "title": "Khawaja Asif ka dawa — Maryam-Salik jhagde ke peeche 'alternative arrangement' ki sazish",
-      "url": "https://www.dawn.com/news/2042699/kh-asif-sees-plot-behind-maryam-salik-row"
+      "summary": "Senate Opposition Leader Allama Raja Nasir Abbas ne hukumat se mutalba kiya hai ke Pakistan Yemen ke tanaze se door rahe aur sirf mediatory role ada kare — un ke mutabiq 2015 ki parliament ki mutafaqa qarardad ki khilafwarzi mulki mufadat ko nuqsan pohanchayegi. Unhon ne bataya ke Yemen ne Pakistan ko mediation ki peshkash ki hai aur unhon ne is bare mein wazir-e-azam ko khat bhi likha hai. Abbas ne Yemen par hamon ki mazammat karte hue kaha ke Yemeni awam ko Gaza ki himayat ki saza di ja rahi hai, aur Imran Khan ko qomi masalihat mein role dene ki bhi baat ki.",
+      "title": "Senate opposition leader ka mutalba — Pakistan Yemen jang se door rahe",
+      "url": "https://www.dawn.com/news/print/2043143"
+    },
+    {
+      "source": "Dawn",
+      "summary": "Karachi ke industrial areas mein rozana ka safar ab aik imtihan ban gaya hai — Korangi ka ek mazdoor public transport mein roz 4 ghante zaya karta hai, aur tooti sadkein, paani ki qillat aur kharab drainage industry ki cost barha rahe hain. Karachi wafaqi revenue ka taqreeban 67% aur exports ka 54% deta hai, lekin December 2025 mein manzoor Rs9bn ki road repairs ke 10 mahine baad bhi kaam shuru nahi hua. Korangi estate ke liye Rs2bn ki allocation bhi na-kaafi qarar di gayi. Mayor Murtaza Wahab ne agle saal allocation barhane ki yaqeen-dhani karayi hai.",
+      "title": "Karachi ki tooti sadkein — mazdoor 4 ghante safar mein, industry ko arabon ka nuqsan",
+      "url": "https://www.dawn.com/news/2043198/high-cost-of-crumbling-infrastructure-in-karachi"
+    },
+    {
+      "source": "Wisden",
+      "summary": "Pakistan aur Sri Lanka ke darmiyan pehla Test aaj subah 9:30 baje Rawalpindi Cricket Stadium mein shuru ho raha hai — dusra Test 17 November se Lahore mein hoga. Babar Azam ki qayadat mein nayi team mein teen uncapped khiladi hain — Tayyab Arif, Ali Shabbir aur Saqib Khan — aur Aamir Jamal wapas aa gaye hain. Pakistan World Test Championship mein 9th number par hai (2 jeete, 7 haare), jab ke Sri Lanka ke naye Test captain Kusal Mendis apna pehla Test as captain khelenge. Dono Tests WTC 2025-27 ka hissa hain.",
+      "title": "Aaj se Rawalpindi Test — Babar ki nayi team, Sri Lanka ke khilaf redemption",
+      "url": "https://www.wisden.com/series/pakistan-vs-sri-lanka-m-2026/cricket-news/pak-vs-sl-tests-2026-all-you-need-to-know-full-schedule-squads-venues-and-match-timings"
+    },
+    {
+      "source": "Dawn",
+      "summary": "Karachi Port ne July-October 2026 mein cargo throughput 3.8% barha kar 19.286 million tonnes kar liya — exports mein 10.5% izafa aur vessel calls mein 13.7% izafa hua. Port ne Container Port Performance Index mein 30 places ki chhalang laga kar 69th position hasil ki, aur MSC ne Karachi se Europe ke liye weekly Premium IPAK direct service shuru kar di. FY2025-26 mein port ne record 55.438m tonnes cargo handle kiya tha. KPT saalana Rs12bn wafaqi aur Rs5bn Sindh taxes deta hai, jab ke navigation channel ki dredging December 2026 tak mukammal hone ki tawaqqo hai.",
+      "title": "Karachi Port ki record daud — cargo 19.3m tonnes, duniya bhar ki shipping lines aa rahin",
+      "url": "https://www.dawn.com/news/2043193"
     }
   ]
 }

@@ -1,86 +1,86 @@
 {
   "poll": {
-    "q": "Aaj ki sab se bari khabar kaun si hai — GPT-6 Cyber, bijli mehngi, ya PHC ka KP petitions par inkar?",
+    "q": "Aaj ki sab se bari khabar kaun si hai — Nvidia ke CEO par jaanch, KP security plan, Rawalpindi Test, ya Claude ka bank access?",
     "options": [
-      "🤖 GPT-6 Cyber — AI ne 948 Linux bugs dhoond nikale",
-      "⚡ Bijli mehngi — November bills mein Rs2.37 izafa",
-      "⚖️ PHC ne KP emergency petitions sunne se inkar kar diya",
-      "🏏 Teen naye chehre — Sri Lanka series ke liye Test squad"
+      "🤖 Nvidia board ne Jensen Huang ki jaanch shuru kar di",
+      "🛡️ KP security plan — faceless courts aur Rs70bn package",
+      "🏏 Rawalpindi Test — Babar ki nayi team vs Sri Lanka",
+      "💰 Claude ab bank statement parhega — Personal Finance beta"
     ]
   },
   "stories": {
-    "http://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html": {
-      "what": "OpenAI ne GPT-6 Cyber launch kiya — ek AI jo khud vulnerabilities dhoondta hai, exploits banata hai aur patches likhta hai. Linux mein 948 root bugs aur Firefox mein 81 flaws nikaale.",
-      "why": "Security research ab insaanon ki speed se nahi ho rahi — AI ek hi run mein hazaaron bugs nikaal sakta hai. Lekin yehi power ghalat haathon mein khatarnak hai, is liye OpenAI ne isay 'Critical' rating de kar band darwaze ke peeche rakh diya hai.",
-      "next": "Dekhna ye hai ke 948 mein se kitne bugs asal mein fix hote hain — dhoondna aasan, patch karna mushkil. Aur Daybreak Red access kab aam security teams tak pohanchta hai.",
-      "take": "Meri take: AI ab hacker bhi hai aur guard bhi — farq sirf ye hai ke kis ke haath mein hai. 948 bugs dhoondna impressive hai, lekin asal test ye hai ke kitne fix hue. Aur ye model aap ko nahi milega, sirf chosen logon ko — security bhi ab VIP club ban gayi hai."
+    "https://www.engadget.com/2310336/nvidia-is-investigating-reports-that-ceo-jensen-huang-was-the-target-of-chinese-spy-efforts/": {
+      "what": "Nvidia ke board ne CEO Jensen Huang ke khilaf independent investigation shuru kar di — reports ke mutabiq un ka Megaspeed ki executive Alice Huang se taluq tha, jise US intelligence Chinese spy samajhti hai. Huang ne staff memo mein affair tasleem kar liya.",
+      "why": "Nvidia duniya ki sab se qeemti AI chip company hai — is ke CEO par ek spy-operation ka target hona sirf personal scandal nahi, national security ka sawal hai. Congress ne bhi 18 November ko briefing bula li hai.",
+      "next": "Dekhna ye hai ke independent committee kya nikalti hai — kya koi secret leak hua ya sirf personal affair tha. Aur is ka Nvidia ke China chip-export lobby par kya asar parta hai.",
+      "take": "Meri take: Duniya ki sab se powerful chip company ka CEO ek alleged spy ke jaal mein — ye koi Netflix drama nahi, ye asal geopolitics hai. Board kehta hai secrets safe hain, lekin sawal ye hai ke jab CEO hi target ho, to company ki security kis ke haath mein thi?"
     },
-    "https://techround.co.uk/news/say-no-to-ai-lose-google-search-is-that-a-fair-choice-for-schools-to-face/": {
-      "what": "Google ne schools ko kaha: AI band karni hai to Search bhi band. K-12 student accounts par Gemini aur Search by default off honge, aur jo school AI poori tarah reject kare, us ke students ko Search nahi milega — kyun ke dono 'deeply integrated' hain.",
-      "why": "Google ka kehna hai Search mein AI ab itni ghusi hui hai ke usay nikaala nahi ja sakta. Critics kehte hain ye monopoly ka pressure hai — basic tool ke saath AI zabardasti bechi ja rahi hai.",
-      "next": "Guided Learning pilot isi mahine US schools mein shuru ho raha hai, aur poora rollout early 2027 mein expected hai. Dekhna ye hai ke kitne districts Google ko chhor kar koi aur search dhoondte hain.",
-      "take": "Meri take: Ye 'choice' nahi, blackmail hai — ya AI lo ya Search chhoro. School ko ye faisla karne ka haq hona chahiye ke bachay kya use karein, aur Google ko ek AI-free Search dena chahiye. Agar AI itni achhi hai to zabardasti kyun?"
+    "https://www.intelligentliving.co/mistral-large-4-le-chonk/": {
+      "what": "Mistral ne apne 1 trillion parameter wale Mistral Large 4 ke weights free download ke liye release kar diye — 49B active per token, 1M context, coding aur cybersecurity par focus.",
+      "why": "Open-weight models ka matlab hai control: koi API band nahi kar sakta, data bahar nahi jata. Europe ab US aur China ke beech apni jagah bana raha hai — aur is baar independent tests ne company ke claims ko bhi check kiya.",
+      "next": "Dekhna ye hai ke developers isay asal projects mein kitna use karte hain — aur kya Mistral ke efficiency claims independent testing mein tikte hain. 8-GPU server ki zaroorat aam developer ke liye abhi bhi bari deewar hai.",
+      "take": "Meri take: 'Le Chonk' naam sunkar hansi aati hai, lekin baat serious hai — ek trillion-parameter model jo aap apne server par chala sakte ho. Lekin jab company ke 41% wale claim par independent test 25% de, to samajh lo ke benchmarks bhi marketing ka hissa ban gaye hain."
     },
-    "https://cloud.google.com/blog/products/ai-machine-learning/gemini-omni-1-2-flash-generally-available": {
-      "what": "Gemini Omni 1.2 Flash generally available ho gaya — AI video clips ab 15 second tak ke, aur price 30% kam: $0.07 per second (720p). Multi-turn editing bhi hai, matlab ek hi clip ko baat cheet se badalte raho.",
-      "why": "15 second ka matlab hai ek poora scene ek hi generation mein — ads aur product videos ke liye ye game changer hai. Google price gira kar creators aur businesses ko apne platform par laana chahta hai.",
-      "next": "Dekhna ye hai ke Pakistani creators aur chhoti agencies isay kitni jaldi apnate hain — $1 mein 15 second ka ad ab har kisi ki pohanch mein hai.",
-      "take": "Meri take: AI video ab itna sasta ho gaya hai ke har banda apna ad khud bana sakta hai. Lekin jab har kisi ke paas yehi tool hoga, to farq sirf idea ka hoga — camera nahi, soch jeetegi."
+    "https://geroundtable.com/grok-api-hidden-watermark-november-7/": {
+      "what": "xAI ne 7 November se Grok API ke text par invisible watermark by default on kar diya — saat models, har endpoint, EU AI Act ki wajah se. Band karna ho to team admin ko legal exception declare karni hogi.",
+      "why": "AI text ab har jagah hai — reports, messages, assignments. Machine-readable nishan hi ek tareeqa hai ke insani aur AI likhaai mein farq pata chale. EU ne deadline di, companies ne watermark lagaya.",
+      "next": "Dekhna ye hai ke baaki companies kab default-on karti hain — Anthropic pehle se kar raha hai — aur kya watermark detection aam logon tak pohanchta hai ya sirf companies ke paas rehta hai.",
+      "take": "Meri take: Watermark lagana achhi baat hai, lekin jis watermark ko check karne ke liye application bharni pare, wo aam aadmi ke kis kaam ka? Transparency ka matlab ye hona chahiye ke har banda verify kar sake — warna ye sirf companies ke liye ek checkbox hai."
     },
-    "https://shiftdelete.net/en/claude-code-extension-backdoor": {
-      "what": "Cursor ke marketplace par Claude Code extension ki nakli copies (2.1.312 aur 2.1.313) 11 ghante tak serve hoti rahin — un mein SSH backdoor tha jo attacker ki key daalta tha aur reverse tunnel kholta tha. 5,000 tak users mutasir hue.",
-      "why": "Developers apne sab se powerful tools par blind trust karte hain — extension install karte waqt koi code nahi parhta. Attackers ko yehi pata hai, is liye wo marketplace ko nishana banate hain.",
-      "next": "Agar aap ne 29 October ko Cursor mein Claude Code update kiya tha, to Cursor ki notice wali check chalao aur 2.1.314 par update karo. Marketplaces ab supply-chain security par sakhti karenge.",
-      "take": "Meri take: Ye waqia yaad dilata hai ke aap ka sab se bara security risk aap ka apna editor hai. Extension install karna ek chhota sa click lagta hai, lekin us ke peeche poora code chal raha hota hai — official naam dekh kar andha trust mat karo."
+    "https://www.cio.com/article/4245726/openai-buys-tiny-software-developer-to-improve-codex-2.html": {
+      "what": "OpenAI ne Pierre Computer Company khareed li — ek chhoti startup jis ka Code Storage aur Trees/Diffs libraries pehle se Codex mein use hoti hain. Deal 4 November ko announce hui, price disclose nahi hui.",
+      "why": "AI agents ab insaanon se tez code likh rahe hain, lekin Git un ki raftaar se peeche reh gaya tha — OpenAI ne apna Pando backend bhi isi liye banaya. Ab wo us layer ko bhi own kar raha hai jahan agent ka code store hota hai.",
+      "next": "Dekhna ye hai ke Code Storage kab Codex ke andar fully integrate hota hai — aur Lovable, Bolt jese customers, jo Pierre par chalte hain, apna code OpenAI ki infrastructure par rakhne par kya kehte hain.",
+      "take": "Meri take: OpenAI ab sirf model nahi bana raha, poori factory khareed raha hai — model bhi us ka, Git bhi us ka, storage bhi us ki. Chhoti teams ke liye ye achhi khabar hai ke tools behtar honge, lekin ek company ke haath mein itni taqat bhi sochne wali baat hai."
     },
-    "https://shiftdelete.net/en/ai-kill-switch": {
-      "what": "California mein AI kill switch par Anthropic aur OpenAI aamne saamne: Anthropic chahta hai court order se model band ho, OpenAI chahta hai developers par khud band karne ki legal duty ho. Recommendations 16 November tak due hain.",
-      "why": "Dono labs ko pata hai ke aik din koi model control se bahar jayega — sawal sirf ye hai ke plug kaun kheenchega: judge, company, ya koi aur. Isi liye dono apni pasand ki definition likhwana chahte hain.",
-      "next": "16 November ko expert panel ki recommendations aayengi, lekin binding rules ke liye nayi legislation chahiye hogi — is liye asal faisla abhi door hai.",
-      "take": "Meri take: Dono companies 'kill switch' ke naam par apna faida dekh rahi hain — Anthropic court chahta hai taake zimmedari us par na aaye, OpenAI khud control chahta hai. Asal sawal ye hai: jab model khud apne weights copy kar le, to switch kis cheez ka?"
+    "https://gadgetsnow.indiatimes.com/tech-news/anthropic-brings-personal-finance-feature-to-claude-users-can-connect-bank-accounts-and-track-spending/articleshow/135612095.cms": {
+      "what": "Claude mein Personal Finance aa gaya — US ke Pro, Max aur Ultra users apne bank accounts Plaid se link kar ke Claude se kharch aur bills pooch sakte hain. Access read-only hai, do saal ki history ke saath.",
+      "why": "Chatbots ab sirf sawal-jawab nahi, rozana ke kaam karne ki taraf ja rahe hain — aur paisa sab se personal kaam hai. Anthropic kehta hai password kabhi nahi dekhta aur chats training mein use nahi hoti.",
+      "next": "Dekhna ye hai ke ye feature US se bahar kab aata hai — aur kya log apne bank statements AI ko dene par bharosa karte hain. Ek data leak aur ye bharosa khatam.",
+      "take": "Meri take: 'Tumhare paise kahan gaye?' — ye sawal ab Claude se poocho. Read-only hai, theek hai, lekin apni poori financial history ek chatbot ko dena koi chhota faisla nahi. Convenience achhi hai, lekin bank statement jitni personal cheez kisi ko dene se pehle do dafa socho."
     },
-    "https://www.ndtvprofit.com/world/ai-safety-advocates-make-gains-after-110-million-midterm-fight-12297759": {
-      "what": "US midterms mein AI regulation par $110 million ki jung hui. Anthropic-backed Public First ne $63M kharch kar ke apne 17 mein se 10 candidates jitwaye; rival Leading the Future ne $54M kharch kar ke 48 mein se 41 jitwaye.",
-      "why": "AI ab sirf technology nahi, politics hai — jo rules likhega, wo market jeetega. Is liye dono taraf ke tech billionaires ne election mein paisa barsa diya.",
-      "next": "Jeete hue candidates mein AI laws ke architects bhi hain (Rutinel, Wiener) — Congress mein ab AI regulation ki behes aur tez hogi. Aur voters ka mood saaf hai: do-tihai kehte hain AI faide se zyada nuqsan dega.",
-      "take": "Meri take: Jab AI companies election jeetne ke liye $110M kharch kar rahi hon, to samajh lo ke regulation ab sirf policy nahi, power game hai. Acha ye hai ke voters jaag gaye hain — ab dekho, jeete hue leaders paisa wapas karte hain ya waade."
+    "https://openai.com/index/introducing-images-2-6": {
+      "what": "ChatGPT Images 2.6 aa gaya — animated GIFs, 50% tez generation, aur API mein do naye models Flare aur Sunburst. Har hafte ChatGPT par 4 billion images ban rahi hain.",
+      "why": "Image generation ab sirf tasveer nahi, motion bhi hai — GIFs se memes, ads aur mascots sab ek prompt mein. Flare speed ke liye, Sunburst detail aur consistency ke liye.",
+      "next": "Dekhna ye hai ke Pakistani creators aur chhoti agencies isay kitni jaldi apnate hain — ek looping GIF ad ab har kisi ki pohanch mein hai. Aur kya GIFs ke saath misinformation ka naya daur shuru hota hai.",
+      "take": "Meri take: Pehle tasveer banti thi, ab GIF banta hai — kal video, parson film. AI tools itne tez aur saste ho gaye hain ke farq sirf idea ka reh gaya hai. Lekin jab har banda GIF bana sakta hai, to viral hone ke liye sirf tool nahi, dimaag chahiye."
     },
-    "https://www.dawn.com/news/2042671/after-fcc-order-phc-decides-not-to-proceed-with-petitions-filed-after-oct-12": {
-      "what": "Peshawar High Court ne faisla kiya hai ke 12 October ke baad file ki gayi Article 199 petitions par karwai nahi hogi — ye FCC ke order ke baad hua, jis mein kaha gaya ke KP mein fauj ki tainati ke doran PHC ki jurisdiction suspended hai.",
-      "why": "KP mein 11 October se emergency aur governor's rule hai. Ab adalat ke darwaze bhi band ho gaye hain — petitions against emergency, MPO detentions aur PTI leaders ki alleged detention sab mutasir hongi.",
-      "next": "FCC ne KP advocate general se 7 din mein report mangi hai ke fauj kin areas mein ab zaroori nahi — us ke baad order par nazar-e-sani ho sakti hai. PHC ka next hearing 12 November ko hai.",
-      "take": "Meri take: Emergency lagana ek faisla tha, adalat ka darwaza band karna doosra. Jab logon ke paas appeal ka rasta hi na ho, to sawal ye nahi ke faisla sahi tha ya ghalat — sawal ye hai ke check aur balance kahan gaya?"
+    "https://www.dawn.com/news/2043160/pm-briefs-nawaz-on-kp-after-new-security-plan-unveiled": {
+      "what": "PM Shehbaz ne Nawaz Sharif ko KP security plan par brief kiya — faceless anti-terrorism courts aur police/CTD ke liye saalana Rs70bn ka package announce hua. Nawaz ne kaha intervention pehle honi chahiye thi.",
+      "why": "KP mein pichle 2-3 saal mein 1,003 fauj, 627 police ahelkar aur 808 civilians shaheed hue — aur merged districts mein security ke liye budget ka sirf 3.2% tha. Faceless courts ka matlab hai ke witnesses aur judges ki pehchan chhupi rahe.",
+      "next": "Dekhna ye hai ke Rs70bn asal mein police aur CTD tak pohanchta hai ya sirf elaan rehta hai — aur faceless courts insaaf tez karte hain ya sirf ek naya naam hai.",
+      "take": "Meri take: Rs70bn ka package aur faceless courts — elaan achhe hain, lekin KP mein masla paison ka nahi, ownership ka tha. Jab apni hi hukumat dehshatgardi ke khilaf khari na ho, to budget se zyada irada chahiye. Ab dekhna ye hai ke irada kitna hai."
     },
-    "https://www.geo.tv/latest/690132-nepra-hikes-electricity-tariff-by-rs237-for-november-bills": {
-      "what": "Nepra ne November ke bills mein Rs2.37 per unit ka izafa kar diya — har ghar ke bill par taqreeban Rs710 (300 units par) ka bojh. Industrial incremental rate bhi Rs22.98 se Rs25.30 ho gaya.",
-      "why": "Fuel cost adjustment ke naam par har mahine bill barhta hai, aur is dafa to regulator ke apne do members ne bhi dissent kiya — unhon ne Rs25.30 ki rate ko 'baseless' kaha. Phir bhi chairman ke casting vote se faisla pass ho gaya.",
-      "next": "November ke bills mein ye charge nazar aayega. Lifeline consumers, EV charging stations aur prepaid users is se bacha liye gaye hain — baaki sab ko bharna parega.",
-      "take": "Meri take: Har mahine ek naya 'adjustment' — bijli ka bill ab bill nahi, surprise box ban gaya hai. Aur jab regulator ke apne members keh rahe hon ke rate baseless hai, to aam aadmi kya soche? Bijli mehngi, aur jawab koi nahi."
+    "https://www.dawn.com/news/print/2043209": {
+      "what": "World Bank ke mutabiq Pakistan mein ghurbat 21.9% se barh kar 28.9% ho gayi hai — aur 47.9% abadi $4.20 rozana wali line se neeche hai. Dehati mazdooron ki rozi par machine ka hamla ho raha hai: ek transplanter 60 mazdooron ka kaam kar deta hai.",
+      "why": "Mechanisation rokna mumkin nahi — mausam, mehngai aur kam munafa kisanon ko machine ki taraf dhakel rahe hain. Lekin industry itni jobs nahi bana rahi ke be-rozgar mazdooron ko jagah de sake.",
+      "next": "Dekhna ye hai ke hukumat non-farm jobs, livestock aur agro-processing par koi plan lati hai ya nahi — warna 66% naujawan abadi ke saath ye ghurbat aur barhegi.",
+      "take": "Meri take: Machine ne 60 mazdooron ki jagah le li — ye taraqqi hai ya tabahi, ye is par depend karta hai ke un 60 logon ke liye koi aur kaam hai ya nahi. Abhi tak jawab 'nahi' hai. Aur jab jawab 'nahi' ho, to ghurbat sirf aik number nahi, aik warning hai."
     },
-    "https://www.nation.com.pk/08-Nov-2026/pakistan-sudan-sign-visa-free-agreement-official-diplomatic-passports-holders": {
-      "what": "Pakistan aur Sudan ne official aur diplomatic passport holders ke liye visa-free entry ka muahida sign kar liya. Saath hi anti-cybercrime par MoU aur police training mein taawun par bhi ittefaq hua.",
-      "why": "Sudan civil war se nikal raha hai aur usay apne systems dobara banane mein Pakistan ki madad chahiye — Nadra ne wahan 36 million citizenship cards aur 18 million birth certificates issue karne mein madad ki hai.",
-      "next": "Ye muahida aam passport holders ke liye nahi hai — sirf official/diplomatic. Dekhna ye hai ke is se trade aur delegation exchanges kitne barhte hain.",
-      "take": "Meri take: Chhota muahida lagta hai, lekin is ke peeche bari kahani hai — Pakistan apni Nadra aur cybercrime expertise export kar raha hai. Soft power kabhi kabhi visa stamp se shuru hoti hai."
+    "https://www.dawn.com/news/print/2043143": {
+      "what": "Senate Opposition Leader Raja Nasir Abbas ne hukumat se kaha ke Pakistan Yemen jang se door rahe aur sirf mediation kare — 2015 ki parliament ki qarardad ki khilafwarzi mulki mufadat ko nuqsan pohanchayegi.",
+      "why": "Yemen ne khud Pakistan ko mediatory role offer kiya hai — aur Abbas kehte hain unhon ne PM ko khat bhi likha hai. Sawal ye hai ke Pakistan kisi aur ki jang mein kyun shamil ho jab usay mediator banna chahiye.",
+      "next": "Dekhna ye hai ke hukumat is mutalbe par kya jawab deti hai — aur kya Pakistan mediation ka role asal mein nibhata hai ya sirf bayanbazi rehti hai.",
+      "take": "Meri take: 2015 mein parliament ne mutafaqa faisla kiya tha — Yemen ki jang mein nahi jana. Aaj wohi sawal dobara uth raha hai. Jab parliament ka faisla saaf ho, to usay todne se pehle sochna chahiye ke qaum ki marzi kya hai, sirf doston ki khushi nahi."
     },
-    "https://www.geo.tv/latest/690167-three-more-uncapped-pakistani-players-earn-maiden-call-ups-for-sri-lanka-test-series": {
-      "what": "PCB ne Sri Lanka series ke liye 16-member Test squad ka elaan kiya — teen naye chehre: Tayyab Arif, Ali Shabbir aur Saqib Khan, jinhein pehli dafa Test call-up mila. Aamir Jamal bhi wapas aa gaye. Pehla Test 9 November ko Rawalpindi mein hai.",
-      "why": "Pakistan Test team rebuild mode mein hai — Babar Azam captain hain, lekin squad mein naye khoon ki bharpoor maujoodgi hai. Domestic performers ko mauqa mil raha hai: Tayyab ne 727 runs banaye, Saqib ne 47 wickets liye.",
-      "next": "Pehla Test kal Rawalpindi mein shuru hoga. Teen uncapped mein se kisi ek ka debut taqreeban pakka hai — aur pace-friendly pitch ki khabrein hain, to fast bowlers par nazar rahegi.",
-      "take": "Meri take: Naye chehre achhi baat hai, lekin Test cricket mein debut sirf shuruaat hai — asal sawal ye hai ke inhein lambi run milegi ya ek kharab match ke baad bahar? Pakistan ki selection history dekh kar umeed kam, dua zyada hai."
+    "https://www.dawn.com/news/2043198/high-cost-of-crumbling-infrastructure-in-karachi": {
+      "what": "Karachi ki tooti sadkein mazdooron aur industry dono ko nuqsan de rahi hain — ek mazdoor roz 4 ghante safar mein zaya karta hai. Sheher wafaqi revenue ka 67% aur exports ka 54% deta hai, lekin Rs9bn ki repairs 10 mahine baad bhi shuru nahi huin.",
+      "why": "Karachi Pakistan ki economy ki backbone hai, lekin us ki sadkein, paani aur drainage barson se nazar-andaz hain. Rs2bn ki allocation bhi na-kaafi hai — aur zimmedari ka sawal har dafa agle saal par taal diya jata hai.",
+      "next": "Dekhna ye hai ke mayor ki yaqeen-dhani par agle saal waqai allocation barhti hai ya ye bhi sirf aik aur bayan hai. Industry ne ab khul kar shikayat shuru kar di hai.",
+      "take": "Meri take: Jo sheher mulk ko 67% revenue deta hai, us ke mazdoor roz 4 ghante tooti sadkon par zaya karein — ye koi chhota masla nahi, ye aik aaina hai. Rs9bn manzoor hue, 10 mahine guzar gaye, kaam shuru nahi hua. Paisa tha, irada nahi tha."
     },
-    "https://www.dawn.com/news/2042757/pakistan-appeals-decision-after-maliha-settles-for-bronze": {
-      "what": "Maliha Ali ne IMMAF World Championships mein tooti ungli, bruised eyelid aur partially dislocated jaw ke bawajood lari aur bronze jeeta — lekin semi-final mein split decision par haar ke baad Pakistan MMA Federation ne judging par formal appeal kar di.",
-      "why": "Teen judges, teen alag scorecards: 30-27, 29-28, 29-28. Jab ek judge kisi ko ek bhi round na de aur doosra usi ko jeet de, to system par sawal uthna laazmi hai. Federation ka kehna hai ke pichle saal bhi aisa hi hua tha.",
-      "next": "Appeal pending hai — federation ne round-by-round breakdown aur face-to-face technical review ki darkhwast ki hai. Maliha Tbilisi se bronze ke saath wapas aa rahi hain.",
-      "take": "Meri take: 'Sir, we fight from the heart' — ye line is poori kahani ki jaan hai. Tooti ungli ke saath larna aur phir judges ki wajah se haarna — is se zyada na-insafi kya ho? Maliha ne medal jeeta, lekin Pakistan ne ek fighter khojne ka saboot diya."
+    "https://www.wisden.com/series/pakistan-vs-sri-lanka-m-2026/cricket-news/pak-vs-sl-tests-2026-all-you-need-to-know-full-schedule-squads-venues-and-match-timings": {
+      "what": "Pakistan-Sri Lanka pehla Test aaj Rawalpindi mein shuru ho raha hai — Babar Azam captain, teen uncapped khiladi (Tayyab Arif, Ali Shabbir, Saqib Khan) aur Aamir Jamal ki wapsi. Dusra Test 17 November se Lahore mein.",
+      "why": "Pakistan WTC mein 9th number par hai — 2 jeete, 7 haare. Ye series sirf jeetne ki nahi, Test cricket mein izzat wapas lane ki hai. Ghar par khelna hai, naye chehre hain, aur pace-friendly pitch ki khabrein hain.",
+      "next": "Dekhna ye hai ke teen debutants mein se kaun khelta hai aur kya Pakistan apne ghar mein jeet ka silsila shuru kar pata hai — ya phir selection phir ek match ke baad badal jayegi.",
+      "take": "Meri take: Naye chehre, naya captain, purani umeed — Pakistan Test team har dafa 'rebuild' ka naam le kar aati hai. Asal test ye nahi ke debut acha ho, asal test ye hai ke in larkon ko lambi run milegi ya ek kharab match ke baad bahar kar diya jayega."
     },
-    "https://www.dawn.com/news/2042699/kh-asif-sees-plot-behind-maryam-salik-row": {
-      "what": "Defence Minister Khawaja Asif ne kaha ke Chaudhry Salik ke Punjab government par corruption ke ilzamat ek 'alternative arrangement' ki sazish hain — maujooda logon ko badnam kar ke nayi team lane ki koshish. Salik ko CM Maryam ki taraf se legal notice bhi mil gaya hai.",
-      "why": "Punjab mein PML-N ke andar hi tanaza hai — Salik ne corruption aur lavish spending par tanqeed ki, Asif kehte hain ye tanqeed nahi, tayyari hai. Dono taraf se ilzamat aur legal notice — siyasat ab court room mein ja rahi hai.",
-      "next": "Salik ne kaha hai wo legal notice ka jawab jald denge. Dekhna ye hai ke ye jhagda PML-N ke andar sulajhta hai ya aur barhta hai.",
-      "take": "Meri take: Jab apne hi coalition partner par ilzam lagayein aur jawab mein legal notice aaye, to samajh lo ke siyasat mein dosti se zyada taqat ki baat hoti hai. 'Alternative arrangement' — ye lafz sun kar lagta hai ke koi purani film dobara chal rahi hai."
+    "https://www.dawn.com/news/2043193": {
+      "what": "Karachi Port ne July-October 2026 mein cargo 3.8% barha kar 19.286m tonnes kar liya, exports mein 10.5% izafa hua, aur port ne performance index mein 30 places ki chhalang lagayi. MSC ne Karachi-Europe direct service shuru kar di.",
+      "why": "Middle East mein halaat ki wajah se trade routes badal rahe hain, aur Pakistan ne tariff cuts aur transshipment incentives se is mauqe ko pakra hai — FY2025-26 mein port ne record 55.438m tonnes cargo handle kiya tha.",
+      "next": "Dekhna ye hai ke ye growth sirf halaat ki wajah se hai ya lasting banegi — dredging December 2026 tak complete hogi, aur port ko road-rail connectivity abhi bhi chahiye.",
+      "take": "Meri take: Aakhir koi achhi khabar — Karachi Port duniya ki shipping lines ko attract kar raha hai, record cargo, behtar ranking. Lekin port tak jaane wali sadkein abhi bhi tooti hain. Bandargah taraqqi kare aur rasta toota ho — ye Pakistan ki purani kahani hai, ab isay badalna hoga."
     }
   },
-  "mood": "🤖 AI duniya mein plug kheenchne ki behes, ⚡ Pakistan mein bijli ka bill phir barh gaya — aaj har taraf 'control' ka sawal hai."
+  "mood": "🤖 Nvidia ke CEO par jaanch, 🏏 Rawalpindi mein Test shuru, 💰 Claude bank mein — aaj har taraf trust ka sawal hai."
 }
