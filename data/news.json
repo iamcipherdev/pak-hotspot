@@ -1,79 +1,73 @@
 {
-  "updated_at": "2026-11-09T07:01:45+05:00",
+  "updated_at": "2026-11-10T07:00:44+05:00",
   "tech": [
     {
-      "source": "Engadget",
-      "summary": "The New York Times aur Financial Times ki reports ke baad Nvidia ke board ne CEO Jensen Huang ke khilaf independent investigation ka elaan kar diya. Reports ke mutabiq Huang ka Singapore-based Megaspeed ki executive Alice Huang (Jensen se koi rishta nahi) se qareebi taluq tha, jise US intelligence ne China ki Ministry of State Security ki asset qarar diya hai. Huang ne staff ko bheje gaye memo mein affair tasleem karte hue maafi mangi. Board ka kehna hai ke national security ya company secrets compromise hone ka koi saboot nahi, lekin inquiry har pehlu dekhegi. US Congress ne Huang ko 18 November ko closed-door briefing ke liye bhi bula liya hai.",
-      "title": "Nvidia board ne Jensen Huang ki jaanch shuru kar di — Chinese spy se taluq ka ilzaam",
-      "url": "https://www.engadget.com/2310336/nvidia-is-investigating-reports-that-ceo-jensen-huang-was-the-target-of-chinese-spy-efforts/"
+      "source": "Reuters",
+      "summary": "Anthropic ne 9 November ko apne do naye models launch kiye: Claude Fable 5.2 jo sab ke liye hai (coding, reasoning, agents) aur Claude Mythos 5.2 jo sirf verified cybersecurity aur life-sciences organisations ko milega. Dono ek hi underlying model hain — Fable mein cyber aur biology safeguards zyada sakht hain. Company ke mutabiq naye models 5.1 se 30% tak tez output dete hain aur price bhi kam ho gayi hai: $8 input aur $40 output per million tokens. Launch us waqt hua hai jab Anthropic apne planned IPO se pehle OpenAI, Google aur Meta se muqabla tez kar raha hai.",
+      "title": "Anthropic ne Claude Fable 5.2 aur Mythos 5.2 launch kar diye — tez, sasta, aur ek sirf verified logon ke liye",
+      "url": "https://www.reuters.com/technology/anthropic-unveils-new-fable-mythos-models-competition-heats-up-ahead-ipo-2026-11-09/"
     },
     {
-      "source": "Intelligent Living",
-      "summary": "France ki Mistral ne 29 October ko apne Mistral Large 4 ke weights Hugging Face par release kar diye — taqreeban 1 trillion total parameters, 49 billion active per token aur 1 million token context window ke saath. Company kehti hai ye coding aur cybersecurity mein behtareen open-weight model hai, lekin independent tests mein is ke headline numbers kam nikle: Terminal-Bench 4.0 par 25-26% jab ke Mistral ne 41% claim kiya tha. Model laptop par nahi chalega — official recipes 8-GPU servers mangte hain. License modified MIT hai, lekin model-as-a-service ke liye alag commercial license chahiye.",
-      "title": "Mistral ka 'Le Chonk' — 1 trillion parameters wala open-weight model ab sab ke liye",
-      "url": "https://www.intelligentliving.co/mistral-large-4-le-chonk/"
+      "source": "Google Blog",
+      "summary": "Google ne 9 November ko apne eighth-generation TPU portfolio mein do naye systems add kar diye: TPU 8tx jo confidential inference ke liye hai — sensitive data aur model weights hardware level par protected rehte hain jab ke wo use mein hon — aur TPU 8i Max jo do TPU 8i chips ek package mein jor kar compute, SRAM aur HBM bandwidth double kar deta hai. Ye pehli dafa hai ke Google ne ek hi saal mein chaar TPU systems introduce kiye. Price ya availability date abhi announce nahi hui; systems agle saal aane ki tawaqqo hai.",
+      "title": "Google ne do naye TPU systems diye — 8tx secret data ke liye, 8i Max bare context ke liye",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/?ref=explainx"
     },
     {
-      "source": "GE Roundtable",
-      "summary": "xAI ne 7 November se Grok API se aane wale text par invisible statistical watermark by default on kar diya hai. Ye saat models par laagu hai — grok-4.7 se le kar grok-4.20 ke teen variants tak — aur har API endpoint par chalega. Wajah EU AI Act ki transparency rules hain. Team admins per-model watermark band kar sakte hain, lekin unhein legal exception declare karni hogi aur faisla audit log mein record hoga. Watermark sirf API par hai — Grok app ya X par nahi — aur usay check karne ka detector sirf application par milta hai.",
-      "title": "Grok ke jawabon par ab invisible watermark — 7 November se by default",
-      "url": "https://geroundtable.com/grok-api-hidden-watermark-november-7/"
+      "source": "The Robot Report",
+      "summary": "Nvidia ne Conference on Robot Learning (CoRL) mein GR00T 2 introduce kiya — ek open 'world action model' jo robots ko dexterous manipulation sikhata hai. Model ko 100,000 ghante ki first-person human video aur robot data par train kiya gaya. Nvidia ke tests mein GR00T 2 ne 50 mein se 40 tasks bina kisi task-specific demo ke kam az kam ek dafa complete kiye; ek demo par 71% aur paanch demos par 95% average success mili. Saath hi Isaac Lab 3.0 bhi aaya — simulation framework jisme PhysX aur Newton physics solvers switch kiye ja sakte hain. Foxconn ise server manufacturing mein aur Siemens industrial use cases mein test kar raha hai.",
+      "title": "Nvidia ka GR00T 2 — robot ab insaan ki video dekh kar kaam seekhega",
+      "url": "https://www.therobotreport.com/nvidia-launches-gr00t-2-isaac-lab-3-0-corl/"
     },
     {
-      "source": "CIO",
-      "summary": "OpenAI ne 4 November ko Pierre Computer Company khareedne ka agreement kar liya — ek chhoti San Francisco startup jis ka Code Storage service aur Trees aur Diffs open-source libraries pehle se Codex ke andar use hoti hain. Deal ki price disclose nahi hui aur regulatory approval baqi hai. OpenAI ne isi hafte apna Git backend Pando bhi introduce kiya tha, kyun ke AI agents ke parallel kaam ne Git ki limits expose kar di thin. Code Storage customers service use karte rahenge jab tak us ke features Codex mein integrate nahi ho jate, aur Pierre ke open-source projects open hi rahenge.",
-      "title": "OpenAI ne Pierre khareed liya — Codex ke liye Git ki nayi neev",
-      "url": "https://www.cio.com/article/4245726/openai-buys-tiny-software-developer-to-improve-codex-2.html"
+      "source": "TechCrunch",
+      "summary": "Meta Superintelligence Lab ne 9 November ko Muse Ember launch kiya — Muse family ka sab se chhota aur sab se sasta model, jo agents ke roz ke repetitive kaam ke liye bana hai: tool calls, coding subtasks, routing, extraction aur lambi documents parhna. Price $0.10 per million input tokens aur $0.50 output hai, 1 million token context window ke saath. Meta ke mutabiq Ember Artificial Analysis index par Claude Haiku 5.5 ke barabar score karta hai, taqreeban aik tihai cost per task par. Model 'muse-ember-1.0' ke naam se Meta Model API aur Muse Code par live hai.",
+      "title": "Meta ka Muse Ember — chhota model, Haiku jitna smart, aik tihai cost",
+      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/"
     },
     {
-      "source": "Gadgets Now",
-      "summary": "Anthropic ne 5 November ko Claude mein Personal Finance feature launch kar diya: US ke Pro, Max aur Ultra subscribers apne bank aur credit card accounts Plaid ke through link kar ke Claude se kharch, bills aur balances ke bare mein pooch sakte hain. Access sirf read-only hai — Claude paise move, pay ya invest nahi kar sakta — aur do saal tak ki transaction history parh sakta hai. Bank password Claude kabhi nahi dekhta, sign-in Plaid ki screen par hota hai. Feature beta mein hai, sirf US mein, aur is ki conversations AI training mein use nahi hongi.",
-      "title": "Claude ab aap ka bank statement parhega — Personal Finance beta US mein",
-      "url": "https://gadgetsnow.indiatimes.com/tech-news/anthropic-brings-personal-finance-feature-to-claude-users-can-connect-bank-accounts-and-track-spending/articleshow/135612095.cms"
-    },
-    {
-      "source": "OpenAI",
-      "summary": "OpenAI ne 4 November ko ChatGPT Images 2.6 launch kar diya — ab ChatGPT, Codex aur API mein animated GIFs ban sakte hain, aur images pehle se 50% tez generate hoti hain. API mein do naye models aaye hain: tez Flare (low quality par taqreeban 6 second mein image) aur detail-oriented Sunburst. Developers ko SVG export, image markup aur ek naya complexity control bhi mila hai. OpenAI ke mutabiq log ab ChatGPT par har hafte 4 billion images banate hain. Images 2.6 sab subscription tiers par globally available hai.",
-      "title": "ChatGPT Images 2.6 — ab GIFs banao, 50% tez",
-      "url": "https://openai.com/index/introducing-images-2-6"
+      "source": "Unite.AI",
+      "summary": "OpenAI ne 9 November ko elaan kiya ke ChatGPT Enterprise ab AWS Marketplace ke zariye khareeda ja sakta hai. Companies apne maujooda AWS purchasing aur billing relationship se ChatGPT Enterprise le sakti hain aur eligible kharch apne AWS commitments ki taraf count karwa sakti hain. Package mein Chat, ChatGPT Work, Codex aur dots shamil hain; OpenAI kehta hai features aur naye updates bilkul wohi milenge jo direct khareedne par milte hain. Koi public price nahi — har deal private offer par hoti hai.",
+      "title": "ChatGPT Enterprise ab AWS Marketplace par — bill AWS se, features wohi",
+      "url": "https://www.unite.ai/openai-starts-selling-chatgpt-enterprise-through-aws-marketplace/"
     }
   ],
   "pakistan": [
     {
-      "source": "Dawn",
-      "summary": "Wazir-e-Azam Shehbaz Sharif ne Jati Umra mein Nawaz Sharif ko Khyber Pakhtunkhwa ki security situation par brief kiya — Nawaz ne kaha ke emergency wali intervention pehle honi chahiye thi. KP set-up ne 'faceless' anti-terrorism courts ka elaan kiya hai taake judges, prosecutors aur witnesses ki pehchan chhupi rahe. Police aur CTD ke liye saalana Rs70bn ka package hai — Rs59.8bn police aur Rs10.3bn CTD ke liye. Home Secretary ke mutabiq pichle 2-3 saal mein 1,003 fauj, 627 police ahelkar aur 808 civilians shaheed hue, jab ke 3,788 terrorists mare gaye. Merged districts mein security ke liye budget ka sirf 3.2% mukhtas tha.",
-      "title": "KP security plan: Shehbaz ne Nawaz ko brief kiya — faceless ATCs aur Rs70bn ka elaan",
-      "url": "https://www.dawn.com/news/2043160/pm-briefs-nawaz-on-kp-after-new-security-plan-unveiled"
+      "source": "Republic World",
+      "summary": "Tarbela 5th Extension Hydropower Project mein peer ko Tunnel-5 ka protective bund gir gaya, jis se reservoir ka paani tunnel aur powerhouse area mein bhar gaya. Emergency declare kar ke construction muattal kar di gayi aur workers ko mehfooz jagah muntaqil kiya gaya; ek worker paani mein beh gaya tha lekin use bacha liya gaya, koi jaani nuqsan nahi hua. WAPDA ke mutabiq kamzor rock mass girne se paani andar aaya, lekin main tunnel aur powerhouse ko nuqsan nahi pahuncha. Ye 1530 MW project ka 2025 ke baad doosra bara hadsa hai — pehle cofferdam collapse par inquiry ne WAPDA, contractor aur consultant teeno ko zimmedar thehraya tha. Project ki cost Rs82.36bn se barh kar Rs317bn ho chuki hai aur completion June 2028 tak shift ho gayi hai.",
+      "title": "Tarbela-5 mein dobara hadsa — bund gir gaya, kaam band, cost Rs82bn se Rs317bn",
+      "url": "https://www.republicworld.com/global-news/worker-swept-away-tunnel-flooded-inside-the-tarbela-5-bund-collapse-that-exposes-pakistan-s-cofferdam-scam-2026-11-09-140722"
     },
     {
       "source": "Dawn",
-      "summary": "World Bank ki Pakistan Poverty and Equity Brief (October 2026) ke mutabiq mulk mein ghurbat 21.9% (2018-19) se barh kar 28.9% (2024-25) ho gayi hai, aur 47.9% abadi $4.20 rozana wali international poverty line se neeche zindagi guzar rahi hai. Dehati areas mein masla aur gehra hai: combine harvesters aur self-propelled transplanters mazdooron ki jagah le rahe hain — ek Rs2.5m ki machine roz 10 acre transplant kar ke 60 se zyada mazdooron ka kaam kar deti hai. Industry itni jobs nahi bana rahi ke be-rozgar mazdooron ko absorb kar sake, jab ke 66% abadi 30 saal se kam umar ki hai.",
-      "title": "Pakistan mein ghurbat 28.9% tak — dehati mazdoor ki rozi par machine ka hamla",
-      "url": "https://www.dawn.com/news/print/2043209"
+      "summary": "Karachi mein Pakistani aur Saudi investors ne peer ko ek private equity fund launch kiya, jo dono mumalik ke darmiyan private sector trade aur investment ko gehra karne ki koshish ka hissa hai. Fund ka elaan us waqt hua hai jab Pakistan aur Saudi Arabia ke darmiyan economic taawun barh raha hai — pehle defence aur ab business ke maidan mein.",
+      "title": "Pakistani aur Saudi investors ne private equity fund bana liya",
+      "url": "https://epaper.dawn.com/DetailNews.php?StoryText=10_11_2026_001_001"
     },
     {
-      "source": "Dawn",
-      "summary": "Senate Opposition Leader Allama Raja Nasir Abbas ne hukumat se mutalba kiya hai ke Pakistan Yemen ke tanaze se door rahe aur sirf mediatory role ada kare — un ke mutabiq 2015 ki parliament ki mutafaqa qarardad ki khilafwarzi mulki mufadat ko nuqsan pohanchayegi. Unhon ne bataya ke Yemen ne Pakistan ko mediation ki peshkash ki hai aur unhon ne is bare mein wazir-e-azam ko khat bhi likha hai. Abbas ne Yemen par hamon ki mazammat karte hue kaha ke Yemeni awam ko Gaza ki himayat ki saza di ja rahi hai, aur Imran Khan ko qomi masalihat mein role dene ki bhi baat ki.",
-      "title": "Senate opposition leader ka mutalba — Pakistan Yemen jang se door rahe",
-      "url": "https://www.dawn.com/news/print/2043143"
+      "source": "The Nation",
+      "summary": "Pakistan ne Sri Lanka ke khilaf pehle Test ke pehle din Rawalpindi mein 281/5 bana liye. Chaar batsmen ne fifties lagayen — debutant Tayyab Arif ne 51 balls par 57, doosre debutant Mohammad Taha ne 51, captain Babar Azam ne apni 35th Test fifty (50) aur Saud Shakeel ne naqabil-e-shikast 57 banaye. Azan Awais aur Tayyab ne 86 runs ki opening partnership di. Sri Lanka ne toss jeet kar bowling chuni thi lekin un ke chaar fast bowlers ko pitch se zyada madad nahi mili; Asitha Fernando ne 2 wickets liye. Roshni kam hone par khel jaldi khatam hua — Shakeel aur Ghazi Ghori (7*) crease par hain.",
+      "title": "Rawalpindi Test, Day 1 — chaar fifties, do debutants chamke, Pakistan 281/5",
+      "url": "https://www.nation.com.pk/10-Nov-2026/four-fifties-power-pakistan-strong-start-first-test-sri-lanka"
     },
     {
-      "source": "Dawn",
-      "summary": "Karachi ke industrial areas mein rozana ka safar ab aik imtihan ban gaya hai — Korangi ka ek mazdoor public transport mein roz 4 ghante zaya karta hai, aur tooti sadkein, paani ki qillat aur kharab drainage industry ki cost barha rahe hain. Karachi wafaqi revenue ka taqreeban 67% aur exports ka 54% deta hai, lekin December 2025 mein manzoor Rs9bn ki road repairs ke 10 mahine baad bhi kaam shuru nahi hua. Korangi estate ke liye Rs2bn ki allocation bhi na-kaafi qarar di gayi. Mayor Murtaza Wahab ne agle saal allocation barhane ki yaqeen-dhani karayi hai.",
-      "title": "Karachi ki tooti sadkein — mazdoor 4 ghante safar mein, industry ko arabon ka nuqsan",
-      "url": "https://www.dawn.com/news/2043198/high-cost-of-crumbling-infrastructure-in-karachi"
+      "source": "The Nation",
+      "summary": "Mufakkir-e-Pakistan Dr Allama Muhammad Iqbal ki 149th youm-e-pedaish par Lahore mein un ke mazar par guard ki tabdeeli ki taqreeb hui — Pakistan Navy ke dastay ne Pakistan Rangers (Punjab) se guard duties sambhal leen. Pakistan Navy Station Commander Lahore, Commodore Misbah Ul Amin, chief guest the; unhon ne Naval Chief Admiral Naveed Ashraf ki taraf se phool chadhaye aur Fateha parhi. Taqreeb mein dignitaries, media aur awam ki bari tadaad shareek hui.",
+      "title": "Iqbal Day — 149th youm-e-pedaish par Pak Navy ne mazar ki guard duties sambhali",
+      "url": "https://www.nation.com.pk/10-Nov-2026/pak-navy-assumes-guard-duties-allama-iqbal-s-mausoleum"
     },
     {
-      "source": "Wisden",
-      "summary": "Pakistan aur Sri Lanka ke darmiyan pehla Test aaj subah 9:30 baje Rawalpindi Cricket Stadium mein shuru ho raha hai — dusra Test 17 November se Lahore mein hoga. Babar Azam ki qayadat mein nayi team mein teen uncapped khiladi hain — Tayyab Arif, Ali Shabbir aur Saqib Khan — aur Aamir Jamal wapas aa gaye hain. Pakistan World Test Championship mein 9th number par hai (2 jeete, 7 haare), jab ke Sri Lanka ke naye Test captain Kusal Mendis apna pehla Test as captain khelenge. Dono Tests WTC 2025-27 ka hissa hain.",
-      "title": "Aaj se Rawalpindi Test — Babar ki nayi team, Sri Lanka ke khilaf redemption",
-      "url": "https://www.wisden.com/series/pakistan-vs-sri-lanka-m-2026/cricket-news/pak-vs-sl-tests-2026-all-you-need-to-know-full-schedule-squads-venues-and-match-timings"
+      "source": "The Nation",
+      "summary": "Wazeer-e-Azam Shehbaz Sharif ne peer ko Foreign Ministry ko hidayat di ke baarish se doobe hue Gaza ke Falastiniyon ke liye insani imdad fori taur par barhayi jaye. X par apni post mein unhon ne Gaza mein kheemon ke doobne aur bachon ke bhook aur sardi mein phanse hone ki tasveeron par gehri tashweesh zahir ki aur Israeli actions ko ceasefire aur international law ki khilaf-warzi qarar de kar mazammat ki. Isi bayaan mein unhon ne China ke Shanxi province mein aag ke hadse par bhi afsos ka izhar kiya.",
+      "title": "PM Shehbaz ne Gaza ke liye imdad tez karne ka hukm diya",
+      "url": "https://www.nation.com.pk/10-Nov-2026/pm-orders-foreign-ministry-urgently-accelerate-gaza-relief-efforts"
     },
     {
-      "source": "Dawn",
-      "summary": "Karachi Port ne July-October 2026 mein cargo throughput 3.8% barha kar 19.286 million tonnes kar liya — exports mein 10.5% izafa aur vessel calls mein 13.7% izafa hua. Port ne Container Port Performance Index mein 30 places ki chhalang laga kar 69th position hasil ki, aur MSC ne Karachi se Europe ke liye weekly Premium IPAK direct service shuru kar di. FY2025-26 mein port ne record 55.438m tonnes cargo handle kiya tha. KPT saalana Rs12bn wafaqi aur Rs5bn Sindh taxes deta hai, jab ke navigation channel ki dredging December 2026 tak mukammal hone ki tawaqqo hai.",
-      "title": "Karachi Port ki record daud — cargo 19.3m tonnes, duniya bhar ki shipping lines aa rahin",
-      "url": "https://www.dawn.com/news/2043193"
+      "source": "The News",
+      "summary": "Deputy Prime Minister Ishaq Dar aaj Islamabad mein do rozah Margalla Dialogue 2026 ka iftatah karenge, jab ke Wazeer-e-Azam Shehbaz Sharif aaj hi Turkiye ke liye rawana ho rahe hain jahan kal Antalya mein COP31 climate summit shuru ho raha hai. Margalla Dialogue ka theme 'Global Order in Transition' hai aur is mein AI, sovereign AI aur tech risks par bhi guftagu hogi. Jumeraat se Pakistan Minerals Investment Forum bhi shuru ho raha hai — Reko Diq aur mining projects par focus, jisme Barrick, Ivanhoe Mines aur ADB ke numainde shareek honge.",
+      "title": "Margalla Dialogue aur Mineral Forum aaj se — Dar iftatah karenge, PM COP31 ke liye Turkiye ja rahe hain",
+      "url": "https://www.thenews.pk/print/1447958-dar-to-inaugurate-margalla-dialogue-mineral-forum-today"
     }
   ]
 }
