@@ -1,80 +1,80 @@
 {
   "poll": {
-    "q": "Aaj ki sab se bari khabar kaun si hai — Claude Fable 5.2, Google ke naye TPU, Tarbela ka dobara hadsa, ya Rawalpindi Test?",
+    "q": "Aaj ki sab se bari khabar kaun si hai — Signal ki maths-proof security, Anthropic ka $64bn IPO, ya October mein $3.9bn remittances?",
     "options": [
-      "🤖 Claude Fable 5.2 — Anthropic ka naya model",
-      "💾 Google ke TPU 8tx aur 8i Max",
-      "🏗️ Tarbela-5 mein dobara bund collapse",
-      "🏏 Rawalpindi Test — chaar fifties, do debutants"
+      "🔐 Signal ki cryptography maths se prove",
+      "💰 Anthropic IPO — $70-$78 per share",
+      "🇵🇰 Remittances $3.9bn — record October",
+      "🏏 Doosra Test smog ki wajah se Rawalpindi shift"
     ]
   },
   "stories": {
-    "https://www.reuters.com/technology/anthropic-unveils-new-fable-mythos-models-competition-heats-up-ahead-ipo-2026-11-09/": {
-      "what": "Anthropic ne Claude Fable 5.2 (sab ke liye) aur Claude Mythos 5.2 (sirf verified cyber aur life-sciences orgs) launch kiye. Dono ek hi model hain, 30% tez, price $8/$40 per million tokens.",
-      "why": "AI ki race ab sirf 'kaun smart hai' nahi, 'kaun sasta aur kaun safe hai' ban gayi hai. Anthropic IPO se pehle apni position mazboot kar raha hai.",
-      "next": "Dekhna ye hai ke Fable 5.2 asal coding mein OpenAI ke models ko kitna takkar deta hai — aur Mythos ki restricted access par debate kitni tez hoti hai.",
-      "take": "Meri take: Do versions, ek model — Anthropic ne clever tareeqe se 'powerful bhi, safe bhi' ka masla hal kiya hai. Lekin asal sawal ye hai ke ye 'verified access' waqt ke saath aik gatekeeping club na ban jaye."
+    "https://deepmind.google/blog/introducing-alphaproof-code/": {
+      "what": "DeepMind ke AlphaProof Code ne Signal ke crypto code ki security ko maths se prove kar diya — 6.5 million lines Lean proof, sirf 4 hafton mein. Pehli dafa kisi widely-used protocol ka asal compiled code verify hua, sirf design nahi.",
+      "why": "AI ab sirf code likh nahi raha, code ko prove bhi kar raha hai. Agar ye scale hua to banking, power grid aur medical devices ka software bhi isi tarah check ho sakega — security ka naya standard.",
+      "next": "Dekhna ye hai ke ye framework Signal se aage kitni jaldi jata hai — aur kya koi doosri company is ko apne products par istemal karti hai ya sirf DeepMind ka demo ban kar reh jata hai.",
+      "take": "Meri take: 6.5 million lines proof, 4 hafte — ye number sun kar lagta hai AI ne security research ka saal bhar ka kaam aik mahine mein kar diya. Lekin yaad rakho, ye poori Signal app ka certificate nahi hai — group chats aur key generation abhi bahar hain. Hype ko scope se alag rakhna seekho."
     },
-    "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/?ref=explainx": {
-      "what": "Google ne do naye TPU systems diye: 8tx confidential inference ke liye (data use ke waqt bhi protected) aur 8i Max jo double compute aur memory deta hai. Ek saal mein chaar TPU systems — pehli dafa.",
-      "why": "AI ab sirf chatbot nahi — agents, banks aur governments ka kaam hai. Un sab ko chahiye: bara context aur data ki hifazat. Google dono pe daav laga raha hai.",
-      "next": "Price aur availability abhi announce nahi hui — agle saal aane ki tawaqqo hai. Asal test tab hoga jab customers Nvidia ke muqable mein TPU ko chunenge ya nahi.",
-      "take": "Meri take: Google chip ki race mein ab 'Nvidia ka alternative' nahi, apna alag rasta bana raha hai. 8tx banks aur sarkaron ko target karta hai — wahan paisa bhi hai aur trust ka sawal bhi. Smart move."
+    "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/": {
+      "what": "Gemini Robotics 2.5 launch — Apptronik ke Apollo 2 humanoid ne Mercedes ki live factory lines par car parts sort kiye, 96% success. 200+ tasks par 30-100% behtar success, 20-30% tez. ASIMOV-Jailbreak benchmark bhi aaya.",
+      "why": "Chatbot wali AI khatam ho rahi hai — ab AI ko haath-pair mil rahe hain. Jo pehle factory floor par robot chalayega, wo agle decade ki supply chain jeetega.",
+      "next": "Pilot to pilot hota hai — asal sawal ye hai ke Apollo 2 lines par permanent rehta hai ya demo ke baad wapas lab jata hai. Mercedes ka agla step hi asal khabar hogi.",
+      "take": "Meri take: Robot factory mein kaam kar raha hai, ye sci-fi nahi raha — lekin 96% bhi factory ke liye kaafi nahi hota, wahan 99.9% chahiye hota hai. Lab ke numbers aur production ke numbers mein farq hota hai, aur DeepMind ko ye farq abhi bharna hai."
     },
-    "https://www.therobotreport.com/nvidia-launches-gr00t-2-isaac-lab-3-0-corl/": {
-      "what": "Nvidia ka GR00T 2 robot foundation model — 100,000 ghante ki human video se seekha. 50 tasks mein se 40 bina demo ke complete, paanch demos par 95% success. Saath Isaac Lab 3.0 simulation framework.",
-      "why": "Chatbots se aage: ab AI ko haath-pair chahiye. Jo company robots ko sikhane ka standard banayegi, wo agle decade ki Nvidia ban sakti hai.",
-      "next": "Foxconn aur Siemens is ko test kar rahe hain — factory floor par asal kaam kab hoga, yehi asal kahani hai. Code December mein aane ki baat hai.",
-      "take": "Meri take: Robot ko YouTube video dikha kar kaam sikhana — ye woh idea hai jo pehle sci-fi lagta tha. Lekin yaad rakho: ye lab ke numbers hain, factory ke nahi. Hype aur haqeeqat mein farq abhi baqi hai."
+    "https://www.fool.com/money/buying-stocks/articles/where-to-buy-the-anthropic-ipo-best-brokers-for-ant-access/": {
+      "what": "Anthropic ne IPO roadshow shuru kar diya: 825M shares, $70-$78 per share, Nasdaq ticker ANT. Pricing 18 Nov, trading 19 Nov expected. Top par $64.35bn raise, fully diluted value ~$1.4 trillion. Retail ko ~20% allocation ka target.",
+      "why": "AI ki sab se bari IPO hai — ye sirf Anthropic ki kahani nahi, poori AI industry ki valuation ka test hai. Agar ye $1.4 trillion par bik gaya to har AI startup ki keemat dobara likhi jayegi.",
+      "next": "18 November ki pricing dekhni hai — aur retail ko waqai 20% milta hai ya sirf headline hai. Book pehle din hi covered batayi ja rahi hai, to demand ki kami nahi lagti.",
+      "take": "Meri take: $1.4 trillion — aik aisi company ke liye jis ka 9 mahine ka net loss $104bn hai. Ye IPO hai ya AI bubble ka sab se bara test? Retail ke liye 20% allocation achha gesture hai, lekin yaad rakho: IPO mein milne wala share lottery hai, guarantee nahi."
     },
-    "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/": {
-      "what": "Meta ne Muse Ember launch kiya — sab se chhota aur sasta Muse model. $0.10 per million input tokens, 1M context, aur Artificial Analysis par Haiku 5.5 ke barabar score, taqreeban aik tihai cost par.",
-      "why": "Agents ka asal kharcha bari soch nahi, chhote repetitive kaam hain — tool calls, routing, extraction. Jo in ko sasta karega, wo agent economy jeetega.",
-      "next": "Ab dekhna hai ke developers Ember ko apne agent stacks mein kitni jaldi adopt karte hain — aur kya Meta is price war mein aur neeche jata hai.",
-      "take": "Meri take: 'Chhota model, bari baat' — ye Meta ki sab se samajhdar strategy hai. Sab frontier model ki race mein lage hain, Meta ne volume ka kaam pakda hai. Aur volume mein hi paisa hai."
+    "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/": {
+      "what": "OpenAI ne 'Businesses in ChatGPT' beta launch kiya — Business Hub mein companies apna verified profile bana sakti hain, product feeds de sakti hain, aur apna Business Agent chala sakti hain. Pehle sirf eligible US ecommerce aur online-service businesses.",
+      "why": "ChatGPT ab sirf jawab dene wala nahi, dukaanein dikhane wala ban raha hai. 1.2 billion weekly users ke saamne aana — ye Google Search ki jagah lene ki koshish hai, seedha seedha.",
+      "next": "Dekhna ye hai ke businesses is par kitna kharch karte hain aur users ko ye profiles helpful lagti hain ya ad jaisi. Aur Pakistan jaisi markets tak ye kab pahunchta hai — abhi to sirf US hai.",
+      "take": "Meri take: OpenAI ne pehle checkout cart wala e-commerce experiment kiya tha, wo fail hua. Ab doosri koshish hai — Google Business Profile ki copy. Copy karna bura nahi, lekin sawaal ye hai: log ChatGPT par dukaanein dhoondhne aayenge ya sirf sawal poochhne? Abhi jawab nahi mila."
     },
-    "https://www.unite.ai/openai-starts-selling-chatgpt-enterprise-through-aws-marketplace/": {
-      "what": "ChatGPT Enterprise ab AWS Marketplace se khareeda ja sakta hai — companies apne AWS bill se pay karein, aur eligible kharch apne AWS commitments mein count karwayen. Features wohi, price private offer par.",
-      "why": "Bari companies ke paas AWS ke saath pehle se billion-dollar commitments hain. OpenAI ne un ke paisay ko apni taraf morne ka rasta khol diya hai.",
-      "next": "Anthropic pehle se AWS Marketplace par hai — ab dono ki takkar wahan bhi hogi. Aur data residency ke sawal abhi bhi poori tarah hal nahi hue.",
-      "take": "Meri take: Ye AI ki khabar kam, business ki khabar zyada hai. Lekin yehi to asli game hai — models to sab bana lete hain, jo procurement jeetega wo enterprise jeetega."
+    "https://dataconomy.com/2026/11/10/meituan-releases-longcat-25-ai-model-weights-under-mit/": {
+      "what": "Meituan ne LongCat-2.5 ke weights Hugging Face par MIT license ke tehat khol diye — 1.6 trillion parameters ka multimodal agent model jo screenshots/video dekh kar multi-step coding karta hai. Terminal-Bench v2.1 par 88.4 score, API $0.30/$1.20 per million tokens.",
+      "why": "Open weights ki race mein China ab sirf peeche nahi — aik food-delivery company ne 1.6T model khol diya. MIT license ka matlab hai commercial use bhi free, jo open-source community ke liye bari baat hai.",
+      "next": "Independent benchmarks abhi baqi hain — company ke apne scores par andha bharosa nahi karna chahiye. Aur asal test ye hai ke developers is ko real projects mein istemal karte hain ya sirf download kar ke bhool jate hain.",
+      "take": "Meri take: Weights kholna achha hai, lekin 3.2TB weights ka matlab hai ke aam developer is ko chala hi nahi sakta — sirf bare players. 'Open' ka matlab ab ye bhi ho gaya hai ke darwaza khula hai, lekin andar jaane ke liye cluster chahiye. Phir bhi, MIT license wali ye move closed models ke liye aik challenge hai."
     },
-    "https://www.republicworld.com/global-news/worker-swept-away-tunnel-flooded-inside-the-tarbela-5-bund-collapse-that-exposes-pakistan-s-cofferdam-scam-2026-11-09-140722": {
-      "what": "Tarbela-5 project mein Tunnel-5 ka bund dobara gir gaya — paani andar bhar gaya, kaam muattal, ek worker beh gaya lekin bach gaya. Inquiry ke mutabiq pehle collapse mein WAPDA, contractor aur consultant teeno zimmedar the.",
-      "why": "Ye sirf ek dam ka hadsa nahi — 1530 MW ka project, $700 million ke loans, aur cost Rs82bn se Rs317bn. Har collapse ka bill awaam deta hai.",
-      "next": "High-level inquiry shuru hai — lekin asal sawal ye hai ke July wali inquiry ke baad kya badla? Agar jawab 'kuch nahi' hai to teesra hadsa sirf waqt ki baat hai.",
-      "take": "Meri take: Doosri dafa wahi ghalti — ye hadsa nahi, system ka failure hai. Design change karna, phir usi ko approve karna, phir flood ko blame karna — ye cycle tab tak chalegi jab tak koi zimmedar thehraya na jaye."
+    "https://timesofindia.indiatimes.com/world/pakistan/pakistans-khyber-pakhtunkhwa-plans-faceless-anti-terror-courts-report/articleshow/135661114.cms": {
+      "what": "KP administration ne faceless anti-terror courts ka plan banaya — gawah, prosecutor aur judge ki pehchan chhupi rahegi. Police ke liye Rs59.8bn aur CTD ke liye Rs10.3bn saalana, Safe City ki tausia aur anti-drone systems bhi. Sube mein 10,000 se zyada police ki kami hai.",
+      "why": "Dehshatgardi ke cases mein gawah dar ke mare bolte nahi — ye asal masla hai. Faceless courts is ka jawab hain, lekin ye tab hi kaam karenge jab in ke faislay transparent aur challengeable hon.",
+      "next": "Amendment kab aata hai aur pehli faceless court kab banti hai — elaan se implementation tak ka waqt hi batayega ke ye plan hai ya sirf briefing hai.",
+      "take": "Meri take: Faceless courts ka idea samajh mein aata hai — gawah ki jaan bachana zaroori hai. Lekin tareekh batati hai ke jab adalatein 'faceless' hoti hain to sawal uthte hain ke insaaf dikhai bhi deta hai ya nahi. Security aur transparency ka balance hi asal test hai."
     },
-    "https://epaper.dawn.com/DetailNews.php?StoryText=10_11_2026_001_001": {
-      "what": "Pakistani aur Saudi investors ne Karachi mein ek private equity fund launch kiya — dono mumalik ke darmiyan private sector trade aur investment barhane ki koshish ka hissa.",
-      "why": "Saudi ke saath rishta ab defence se aage barh kar business mein aa raha hai. Private equity ka matlab hai: ab paisa sirf hukoomati MOUs mein nahi, asal companies mein lagna chahiye.",
-      "next": "Fund ka size aur pehle investments abhi announce nahi hue — asal khabar tab banegi jab paisa kis sector mein lagta hai ye pata chalega.",
-      "take": "Meri take: Fund launch karna aasan hai, fund chalana mushkil. Pakistan mein private equity ka asal test ye hai ke paisa waqai naye business mein jata hai ya sirf purani companies ke haath badalta hai."
+    "https://www.dawn.com/news/print/2043576": {
+      "what": "PCB ne doosra Pakistan-Sri Lanka Test Lahore se Rawalpindi shift kar diya — 17-21 November ka match ab Rawalpindi Cricket Stadium mein hoga. Lahore mein 10 din se shadeed smog, AQI 600 tak. Pehle Test mein Pakistan ne 434/9 declare kiye, Saud Shakeel 93, Sri Lanka 114/3.",
+      "why": "Cricket bhi ab mausam aur hawa ki khabar ban gaya hai. Smog sirf sehet ka masla nahi — ye sports calendar, tourism aur sheher ki image sab kuch badal raha hai.",
+      "next": "Rawalpindi mein bhi smog ka season aa raha hai — PCB ko agle saal ke schedule mein November ke matches ke liye backup plan sochna hoga, warna har saal yehi hoga.",
+      "take": "Meri take: AQI 600 — ye number parh kar bhi agar smog 'seasonal masla' lagta hai to phir kya kahein. Test shift karna sahi faisla hai, lekin asal khabar ye nahi ke match kahan hoga — asal khabar ye hai ke Lahore mein saans lena mushkil ho gaya hai."
     },
-    "https://www.nation.com.pk/10-Nov-2026/four-fifties-power-pakistan-strong-start-first-test-sri-lanka": {
-      "what": "Pakistan ne Rawalpindi Test ke pehle din 281/5 banaye. Do debutants — Tayyab Arif (57) aur Mohammad Taha (51) — ne fifties lagayen, Babar Azam ne 50 aur Saud Shakeel 57* par not out.",
-      "why": "Babar ki captaincy mein nayi team, chaar debutants — aur pehle din hi chaar fifties. Ye woh start hai jo fans ko umeed deta hai.",
-      "next": "Doosre din Shakeel aur Ghori par hai ke Pakistan 400 ke paar jaye. Aur phir bowlers ki baari — Sri Lanka ko jaldi out karna hoga.",
-      "take": "Meri take: Debutants ne dhoom macha di — Tayyab ne 51 balls mein 57, ye darne wala debut nahi tha. Lekin Test paanch din ka hota hai, pehla din sirf trailer hai. Asal film abhi baqi hai."
+    "https://tribune.com.pk/story/2639562/dar-vows-to-safeguard-pakistans-water-rights-under-iwt-oppose-attempts-to-weaponise-water": {
+      "what": "Ishaq Dar ne Margalla Dialogue 2026 mein kaha ke Makkah Joint Defence Agreement defensive hai aur kisi mulk ke khilaf nahi. Unhon ne kaha Pakistan Indus Waters Treaty ke tehat apne paani ke huqooq ki hifazat karega aur paani ko hathiyaar banane ki mukhalfat karega.",
+      "why": "Paani ab sirf paani nahi — ye Pakistan ki zindagi aur India ke saath sab se bara flashpoint hai. Treaty par khara rehna aur us ki khilaf-warzi ka jawab dena, dono aik saath chalte hain.",
+      "next": "Dialogue mein badi baatein to ho gayin — asal test ye hai ke paani ke muamle par practical diplomacy kya nikalti hai, aur minerals forum mein koi asal deal hoti hai ya sirf taqreerein.",
+      "take": "Meri take: Margalla Dialogue mein har saal achhi baatein hoti hain — lekin diplomacy ka score taqreeron se nahi, deals se banta hai. Paani par sakht lehja zaroori hai, magar is ke saath koi thos rasta bhi dikhana hoga."
     },
-    "https://www.nation.com.pk/10-Nov-2026/pak-navy-assumes-guard-duties-allama-iqbal-s-mausoleum": {
-      "what": "Allama Iqbal ki 149th youm-e-pedaish par Lahore mein un ke mazar par guard change hua — Pak Navy ne Rangers se duties sambhal leen, Commodore Misbah Ul Amin chief guest the.",
-      "why": "Iqbal Day sirf chhutti nahi — ye woh din hai jab mulk apne fikri baani ko yaad karta hai. Har saal guard change is ki aik khoobsurat rivaayat hai.",
-      "next": "Iqbal ki fikr aaj ke Pakistan mein kitni zinda hai — ye sawal har saal uthta hai, aur jawab humein apne kaam se dena hai, taqreebon se nahi.",
-      "take": "Meri take: Mazar par phool chadhana achha hai, lekin Iqbal ko asal tribute ye hai ke un ke 'Khudi' wale message ko zindagi mein utaara jaye. Taqreeb khatam, kaam shuru."
+    "https://english.aaj.tv/news/330480141/remittances-hit-39bn-in-october-up-14-on-year": {
+      "what": "Overseas Pakistanis ne October mein $3.89bn bheje — 14% izafa. July-October total $14.8bn. Sab se zyada Saudi Arabia se $982m, phir UAE $816m, UK $592m. SBP ne saal bhar ka forecast $44bn se barha kar $45bn kar diya.",
+      "why": "Remittances Pakistan ki economy ki sab se bari lifeline ban chuki hain — taqreeban poora external deficit inhi se cover hota hai. Ye awaam ki mehnat hai, hukoomat ki policy nahi.",
+      "next": "Sawal ye hai ke ye paisa sirf ghar ke kharchon mein jata hai ya investment mein bhi badalta hai. Overseas Pakistanis ko invest karne ka asaan rasta mile to ye $45bn se zyada bhi ho sakta hai.",
+      "take": "Meri take: $3.9bn aik mahine mein — overseas Pakistanis ne mulk ko default se bachaya, aur ab bhi bacha rahe hain. Lekin ye bhi sach hai: aik mulk jo apne logon ki bahar ki kamai par chalta hai, us ko apne andar ki economy par bhi mehnat karni hogi. Remittances lifeline hain, plan nahi."
     },
-    "https://www.nation.com.pk/10-Nov-2026/pm-orders-foreign-ministry-urgently-accelerate-gaza-relief-efforts": {
-      "what": "PM Shehbaz Sharif ne Foreign Ministry ko hidayat di ke baarish se doobe Gaza ke liye imdad fori barhayi jaye. Unhon ne Israeli actions ko ceasefire aur international law ki khilaf-warzi qarar diya.",
-      "why": "Gaza mein baarish ne kheemon mein rehne walon ki mushkil aur barha di hai — bhook, sardi aur paani. Pakistan ki awaaz is waqt un ke liye ahem hai.",
-      "next": "Hidayat ke baad asal sawal ye hai ke imdad kitni jaldi aur kis raste se pahunchegi — elaan se delivery tak ka faasla hi asal test hai.",
-      "take": "Meri take: Bayaan dena zaroori hai, lekin Gaza ko bayaan nahi, samaan chahiye. Pakistan ki imdad ki raftaar hi batayegi ke ye hidayat kitni sanjeeda thi."
+    "https://www.dawn.com/news/2043165": {
+      "what": "Pakistan ne SAFF Championship mein Maldives ko 3-0 se hara diya — Najeebullah Bettani ki brace aur McKeal Abdullah ki penalty. India se 3-2 ki haar ke baad ye jeet semi-final ki umeed zinda rakhti hai. Faisla 11 Nov ko India-Maldives match par hai.",
+      "why": "Pakistan football ke liye ye aik chhoti jeet nahi — India se haar ke baad team ne comeback kiya. Football mein Pakistan ka naam ab sirf 'participate karne' wala nahi raha.",
+      "next": "11 November ko India-Maldives match dekhna hai — Maldives ko bari jeet chahiye warna Pakistan semi-final mein. Aur phir semi-final mein asal test hoga.",
+      "take": "Meri take: 3-0, clean sheet, aur Najeebullah ki brace — ye woh football hai jo fans dekhna chahte hain. India se haar ke baad bhi team ne hausla nahi haara, aur yehi baat sab se achhi hai. Ab semi-final tak ka rasta doosron ke match par hai — thoda ajeeb hai, lekin football mein aisa hi hota hai."
     },
-    "https://www.thenews.pk/print/1447958-dar-to-inaugurate-margalla-dialogue-mineral-forum-today": {
-      "what": "Ishaq Dar aaj Margalla Dialogue 2026 ka iftatah karenge, PM Shehbaz COP31 ke liye Turkiye ja rahe hain, aur Jumeraat se Pakistan Minerals Investment Forum shuru ho raha hai — Reko Diq aur mining par focus.",
-      "why": "Ek hi hafte mein diplomacy, climate aur minerals — Pakistan apni kahani duniya ko bechne ki koshish kar raha hai. Minerals mein asal paisa hai, agar deals waqai hon.",
-      "next": "Mineral Forum mein Barrick aur Ivanhoe Mines ke numainde honge — asal khabar ye hogi ke koi naya investment announce hota hai ya sirf taqreerein hoti hain.",
-      "take": "Meri take: Conferences Pakistan mein kabhi khatam nahi hote — asal farq sirf deals se parta hai. Reko Diq ka naam har forum mein aata hai; ab waqt hai ke naam se aage bhi kuch ho."
+    "https://www.dawn.com/news/2043358/pakistan-tent-pegging-team-leaves-for-jordan": {
+      "what": "Pakistan ki tent-pegging team World Championship ke liye Jordan rawana — 11 se 14 November tak. Paanch rukni squad ki qayadat Wajahatullah Khan Awan kar rahe hain, Mianwali mein camp ke baad. Pakistan 2023 World Cup mein runner-up raha tha.",
+      "why": "Tent-pegging Pakistan ka purana khel hai — ghode, neza aur nishana. Ye woh sports hain jin mein Pakistan ki asal pehchan hai, lekin in ki coverage cricket ke muqable mein na ke barabar hoti hai.",
+      "next": "Championship 11 November se shuru — Pakistan ke paas 2023 ki runner-up position se aage jaane ka mauqa hai. Jeet gaye to ye khabar headlines mein aani chahiye.",
+      "take": "Meri take: Cricket ke shor mein tent-pegging jaisi teams chup chaap mulk ka naam roshan karti hain. 2023 mein runner-up — is dafa jeet ka mauqa hai. In players ko bhi wohi izzat milni chahiye jo cricketers ko milti hai."
     }
   },
-  "mood": "🤖 AI ki race tez, 🏗️ Tarbela phir dooba, 🏏 Test mein naye stars — aaj har taraf 'naya' ka shor hai."
+  "mood": "🔐 Signal ki maths-proof security, 💰 Anthropic ka $64bn IPO, 🇵🇰 remittances record — aaj AI aur paisa, dono ki race tez hai."
 }

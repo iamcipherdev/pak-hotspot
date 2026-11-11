@@ -1,73 +1,73 @@
 {
-  "updated_at": "2026-11-10T07:00:44+05:00",
+  "updated_at": "2026-11-11T07:00:48+05:00",
   "tech": [
     {
-      "source": "Reuters",
-      "summary": "Anthropic ne 9 November ko apne do naye models launch kiye: Claude Fable 5.2 jo sab ke liye hai (coding, reasoning, agents) aur Claude Mythos 5.2 jo sirf verified cybersecurity aur life-sciences organisations ko milega. Dono ek hi underlying model hain — Fable mein cyber aur biology safeguards zyada sakht hain. Company ke mutabiq naye models 5.1 se 30% tak tez output dete hain aur price bhi kam ho gayi hai: $8 input aur $40 output per million tokens. Launch us waqt hua hai jab Anthropic apne planned IPO se pehle OpenAI, Google aur Meta se muqabla tez kar raha hai.",
-      "title": "Anthropic ne Claude Fable 5.2 aur Mythos 5.2 launch kar diye — tez, sasta, aur ek sirf verified logon ke liye",
-      "url": "https://www.reuters.com/technology/anthropic-unveils-new-fable-mythos-models-competition-heats-up-ahead-ipo-2026-11-09/"
+      "source": "Google DeepMind",
+      "summary": "Google DeepMind ne 10 November ko AlphaProof Code introduce kiya — aik agentic framework jis mein AI agents ne Signal ke libsignal code ki key security properties ko Lean mein machine-checked proofs se verify kiya. Agents ne chaar hafton mein 6.5 million lines ki proof likhi — aisa kaam jo expert teams ko saalon lagta tha. Proof mein post-quantum PQXDH handshake aur Triple Ratchet shamil hain, aur team ne do purani fixed bugs wapas daal kar check kiya ke system buggy code ko pakar leta hai. Artifacts open-source kar diye gaye hain. Scope yaad rakhein: ye poori Signal app ka certificate nahi, core crypto code ka hai — group chats aur key generation abhi bahar hain.",
+      "title": "DeepMind ka AlphaProof Code — Signal ki cryptography ab maths se prove ho gayi",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
     },
     {
-      "source": "Google Blog",
-      "summary": "Google ne 9 November ko apne eighth-generation TPU portfolio mein do naye systems add kar diye: TPU 8tx jo confidential inference ke liye hai — sensitive data aur model weights hardware level par protected rehte hain jab ke wo use mein hon — aur TPU 8i Max jo do TPU 8i chips ek package mein jor kar compute, SRAM aur HBM bandwidth double kar deta hai. Ye pehli dafa hai ke Google ne ek hi saal mein chaar TPU systems introduce kiye. Price ya availability date abhi announce nahi hui; systems agle saal aane ki tawaqqo hai.",
-      "title": "Google ne do naye TPU systems diye — 8tx secret data ke liye, 8i Max bare context ke liye",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/?ref=explainx"
+      "source": "Google DeepMind",
+      "summary": "Google DeepMind ne 10 November ko Gemini Robotics 2.5 launch kiya — apna sab se capable vision-language-action model. Apptronik ke Apollo 2 humanoid ne Mercedes-Benz ke Kecskemét (Hungary) aur Sindelfingen (Germany) plants par live production lines par automotive kitting ki — metal parts ko bins se nikaal kar sahi order mein trays mein rakhna — 96% success rate ke saath. DeepMind ke mutabiq 200+ tasks par success 30% se 100% tak barhi aur kaam 20-30% tez hua. Saath mein ASIMOV-Jailbreak benchmark bhi release hua, jo test karta hai ke robot ko dhoke se khatarnak kaam par majboor to nahi kiya ja sakta.",
+      "title": "Gemini Robotics 2.5 — robot ab Mercedes ki factory line par kaam kar raha hai",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/"
     },
     {
-      "source": "The Robot Report",
-      "summary": "Nvidia ne Conference on Robot Learning (CoRL) mein GR00T 2 introduce kiya — ek open 'world action model' jo robots ko dexterous manipulation sikhata hai. Model ko 100,000 ghante ki first-person human video aur robot data par train kiya gaya. Nvidia ke tests mein GR00T 2 ne 50 mein se 40 tasks bina kisi task-specific demo ke kam az kam ek dafa complete kiye; ek demo par 71% aur paanch demos par 95% average success mili. Saath hi Isaac Lab 3.0 bhi aaya — simulation framework jisme PhysX aur Newton physics solvers switch kiye ja sakte hain. Foxconn ise server manufacturing mein aur Siemens industrial use cases mein test kar raha hai.",
-      "title": "Nvidia ka GR00T 2 — robot ab insaan ki video dekh kar kaam seekhega",
-      "url": "https://www.therobotreport.com/nvidia-launches-gr00t-2-isaac-lab-3-0-corl/"
+      "source": "Motley Fool",
+      "summary": "Anthropic ne 10 November ko apne IPO ka roadshow shuru kar diya: 825 million shares $70 se $78 per share, Nasdaq par ticker ANT. CNBC ke mutabiq pricing 18 November aur trading 19 November se expected hai. Range ke top par raise lagbhag $64.35 billion banta hai aur company ki fully diluted value taqreeban $1.4 trillion — May ki $965 billion valuation se bara jump. Saath mein Google, Nvidia aur AMD jaisi companies se $26 billion ka private placement bhi hai, aur Anthropic taqreeban 20% shares retail investors ke liye rakhna chahta hai — aam tor par 5-10% hota hai.",
+      "title": "Anthropic IPO ki price tay — $70 se $78, $64 billion tak ka raise",
+      "url": "https://www.fool.com/money/buying-stocks/articles/where-to-buy-the-anthropic-ipo-best-brokers-for-ant-access/"
     },
     {
       "source": "TechCrunch",
-      "summary": "Meta Superintelligence Lab ne 9 November ko Muse Ember launch kiya — Muse family ka sab se chhota aur sab se sasta model, jo agents ke roz ke repetitive kaam ke liye bana hai: tool calls, coding subtasks, routing, extraction aur lambi documents parhna. Price $0.10 per million input tokens aur $0.50 output hai, 1 million token context window ke saath. Meta ke mutabiq Ember Artificial Analysis index par Claude Haiku 5.5 ke barabar score karta hai, taqreeban aik tihai cost per task par. Model 'muse-ember-1.0' ke naam se Meta Model API aur Muse Code par live hai.",
-      "title": "Meta ka Muse Ember — chhota model, Haiku jitna smart, aik tihai cost",
-      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/"
+      "summary": "OpenAI ne 10 November ko 'Businesses in ChatGPT' beta mein launch kiya. Naye Business Hub mein companies apna profile claim kar ke verify karwa sakti hain, products aur services ki details update kar sakti hain aur product feeds de sakti hain — bilkul Google Business Profile ki tarah. Eligible businesses apna 'Business Agent' bhi bana sakti hain, jis se users ChatGPT ke andar hi us business se sawal-jawab kar sakein. Hub ye bhi batayega ke ChatGPT users ne business ko kitni dafa mention kiya ya us ki website par click kiya. Shuruaat mein sirf eligible US ecommerce aur online-service businesses ke liye hai.",
+      "title": "ChatGPT ab Google jaisa ban raha hai — businesses ke verified profiles aur agents",
+      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/"
     },
     {
-      "source": "Unite.AI",
-      "summary": "OpenAI ne 9 November ko elaan kiya ke ChatGPT Enterprise ab AWS Marketplace ke zariye khareeda ja sakta hai. Companies apne maujooda AWS purchasing aur billing relationship se ChatGPT Enterprise le sakti hain aur eligible kharch apne AWS commitments ki taraf count karwa sakti hain. Package mein Chat, ChatGPT Work, Codex aur dots shamil hain; OpenAI kehta hai features aur naye updates bilkul wohi milenge jo direct khareedne par milte hain. Koi public price nahi — har deal private offer par hoti hai.",
-      "title": "ChatGPT Enterprise ab AWS Marketplace par — bill AWS se, features wohi",
-      "url": "https://www.unite.ai/openai-starts-selling-chatgpt-enterprise-through-aws-marketplace/"
+      "source": "Dataconomy",
+      "summary": "Chinese company Meituan ne 9 November ko apne LongCat-2.5 model ke weights Hugging Face par MIT license ke tehat release kar diye. Ye aik multimodal agent model hai jo screenshots aur video dekh kar codebase parh sakta hai aur multi-step coding kar sakta hai — 1.6 trillion total parameters, taqreeban 48 billion active per token, 1 million token context. Meituan ke mutabiq is ne Terminal-Bench v2.1 par 88.4 score kiya. Lekin self-hosting aasan nahi: weights hi 3.2TB se zyada jagah lete hain, matlab cluster chahiye. Aur ye saare benchmark scores company ke apne hain — independent testing abhi baqi hai.",
+      "title": "Meituan ne LongCat-2.5 ke weights khol diye — 1.6 trillion parameters, MIT license",
+      "url": "https://dataconomy.com/2026/11/10/meituan-releases-longcat-25-ai-model-weights-under-mit/"
     }
   ],
   "pakistan": [
     {
-      "source": "Republic World",
-      "summary": "Tarbela 5th Extension Hydropower Project mein peer ko Tunnel-5 ka protective bund gir gaya, jis se reservoir ka paani tunnel aur powerhouse area mein bhar gaya. Emergency declare kar ke construction muattal kar di gayi aur workers ko mehfooz jagah muntaqil kiya gaya; ek worker paani mein beh gaya tha lekin use bacha liya gaya, koi jaani nuqsan nahi hua. WAPDA ke mutabiq kamzor rock mass girne se paani andar aaya, lekin main tunnel aur powerhouse ko nuqsan nahi pahuncha. Ye 1530 MW project ka 2025 ke baad doosra bara hadsa hai — pehle cofferdam collapse par inquiry ne WAPDA, contractor aur consultant teeno ko zimmedar thehraya tha. Project ki cost Rs82.36bn se barh kar Rs317bn ho chuki hai aur completion June 2028 tak shift ho gayi hai.",
-      "title": "Tarbela-5 mein dobara hadsa — bund gir gaya, kaam band, cost Rs82bn se Rs317bn",
-      "url": "https://www.republicworld.com/global-news/worker-swept-away-tunnel-flooded-inside-the-tarbela-5-bund-collapse-that-exposes-pakistan-s-cofferdam-scam-2026-11-09-140722"
+      "source": "Times of India",
+      "summary": "Khyber Pakhtunkhwa ki administration ne faceless anti-terrorism courts banane ka plan tayyar kar liya hai, taa ke dehshatgardi ke cases mein gawah, prosecutor aur judge ki pehchan chhupi rahe — Dawn ki report ke mutabiq Home Secretary Amjad Ali Khan ne ye briefing di. Plan mein police ke liye Rs59.8 billion aur Counter Terrorism Department ke liye Rs10.3 billion saalana bhi shamil hain, Safe City ki tausia, anti-drone systems aur 10,000 se zyada police ki kami poori karna bhi. Ye emergency aur governor's rule ke taqreeban aik mahine baad ka naya security plan hai.",
+      "title": "KP mein faceless anti-terror courts ka plan — police aur CTD ke liye Rs70bn",
+      "url": "https://timesofindia.indiatimes.com/world/pakistan/pakistans-khyber-pakhtunkhwa-plans-faceless-anti-terror-courts-report/articleshow/135661114.cms"
     },
     {
       "source": "Dawn",
-      "summary": "Karachi mein Pakistani aur Saudi investors ne peer ko ek private equity fund launch kiya, jo dono mumalik ke darmiyan private sector trade aur investment ko gehra karne ki koshish ka hissa hai. Fund ka elaan us waqt hua hai jab Pakistan aur Saudi Arabia ke darmiyan economic taawun barh raha hai — pehle defence aur ab business ke maidan mein.",
-      "title": "Pakistani aur Saudi investors ne private equity fund bana liya",
-      "url": "https://epaper.dawn.com/DetailNews.php?StoryText=10_11_2026_001_001"
+      "summary": "PCB ne Pakistan aur Sri Lanka ke darmiyan doosra Test Lahore se Rawalpindi shift kar diya hai. Match 17 se 21 November tak Gaddafi Stadium mein hona tha, ab Rawalpindi Cricket Stadium mein hoga. Wajah: Lahore mein 10 din se shadeed smog, AQI 600 tak pahunch gaya hai. Dono Tests ab aik hi ground par honge. Pehle Test mein Pakistan ne 434/9 par declare kiya — Saud Shakeel ne 93 banaye — aur Sri Lanka apni doosri innings mein 114/3 par tha jab roshni kam hone par khel ruka.",
+      "title": "Smog ne doosra Test bhi Rawalpindi bhej diya — Lahore ki AQI 600 tak",
+      "url": "https://www.dawn.com/news/print/2043576"
     },
     {
-      "source": "The Nation",
-      "summary": "Pakistan ne Sri Lanka ke khilaf pehle Test ke pehle din Rawalpindi mein 281/5 bana liye. Chaar batsmen ne fifties lagayen — debutant Tayyab Arif ne 51 balls par 57, doosre debutant Mohammad Taha ne 51, captain Babar Azam ne apni 35th Test fifty (50) aur Saud Shakeel ne naqabil-e-shikast 57 banaye. Azan Awais aur Tayyab ne 86 runs ki opening partnership di. Sri Lanka ne toss jeet kar bowling chuni thi lekin un ke chaar fast bowlers ko pitch se zyada madad nahi mili; Asitha Fernando ne 2 wickets liye. Roshni kam hone par khel jaldi khatam hua — Shakeel aur Ghazi Ghori (7*) crease par hain.",
-      "title": "Rawalpindi Test, Day 1 — chaar fifties, do debutants chamke, Pakistan 281/5",
-      "url": "https://www.nation.com.pk/10-Nov-2026/four-fifties-power-pakistan-strong-start-first-test-sri-lanka"
+      "source": "The Express Tribune",
+      "summary": "Deputy Prime Minister aur Foreign Minister Ishaq Dar ne Islamabad mein Margalla Dialogue 2026 ke iftatahi session mein kaha ke Saudi Arabia aur Turkiye ke saath Makkah Joint Defence Agreement aik defensive arrangement hai jo kisi mulk ke khilaf nahi aur regional peace ke liye hai. Unhon ne kaha ke Pakistan Indus Waters Treaty ke tehat apne paani ke huqooq ki hifazat karega aur paani ko hathiyaar banane ki kisi koshish ki mukhalfat karega. Dar ne Afghan sarzameen se dehshatgardi, Gaza ki surat-e-haal aur badalte hue global order par bhi baat ki.",
+      "title": "Dar ne Margalla Dialogue mein kaha — Makkah defence pact kisi ke khilaf nahi, paani ko hathiyaar nahi banne denge",
+      "url": "https://tribune.com.pk/story/2639562/dar-vows-to-safeguard-pakistans-water-rights-under-iwt-oppose-attempts-to-weaponise-water"
     },
     {
-      "source": "The Nation",
-      "summary": "Mufakkir-e-Pakistan Dr Allama Muhammad Iqbal ki 149th youm-e-pedaish par Lahore mein un ke mazar par guard ki tabdeeli ki taqreeb hui — Pakistan Navy ke dastay ne Pakistan Rangers (Punjab) se guard duties sambhal leen. Pakistan Navy Station Commander Lahore, Commodore Misbah Ul Amin, chief guest the; unhon ne Naval Chief Admiral Naveed Ashraf ki taraf se phool chadhaye aur Fateha parhi. Taqreeb mein dignitaries, media aur awam ki bari tadaad shareek hui.",
-      "title": "Iqbal Day — 149th youm-e-pedaish par Pak Navy ne mazar ki guard duties sambhali",
-      "url": "https://www.nation.com.pk/10-Nov-2026/pak-navy-assumes-guard-duties-allama-iqbal-s-mausoleum"
+      "source": "Aaj English TV",
+      "summary": "State Bank of Pakistan ke mutabiq overseas Pakistanis ne October 2026 mein $3.89 billion bheje — pichle saal ke $3.42 billion se 13.8% zyada, aur September se 8.5% zyada. July se October tak total $14.8 billion ho gaya, pichle saal ke $13 billion se 14% zyada. Sab se bara source Saudi Arabia raha ($982m), phir UAE ($816m) aur UK ($592m). SBP ne is saal ke liye remittances ka forecast $44 billion se barha kar $45 billion kar diya hai.",
+      "title": "Overseas Pakistanis ne October mein $3.9bn bheje — 14% izafa, saal bhar ka target $45bn",
+      "url": "https://english.aaj.tv/news/330480141/remittances-hit-39bn-in-october-up-14-on-year"
     },
     {
-      "source": "The Nation",
-      "summary": "Wazeer-e-Azam Shehbaz Sharif ne peer ko Foreign Ministry ko hidayat di ke baarish se doobe hue Gaza ke Falastiniyon ke liye insani imdad fori taur par barhayi jaye. X par apni post mein unhon ne Gaza mein kheemon ke doobne aur bachon ke bhook aur sardi mein phanse hone ki tasveeron par gehri tashweesh zahir ki aur Israeli actions ko ceasefire aur international law ki khilaf-warzi qarar de kar mazammat ki. Isi bayaan mein unhon ne China ke Shanxi province mein aag ke hadse par bhi afsos ka izhar kiya.",
-      "title": "PM Shehbaz ne Gaza ke liye imdad tez karne ka hukm diya",
-      "url": "https://www.nation.com.pk/10-Nov-2026/pm-orders-foreign-ministry-urgently-accelerate-gaza-relief-efforts"
+      "source": "Dawn",
+      "summary": "Pakistan ne SAFF Championship mein Maldives ko Dhaka mein 3-0 se hara kar semi-final ki taraf qadam barha diya. Najeebullah Bettani ne do goals kiye aur McKeal Aroon Abdullah ne chauthe minute mein penalty se khata khola. Ye jeet India se 3-2 ki opening haar ke baad aayi hai. Ab semi-final ka faisla 11 November ko India-Maldives match par hai — Maldives ko bari jeet chahiye warna Pakistan aur India aage barh jayenge.",
+      "title": "Pakistan ne Maldives ko 3-0 se hara diya — SAFF semi-final ke qareeb",
+      "url": "https://www.dawn.com/news/2043165"
     },
     {
-      "source": "The News",
-      "summary": "Deputy Prime Minister Ishaq Dar aaj Islamabad mein do rozah Margalla Dialogue 2026 ka iftatah karenge, jab ke Wazeer-e-Azam Shehbaz Sharif aaj hi Turkiye ke liye rawana ho rahe hain jahan kal Antalya mein COP31 climate summit shuru ho raha hai. Margalla Dialogue ka theme 'Global Order in Transition' hai aur is mein AI, sovereign AI aur tech risks par bhi guftagu hogi. Jumeraat se Pakistan Minerals Investment Forum bhi shuru ho raha hai — Reko Diq aur mining projects par focus, jisme Barrick, Ivanhoe Mines aur ADB ke numainde shareek honge.",
-      "title": "Margalla Dialogue aur Mineral Forum aaj se — Dar iftatah karenge, PM COP31 ke liye Turkiye ja rahe hain",
-      "url": "https://www.thenews.pk/print/1447958-dar-to-inaugurate-margalla-dialogue-mineral-forum-today"
+      "source": "Dawn",
+      "summary": "Pakistan ki tent-pegging team World Tent-Pegging Championship ke liye Jordan rawana ho gayi hai — championship 11 se 14 November tak hogi. Paanch rukni squad ki qayadat Wajahatullah Khan Awan kar rahe hain, team ne Mianwali mein training camp mukammal kiya. Pakistan 2023 World Cup mein runner-up raha tha.",
+      "title": "Pakistan ki tent-pegging team Jordan rawana — World Championship 11-14 Nov",
+      "url": "https://www.dawn.com/news/2043358/pakistan-tent-pegging-team-leaves-for-jordan"
     }
   ]
 }
