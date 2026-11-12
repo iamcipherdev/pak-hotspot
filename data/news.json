@@ -1,73 +1,79 @@
 {
-  "updated_at": "2026-11-11T07:00:48+05:00",
+  "updated_at": "2026-11-12T07:02:10+05:00",
   "tech": [
     {
-      "source": "Google DeepMind",
-      "summary": "Google DeepMind ne 10 November ko AlphaProof Code introduce kiya — aik agentic framework jis mein AI agents ne Signal ke libsignal code ki key security properties ko Lean mein machine-checked proofs se verify kiya. Agents ne chaar hafton mein 6.5 million lines ki proof likhi — aisa kaam jo expert teams ko saalon lagta tha. Proof mein post-quantum PQXDH handshake aur Triple Ratchet shamil hain, aur team ne do purani fixed bugs wapas daal kar check kiya ke system buggy code ko pakar leta hai. Artifacts open-source kar diye gaye hain. Scope yaad rakhein: ye poori Signal app ka certificate nahi, core crypto code ka hai — group chats aur key generation abhi bahar hain.",
-      "title": "DeepMind ka AlphaProof Code — Signal ki cryptography ab maths se prove ho gayi",
-      "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
-    },
-    {
-      "source": "Google DeepMind",
-      "summary": "Google DeepMind ne 10 November ko Gemini Robotics 2.5 launch kiya — apna sab se capable vision-language-action model. Apptronik ke Apollo 2 humanoid ne Mercedes-Benz ke Kecskemét (Hungary) aur Sindelfingen (Germany) plants par live production lines par automotive kitting ki — metal parts ko bins se nikaal kar sahi order mein trays mein rakhna — 96% success rate ke saath. DeepMind ke mutabiq 200+ tasks par success 30% se 100% tak barhi aur kaam 20-30% tez hua. Saath mein ASIMOV-Jailbreak benchmark bhi release hua, jo test karta hai ke robot ko dhoke se khatarnak kaam par majboor to nahi kiya ja sakta.",
-      "title": "Gemini Robotics 2.5 — robot ab Mercedes ki factory line par kaam kar raha hai",
-      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/"
-    },
-    {
-      "source": "Motley Fool",
-      "summary": "Anthropic ne 10 November ko apne IPO ka roadshow shuru kar diya: 825 million shares $70 se $78 per share, Nasdaq par ticker ANT. CNBC ke mutabiq pricing 18 November aur trading 19 November se expected hai. Range ke top par raise lagbhag $64.35 billion banta hai aur company ki fully diluted value taqreeban $1.4 trillion — May ki $965 billion valuation se bara jump. Saath mein Google, Nvidia aur AMD jaisi companies se $26 billion ka private placement bhi hai, aur Anthropic taqreeban 20% shares retail investors ke liye rakhna chahta hai — aam tor par 5-10% hota hai.",
-      "title": "Anthropic IPO ki price tay — $70 se $78, $64 billion tak ka raise",
-      "url": "https://www.fool.com/money/buying-stocks/articles/where-to-buy-the-anthropic-ipo-best-brokers-for-ant-access/"
+      "source": "Anthropic",
+      "summary": "Anthropic ne 9 November ko Claude Fable 5.2 aur Mythos 5.2 launch kiye — apne sab se capable models. Fable 5.2 ki keemat $8 input / $40 output per million tokens hai, output 30% tak tez hai, aur 1 million token context hai. Prerelease testing mein 1,000 agents ne Fermat's Last Theorem ko sirf 30 ghanton mein formalize kar diya — pehli koshish mein 11 din lage the. Benchmarks par FrontierSWE v2 mein 69.9% aur real-world freelance tasks (Remote Labor Index) mein 41.3% score kiya. Mythos wohi model hai, lekin cyber aur biology safeguards ke baghair — sirf verified organisations ke liye. Anthropic ke mutabiq us ke core codebase mein merge hone wale 90% se zyada changes ab Claude khud likhta hai.",
+      "title": "Claude Fable 5.2 aa gaya — Fermat ka theorem 30 ghanton mein prove kar diya",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
     },
     {
       "source": "TechCrunch",
-      "summary": "OpenAI ne 10 November ko 'Businesses in ChatGPT' beta mein launch kiya. Naye Business Hub mein companies apna profile claim kar ke verify karwa sakti hain, products aur services ki details update kar sakti hain aur product feeds de sakti hain — bilkul Google Business Profile ki tarah. Eligible businesses apna 'Business Agent' bhi bana sakti hain, jis se users ChatGPT ke andar hi us business se sawal-jawab kar sakein. Hub ye bhi batayega ke ChatGPT users ne business ko kitni dafa mention kiya ya us ki website par click kiya. Shuruaat mein sirf eligible US ecommerce aur online-service businesses ke liye hai.",
-      "title": "ChatGPT ab Google jaisa ban raha hai — businesses ke verified profiles aur agents",
-      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/"
+      "summary": "Bloomberg ki report ke mutabiq OpenAI ki quarterly revenue pehli dafa $10 billion se upar gayi — Q2 ke $6.7 billion se taqreeban 50% izafa, aur pichle saal se taqreeban teen guna. Annual revenue run rate ab $50 billion hai. Lekin munafa abhi door hai: operating loss $10.9 billion tak barh gaya, halanke adjusted operating margin -150% se behtar ho kar -109% ho gaya. Dilchasp baat ye hai ke Anthropic aage hai — us ki Q3 revenue $17 billion batayi ja rahi hai aur run rate $81 billion. Ye figures investors ko di gayi briefing se hain, official audited numbers nahi.",
+      "title": "OpenAI ki quarterly revenue pehli dafa $10bn paar — lekin loss bhi $10.9bn",
+      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/"
     },
     {
-      "source": "Dataconomy",
-      "summary": "Chinese company Meituan ne 9 November ko apne LongCat-2.5 model ke weights Hugging Face par MIT license ke tehat release kar diye. Ye aik multimodal agent model hai jo screenshots aur video dekh kar codebase parh sakta hai aur multi-step coding kar sakta hai — 1.6 trillion total parameters, taqreeban 48 billion active per token, 1 million token context. Meituan ke mutabiq is ne Terminal-Bench v2.1 par 88.4 score kiya. Lekin self-hosting aasan nahi: weights hi 3.2TB se zyada jagah lete hain, matlab cluster chahiye. Aur ye saare benchmark scores company ke apne hain — independent testing abhi baqi hai.",
-      "title": "Meituan ne LongCat-2.5 ke weights khol diye — 1.6 trillion parameters, MIT license",
-      "url": "https://dataconomy.com/2026/11/10/meituan-releases-longcat-25-ai-model-weights-under-mit/"
+      "source": "Meta Research",
+      "summary": "Meta ne 9 November ko Muse Ember launch kiya — apna sab se chhota aur sab se efficient model, jo agents ke roz ke repetitive kaam ke liye bana hai: tool calls, coding subtasks, routing, extraction aur lambi documents parhna. Keemat sirf $0.10 input / $0.50 output per million tokens, 1M-token context aur 512K output. Artificial Analysis ke index par Ember ka score 36 hai — Claude Haiku 5.5 ke barabar — lekin cost per task taqreeban aik tihai ($0.14 vs $0.41). Model ab Meta Model API aur Muse Code par `muse-ember-1.0` ke tor par live hai, aur ye pehla model hai jo Muse Wonder Full se train kiya gaya.",
+      "title": "Meta ka Muse Ember — Haiku jitna smart, aik tihai keemat par",
+      "url": "https://research.meta.ai/blog/muse-ember?ref=thenewway.ai"
+    },
+    {
+      "source": "Unite.AI",
+      "summary": "ElevenLabs ne 11 November ko apne New York Summit mein 13 naye products aur upgrades ka package dikhaya — voice tool se enterprise AI platform ki taraf qadam. Businesses ab apne live deployment data se models ko fine-tune karwa sakenge, ElevenAgents mein Memory aur Routines aayengi, aur naya ElevenAI app meetings sun kar notes, summaries aur action items banayega — free early access khul gayi hai. NVIDIA ke saath partnership bhi barhi: Nemotron 3.5 Super VL ElevenAgents mein aur 15 MW Vera Rubin compute. CEO Mati Staniszewski ke mutabiq conversational agents chand saalon mein 'har enterprise ke liye critical infrastructure' ban jayenge.",
+      "title": "ElevenLabs ab sirf voice nahi — ElevenAI app aur apne models ki fine-tuning",
+      "url": "https://www.unite.ai/elevenlabs-unveils-model-customization-elevenai-and-partner-program/"
+    },
+    {
+      "source": "Gulf News",
+      "summary": "AI cloud company CoreWeave ne Q3 mein $3.66 billion revenue report ki — pichle saal se 168% zyada aur analysts ke $3.55 billion ke estimate se upar. Company ne 2026 ka revenue forecast barha kar $13–13.3 billion kar diya aur backlog $132.5 billion tak pahunch gaya. Shares ne after-hours mein taqreeban 7% rally ki. Lekin doosri taraf net loss $709 million tak barh gaya, qarz taqreeban $47 billion hai, aur 2026 ka capex $37–39 billion hoga. CEO ke mutabiq customers se $9 billion prepayments aane wale teen mahinon mein milenge — AI demand asal hai, sawal ye hai ke is ki keemat kaun dega.",
+      "title": "CoreWeave ki revenue 168% barhi — $13bn ka naya forecast, lekin qarz $47bn",
+      "url": "https://gulfnews.com/business/markets/coreweave-rallies-7-as-ai-demand-outweighs-debt-fears-1.500743302"
+    },
+    {
+      "source": "Nikkei Asia",
+      "summary": "Teen Republican House committee chairs ne Nvidia CEO Jensen Huang ko 4 November ke khat mein 18 November ko closed-door briefing ke liye bulaya — Megaspeed executive Alice Huang se un ke rabtay aur Nvidia ke anti-espionage protocols par. US intelligence ke mutabiq Alice Huang Beijing ko maloomat de rahi thi; Megaspeed par China ko pabandi wale AI chips pohanchane ka shuba hai. Huang ko 11 November tak date accept karni thi ya koi aur date deni thi — ABC News ke mutabiq Tuesday tak jawab nahi aaya tha, aur committee chairman Brian Mast ne kaha ke zaroorat pari to subpoena bhi de sakte hain. Nvidia ka board apni alag investigation bhi chala raha hai; 17 November ko earnings call hai. Abhi tak kisi par koi ilzaam sabit nahi hua.",
+      "title": "Nvidia ke Jensen Huang ko Congress ki briefing — deadline guzar gayi, subpoena ki dhamki",
+      "url": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/key-republicans-seek-briefing-from-nvidia-ceo-over-chinese-spy-allegations"
     }
   ],
   "pakistan": [
     {
-      "source": "Times of India",
-      "summary": "Khyber Pakhtunkhwa ki administration ne faceless anti-terrorism courts banane ka plan tayyar kar liya hai, taa ke dehshatgardi ke cases mein gawah, prosecutor aur judge ki pehchan chhupi rahe — Dawn ki report ke mutabiq Home Secretary Amjad Ali Khan ne ye briefing di. Plan mein police ke liye Rs59.8 billion aur Counter Terrorism Department ke liye Rs10.3 billion saalana bhi shamil hain, Safe City ki tausia, anti-drone systems aur 10,000 se zyada police ki kami poori karna bhi. Ye emergency aur governor's rule ke taqreeban aik mahine baad ka naya security plan hai.",
-      "title": "KP mein faceless anti-terror courts ka plan — police aur CTD ke liye Rs70bn",
-      "url": "https://timesofindia.indiatimes.com/world/pakistan/pakistans-khyber-pakhtunkhwa-plans-faceless-anti-terror-courts-report/articleshow/135661114.cms"
+      "source": "Dawn",
+      "summary": "Kohat ke Darabukach ilaqe mein budh ko police party par hamle mein 10 police ahalkar shaheed ho gaye, jin mein DSP Haidar Zaman aur Sub-Inspector Mukhtiar bhi shamil hain — 12 zakhmi hue. KP Police ke mutabiq team ghair-qanooni gold mining ke khilaf operation se wapas aa rahi thi jab Fitna al-Khawarij ne hamla kiya; jawab mein 18 hamla-awar halak hue. Hamle ki zimmedari Tehreek-i-Taliban Pakistan ne qabool ki. Wazir-e-Azam Shehbaz Sharif ne shaheedon ko khiraj-e-aqeedat pesh kiya. Ye hamla aik din baad hua jab Kohat DC ne gold mining ilaqon mein excavators par 60 din ki pabandi lagayi thi. KP mein governor's rule aur emergency 11 October se nafiz hai.",
+      "title": "Kohat mein hamla — 10 police shaheed, 18 dehshatgard halak",
+      "url": "https://www.dawn.com/news/2043793"
     },
     {
       "source": "Dawn",
-      "summary": "PCB ne Pakistan aur Sri Lanka ke darmiyan doosra Test Lahore se Rawalpindi shift kar diya hai. Match 17 se 21 November tak Gaddafi Stadium mein hona tha, ab Rawalpindi Cricket Stadium mein hoga. Wajah: Lahore mein 10 din se shadeed smog, AQI 600 tak pahunch gaya hai. Dono Tests ab aik hi ground par honge. Pehle Test mein Pakistan ne 434/9 par declare kiya — Saud Shakeel ne 93 banaye — aur Sri Lanka apni doosri innings mein 114/3 par tha jab roshni kam hone par khel ruka.",
-      "title": "Smog ne doosra Test bhi Rawalpindi bhej diya — Lahore ki AQI 600 tak",
-      "url": "https://www.dawn.com/news/print/2043576"
+      "summary": "Wazir-e-Azam Shehbaz Sharif ne Antalya mein COP31 par kaha ke Pakistan ne sirf do saalon mein taqreeban 22 gigawatts rooftop solar capacity laga li hai — 'aam shehriyon ka khamosh inqilab' jo sasti bijli chahte hain. Unhon ne '35 by 35' Global Electrification Pledge ki himayat ki aur kaha ke Pakistan ko 2035 tak low-carbon power ke liye $138 billion aur koyla ko solar se badalne ke liye mazeed $50 billion chahiye. Clean sources ab energy mix ka taqreeban 55% hain, Chashma-5 se 1,200MW mazeed milega, aur is saal bikne wali har 10 mein se aik se zyada motorcycle electric thi. Unhon ne Erdogan, Guterres aur Iran aur Kuwait ke rehnumaon se bhi mulaqatein ki.",
+      "title": "COP31 par Shehbaz: Pakistan ne 2 saal mein 22GW rooftop solar laga liya",
+      "url": "https://www.dawn.com/news/2043746/pm-shehbaz-to-join-other-world-leaders-at-cop31-today-will-outline-pakistans-climate-priorities"
+    },
+    {
+      "source": "Dunya News",
+      "summary": "India ne Maldives ko Dhaka mein 1-0 se hara kar Pakistan ki SAFF Championship semi-final ki jagah pakki kar di. Suhail Ahmad Bhat ne 38th minute mein penalty se faisla-kun goal kiya. India group B mein 6 points ke saath pehle aur Pakistan 3 points ke saath doosre number par raha — Pakistan ne 5 goals kiye aur 3 khaye. Semi-final haftay, 14 November ko hoga, jahan Pakistan ka muqabla Group A ke winner (Bangladesh ya Sri Lanka) se hoga. Final 17 November ko hai.",
+      "title": "Pakistan SAFF semi-final mein — India ne Maldives ko 1-0 se hara diya",
+      "url": "https://dunyanews.tv/en/Sports/982377-indias-win-over-maldives-secures-pakistans-place-in-saff-championshi"
     },
     {
       "source": "The Express Tribune",
-      "summary": "Deputy Prime Minister aur Foreign Minister Ishaq Dar ne Islamabad mein Margalla Dialogue 2026 ke iftatahi session mein kaha ke Saudi Arabia aur Turkiye ke saath Makkah Joint Defence Agreement aik defensive arrangement hai jo kisi mulk ke khilaf nahi aur regional peace ke liye hai. Unhon ne kaha ke Pakistan Indus Waters Treaty ke tehat apne paani ke huqooq ki hifazat karega aur paani ko hathiyaar banane ki kisi koshish ki mukhalfat karega. Dar ne Afghan sarzameen se dehshatgardi, Gaza ki surat-e-haal aur badalte hue global order par bhi baat ki.",
-      "title": "Dar ne Margalla Dialogue mein kaha — Makkah defence pact kisi ke khilaf nahi, paani ko hathiyaar nahi banne denge",
-      "url": "https://tribune.com.pk/story/2639562/dar-vows-to-safeguard-pakistans-water-rights-under-iwt-oppose-attempts-to-weaponise-water"
-    },
-    {
-      "source": "Aaj English TV",
-      "summary": "State Bank of Pakistan ke mutabiq overseas Pakistanis ne October 2026 mein $3.89 billion bheje — pichle saal ke $3.42 billion se 13.8% zyada, aur September se 8.5% zyada. July se October tak total $14.8 billion ho gaya, pichle saal ke $13 billion se 14% zyada. Sab se bara source Saudi Arabia raha ($982m), phir UAE ($816m) aur UK ($592m). SBP ne is saal ke liye remittances ka forecast $44 billion se barha kar $45 billion kar diya hai.",
-      "title": "Overseas Pakistanis ne October mein $3.9bn bheje — 14% izafa, saal bhar ka target $45bn",
-      "url": "https://english.aaj.tv/news/330480141/remittances-hit-39bn-in-october-up-14-on-year"
+      "summary": "Pakistan Stock Exchange par budh ko KSE-100 index ne intraday 180,769 tak ja kar 180,000 ki satah paar ki — ye level 18 August ke baad pehli dafa dekha gaya — lekin phir heavyweight stocks mein profit-taking ne gains mita diye aur index 251 points gir kar 179,084 par band hua. Is se pehle mangal ko index ne 5,449 points ki zabardast rally ki thi. Cement stocks mein tezi rahi, Punjab cement royalty case ke faisle ki umeed par. Volume 1.24 billion shares aur traded value Rs41.7 billion rahi.",
+      "title": "PSX ne 180,000 paar kiya — phir profit-taking ne 251 points gira diye",
+      "url": "https://tribune.com.pk/story/2639763/psx-extends-gains-as-kse-100-crosses-180000-mark?amp=1"
     },
     {
       "source": "Dawn",
-      "summary": "Pakistan ne SAFF Championship mein Maldives ko Dhaka mein 3-0 se hara kar semi-final ki taraf qadam barha diya. Najeebullah Bettani ne do goals kiye aur McKeal Aroon Abdullah ne chauthe minute mein penalty se khata khola. Ye jeet India se 3-2 ki opening haar ke baad aayi hai. Ab semi-final ka faisla 11 November ko India-Maldives match par hai — Maldives ko bari jeet chahiye warna Pakistan aur India aage barh jayenge.",
-      "title": "Pakistan ne Maldives ko 3-0 se hara diya — SAFF semi-final ke qareeb",
-      "url": "https://www.dawn.com/news/2043165"
+      "summary": "Pakistan Meteorological Department ne mulk ke balai hissay mein 12 se 14 November tak barish, aandhi aur paharon par barf-bari ki peshgoi ki hai. Khyber Pakhtunkhwa, Punjab, Islamabad, Azad Kashmir aur Gilgit-Baltistan mein tez barish aur kahin-kahin ole bhi par sakte hain, jab ke din ka darja-e-hararat 2–4 degree girne ka imkaan hai. Sindh aur Balochistan ke aksar ilaqon mein mausam khushk rahega. Met Office ne kashtkaron aur pahari ilaqon ke safar karne walon ko ehtiyat ki hidayat ki hai — spell ke baad maidani ilaqon mein dhund bhi par sakti hai.",
+      "title": "Uttari ilaqon mein barish aur barf — 14 November tak mausam kharab",
+      "url": "https://www.dawn.com/news/2043674"
     },
     {
       "source": "Dawn",
-      "summary": "Pakistan ki tent-pegging team World Tent-Pegging Championship ke liye Jordan rawana ho gayi hai — championship 11 se 14 November tak hogi. Paanch rukni squad ki qayadat Wajahatullah Khan Awan kar rahe hain, team ne Mianwali mein training camp mukammal kiya. Pakistan 2023 World Cup mein runner-up raha tha.",
-      "title": "Pakistan ki tent-pegging team Jordan rawana — World Championship 11-14 Nov",
-      "url": "https://www.dawn.com/news/2043358/pakistan-tent-pegging-team-leaves-for-jordan"
+      "summary": "Senate Chairman Syed Yousaf Raza Gillani ne kaha hai ke student unions ki bahali aur mazboot local government system mulk mein leadership ke buhran ka hal hai. Islamabad mein UNICEF ke workshop se khitab karte hue unhon ne kaha ke grassroots par leadership ki nurseries 'so gayi hain' aur unhein jagana zaroori hai. Unhon ne apni siyasi safar ki misaal di — local level se shuru kar ke wazir-e-azam bane — aur kaha ke har rupee ka hisab hona chahiye: budget sirf manzoor karna kaafi nahi, paisa logon tak pohanchna chahiye.",
+      "title": "Gillani ka mutalba — student unions bahal hon, local government mazboot ho",
+      "url": "https://www.dawn.com/news/2043866"
     }
   ]
 }
