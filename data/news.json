@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-11-12T07:02:10+05:00",
+  "updated_at": "2026-11-13T07:00:59+05:00",
   "tech": [
     {
-      "source": "Anthropic",
-      "summary": "Anthropic ne 9 November ko Claude Fable 5.2 aur Mythos 5.2 launch kiye — apne sab se capable models. Fable 5.2 ki keemat $8 input / $40 output per million tokens hai, output 30% tak tez hai, aur 1 million token context hai. Prerelease testing mein 1,000 agents ne Fermat's Last Theorem ko sirf 30 ghanton mein formalize kar diya — pehli koshish mein 11 din lage the. Benchmarks par FrontierSWE v2 mein 69.9% aur real-world freelance tasks (Remote Labor Index) mein 41.3% score kiya. Mythos wohi model hai, lekin cyber aur biology safeguards ke baghair — sirf verified organisations ke liye. Anthropic ke mutabiq us ke core codebase mein merge hone wale 90% se zyada changes ab Claude khud likhta hai.",
-      "title": "Claude Fable 5.2 aa gaya — Fermat ka theorem 30 ghanton mein prove kar diya",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
-    },
-    {
       "source": "TechCrunch",
-      "summary": "Bloomberg ki report ke mutabiq OpenAI ki quarterly revenue pehli dafa $10 billion se upar gayi — Q2 ke $6.7 billion se taqreeban 50% izafa, aur pichle saal se taqreeban teen guna. Annual revenue run rate ab $50 billion hai. Lekin munafa abhi door hai: operating loss $10.9 billion tak barh gaya, halanke adjusted operating margin -150% se behtar ho kar -109% ho gaya. Dilchasp baat ye hai ke Anthropic aage hai — us ki Q3 revenue $17 billion batayi ja rahi hai aur run rate $81 billion. Ye figures investors ko di gayi briefing se hain, official audited numbers nahi.",
-      "title": "OpenAI ki quarterly revenue pehli dafa $10bn paar — lekin loss bhi $10.9bn",
-      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/"
+      "summary": "Nvidia ke co-founder aur CEO Jensen Huang ne 12 November ko istefa de diya — aik alleged Chinese spy se affair aur board investigation ke baad. CFO Colette Kress interim CEO hongi aur Harvey Jones board ke pehle chairman banay. Shares subah taqreeban 12% giray; jumma se ab tak company ki market cap $855 billion se zyada kam ho chuki hai. Huang ne 1993 mein Nvidia banayi thi aur usay $5.88 trillion ki company bana diya — AI boom ka sab se bara faida uthane wali company. Earnings 17 November ko hain.",
+      "title": "Jensen Huang ne Nvidia chhor di — 33 saal baad CEO ki kursi khaali",
+      "url": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/"
     },
     {
-      "source": "Meta Research",
-      "summary": "Meta ne 9 November ko Muse Ember launch kiya — apna sab se chhota aur sab se efficient model, jo agents ke roz ke repetitive kaam ke liye bana hai: tool calls, coding subtasks, routing, extraction aur lambi documents parhna. Keemat sirf $0.10 input / $0.50 output per million tokens, 1M-token context aur 512K output. Artificial Analysis ke index par Ember ka score 36 hai — Claude Haiku 5.5 ke barabar — lekin cost per task taqreeban aik tihai ($0.14 vs $0.41). Model ab Meta Model API aur Muse Code par `muse-ember-1.0` ke tor par live hai, aur ye pehla model hai jo Muse Wonder Full se train kiya gaya.",
-      "title": "Meta ka Muse Ember — Haiku jitna smart, aik tihai keemat par",
-      "url": "https://research.meta.ai/blog/muse-ember?ref=thenewway.ai"
+      "source": "Reuters",
+      "summary": "Nonprofit groups — Irreplaceable Education Fund, Public Citizen, Heat Initiative aur Alliance for Secure AI — ne San Francisco mein OpenAI, Anthropic, Google, Meta aur SpaceX ki AI division par muqadma kar diya. Mutalba hai ke ChatGPT, Gemini aur Claude jese frontier models ki mazeed development roki jaye. Muqadme mein companies ke apne leaders — Dario Amodei aur Elon Musk — ke warnings ka hawala diya gaya hai ke AI 'tahzeeb ki tabahi' ka sabab ban sakti hai. California ke unfair business practices qanoon ki bunyad par court order manga gaya hai.",
+      "title": "Nonprofits ne OpenAI, Google, Anthropic par muqadma — frontier AI rokne ka mutalba",
+      "url": "https://www.reuters.com/business/openai-google-anthropic-hit-with-lawsuit-seeking-halt-frontier-ai-development-2026-11-12/"
     },
     {
-      "source": "Unite.AI",
-      "summary": "ElevenLabs ne 11 November ko apne New York Summit mein 13 naye products aur upgrades ka package dikhaya — voice tool se enterprise AI platform ki taraf qadam. Businesses ab apne live deployment data se models ko fine-tune karwa sakenge, ElevenAgents mein Memory aur Routines aayengi, aur naya ElevenAI app meetings sun kar notes, summaries aur action items banayega — free early access khul gayi hai. NVIDIA ke saath partnership bhi barhi: Nemotron 3.5 Super VL ElevenAgents mein aur 15 MW Vera Rubin compute. CEO Mati Staniszewski ke mutabiq conversational agents chand saalon mein 'har enterprise ke liye critical infrastructure' ban jayenge.",
-      "title": "ElevenLabs ab sirf voice nahi — ElevenAI app aur apne models ki fine-tuning",
-      "url": "https://www.unite.ai/elevenlabs-unveils-model-customization-elevenai-and-partner-program/"
+      "source": "Google Blog",
+      "summary": "Google DeepMind ne 12 November ko Gemini 4 Hydrogen launch kiya — Gemini 4 family ka fast, everyday model, jo coding aur agentic workflows ke liye bana hai. Keemat $1.50 input / $7.50 output per million tokens, 1M-token context, aur Artificial Analysis Index par 51 score — Argon (50) se aage. Gemini app aur Google Search mein sab users ke liye roll out ho raha hai; Carbon aur Argon ab bhi gehri reasoning ke liye hain. Naya Orchestrator feature Antigravity mein models ko aik hi session mein switch karta hai.",
+      "title": "Google ka Gemini 4 Hydrogen — roz ke agents ke liye tez aur sasta model",
+      "url": "https://blog.google/intl/en-in/products/introducing-gemini-4-hydrogen/"
     },
     {
-      "source": "Gulf News",
-      "summary": "AI cloud company CoreWeave ne Q3 mein $3.66 billion revenue report ki — pichle saal se 168% zyada aur analysts ke $3.55 billion ke estimate se upar. Company ne 2026 ka revenue forecast barha kar $13–13.3 billion kar diya aur backlog $132.5 billion tak pahunch gaya. Shares ne after-hours mein taqreeban 7% rally ki. Lekin doosri taraf net loss $709 million tak barh gaya, qarz taqreeban $47 billion hai, aur 2026 ka capex $37–39 billion hoga. CEO ke mutabiq customers se $9 billion prepayments aane wale teen mahinon mein milenge — AI demand asal hai, sawal ye hai ke is ki keemat kaun dega.",
-      "title": "CoreWeave ki revenue 168% barhi — $13bn ka naya forecast, lekin qarz $47bn",
-      "url": "https://gulfnews.com/business/markets/coreweave-rallies-7-as-ai-demand-outweighs-debt-fears-1.500743302"
+      "source": "PYMNTS",
+      "summary": "Anthropic ka Claude Fable 5.2 Artificial Analysis Intelligence Index par 65 score ke saath number 1 par aa gaya — Gemini 4 Carbon (60) se aage. Doosri taraf OpenAI ne apna sab se capable security model GPT-6 Cyber sirf approved customers tak mehdood kar diya — testing mein is ne Firefox mein 81 pehle se namaloom high-severity flaws dhoondhe aur Linux kernel ke khilaf 948 working exploits banaye. Google DeepMind ka Gemini Robotics 2.5 Mercedes-Benz ki live production lines par 96% success rate se parts sort kar raha hai.",
+      "title": "Claude Fable 5.2 AI rankings mein number 1 — OpenAI ne apna cyber model band kar diya",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropics-claude-tops-ai-rankings-as-openai-limits-cyber-model/"
     },
     {
-      "source": "Nikkei Asia",
-      "summary": "Teen Republican House committee chairs ne Nvidia CEO Jensen Huang ko 4 November ke khat mein 18 November ko closed-door briefing ke liye bulaya — Megaspeed executive Alice Huang se un ke rabtay aur Nvidia ke anti-espionage protocols par. US intelligence ke mutabiq Alice Huang Beijing ko maloomat de rahi thi; Megaspeed par China ko pabandi wale AI chips pohanchane ka shuba hai. Huang ko 11 November tak date accept karni thi ya koi aur date deni thi — ABC News ke mutabiq Tuesday tak jawab nahi aaya tha, aur committee chairman Brian Mast ne kaha ke zaroorat pari to subpoena bhi de sakte hain. Nvidia ka board apni alag investigation bhi chala raha hai; 17 November ko earnings call hai. Abhi tak kisi par koi ilzaam sabit nahi hua.",
-      "title": "Nvidia ke Jensen Huang ko Congress ki briefing — deadline guzar gayi, subpoena ki dhamki",
-      "url": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/key-republicans-seek-briefing-from-nvidia-ceo-over-chinese-spy-allegations"
+      "source": "Dealroom",
+      "summary": "Das AI labs — OpenAI, Anthropic, Mistral, Microsoft, Hugging Face, Cohere aur doosron — ne 9 November ko Macron ki Paris Call par dastakhat kiye: frontier models ke liye shutdown mechanisms, bahari testing aur incident sharing ka wada. Lekin US aur China ne sign nahi kiya, aur Google aur Meta bhi bahir rahe — jo is pact ki pohnch ko mehdood karta hai. Commitments voluntary hain — na deadlines, na penalties.",
+      "title": "Paris Call par OpenAI aur Anthropic ke dastakhat — lekin US, Google aur Meta bahir",
+      "url": "https://dealroom.co/news/172067-openai-anthropic-sign-macron-s-paris-call-but-us-and-google-stay-away/"
+    },
+    {
+      "source": "AIStockWire",
+      "summary": "Jim Simons ki Renaissance Technologies ne apni Q3 13F filing mein Nvidia ki position taqreeban khatam kar di — June mein $1.42 billion se gir kar September mein sirf $5.3 million. Meta, Amazon, Apple aur Broadcom bhi taqreeban khatam; paanchon mil kar $3.88 billion se $10.6 million reh gaye. Ab sab se bari holding Micron ($1.62bn) hai, AMD $1.21bn ke saath teesre number par, aur SpaceX mein $621 million ki nayi position. Filing 30 September ki snapshot hai — Huang ke istefe se chhe hafte pehle ki.",
+      "title": "Renaissance ne Nvidia ka 99.7% hissa bech diya — ab Micron sab se bara bet",
+      "url": "https://aistockwire.com/blog/renaissance-technologies-q3-13f-nvidia-nvda-micron-mu-november-2026"
     }
   ],
   "pakistan": [
     {
       "source": "Dawn",
-      "summary": "Kohat ke Darabukach ilaqe mein budh ko police party par hamle mein 10 police ahalkar shaheed ho gaye, jin mein DSP Haidar Zaman aur Sub-Inspector Mukhtiar bhi shamil hain — 12 zakhmi hue. KP Police ke mutabiq team ghair-qanooni gold mining ke khilaf operation se wapas aa rahi thi jab Fitna al-Khawarij ne hamla kiya; jawab mein 18 hamla-awar halak hue. Hamle ki zimmedari Tehreek-i-Taliban Pakistan ne qabool ki. Wazir-e-Azam Shehbaz Sharif ne shaheedon ko khiraj-e-aqeedat pesh kiya. Ye hamla aik din baad hua jab Kohat DC ne gold mining ilaqon mein excavators par 60 din ki pabandi lagayi thi. KP mein governor's rule aur emergency 11 October se nafiz hai.",
-      "title": "Kohat mein hamla — 10 police shaheed, 18 dehshatgard halak",
-      "url": "https://www.dawn.com/news/2043793"
+      "summary": "Gilgit-Baltistan ke Ghizer zila mein jumeraat ki shaam aik passenger van Morkah Bridge ke paas se Yasin darya mein gir gayi — 11 afraad jaan-bahaq ho gaye, jin mein aik bacha bhi shaamil hai, aur 2 zakhmi hue. Van Gilgit se Yasin Valley ja rahi thi jab driver ne control kho diya. GB ke Wazir-e-Aala Amjad Hussain ne afsos ka izhar karte hue rescue aur ilaj ke liye behtareen sahulatain dene ki hidayat ki.",
+      "title": "Ghizer mein van darya mein gir gayi — 11 afraad jaan-bahaq, bacha bhi shaamil",
+      "url": "https://www.dawn.com/news/2044089"
     },
     {
       "source": "Dawn",
-      "summary": "Wazir-e-Azam Shehbaz Sharif ne Antalya mein COP31 par kaha ke Pakistan ne sirf do saalon mein taqreeban 22 gigawatts rooftop solar capacity laga li hai — 'aam shehriyon ka khamosh inqilab' jo sasti bijli chahte hain. Unhon ne '35 by 35' Global Electrification Pledge ki himayat ki aur kaha ke Pakistan ko 2035 tak low-carbon power ke liye $138 billion aur koyla ko solar se badalne ke liye mazeed $50 billion chahiye. Clean sources ab energy mix ka taqreeban 55% hain, Chashma-5 se 1,200MW mazeed milega, aur is saal bikne wali har 10 mein se aik se zyada motorcycle electric thi. Unhon ne Erdogan, Guterres aur Iran aur Kuwait ke rehnumaon se bhi mulaqatein ki.",
-      "title": "COP31 par Shehbaz: Pakistan ne 2 saal mein 22GW rooftop solar laga liya",
-      "url": "https://www.dawn.com/news/2043746/pm-shehbaz-to-join-other-world-leaders-at-cop31-today-will-outline-pakistans-climate-priorities"
+      "summary": "Balochistan ke Mastung zila mein N-25 highway par Kandawa Post par dhamaka-khez gaari se hamla nakam bana diya gaya — 3 dehshatgard halak hue, jabke 2 shehri shaheed aur kam az kam 13 zakhmi hue; 3 FC ahalkar bhi zakhmi hue. Dhamake se qareebi ghar aur aik masjid ko nuqsan pahuncha. Police ke mutabiq hamla-awar Fitna al-Hindustan se taluq rakhte the; BLA ne zimmedari qabool ki.",
+      "title": "Mastung mein Kandawa post par hamla nakam — 3 dehshatgard halak, 2 shehri shaheed",
+      "url": "https://www.dawn.com/news/2044083"
     },
     {
-      "source": "Dunya News",
-      "summary": "India ne Maldives ko Dhaka mein 1-0 se hara kar Pakistan ki SAFF Championship semi-final ki jagah pakki kar di. Suhail Ahmad Bhat ne 38th minute mein penalty se faisla-kun goal kiya. India group B mein 6 points ke saath pehle aur Pakistan 3 points ke saath doosre number par raha — Pakistan ne 5 goals kiye aur 3 khaye. Semi-final haftay, 14 November ko hoga, jahan Pakistan ka muqabla Group A ke winner (Bangladesh ya Sri Lanka) se hoga. Final 17 November ko hai.",
-      "title": "Pakistan SAFF semi-final mein — India ne Maldives ko 1-0 se hara diya",
-      "url": "https://dunyanews.tv/en/Sports/982377-indias-win-over-maldives-secures-pakistans-place-in-saff-championshi"
-    },
-    {
-      "source": "The Express Tribune",
-      "summary": "Pakistan Stock Exchange par budh ko KSE-100 index ne intraday 180,769 tak ja kar 180,000 ki satah paar ki — ye level 18 August ke baad pehli dafa dekha gaya — lekin phir heavyweight stocks mein profit-taking ne gains mita diye aur index 251 points gir kar 179,084 par band hua. Is se pehle mangal ko index ne 5,449 points ki zabardast rally ki thi. Cement stocks mein tezi rahi, Punjab cement royalty case ke faisle ki umeed par. Volume 1.24 billion shares aur traded value Rs41.7 billion rahi.",
-      "title": "PSX ne 180,000 paar kiya — phir profit-taking ne 251 points gira diye",
-      "url": "https://tribune.com.pk/story/2639763/psx-extends-gains-as-kse-100-crosses-180000-mark?amp=1"
+      "source": "The Nation",
+      "summary": "PTI aur powers-that-be ke darmiyan backchannel rabton ne party ko kuch saans di hai — Imran Khan se wakilon ki mulaqat aur un ki do behnon ki rehai ke baad deal ki afwahein phir garam hain. Latif Khosa ke mutabiq mulaqat mein 28th Amendment (naye subay) par bhi guftagu hui. Lekin Interior Minister Mohsin Naqvi ne deal ki afwahon ko 'do-teen din ki achhi kahaniyan' kaha — KP mein governor's rule aur Khan ke cases abhi bhi hal talab hain.",
+      "title": "PTI ko saans ka mauqa — backchannel rabte, lekin deal abhi door",
+      "url": "https://www.nation.com.pk/13-Nov-2026/breathing-space-pti-deal-still-distant-dream"
     },
     {
       "source": "Dawn",
-      "summary": "Pakistan Meteorological Department ne mulk ke balai hissay mein 12 se 14 November tak barish, aandhi aur paharon par barf-bari ki peshgoi ki hai. Khyber Pakhtunkhwa, Punjab, Islamabad, Azad Kashmir aur Gilgit-Baltistan mein tez barish aur kahin-kahin ole bhi par sakte hain, jab ke din ka darja-e-hararat 2–4 degree girne ka imkaan hai. Sindh aur Balochistan ke aksar ilaqon mein mausam khushk rahega. Met Office ne kashtkaron aur pahari ilaqon ke safar karne walon ko ehtiyat ki hidayat ki hai — spell ke baad maidani ilaqon mein dhund bhi par sakti hai.",
-      "title": "Uttari ilaqon mein barish aur barf — 14 November tak mausam kharab",
-      "url": "https://www.dawn.com/news/2043674"
+      "summary": "Interior Minister Mohsin Naqvi ne jumeraat ko kaha ke naye administrative units ya subon par siyasi jamaatein referendum karwayein — 'yehi is behas ka hal hai'. Unhon ne kaha ke agar awaam kahe ke naye subay nahi banne chahiye to wo 100% un ke saath hain. Naqvi ke mutabiq wo aur Bilawal Bhutto 'taqreeban aik hi page par' hain — dono ne 'reset' ki baat ki hai — jabke PPP ne Sindh mein naye subay ki sakht mukhalfat ki hai.",
+      "title": "Naqvi ka mashwara — naye subon par referendum karwa lo, awaam faisla kare",
+      "url": "https://www.dawn.com/news/2044043"
     },
     {
-      "source": "Dawn",
-      "summary": "Senate Chairman Syed Yousaf Raza Gillani ne kaha hai ke student unions ki bahali aur mazboot local government system mulk mein leadership ke buhran ka hal hai. Islamabad mein UNICEF ke workshop se khitab karte hue unhon ne kaha ke grassroots par leadership ki nurseries 'so gayi hain' aur unhein jagana zaroori hai. Unhon ne apni siyasi safar ki misaal di — local level se shuru kar ke wazir-e-azam bane — aur kaha ke har rupee ka hisab hona chahiye: budget sirf manzoor karna kaafi nahi, paisa logon tak pohanchna chahiye.",
-      "title": "Gillani ka mutalba — student unions bahal hon, local government mazboot ho",
-      "url": "https://www.dawn.com/news/2043866"
+      "source": "The Nation",
+      "summary": "Wazir-e-Azam Shehbaz Sharif ne Antalya mein COP31 Leaders Summit mein kaha ke climate-vulnerable mulkon ko grant-based climate finance chahiye — qarz nahi — aur resilience funds mein izafa hona chahiye. Unhon ne 2022 ke sailab (33 million mutasir, $30bn nuqsan) aur August 2025 ke Buner flash floods ka zikr kiya, aur kaha ke Pakistan ne 2 saal mein 20GW se zyada distributed solar laga liya hai; clean sources ab energy mix ka 55% hain. Erdogan se mulaqat mein Islamabad MoU par bhi guftagu hui.",
+      "title": "COP31 par Shehbaz: climate finance grant ho, qarz nahi",
+      "url": "https://www.nation.com.pk/13-Nov-2026/pm-calls-grant-based-climate-finance-cop31-summit"
+    },
+    {
+      "source": "The Nation",
+      "summary": "Pakistan Stock Exchange par jumeraat ko KSE-100 index 1,710 points (0.95%) gir kar 177,374 par band hua — aik din pehle 180,000 paar karne ke baad. Volume 1.07 billion shares aur traded value Rs31.6 billion rahi; market capitalisation Rs19.22 trillion par aa gayi. 316 companies ne nuqsan uthaya jabke sirf 155 mein izafa hua — jummay ko haftay ka aakhri session hai aur investors abhi bhi ehtiyat mein hain.",
+      "title": "PSX mein girawat jaari — KSE-100 1,710 points gir kar 177,374 par",
+      "url": "https://www.nation.com.pk/13-Nov-2026/psx-stays-bearish-sheds-1-710-points"
     }
   ]
 }

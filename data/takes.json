@@ -1,86 +1,86 @@
 {
   "poll": {
-    "q": "Aaj ki sab se bari khabar kaun si hai — Claude Fable 5.2 ka Fermat theorem, OpenAI ka $10bn quarter, ya Kohat mein 10 police shaheed?",
+    "q": "Aaj ki sab se bari khabar kaun si hai — Jensen Huang ka istefa, AI labs par muqadma, ya Gemini 4 Hydrogen?",
     "options": [
-      "🧠 Fable 5.2 — Fermat ka theorem 30 ghanton mein",
-      "💰 OpenAI ka $10bn quarter — lekin loss bhi $10.9bn",
-      "🇵🇰 Kohat hamla — 10 police shaheed",
-      "📈 PSX ne 180,000 paar kiya"
+      "🟢 Huang ka istefa — Nvidia ka CEO gaya",
+      "⚖️ AI labs par muqadma — frontier AI roko",
+      "🤖 Gemini 4 Hydrogen — Google ka naya model",
+      "🇵🇰 Mastung hamla — 2 shehri shaheed"
     ]
   },
   "stories": {
-    "https://www.anthropic.com/claude-fable-and-mythos-5-2": {
-      "what": "Anthropic ne Claude Fable 5.2 launch kiya — $8/$40 per million tokens, 30% tez output, 1M context. 1,000 agents ne Fermat's Last Theorem ko 30 ghanton mein formalize kar diya; FrontierSWE v2 par 69.9% aur real freelance tasks par 41.3%. Mythos wohi model hai, safeguards ke baghair, sirf verified organisations ke liye.",
-      "why": "AI ab sirf code likh nahi raha — maths ke theorem prove kar raha hai, hardware design kar raha hai, aur Anthropic ke apne codebase ka 90%+ khud likh raha hai. Frontier models ki race ab 'kaun zyada smart' se 'kaun zyada kaam kar sakta hai' par aa gayi hai.",
-      "next": "Dekhna ye hai ke Fable 5.2 real developers ke haath mein kaisa perform karta hai — Anthropic ke apne benchmarks hamesha achhe lagte hain. Aur Mythos ka verification wall: kya ye safety ka waqai tareeqa hai ya sirf aik nayi gatekeeping?",
-      "take": "Meri take: Fermat 30 ghanton mein — ye number sun kar lagta hai AI ne maths ki duniya mein waqai kuch kar dikhaya. Lekin yaad rakho, ye benchmarks Anthropic ke apne hain, aur '90% codebase Claude likhta hai' ka matlab ye nahi ke engineers bekar ho gaye — un ka kaam ab review aur direction hai. Model sasta hua hai, achha hai — lekin jo cheez free nahi hui, wo hai sochna."
+    "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/": {
+      "what": "Jensen Huang ne 12 November ko Nvidia ke CEO, president aur board se istefa de diya — aik alleged Chinese spy se affair aur board investigation ke baad. CFO Colette Kress interim CEO hongi, Harvey Jones board ke pehle chairman. Shares subah taqreeban 12% giray; jumma se ab tak $855bn market cap kam ho chuki hai.",
+      "why": "Ye sirf aik CEO ki kahani nahi — ye AI industry ki sab se bari company ke centre mein aik leadership vacuum hai. Nvidia ne AI boom ko chips diye, aur ab us ka founder gaya hai — wo bhi aik national security scandal ke saath. Earnings 17 November ko hain, aur market pehle hi ghabra rahi hai.",
+      "next": "17 November ki earnings call par pehli jhalak milegi ke nayi leadership kya kehti hai. Congress mein Huang ki briefing ka mutalba bhi pending hai. Aur permanent CEO ki talaash — Trump ne Tim Cook ka naam liya hai, lekin board ke paas apni list hogi.",
+      "take": "Meri take: 33 saal, $5.88 trillion, aur phir aik personal scandal mein sab khatam — ye Silicon Valley ki sab se dramatic kahani hai. Lekin yaad rakho: Nvidia ki asal taqat Huang ki leather jacket nahi, us ka CUDA ecosystem aur chips hain. Company aik din mein nahi giregi — lekin 'koi heir apparent nahi' wali baat sach hai, aur yehi asal khatra hai. Agle CEO ka naam market ko ya to sukoon dega ya aur girayega."
     },
-    "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/": {
-      "what": "OpenAI ki quarterly revenue pehli dafa $10 billion paar kar gayi — Q2 se taqreeban 50% izafa, annual run rate $50 billion. Lekin operating loss bhi $10.9 billion tak barh gaya. Anthropic is se aage hai: us ki Q3 revenue $17 billion aur run rate $81 billion batayi ja rahi hai.",
-      "why": "AI companies ki race ab revenue ki race ban gayi hai — $10 billion aik quarter mein, ye software ki tareekh mein pehle kabhi nahi hua. Lekin loss bhi utna hi bara hai: har dollar kamane ke liye aik dollar se zyada kharch ho raha hai.",
-      "next": "Anthropic ka IPO 18-19 November ko hai — us ki pricing batayegi ke market is race ko kitna serious leti hai. Aur OpenAI ka $1.25 trillion valuation wala funding round bhi chal raha hai.",
-      "take": "Meri take: $10bn revenue aur $10.9bn loss — aik saath. Ye kahani hai AI economy ki: paisa aa raha hai, lekin us se zyada ja raha hai. Jo company pehle ye gap band karegi, wo jeetegi. Abhi tak koi nahi jeeta — sab sirf tez bhaag rahe hain."
+    "https://www.reuters.com/business/openai-google-anthropic-hit-with-lawsuit-seeking-halt-frontier-ai-development-2026-11-12/": {
+      "what": "Char nonprofits ne San Francisco mein OpenAI, Anthropic, Google, Meta aur SpaceX ki AI division par muqadma kar diya — mutalba hai ke frontier AI models ki development roki jaye. Muqadma California ke unfair business practices qanoon par hai, aur is mein Amodei aur Musk ke apne warnings ka hawala hai. Muqadme mein ye bhi kaha gaya hai ke models testing se nikal kar government websites par hamle kar chuke hain.",
+      "why": "Trump administration ne ab tak bari AI regulation se inkar kiya hai — to ab courts aur states ye kaam karne ki koshish kar rahe hain. Florida ne pehle hi OpenAI par muqadma kiya hua hai. Ye case is liye ahem hai ke ye companies ke apne alfaz ko un ke khilaf istemal karta hai.",
+      "next": "Court pehle ye dekhegi ke kya ye muqadma aage barh sakta hai — injunction milna mushkil hai, lekin case khud hi aik bara signal hai. Aur Anthropic ka IPO 18-19 November ko hai — us ki pricing par is ka asar dekhna dilchasp hoga.",
+      "take": "Meri take: Companies ke CEOs khud kehte hain AI 'tahzeeb khatam kar sakti hai', phir kehte hain regulation na karo — ye contradiction ab court mein jayegi. Lekin sach ye bhi hai ke development rokna kisi aik court ke bas ki baat nahi — China rukne wala nahi. Muqadma jeetna ya haarna alag baat, behas shuru ho gayi hai."
     },
-    "https://research.meta.ai/blog/muse-ember?ref=thenewway.ai": {
-      "what": "Meta ne Muse Ember launch kiya — sab se chhota aur efficient Muse model, $0.10 input / $0.50 output per million tokens, 1M context, 512K output. Artificial Analysis par score 36, Claude Haiku 5.5 ke barabar, lekin cost per task aik tihai ($0.14 vs $0.41). Meta Model API aur Muse Code par live hai.",
-      "why": "Frontier models ki khabarain to roz aati hain, lekin asal paisa chhote models mein hai — jo agents roz lakhon dafa chalayenge. Ember ka matlab hai: AI ab har product mein ghus sakta hai bina bill phatay.",
-      "next": "Dekhna ye hai ke developers Ember ko Haiku ki jagah waqai istemal karte hain ya nahi — aur kya Meta is price par tik sakta hai ya ye sirf market share khareedne ki koshish hai.",
-      "take": "Meri take: Haiku jitna smart, aik tihai keemat — ye woh headline hai jo har developer ko ruk kar sochne par majboor karti hai. Lekin yaad rakho: Ember knowledge mein kamzor hai, 64% sawalon par jawab dene se inkar kar deta hai. Sasta model achha hai — jab tak tumhein pata ho ke wo kya nahi kar sakta."
+    "https://blog.google/intl/en-in/products/introducing-gemini-4-hydrogen/": {
+      "what": "Google DeepMind ne Gemini 4 Hydrogen launch kiya — fast everyday model, $1.50/$7.50 per million tokens, 1M context, AA Index par 51. Gemini app aur Search mein sab users ke liye roll out ho raha hai. Carbon aur Argon frontier ke liye, Hydrogen roz ke kaam ke liye. Naya Orchestrator feature Antigravity mein models ko aik hi session mein switch karta hai.",
+      "why": "Model race ab 'sab se smart' se 'sab se sasta aur tez' ki taraf shift ho rahi hai — Meta ka Ember ($0.10) aur ab Hydrogen. Agents ko roz lakhon dafa chalana hai, aur wo bill frontier models se nahi chalega.",
+      "next": "Dekhna ye hai ke developers Hydrogen ko Flash ki jagah waqai adopt karte hain ya nahi — aur Google ke apne benchmarks (jo vendor ke hain) real duniya mein kitne sach nikaltay hain.",
+      "take": "Meri take: Gemini 4 ab har jagah hai — Search mein, app mein, API mein. Google ne ye samajh liya hai ke jeetna sirf benchmark se nahi, distribution se hota hai. Lekin '51 vs 50' wale score mein itna farq nahi — asal sawal ye hai ke Hydrogen roz ke kaam mein kitna behtar hai. Aur haan, naam 'Hydrogen' sun kar lagta hai Google ne periodic table se model names lene shuru kar diye hain."
     },
-    "https://www.unite.ai/elevenlabs-unveils-model-customization-elevenai-and-partner-program/": {
-      "what": "ElevenLabs ne New York Summit mein 13 products ka package dikhaya — businesses apne data se models fine-tune karwa sakenge, ElevenAgents mein Memory aur Routines aayengi, aur naya ElevenAI app meetings sun kar notes aur action items banayega. NVIDIA ke saath partnership bhi barhi: Nemotron 3.5 Super VL aur 15 MW Vera Rubin compute.",
-      "why": "Voice AI ab sirf 'awaz banana' nahi raha — ye poora kaam karne wala teammate ban raha hai. ElevenLabs samajh gaya hai ke sirf achhi awaz se company nahi banti, enterprise contracts se banti hai.",
-      "next": "Customization 'aane wale mahinon mein' shuru hogi — abhi ye roadmap hai, product nahi. Asal test ye hai ke kitni companies waqai apna data de kar models train karwati hain.",
-      "take": "Meri take: ElevenLabs ki awaz to hum sab ne suni hai — ab wo hamari meetings bhi sunna chahta hai. ElevenAI ka idea achha hai, lekin 'consent ke saath' wali baat par nazar rakhni hogi. Aur ek sawaal: kya har meeting ki recording banana waqai productivity hai, ya sirf aik aur tareeqa hai kaam ko record karne ka?"
+    "https://www.pymnts.com/news/artificial-intelligence/2026/anthropics-claude-tops-ai-rankings-as-openai-limits-cyber-model/": {
+      "what": "Claude Fable 5.2 Artificial Analysis Index par 65 score ke saath number 1 par — Gemini 4 Carbon (60) se aage. OpenAI ne GPT-6 Cyber sirf approved security customers tak mehdood kar diya — testing mein 81 Firefox flaws aur 948 Linux kernel exploits. Gemini Robotics 2.5 Mercedes lines par 96% success se parts sort kar raha hai.",
+      "why": "Frontier ki kursi har hafte badal rahi hai — is hafte Anthropic ki baari hai. Aur OpenAI ka cyber model band karna batata hai ke kuch models ab itne taqatwar hain ke unhein khula nahi chhora ja sakta.",
+      "next": "GPT-6 Cyber ki 'Critical' rating pehli dafa hai — dekhna ye hai ke doosri labs bhi apne powerful models ko gate karna shuru karti hain ya nahi. Aur Fable 5.2 ki number-1 position agle model launch tak hi hai.",
+      "take": "Meri take: Aik model jo 81 security flaws dhoond sakta hai, wo unhein istemal bhi kar sakta hai — is liye OpenAI ne usay band kar diya, aur ye faisla theek hai. Lekin ye bhi sach hai ke yehi capability achhe hackers ke haath mein internet ko mehfooz bhi karti hai. Rankings aati-jati rehti hain; asal kahani ye hai ke AI ab factory floor aur security dono jagah pohanch gaya hai."
     },
-    "https://gulfnews.com/business/markets/coreweave-rallies-7-as-ai-demand-outweighs-debt-fears-1.500743302": {
-      "what": "CoreWeave ki Q3 revenue $3.66 billion ho gayi — 168% izafa, estimate se upar. 2026 ka forecast $13–13.3 billion kar diya, backlog $132.5 billion. Shares 7% upar gaye. Lekin net loss $709 million, qarz taqreeban $47 billion, aur capex $37–39 billion.",
-      "why": "AI infrastructure ki demand par sab se bara sawal tha: kya ye bubble hai? CoreWeave ke numbers kehte hain demand asal hai — customers $132 billion ke contracts sign kar chuke hain. Lekin qarz bhi asal hai.",
-      "next": "Dekhna ye hai ke CoreWeave qarz chuka kar kab munafa kamata hai — management kehta hai 2028 ki pehli half mein adjusted profit. Tab tak har quarter mein yehi sawal hoga: demand ya debt?",
-      "take": "Meri take: $132bn backlog aur $47bn qarz — aik hi company mein dono. Ye AI boom ki asal tasveer hai: demand itni zyada hai ke companies qarz le kar data centers bana rahi hain. Agar demand tik gayi to ye genius hai; agar nahi, to ye 2000 ka dot-com wala scene dobara hai. Abhi ke liye, bulls jeet rahe hain."
+    "https://dealroom.co/news/172067-openai-anthropic-sign-macron-s-paris-call-but-us-and-google-stay-away/": {
+      "what": "Das AI labs ne Macron ki Paris Call par dastakhat kiye — shutdown mechanisms, bahari testing, incident sharing ka wada. US aur China ne sign nahi kiya; Google aur Meta bhi bahir rahe. Commitments voluntary hain — na deadline, na penalty.",
+      "why": "Europe AI safety par apni pehchan banana chahta hai — lekin jab sab se bari taqatein (US, China, Google, Meta) bahir hon to pact ki taqat sirf aik signal reh jati hai. EU AI Act ki enforcement asal lever hai.",
+      "next": "Dekhna ye hai ke Paris Call sirf aik photo-op reh jata hai ya signatory labs waqai apne models ki bahari testing karwate hain. Agle saal ki review batayegi.",
+      "take": "Meri take: Dastakhat karna aasan hai, karna mushkil — aur jab koi penalty hi nahi to ye wada kitna mazboot hai? Phir bhi, das labs ka aik table par aana koi chhoti baat nahi. Lekin jab Google aur Meta bahir hon to ye 'Paris Call' se zyada 'Paris ki aik koshish' lagta hai."
     },
-    "https://asia.nikkei.com/politics/international-relations/us-china-tensions/key-republicans-seek-briefing-from-nvidia-ceo-over-chinese-spy-allegations": {
-      "what": "Teen Republican House chairs ne Nvidia CEO Jensen Huang ko 18 November ki closed-door briefing ke liye bulaya — Megaspeed executive Alice Huang se un ke rabtay aur Nvidia ke anti-espionage protocols par. US intel ke mutabiq Alice Huang Beijing ko maloomat de rahi thi. 11 November ki deadline tak Huang ne jawab nahi diya tha; chairman ne subpoena ki dhamki di hai. Nvidia ka board apni investigation bhi chala raha hai.",
-      "why": "Ye sirf aik CEO ki kahani nahi — ye US-China chip war ka naya front hai. Agar chips China tak pohanch rahe hain to export controls ka kya faida? Aur agar duniya ki sab se qeemti chip company ka CEO jasoosi ke ilzaam mein phansa hai to poori industry hil jati hai.",
-      "next": "17 November ko Nvidia ki earnings call hai, 18 ko briefing. Dekhna ye hai ke Huang aata hai ya subpoena aata hai — aur board ki investigation kya nikalti hai. Abhi tak kisi par kuch sabit nahi hua.",
-      "take": "Meri take: Ilzaam bara hai, saboot abhi public nahi. Lekin ye baat yaad rakho: jab Congress aik CEO ko bulati hai to ye sirf us ki kahani nahi hoti — ye poori industry ko message hota hai. Nvidia ke liye asal khatra subpoena nahi, ye hai ke agar chips ka rasta China tak waqai khula hai to export controls aur sakht honge — aur wo sab ko mehnga parega."
+    "https://aistockwire.com/blog/renaissance-technologies-q3-13f-nvidia-nvda-micron-mu-november-2026": {
+      "what": "Renaissance Technologies ki Q3 13F filing mein Nvidia ki position $1.42bn se gir kar $5.3m reh gayi — 99.7% kami. Meta, Apple, Amazon, Broadcom bhi taqreeban khatam. Ab sab se bari holding Micron ($1.62bn), phir Alphabet ($1.38bn), AMD ($1.21bn); SpaceX mein $621m ki nayi position.",
+      "why": "Renaissance duniya ka sab se mashhoor quant fund hai — us ke moves ko log signal samajhte hain. Lekin is ki positions har quarter ulta-palti hoti hain; Micron ko bhi us ne pehle becha phir khareeda.",
+      "next": "Agli 13F February mein aayegi — tab pata chalega ke Renaissance ne Nvidia wapas khareeda ya nahi. Aur yaad rakho, ye filing 30 September ki hai — Huang ke istefe se pehle ki.",
+      "take": "Meri take: $1.42bn se $5.3m — ye number dekh kar lagta hai kisi ko Nvidia se bharosa uth gaya. Lekin Renaissance aik quant fund hai, wo 'bharosa' par nahi, models par chalta hai. Is filing ko AI bubble ka saboot banana jaldi hogi — lekin ye zaroor batata hai ke smart paisa ab memory chips aur AMD ki taraf dekh raha hai, Nvidia ki taraf nahi."
     },
-    "https://www.dawn.com/news/2043793": {
-      "what": "Kohat mein police party par hamle mein 10 ahalkar shaheed ho gaye, jin mein DSP Haidar Zaman aur Sub-Inspector Mukhtiar shamil hain; 12 zakhmi hue. Team ghair-qanooni gold mining ke khilaf operation se wapas aa rahi thi jab Fitna al-Khawarij ne hamla kiya; jawab mein 18 hamla-awar halak hue. TTP ne zimmedari qabool ki.",
-      "why": "Ye hamla batata hai ke dehshatgardi ab sirf sarhadon par nahi — ye criminal mafias ke saath mil kar mulk ke andar resources par qabza kar rahi hai. Gold mining ka qanoon aur security ka masla ab aik hi ho gaya hai.",
-      "next": "KP mein governor's rule aur emergency ke aik mahine baad bhi hamle jaari hain. Dekhna ye hai ke faceless courts aur Rs70bn security plan ka elaan kab amal mein badalta hai — aur illegal mining ke khilaf crackdown kitna sakht hota hai.",
-      "take": "Meri take: 10 shaheedein — aur un mein se aik DSP. Ye sirf aik khabar nahi, aik qurbani hai. Lekin sawal ye hai: har hamle ke baad hum 'qurbaniyon ko yaad rakhenge' kehte hain, phir agla hamla aa jata hai. Gold mafia aur dehshatgardon ka nexus todna hoga, warna ye silsila rukne wala nahi."
+    "https://www.dawn.com/news/2044089": {
+      "what": "Ghizer mein passenger van Yasin darya mein gir gayi — 11 jaan-bahaq (jin mein aik bacha), 2 zakhmi. Van Gilgit se Yasin Valley ja rahi thi; Morkah Bridge ke paas driver ne control kho diya. GB CM ne rescue aur ilaj ki hidayat di.",
+      "why": "Pahari ilaqon mein road safety aik bar-bar ki kahani hai — pichle hafte bhi Havelian aur Pakpattan mein 19 log road accidents mein maray. Ye sirf aik hadsa nahi, aik pattern hai.",
+      "next": "Police hadse ki wajah ki tehqeeq kar rahi hai. Sawal ye hai ke pahari routes par safety checks aur driver training par kab amal hoga — ya har hadse ke baad sirf afsos hoga?",
+      "take": "Meri take: 11 zindagiyan — aur un mein aik bacha. Har dafa yehi hota hai: hadsa, afsos, phir khamoshi. Pahari roads par safar karna roz ka kaam hai, lekin safety abhi bhi kismat par chal rahi hai. Is khabar ko parh kar sirf afsos na karo — agle safar mein seat belt aur driver ki halat par tawajju do."
     },
-    "https://www.dawn.com/news/2043746/pm-shehbaz-to-join-other-world-leaders-at-cop31-today-will-outline-pakistans-climate-priorities": {
-      "what": "PM Shehbaz ne COP31 par kaha ke Pakistan ne 2 saalon mein taqreeban 22GW rooftop solar laga liya — 'aam shehriyon ka khamosh inqilab'. Pakistan ko 2035 tak low-carbon power ke liye $138bn aur koyla badalne ke liye mazeed $50bn chahiye. Clean sources ab energy mix ka 55% hain; Chashma-5 se 1,200MW milega.",
-      "why": "Pakistan ne solar mein jo kiya, wo duniya mein kisi ne nahi kiya — bina subsidy, bina plan, sirf mehngi bijli se tang aa kar logon ne khud panels laga liye. Ye hukoomat ki kamyabi nahi, awaam ki majboori ki kamyabi hai.",
-      "next": "COP31 par asal sawal finance ka hai — kya ameer mulk $188bn denge? Aur ghar par sawal ye hai ke grid itna solar sambhal sakta hai ya nahi. Dono ke jawab abhi nahi mile.",
-      "take": "Meri take: 22GW — ye number waqai hairan-kun hai, lekin ye bhi yaad rakho ke ye figure PM ki apni hai, independently verify nahi hui. Aur solar lagana aik baat hai, us ko grid mein sambhalna doosri. Phir bhi, aik baat pakki hai: Pakistani awaam ne dikha diya ke jab system fail ho to wo khud hal nikal lete hain."
+    "https://www.dawn.com/news/2044083": {
+      "what": "Mastung mein Kandawa Post par dhamaka-khez gaari se hamla nakam — 3 dehshatgard halak, 2 shehri shaheed, kam az kam 13 zakhmi, 3 FC ahalkar bhi zakhmi. Dhamake se ghar aur masjid ko nuqsan. Police ke mutabiq hamla-awar Fitna al-Hindustan se the; BLA ne zimmedari qabool ki.",
+      "why": "Kohat ke hamle ke aik din baad Mastung — dehshatgardi ab sarhadon par nahi, shehron aur highways par hai. PICSS ke mutabiq October mein hamlay 37% kam hue the, lekin Balochistan mein abhi bhi khatra hai.",
+      "next": "Security forces ne operations jaari rakhne ka elaan kiya hai. Dekhna ye hai ke N-25 jesi highways par security mazeed sakht hoti hai ya nahi — aur BLA ke khilaf crackdown kitna gehra hota hai.",
+      "take": "Meri take: Aik hafte mein do hamlay — Kohat aur Mastung. Numbers kam ho rahe hain, lekin har hamla batata hai ke masla abhi khatam nahi hua. 2 shehri shaheed — wo log jo sirf apne ghar ke paas the. Security ka sawal sirf fauj ka nahi, har shehri ka hai."
     },
-    "https://dunyanews.tv/en/Sports/982377-indias-win-over-maldives-secures-pakistans-place-in-saff-championshi": {
-      "what": "India ne Maldives ko 1-0 se hara kar Pakistan ko SAFF Championship ke semi-final mein pohancha diya. Suhail Bhat ne 38th minute mein penalty se goal kiya. Pakistan group B mein 3 points ke saath doosre number par raha. Semi-final 14 November ko Group A winner (Bangladesh ya Sri Lanka) se hoga; final 17 November ko.",
-      "why": "Pakistan football ke liye ye bari baat hai — India se 3-2 ki haar ke baad bhi team ne semi-final tak ka rasta banaya. Football mein Pakistan ka naam ab sirf 'hissa lene wala' nahi raha.",
-      "next": "14 November ko semi-final — opponent Bangladesh ya Sri Lanka, dono hi tough hain. Jeet gaye to final mein India se dobara muqabla ho sakta hai, aur wo match poora mulk dekhega.",
-      "take": "Meri take: Semi-final mein pohanchna achha hai, lekin ye bhi sach hai ke hum doosron ke match ke natijay par pohanchay hain — apni jeet se nahi. Ab semi-final mein apni taqat dikhani hogi. Football mein kismat aik dafa saath deti hai, doosri dafa mehnat chahiye hoti hai."
+    "https://www.nation.com.pk/13-Nov-2026/breathing-space-pti-deal-still-distant-dream": {
+      "what": "PTI aur powers-that-be ke darmiyan backchannel rabte — Khan se wakilon ki mulaqat, un ki behnon ki rehai, aur 28th Amendment par guftagu. Lekin Naqvi ne deal ki afwahon ko 'do-teen din ki achhi kahaniyan' kaha. KP mein governor's rule aur Khan ke cases abhi bhi hal talab hain.",
+      "why": "Aik saal se band mulaqatein khulna aur rehaiyan — ye sirf ittefaq nahi lagta. Lekin har kuch mahinon mein deal ki afwahein aati hain aur phir kuch nahi hota. Dono taraf aitmaad ki kami hai.",
+      "next": "Dekhna ye hai ke Khan ko hospital shift karne ya un ke cases mein relief milta hai ya nahi — aur kya backchannel rabte kisi asal mazakrat mein badalte hain. Naqvi ke 'kuch nahi badla' wale bayan par bhi nazar rakhni hogi.",
+      "take": "Meri take: 'Breathing space' — ye lafz khud batata hai ke deal nahi, sirf saans hai. PTI ko thodi relief mil rahi hai, lekin asal sawal — Khan ka siyasi mustaqbil, KP ki hakoomat — abhi bhi wahi khara hai. Har dafa afwahein aati hain, har dafa kuch nahi hota. Is dafa farq sirf ye hai ke mulaqatein waqai khuli hain — wo bhi dekhna hai ke kitne din khulti hain."
     },
-    "https://tribune.com.pk/story/2639763/psx-extends-gains-as-kse-100-crosses-180000-mark?amp=1": {
-      "what": "KSE-100 ne budh ko intraday 180,769 tak ja kar 180,000 ki satah paar ki — 18 August ke baad pehli dafa — lekin profit-taking ne gains mita diye aur index 251 points gir kar 179,084 par band hua. Is se pehle mangal ko 5,449 points ki rally hui thi. Cement stocks mein tezi rahi; volume 1.24 billion shares.",
-      "why": "Market 180k paar kar ke wapas aana batata hai ke investor confidence wapas aa raha hai — remittances $3.9bn aur oil prices mein kami ne mood banaya. Lekin 180k aik psychological wall hai, aur har wall ko todne ke liye aik se zyada koshish lagti hai.",
-      "next": "Dekhna ye hai ke index 180k ko dobara paar kar ke tikta hai ya phir consolidation hoti hai. US CPI aur MSCI review bhi agle dinon mein hain — dono market ko hila sakte hain.",
-      "take": "Meri take: 180,000 paar karna khabar hai, wapas girna bhi khabar hai — dono aik saath. Market aise hi chalti hai: aik din josh, agle din profit-booking. Jo log sirf aik din ki rally dekh kar khush hote hain, wo aksar agle din pareshan hote hain. Lambi race mein ye sirf aik kadam hai."
+    "https://www.dawn.com/news/2044043": {
+      "what": "Naqvi ne naye subon par referendum ka mashwara diya — 'awaam jo kahe, main 100% un ke saath'. Kaha ke wo aur Bilawal 'taqreeban aik hi page par' hain, dono ne 'reset' ki baat ki. PPP ne Sindh mein naye subay ki sakht mukhalfat ki hai; Khawaja Asif ne 12 mazeed subon ki baat ki thi.",
+      "why": "Naye subon ki behas mahinon se chal rahi hai — Naqvi ne July mein shuru ki thi. Referendum ka mashwara is behas ko awaam ki taraf modne ki koshish hai, jabke PPP chahti hai ke faisla Parliament mein ho.",
+      "next": "Dekhna ye hai ke koi jamaat referendum ki tajweez ko sanjeedgi se leti hai ya nahi — aur kya 28th Amendment ka masla Parliament tak pohanchta hai. PPP aur PML-N ke darmiyan is par tanazaa barh bhi sakta hai.",
+      "take": "Meri take: Referendum ki baat sunne mein democratic lagti hai — lekin Pakistan mein referendum karwana koi chhota kaam nahi, aur is ka natija bhi wohi hoga jo siyasat chahegi. Asal sawal ye hai ke naye subay bane bhi to kya badlega — jab maujooda subon mein hi governance ka haal ye hai. Pehle system theek karo, phir system ko aur tukron mein baanto."
     },
-    "https://www.dawn.com/news/2043674": {
-      "what": "PMD ne 12 se 14 November tak mulk ke balai hissay mein barish, aandhi aur paharon par barf-bari ki peshgoi ki hai. KP, Punjab, Islamabad, AJK aur GB mein tez barish aur ole bhi mumkin hain; din ka darja-e-hararat 2–4 degree girega. Sindh aur Balochistan mein mausam khushk rahega.",
-      "why": "November ki barish achhi khabar bhi hai aur mushkil bhi — smog mein kami aayegi, lekin pahari ilaqon mein safar mushkil hoga aur fasalon ko nuqsan bhi ho sakta hai.",
-      "next": "Spell 14 November ki subah tak rahega, phir maidani ilaqon mein dhund par sakti hai. Lahore ki smog par is ka asar dekhna dilchasp hoga — kya barish hawa saaf karti hai ya sirf aik waqti araam hai?",
-      "take": "Meri take: Barish aayi to Lahore ki AQI 600 wali khabar thodi peeche jayegi — lekin ye hal nahi, sirf aik break hai. Smog ka asal hal barish nahi, policy hai. Phir bhi, is haftay chhat par chai peene ka mausam ban raha hai — enjoy karo."
+    "https://www.nation.com.pk/13-Nov-2026/pm-calls-grant-based-climate-finance-cop31-summit": {
+      "what": "PM Shehbaz ne COP31 par grant-based climate finance ka mutalba kiya — qarz nahi. 2022 ke sailab (33 million mutasir, $30bn nuqsan) aur Buner floods ka zikr; Pakistan ne 2 saal mein 20GW+ solar lagaya, clean sources 55%. Erdogan se mulaqat mein Islamabad MoU par guftagu.",
+      "why": "Pakistan climate change mein sab se kam zimmedar, sab se zyada mutasir — ye baat PM har COP par kehte hain. Is dafa farq ye hai ke unhon ne 'grant, not loan' ko saaf lafzon mein kaha, aur paani ko hathyar banane ke khilaf bhi bola.",
+      "next": "COP31 par asal sawal finance ka hai — kya ameer mulk paise denge? Aur ghar par sawal grid ka hai — itna solar sambhal sakta hai ya nahi. Dono ke jawab abhi nahi mile.",
+      "take": "Meri take: 'Grant ho, qarz nahi' — ye baat bilkul theek hai. Jo mulk carbon nahi phelata, us se qarz le kar sailab ka nuqsan bharna insaaf nahi. Lekin ye bhi yaad rakho: COP par taqreerein har saal hoti hain, paise kam aate hain. 20GW solar waqai aik kamyabi hai — lekin wo awaam ki majboori ki kamyabi hai, hukoomat ki planning ki nahi."
     },
-    "https://www.dawn.com/news/2043866": {
-      "what": "Senate Chairman Yousaf Raza Gillani ne student unions ki bahali aur mazboot local government ka mutalba kiya. UNICEF ke workshop mein unhon ne kaha ke grassroots par leadership ki nurseries 'so gayi hain'. Unhon ne apni misaal di — local level se wazir-e-azam tak — aur kaha ke har rupee ka hisab hona chahiye.",
-      "why": "Student unions 1984 se banned hain — 40 saal se zyada ho gaye. Is ka natija ye hai ke siyasat mein naye chehre sirf khandani naam se aate hain, campus se nahi. Leadership ka pipeline hi band hai.",
-      "next": "Ye mutalba pehli dafa nahi hua — har saal koi na koi kehta hai, phir kuch nahi hota. Dekhna ye hai ke is dafa Senate se koi bill ya resolution nikalta hai ya ye bhi sirf aik taqreer ban kar reh jata hai.",
-      "take": "Meri take: Gillani sahab ne theek kaha — leadership nurseries se aati hai, aur hamari nurseries 40 saal se band hain. Lekin ye bhi sach hai ke jo log ab taqat mein hain, unhein is system se faida hai. Student unions ki bahali ka matlab hai naye logon ko jagah dena — aur ye faisla unhi ko karna hai jin ki jagah khatre mein par jayegi."
+    "https://www.nation.com.pk/13-Nov-2026/psx-stays-bearish-sheds-1-710-points": {
+      "what": "KSE-100 jumeraat ko 1,710 points (0.95%) gir kar 177,374 par band hua — aik din pehle 180,000 paar karne ke baad. Volume 1.07bn shares, value Rs31.6bn; market cap Rs19.22tr. 316 companies ne nuqsan uthaya, 155 mein izafa hua.",
+      "why": "180,000 aik psychological wall hai — usay paar kar ke wapas aana batata hai ke confidence hai, lekin abhi mazboot nahi. Investors abhi bhi ehtiyat mein hain aur jummay ka aakhri session aane wala hai.",
+      "next": "Jumma haftay ka aakhri session hai — dekhna ye hai ke index 177,000 ke neeche jata hai ya wapas 180,000 ki taraf. US CPI aur MSCI review bhi agle dinon mein hain.",
+      "take": "Meri take: Kal 180,000 paar, aaj 1,710 neeche — market aise hi chalti hai: aik din josh, agle din profit-booking. Jo log sirf aik din ki rally dekh kar khush hote hain, wo aksar agle din pareshan hote hain. Lambi race mein ye sirf aik kadam hai — lekin do din mein 1,700+ points ka jhatka batata hai ke market abhi bhi siyasi hawa par chal rahi hai, fundamentals par nahi."
     }
   },
-  "mood": "🧠 AI ki race tez, 💰 paisa barh raha hai, 🇵🇰 Kohat mein dukh — aaj khabrein halki nahi hain."
+  "mood": "🟢 Nvidia ka CEO gaya, ⚖️ AI par muqadma, 🇵🇰 Mastung aur Ghizer mein dukh — aaj khabrein bhari hain."
 }
