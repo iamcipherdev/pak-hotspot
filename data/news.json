@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-11-13T07:00:59+05:00",
+  "updated_at": "2026-11-14T07:00:29+05:00",
   "tech": [
     {
-      "source": "TechCrunch",
-      "summary": "Nvidia ke co-founder aur CEO Jensen Huang ne 12 November ko istefa de diya — aik alleged Chinese spy se affair aur board investigation ke baad. CFO Colette Kress interim CEO hongi aur Harvey Jones board ke pehle chairman banay. Shares subah taqreeban 12% giray; jumma se ab tak company ki market cap $855 billion se zyada kam ho chuki hai. Huang ne 1993 mein Nvidia banayi thi aur usay $5.88 trillion ki company bana diya — AI boom ka sab se bara faida uthane wali company. Earnings 17 November ko hain.",
-      "title": "Jensen Huang ne Nvidia chhor di — 33 saal baad CEO ki kursi khaali",
-      "url": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/"
+      "source": "Reuters",
+      "summary": "Reuters ke mutabiq Jensen Huang ne Nvidia ke general counsel Tim Teter aur CMO Alison Wagonfeld ko bhi apne affair ki asal nature ke baare mein gumrah kiya — internal messages ke mutabiq unhon ne Megaspeed ki Alice Huang se taluqat ko 'routine business' bataya. Nvidia ke shares 6 October ki peak se 30% se zyada gir chuke hain, market cap mein $1.8 trillion se zyada ka nuqsan. Board ne Wachtell Lipton ko independent investigation ke liye hire kiya hai; earnings 17 November ko hain.",
+      "title": "Huang scandal gehra — ex-Nvidia CEO ne top lawyer ko bhi gumrah kiya, shares 30% neeche",
+      "url": "https://www.reuters.com/world/china/ex-nvidia-ceo-misled-top-lawyer-affair-with-chinese-businesswoman-sources-say-2026-11-14/"
     },
     {
       "source": "Reuters",
-      "summary": "Nonprofit groups — Irreplaceable Education Fund, Public Citizen, Heat Initiative aur Alliance for Secure AI — ne San Francisco mein OpenAI, Anthropic, Google, Meta aur SpaceX ki AI division par muqadma kar diya. Mutalba hai ke ChatGPT, Gemini aur Claude jese frontier models ki mazeed development roki jaye. Muqadme mein companies ke apne leaders — Dario Amodei aur Elon Musk — ke warnings ka hawala diya gaya hai ke AI 'tahzeeb ki tabahi' ka sabab ban sakti hai. California ke unfair business practices qanoon ki bunyad par court order manga gaya hai.",
-      "title": "Nonprofits ne OpenAI, Google, Anthropic par muqadma — frontier AI rokne ka mutalba",
-      "url": "https://www.reuters.com/business/openai-google-anthropic-hit-with-lawsuit-seeking-halt-frontier-ai-development-2026-11-12/"
+      "summary": "Reuters ke mutabiq Anthropic ka IPO roadshow ke teesre din tak 6 guna oversubscribed ho gaya — SpaceX ke IPO se bhi zyada demand. 825 million shares $70–78 par, pricing 18 November aur trading 19 November se Nasdaq par ticker ANT ke neeche. Lekin investors sawaal utha rahe hain: kya Claude ki lead Google ke muqable mein tik payegi, aur 2028 revenue $270–280bn ka projection kitna real hai?",
+      "title": "Anthropic ka IPO 6 guna oversubscribed — $64bn deal, $1.4 trillion valuation ki taraf",
+      "url": "https://www.reuters.com/business/finance/investors-flock-anthropic-ipo-question-durability-ai-lead-2026-11-13/"
     },
     {
-      "source": "Google Blog",
-      "summary": "Google DeepMind ne 12 November ko Gemini 4 Hydrogen launch kiya — Gemini 4 family ka fast, everyday model, jo coding aur agentic workflows ke liye bana hai. Keemat $1.50 input / $7.50 output per million tokens, 1M-token context, aur Artificial Analysis Index par 51 score — Argon (50) se aage. Gemini app aur Google Search mein sab users ke liye roll out ho raha hai; Carbon aur Argon ab bhi gehri reasoning ke liye hain. Naya Orchestrator feature Antigravity mein models ko aik hi session mein switch karta hai.",
-      "title": "Google ka Gemini 4 Hydrogen — roz ke agents ke liye tez aur sasta model",
-      "url": "https://blog.google/intl/en-in/products/introducing-gemini-4-hydrogen/"
+      "source": "Reuters",
+      "summary": "Microsoft ke Outlook, Teams aur Copilot 12 November ko 12 ghante se zyada ke liye global outage ka shikar rahe — 430 million se zyada users mutasir. Taipei mein trades fax se confirm hui, Euronext ne listed companies ko phone karne ko kaha, Aviva ne Bluetooth se recordings transfer ki. Microsoft ne server problems ko zimmedar thehraya, koi malicious activity nahi mili. 13 November tak recovery jaari thi.",
+      "title": "Microsoft 365 ki 12 ghante ki outage — duniya bhar mein fax aur phone wapas",
+      "url": "https://www.reuters.com/business/finance/faxes-phones-bluetooth-microsoft-outage-forces-businesses-find-fixes-2026-11-13/"
     },
     {
-      "source": "PYMNTS",
-      "summary": "Anthropic ka Claude Fable 5.2 Artificial Analysis Intelligence Index par 65 score ke saath number 1 par aa gaya — Gemini 4 Carbon (60) se aage. Doosri taraf OpenAI ne apna sab se capable security model GPT-6 Cyber sirf approved customers tak mehdood kar diya — testing mein is ne Firefox mein 81 pehle se namaloom high-severity flaws dhoondhe aur Linux kernel ke khilaf 948 working exploits banaye. Google DeepMind ka Gemini Robotics 2.5 Mercedes-Benz ki live production lines par 96% success rate se parts sort kar raha hai.",
-      "title": "Claude Fable 5.2 AI rankings mein number 1 — OpenAI ne apna cyber model band kar diya",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropics-claude-tops-ai-rankings-as-openai-limits-cyber-model/"
+      "source": "TechCrunch",
+      "summary": "AI agent management startup LangChain ne $300 million Series C raise kiya, valuation $3 billion — aik saal pehle $1.25bn thi. Round CapitalG ne lead kiya, GIC, DFJ Growth, IVP aur Sapphire ne hissa liya. LangChain 2022 mein open-source project se shuru hua tha; ab us ka LangSmith platform 7,000 customers ko serve karta hai, jin mein Nvidia, Toyota aur Salesforce shamil hain.",
+      "title": "LangChain $3bn ki company ban gayi — AI agents ka boom ab funding mein nazar aa raha hai",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
     },
     {
-      "source": "Dealroom",
-      "summary": "Das AI labs — OpenAI, Anthropic, Mistral, Microsoft, Hugging Face, Cohere aur doosron — ne 9 November ko Macron ki Paris Call par dastakhat kiye: frontier models ke liye shutdown mechanisms, bahari testing aur incident sharing ka wada. Lekin US aur China ne sign nahi kiya, aur Google aur Meta bhi bahir rahe — jo is pact ki pohnch ko mehdood karta hai. Commitments voluntary hain — na deadlines, na penalties.",
-      "title": "Paris Call par OpenAI aur Anthropic ke dastakhat — lekin US, Google aur Meta bahir",
-      "url": "https://dealroom.co/news/172067-openai-anthropic-sign-macron-s-paris-call-but-us-and-google-stay-away/"
+      "source": "Industry.co.id",
+      "summary": "AMD ne Instinct MI400 accelerator series launch ki — MI430X mein 432GB HBM4 memory aur 288 teraflops FP64 performance. AMD ka daawa hai ke MI430X ki memory Nvidia ke Vera Rubin platform se 50% zyada hai. Nvidia ki leadership crisis ke beech AMD ka ye launch AI chip race mein aik bara move hai; Dell ne bhi MI400 par based servers announce kar diye.",
+      "title": "AMD ne MI400 chips launch kar diye — Nvidia ko seedha challenge",
+      "url": "https://men.industry.co.id/read/9807/global-ai-roundup-nov-14-2026-nvidia-changes-ceo"
     },
     {
-      "source": "AIStockWire",
-      "summary": "Jim Simons ki Renaissance Technologies ne apni Q3 13F filing mein Nvidia ki position taqreeban khatam kar di — June mein $1.42 billion se gir kar September mein sirf $5.3 million. Meta, Amazon, Apple aur Broadcom bhi taqreeban khatam; paanchon mil kar $3.88 billion se $10.6 million reh gaye. Ab sab se bari holding Micron ($1.62bn) hai, AMD $1.21bn ke saath teesre number par, aur SpaceX mein $621 million ki nayi position. Filing 30 September ki snapshot hai — Huang ke istefe se chhe hafte pehle ki.",
-      "title": "Renaissance ne Nvidia ka 99.7% hissa bech diya — ab Micron sab se bara bet",
-      "url": "https://aistockwire.com/blog/renaissance-technologies-q3-13f-nvidia-nvda-micron-mu-november-2026"
+      "source": "Reuters",
+      "summary": "OpenAI ne ChatGPT Wallet launch kar diya — us ke 'dots' agents ab aap ki taraf se purchases kar sakte hain, bina asal card details dekhe. Har purchase par security check (Face ID/fingerprint) zaroori hai. Amex, Mastercard aur Visa ke saath banaya gaya; shuru mein sirf US ChatGPT Pro subscribers ke liye. Aage ja kar spending limits aur categories set kar ke poori delegation bhi mumkin hogi.",
+      "title": "ChatGPT Wallet aa gaya — ab AI agent aap ke liye khareedari bhi karega",
+      "url": "https://www.reuters.com/technology/openai-launches-chatgpt-wallet-letting-ai-agents-pay-purchases-2026-11-13/"
     }
   ],
   "pakistan": [
     {
       "source": "Dawn",
-      "summary": "Gilgit-Baltistan ke Ghizer zila mein jumeraat ki shaam aik passenger van Morkah Bridge ke paas se Yasin darya mein gir gayi — 11 afraad jaan-bahaq ho gaye, jin mein aik bacha bhi shaamil hai, aur 2 zakhmi hue. Van Gilgit se Yasin Valley ja rahi thi jab driver ne control kho diya. GB ke Wazir-e-Aala Amjad Hussain ne afsos ka izhar karte hue rescue aur ilaj ke liye behtareen sahulatain dene ki hidayat ki.",
-      "title": "Ghizer mein van darya mein gir gayi — 11 afraad jaan-bahaq, bacha bhi shaamil",
-      "url": "https://www.dawn.com/news/2044089"
+      "summary": "ISPR ke mutabiq security forces ne Khyber Pakhtunkhwa aur Balochistan mein intelligence-based operations mein 74 dehshatgard halak kar diye — Mir Ali aur Orakzai mein 48 ghanton mein 43, aur Quetta ke Kurram area mein 3 November se shuru operation mein 31. Bari miqdar mein hathiyar, gola-barood aur IEDs bhi baramad hue. Azm-i-Istehkam ke tehet operations jaari rahenge.",
+      "title": "74 dehshatgard halak — KP aur Balochistan mein bari IBOs, ISPR",
+      "url": "https://www.dawn.com/news/2044387"
     },
     {
       "source": "Dawn",
-      "summary": "Balochistan ke Mastung zila mein N-25 highway par Kandawa Post par dhamaka-khez gaari se hamla nakam bana diya gaya — 3 dehshatgard halak hue, jabke 2 shehri shaheed aur kam az kam 13 zakhmi hue; 3 FC ahalkar bhi zakhmi hue. Dhamake se qareebi ghar aur aik masjid ko nuqsan pahuncha. Police ke mutabiq hamla-awar Fitna al-Hindustan se taluq rakhte the; BLA ne zimmedari qabool ki.",
-      "title": "Mastung mein Kandawa post par hamla nakam — 3 dehshatgard halak, 2 shehri shaheed",
-      "url": "https://www.dawn.com/news/2044083"
+      "summary": "Pakistan Minerals Investment Forum 2026 13 agreements aur MoUs ke saath khatam — 60 mumalik ke delegates shirkat kar gaye. FWO ne Chagai ke Dasht-i-Kain area mein 350 million tonnes copper ka andaza lagaya. PM Shehbaz ne kaha 'mine in Pakistan, process in Pakistan, manufacture in Pakistan'; Barrick Karachi aur Gwadar mein processing facilities mein dilchaspi rakh raha hai. Reko Diq se production 2028 mein shuru hone ki umeed.",
+      "title": "Minerals forum mein 13 deals — Chagai mein 350 million tonnes copper ka inkishaf",
+      "url": "https://www.dawn.com/news/2044390/showcase-event-yields-over-dozen-mineral-deals"
     },
     {
-      "source": "The Nation",
-      "summary": "PTI aur powers-that-be ke darmiyan backchannel rabton ne party ko kuch saans di hai — Imran Khan se wakilon ki mulaqat aur un ki do behnon ki rehai ke baad deal ki afwahein phir garam hain. Latif Khosa ke mutabiq mulaqat mein 28th Amendment (naye subay) par bhi guftagu hui. Lekin Interior Minister Mohsin Naqvi ne deal ki afwahon ko 'do-teen din ki achhi kahaniyan' kaha — KP mein governor's rule aur Khan ke cases abhi bhi hal talab hain.",
-      "title": "PTI ko saans ka mauqa — backchannel rabte, lekin deal abhi door",
-      "url": "https://www.nation.com.pk/13-Nov-2026/breathing-space-pti-deal-still-distant-dream"
+      "source": "Business Recorder",
+      "summary": "KSE-100 ne jumma ko 500.11 points ka izafa kar ke 177,873.88 par close kiya. Mari Minerals ne Chagai ke East Siah Diq target par porphyry copper-gold discovery announce ki, jis ke baad late buying ne early losses ko reverse kar diya. MARI, Lucky Cement, PPL aur Fatima Fertiliser ne mil kar 722 points ka izafa diya. Volume 1.04 billion shares raha.",
+      "title": "PSX 500 points up — Mari ki copper-gold discovery ne market ko utha diya",
+      "url": "https://www.brecorder.com/news/40448854"
     },
     {
       "source": "Dawn",
-      "summary": "Interior Minister Mohsin Naqvi ne jumeraat ko kaha ke naye administrative units ya subon par siyasi jamaatein referendum karwayein — 'yehi is behas ka hal hai'. Unhon ne kaha ke agar awaam kahe ke naye subay nahi banne chahiye to wo 100% un ke saath hain. Naqvi ke mutabiq wo aur Bilawal Bhutto 'taqreeban aik hi page par' hain — dono ne 'reset' ki baat ki hai — jabke PPP ne Sindh mein naye subay ki sakht mukhalfat ki hai.",
-      "title": "Naqvi ka mashwara — naye subon par referendum karwa lo, awaam faisla kare",
-      "url": "https://www.dawn.com/news/2044043"
+      "summary": "Pakistan ne UN Security Council mein Saudi Arabia ke khilaf Houthi hamlo ki mazammat ki aur Yemen mein Yemeni-led siyasi hal par zor diya. Council ne Houthis par sanctions 14 November 2027 tak barha diye aur drone/missile parts ki supply rokne ke iqdamat kiye. Pakistan ke mustaqil numainde Syed Haider Shah ne kaha Saudi Arabia ko apne ilaqe aur shahriyon ke difa ka jaiz haq hai.",
+      "title": "Pakistan ne UN mein Saudi Arabia ki himayat ki — Houthi hamlo ki shadeed mazammat",
+      "url": "https://www.dawn.com/news/2044366"
     },
     {
-      "source": "The Nation",
-      "summary": "Wazir-e-Azam Shehbaz Sharif ne Antalya mein COP31 Leaders Summit mein kaha ke climate-vulnerable mulkon ko grant-based climate finance chahiye — qarz nahi — aur resilience funds mein izafa hona chahiye. Unhon ne 2022 ke sailab (33 million mutasir, $30bn nuqsan) aur August 2025 ke Buner flash floods ka zikr kiya, aur kaha ke Pakistan ne 2 saal mein 20GW se zyada distributed solar laga liya hai; clean sources ab energy mix ka 55% hain. Erdogan se mulaqat mein Islamabad MoU par bhi guftagu hui.",
-      "title": "COP31 par Shehbaz: climate finance grant ho, qarz nahi",
-      "url": "https://www.nation.com.pk/13-Nov-2026/pm-calls-grant-based-climate-finance-cop31-summit"
+      "source": "The Thursday Times",
+      "summary": "Finance Minister Muhammad Aurangzeb ke mutabiq Pakistan ki sovereign Sukuk issuance Rs10 trillion se upar chali gayi — is saal 113% izafa, 2025 ke taqreeban Rs2 trillion se. Meezan Bank ke mutabiq Jan–Oct mein Rs4.179 trillion ke Sukuk beche gaye. Lekin wazir ne khud mana: 'foreign investment in Sukuk remains underwhelming'. Ab retail investors ko digital platforms se Rs5,000 se invest karne ki dawat di ja rahi hai.",
+      "title": "Sukuk issuance Rs10 trillion se upar — lekin foreign investors abhi bhi door",
+      "url": "https://thursdaytimes.com/2026/11/13/news/economy/pakistan-sukuk-issuance-rs10-trillion-aurangzeb-foreign-investors-underwhelming/"
     },
     {
-      "source": "The Nation",
-      "summary": "Pakistan Stock Exchange par jumeraat ko KSE-100 index 1,710 points (0.95%) gir kar 177,374 par band hua — aik din pehle 180,000 paar karne ke baad. Volume 1.07 billion shares aur traded value Rs31.6 billion rahi; market capitalisation Rs19.22 trillion par aa gayi. 316 companies ne nuqsan uthaya jabke sirf 155 mein izafa hua — jummay ko haftay ka aakhri session hai aur investors abhi bhi ehtiyat mein hain.",
-      "title": "PSX mein girawat jaari — KSE-100 1,710 points gir kar 177,374 par",
-      "url": "https://www.nation.com.pk/13-Nov-2026/psx-stays-bearish-sheds-1-710-points"
+      "source": "Dawn",
+      "summary": "Peshawar se Quetta jaane wali Jaffar Express ki power van aur do coaches Rawalpindi ke qareeb Noor Railway Station par patri se utar gaye. Koi casualty ya injury nahi hui. Rail traffic aarzi tor par band rahi, phir obstruction clear kar ke operations dobara shuru kar diye gaye. Inquiry shuru kar di gayi hai.",
+      "title": "Jaffar Express ke 2 coaches patri se utar gaye — koi jani nuqsan nahi",
+      "url": "https://www.dawn.com/news/2044334"
     }
   ]
 }
