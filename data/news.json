@@ -1,79 +1,73 @@
 {
-  "updated_at": "2026-11-14T07:00:29+05:00",
+  "updated_at": "2026-11-15T07:01:44+05:00",
   "tech": [
     {
-      "source": "Reuters",
-      "summary": "Reuters ke mutabiq Jensen Huang ne Nvidia ke general counsel Tim Teter aur CMO Alison Wagonfeld ko bhi apne affair ki asal nature ke baare mein gumrah kiya — internal messages ke mutabiq unhon ne Megaspeed ki Alice Huang se taluqat ko 'routine business' bataya. Nvidia ke shares 6 October ki peak se 30% se zyada gir chuke hain, market cap mein $1.8 trillion se zyada ka nuqsan. Board ne Wachtell Lipton ko independent investigation ke liye hire kiya hai; earnings 17 November ko hain.",
-      "title": "Huang scandal gehra — ex-Nvidia CEO ne top lawyer ko bhi gumrah kiya, shares 30% neeche",
-      "url": "https://www.reuters.com/world/china/ex-nvidia-ceo-misled-top-lawyer-affair-with-chinese-businesswoman-sources-say-2026-11-14/"
+      "source": "Vanja",
+      "summary": "Anthropic ne Claude Meetings beta launch kar diya: Claude ab Google Meet call mein aik visible participant ki tarah shamil hoga, baat-cheet sun kar notes, action items, docs aur whiteboards meeting ke dauran hi bana dega. Beta sirf Team aur Enterprise plans par hai, aur sirf Google Meet par — Zoom/Teams ka support 'coming soon'. Audio save nahi hota, sirf transcript aur screen descriptions rakhi jati hain, aur bahari guest aate hi Claude call se nikal jata hai.",
+      "title": "Claude ab aapki meeting mein bhi — Google Meet par live kaam karega",
+      "url": "https://vanja.io/claude-meetings/"
     },
     {
-      "source": "Reuters",
-      "summary": "Reuters ke mutabiq Anthropic ka IPO roadshow ke teesre din tak 6 guna oversubscribed ho gaya — SpaceX ke IPO se bhi zyada demand. 825 million shares $70–78 par, pricing 18 November aur trading 19 November se Nasdaq par ticker ANT ke neeche. Lekin investors sawaal utha rahe hain: kya Claude ki lead Google ke muqable mein tik payegi, aur 2028 revenue $270–280bn ka projection kitna real hai?",
-      "title": "Anthropic ka IPO 6 guna oversubscribed — $64bn deal, $1.4 trillion valuation ki taraf",
-      "url": "https://www.reuters.com/business/finance/investors-flock-anthropic-ipo-question-durability-ai-lead-2026-11-13/"
+      "source": "Cursor",
+      "summary": "Cursor ne 13 November ki update mein bataya ke us ka October security incident Fireworks AI se shuru hua: aik access key jo Cursor ne Fireworks ko di thi, expose ho gayi. Attacker ne coding-agent traces copy kiye, un mein se kuch mein unredacted credentials mile, aur 29 October ko Anthropic ke Claude Code extension ke malicious versions (2.1.312 aur 2.1.313) Cursor ke marketplace cache mein daal diye — takreeban 11 ghante tak, zyada se zyada 5,000 users tak pohunche. Extension SSH backdoor lagane ki koshish karta tha. Cursor ne inference Fireworks se hata liya hai aur key revoke kar di.",
+      "title": "Cursor ka security incident — Fireworks se leak hui key, 5,000 users tak fake Claude Code extension",
+      "url": "https://cursor.com/blog/claude-code-extension-security-notice"
     },
     {
-      "source": "Reuters",
-      "summary": "Microsoft ke Outlook, Teams aur Copilot 12 November ko 12 ghante se zyada ke liye global outage ka shikar rahe — 430 million se zyada users mutasir. Taipei mein trades fax se confirm hui, Euronext ne listed companies ko phone karne ko kaha, Aviva ne Bluetooth se recordings transfer ki. Microsoft ne server problems ko zimmedar thehraya, koi malicious activity nahi mili. 13 November tak recovery jaari thi.",
-      "title": "Microsoft 365 ki 12 ghante ki outage — duniya bhar mein fax aur phone wapas",
-      "url": "https://www.reuters.com/business/finance/faxes-phones-bluetooth-microsoft-outage-forces-businesses-find-fixes-2026-11-13/"
+      "source": "Times of Israel",
+      "summary": "US Treasury Secretary Scott Bessent ne CNBC par khul kar kaha ke Commerce Department ne months tak Megaspeed ko export blacklist mein daalne mein takheer ki — jab ke Treasury, Pentagon, USTR aur State sab is ke haq mein the. Megaspeed ne $4 billion se zyada ke Nvidia chips khareede, aur Bloomberg ke mutabiq banned H800/H100/H200 chips Shanghai ke aik AI data centre mein mile. Congress ab Commerce Secretary Howard Lutnick ko testimony ke liye bula rahi hai, aur Huang ko bhi hearings ke liye talab kiye jane ka imkaan hai.",
+      "title": "Nvidia scandal ab cabinet fight — Bessent ne Lutnick par 'chips China ko' ka ilzam lagaya",
+      "url": "https://www.timesofisrael.com/us-treasury-chief-blames-commerce-department-for-not-restricting-nvidia-chip-exports/"
     },
     {
-      "source": "TechCrunch",
-      "summary": "AI agent management startup LangChain ne $300 million Series C raise kiya, valuation $3 billion — aik saal pehle $1.25bn thi. Round CapitalG ne lead kiya, GIC, DFJ Growth, IVP aur Sapphire ne hissa liya. LangChain 2022 mein open-source project se shuru hua tha; ab us ka LangSmith platform 7,000 customers ko serve karta hai, jin mein Nvidia, Toyota aur Salesforce shamil hain.",
-      "title": "LangChain $3bn ki company ban gayi — AI agents ka boom ab funding mein nazar aa raha hai",
-      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
+      "source": "PYMNTS",
+      "summary": "Anthropic ka Claude Fable 5.2 Artificial Analysis Intelligence Index par 65 points ke saath number 1 ban gaya — Gemini 4 Carbon (60), Claude Opus 5.5 (59) aur OpenAI ke GPT-6 Astra (57) se aage. Model 9 November ko launch hua, Fable 5.1 se 20% sasta hai ($8 input / $40 output per million tokens) aur 30% tez output ka dawa hai. Ussi hafte OpenAI ne apna GPT-6 Cyber model sirf vetted security customers tak mehdood rakha — testing mein us ne Firefox mein 81 pehle se unknown high-severity flaws dhoondhe.",
+      "title": "Claude Fable 5.2 AI rankings mein number 1 — Gemini aur GPT-6 ko peeche chhoda",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropics-claude-tops-ai-rankings-as-openai-limits-cyber-model/"
     },
     {
-      "source": "Industry.co.id",
-      "summary": "AMD ne Instinct MI400 accelerator series launch ki — MI430X mein 432GB HBM4 memory aur 288 teraflops FP64 performance. AMD ka daawa hai ke MI430X ki memory Nvidia ke Vera Rubin platform se 50% zyada hai. Nvidia ki leadership crisis ke beech AMD ka ye launch AI chip race mein aik bara move hai; Dell ne bhi MI400 par based servers announce kar diye.",
-      "title": "AMD ne MI400 chips launch kar diye — Nvidia ko seedha challenge",
-      "url": "https://men.industry.co.id/read/9807/global-ai-roundup-nov-14-2026-nvidia-changes-ceo"
-    },
-    {
-      "source": "Reuters",
-      "summary": "OpenAI ne ChatGPT Wallet launch kar diya — us ke 'dots' agents ab aap ki taraf se purchases kar sakte hain, bina asal card details dekhe. Har purchase par security check (Face ID/fingerprint) zaroori hai. Amex, Mastercard aur Visa ke saath banaya gaya; shuru mein sirf US ChatGPT Pro subscribers ke liye. Aage ja kar spending limits aur categories set kar ke poori delegation bhi mumkin hogi.",
-      "title": "ChatGPT Wallet aa gaya — ab AI agent aap ke liye khareedari bhi karega",
-      "url": "https://www.reuters.com/technology/openai-launches-chatgpt-wallet-letting-ai-agents-pay-purchases-2026-11-13/"
+      "source": "The Register",
+      "summary": "Ex-OpenAI researcher Will DePue ki forensic report ke mutabiq DeepSeek, Moonshot AI, MiniMax aur Ant Group ke 6 naye open-weight models — jin mein DeepSeek-V4-Pro, Kimi K3 aur MiniMax-M3 shamil hain — Nvidia ke export-controlled Blackwell GPUs par initialize hue. Har GPU aur seed ka aik unique pattern hota hai jo trained weights mein bach jata hai; DePue ne 6 trillion se zyada combinations check kiye. Report khud kehti hai ye kisi qanoon ki khilaf-warzi ka saboot nahi — chips China se bahar rent par bhi liye ja sakte hain — lekin export-control regime mein aik bara gap dikhata hai.",
+      "title": "Chinese AI models mein banned Nvidia Blackwell chips ke fingerprints mile",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/13/chinese-ai-labs-are-training-models-on-nvidias-blackwell-despite-export-controls-says-ex-openai-engineer/5309891"
     }
   ],
   "pakistan": [
     {
-      "source": "Dawn",
-      "summary": "ISPR ke mutabiq security forces ne Khyber Pakhtunkhwa aur Balochistan mein intelligence-based operations mein 74 dehshatgard halak kar diye — Mir Ali aur Orakzai mein 48 ghanton mein 43, aur Quetta ke Kurram area mein 3 November se shuru operation mein 31. Bari miqdar mein hathiyar, gola-barood aur IEDs bhi baramad hue. Azm-i-Istehkam ke tehet operations jaari rahenge.",
-      "title": "74 dehshatgard halak — KP aur Balochistan mein bari IBOs, ISPR",
-      "url": "https://www.dawn.com/news/2044387"
+      "source": "The Express Tribune",
+      "summary": "Interior Minister Mohsin Naqvi ke naye subon par referendum ki tajweez ke baad, President Asif Ali Zardari aur PM Shehbaz Sharif ne Lahore mein Model Town residence par mulaqat ki. PM Office ke mutabiq overall siyasi, maashi aur security surat-e-haal par baat hui; Shehbaz ne Turkiye ke daure aur COP31 mein shirkat par bhi briefing di. Senator Saleem Mandviwalla ke mutabiq mulaqat mein cheeni ki qeematein aur gandum ki import bhi zair-e-bahas aayi. Dono parties ne kaha naye sube aain ke mutabiq sirf subai assemblies ki qarardad se ban sakte hain.",
+      "title": "Zardari–Shehbaz ki Lahore mulaqat — naye subon par referendum ki bahas tez",
+      "url": "https://tribune.com.pk/story/2640373/new-units-buzz-grows-after-power-huddle"
     },
     {
       "source": "Dawn",
-      "summary": "Pakistan Minerals Investment Forum 2026 13 agreements aur MoUs ke saath khatam — 60 mumalik ke delegates shirkat kar gaye. FWO ne Chagai ke Dasht-i-Kain area mein 350 million tonnes copper ka andaza lagaya. PM Shehbaz ne kaha 'mine in Pakistan, process in Pakistan, manufacture in Pakistan'; Barrick Karachi aur Gwadar mein processing facilities mein dilchaspi rakh raha hai. Reko Diq se production 2028 mein shuru hone ki umeed.",
-      "title": "Minerals forum mein 13 deals — Chagai mein 350 million tonnes copper ka inkishaf",
-      "url": "https://www.dawn.com/news/2044390/showcase-event-yields-over-dozen-mineral-deals"
+      "summary": "Economic Cooperation Organisation (ECO) ki Council of Ministers ka 30th ijlas aaj aur kal Islamabad mein ho raha hai, Deputy PM aur Foreign Minister Ishaq Dar ki sadarat mein. Pakistan 2026-27 ke liye ECO ki chairmanship rakh raha hai aur 'Reviving Regionalism for a Resilient ECO' ke theme par regional trade, connectivity aur integration par zor de raha hai. Iran ke wazeer-e-kharja Abbas Araghchi khususi mehman hain, jab ke Afghanistan ke wazeer-e-kharja ko dawat nahi di gayi.",
+      "title": "Islamabad mein aaj ECO wuzra-e-kharja ijlas — 10 mulkon ke wufud shirkat karenge",
+      "url": "https://www.dawn.com/news/2044472"
     },
     {
-      "source": "Business Recorder",
-      "summary": "KSE-100 ne jumma ko 500.11 points ka izafa kar ke 177,873.88 par close kiya. Mari Minerals ne Chagai ke East Siah Diq target par porphyry copper-gold discovery announce ki, jis ke baad late buying ne early losses ko reverse kar diya. MARI, Lucky Cement, PPL aur Fatima Fertiliser ne mil kar 722 points ka izafa diya. Volume 1.04 billion shares raha.",
-      "title": "PSX 500 points up — Mari ki copper-gold discovery ne market ko utha diya",
-      "url": "https://www.brecorder.com/news/40448854"
+      "source": "The Nation",
+      "summary": "Pakistan Minerals Investment Forum 2026 Islamabad mein mukammal ho gaya — Information Minister Attaullah Tarar ke mutabiq 60 se zyada mulkon ke shurka ne hissa liya aur 13 agreements aur MoUs sign hue. Forum mein National Minerals Data Centre aur Geological Survey of Pakistan ka GeoPortal bhi launch hua. PM Shehbaz Sharif aur Field Marshal Syed Asim Munir ne forum conclude kiya; copper, gold, lithium aur Reko Diq par khaas tawajjo rahi.",
+      "title": "Minerals Investment Forum khatam — 13 deals, 60+ mulkon ki shirkat",
+      "url": "https://www.nation.com.pk/15-Nov-2026/tarar-hails-successful-conclusion-pakistan-minerals-investment-forum-2026"
     },
     {
-      "source": "Dawn",
-      "summary": "Pakistan ne UN Security Council mein Saudi Arabia ke khilaf Houthi hamlo ki mazammat ki aur Yemen mein Yemeni-led siyasi hal par zor diya. Council ne Houthis par sanctions 14 November 2027 tak barha diye aur drone/missile parts ki supply rokne ke iqdamat kiye. Pakistan ke mustaqil numainde Syed Haider Shah ne kaha Saudi Arabia ko apne ilaqe aur shahriyon ke difa ka jaiz haq hai.",
-      "title": "Pakistan ne UN mein Saudi Arabia ki himayat ki — Houthi hamlo ki shadeed mazammat",
-      "url": "https://www.dawn.com/news/2044366"
+      "source": "NDTV Sports",
+      "summary": "U19 Asia Cup 2026 ke final mein India ne Pakistan ko aik wicket se hara kar record 9th title jeet liya. Pakistan ne 337/9 banaye the — Usman Khan 107, Abdul Qadir 80 — lekin India 254/8 se comeback kar ke aakhri ball par jeet gaya; Mohit Ulva ne 26 balls par naqabil-e-shikast 49 runs banaye. Haar ke baad ex-pacer Tanvir Ahmed ne viral video mein PCB ko tanqeed ka nishana banaya aur kaha 'bezatti ho gayi', system India se bohot peeche hai.",
+      "title": "U19 Asia Cup final: India ne aakhri ball par Pakistan ko hara diya — 338 ka target chase",
+      "url": "https://sports.ndtv.com/cricket/bezatti-ho-gayi-ex-pakistan-pacer-slams-pcb-after-loss-to-india-in-u19-asia-cup-final-12327898"
     },
     {
-      "source": "The Thursday Times",
-      "summary": "Finance Minister Muhammad Aurangzeb ke mutabiq Pakistan ki sovereign Sukuk issuance Rs10 trillion se upar chali gayi — is saal 113% izafa, 2025 ke taqreeban Rs2 trillion se. Meezan Bank ke mutabiq Jan–Oct mein Rs4.179 trillion ke Sukuk beche gaye. Lekin wazir ne khud mana: 'foreign investment in Sukuk remains underwhelming'. Ab retail investors ko digital platforms se Rs5,000 se invest karne ki dawat di ja rahi hai.",
-      "title": "Sukuk issuance Rs10 trillion se upar — lekin foreign investors abhi bhi door",
-      "url": "https://thursdaytimes.com/2026/11/13/news/economy/pakistan-sukuk-issuance-rs10-trillion-aurangzeb-foreign-investors-underwhelming/"
+      "source": "PKRevenue",
+      "summary": "Pakistan Stock Exchange mein KSE-100 index ne 13 November ko khatam hone wale hafte mein 2.29% izafa kiya aur 178,000 points ke qareeb band hua. October mein overseas Pakistanis ki remittances 14% barh kar $3.9 billion ho gayi — FY2027 ke pehle 4 mahine mein kul $14.8 billion. Forex reserves $26.8 billion par hain, petrol Rs21 kam ho kar Rs332 per litre, aur auto sales October mein 41% saalana barh kar 24,400 units tak pohunch gayi.",
+      "title": "PSX mein haftawar rally — KSE-100 2.29% up, remittances $3.9bn",
+      "url": "https://pkrevenue.com/kse-100-index-weekly-performance-psx-rally-november-2026/"
     },
     {
-      "source": "Dawn",
-      "summary": "Peshawar se Quetta jaane wali Jaffar Express ki power van aur do coaches Rawalpindi ke qareeb Noor Railway Station par patri se utar gaye. Koi casualty ya injury nahi hui. Rail traffic aarzi tor par band rahi, phir obstruction clear kar ke operations dobara shuru kar diye gaye. Inquiry shuru kar di gayi hai.",
-      "title": "Jaffar Express ke 2 coaches patri se utar gaye — koi jani nuqsan nahi",
-      "url": "https://www.dawn.com/news/2044334"
+      "source": "Sunday Guardian",
+      "summary": "Baloch National Movement (BNM) ne khabardar kiya hai ke Balochistan ke minerals mein ghair-mulki sarmaya-kari maujooda tanaze ko aur bharha sakti hai — BNM leader ne ise 'aag par tel dalna' qarar diya. Warning Minerals Investment Forum ke baad aayi, jahan Reko Diq aur copper/gold/lithium projects par deals hui. BNM ka kehna hai ke Baloch awam ki 'free, genuine aur collective consent' ke baghair koi mining project qabool nahi, aur unhon ne is koshish ko 'mineral colonialism' kaha.",
+      "title": "BNM ki warning: Balochistan mein ghair-mulki mining sarmaya-kari tanaza bharha sakti hai",
+      "url": "https://sundayguardianlive.com/world/bnm-warns-foreign-mining-investment-could-intensify-balochistan-conflict-322368/"
     }
   ]
 }
