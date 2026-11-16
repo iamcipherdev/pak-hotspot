@@ -1,73 +1,73 @@
 {
-  "updated_at": "2026-11-15T07:01:44+05:00",
+  "updated_at": "2026-11-16T07:02:21+05:00",
   "tech": [
     {
-      "source": "Vanja",
-      "summary": "Anthropic ne Claude Meetings beta launch kar diya: Claude ab Google Meet call mein aik visible participant ki tarah shamil hoga, baat-cheet sun kar notes, action items, docs aur whiteboards meeting ke dauran hi bana dega. Beta sirf Team aur Enterprise plans par hai, aur sirf Google Meet par — Zoom/Teams ka support 'coming soon'. Audio save nahi hota, sirf transcript aur screen descriptions rakhi jati hain, aur bahari guest aate hi Claude call se nikal jata hai.",
-      "title": "Claude ab aapki meeting mein bhi — Google Meet par live kaam karega",
-      "url": "https://vanja.io/claude-meetings/"
+      "source": "Reuters",
+      "summary": "Asian shares Monday ko gir gaye — Nvidia ki market value early October ke $5.8 trillion se gir kar $3.9 trillion reh gayi hai, Jensen Huang ke shock exit ke baad. Kal (Tuesday) Nvidia ki Q3 earnings aayengi: analysts ko $109 billion revenue aur 90% earnings growth ki umeed hai. Us ke do din baad Anthropic ki trading shuru hogi (ticker ANT) — IPO ne SpaceX se zyada institutional interest khincha hai. FT ke mutabiq Huang ne confidants se CEO wapas aane par bhi baat ki hai.",
+      "title": "Nvidia ka faisla-kun hafta — earnings kal, Anthropic IPO 19 Nov ko",
+      "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-11-16/"
     },
     {
-      "source": "Cursor",
-      "summary": "Cursor ne 13 November ki update mein bataya ke us ka October security incident Fireworks AI se shuru hua: aik access key jo Cursor ne Fireworks ko di thi, expose ho gayi. Attacker ne coding-agent traces copy kiye, un mein se kuch mein unredacted credentials mile, aur 29 October ko Anthropic ke Claude Code extension ke malicious versions (2.1.312 aur 2.1.313) Cursor ke marketplace cache mein daal diye — takreeban 11 ghante tak, zyada se zyada 5,000 users tak pohunche. Extension SSH backdoor lagane ki koshish karta tha. Cursor ne inference Fireworks se hata liya hai aur key revoke kar di.",
-      "title": "Cursor ka security incident — Fireworks se leak hui key, 5,000 users tak fake Claude Code extension",
-      "url": "https://cursor.com/blog/claude-code-extension-security-notice"
+      "source": "Google",
+      "summary": "Google ne 12 Nov ko Gemini 4 Hydrogen introduce kiya: everyday coding aur agentic workflows ke liye bana fast model. 1 million-token context, flat price $1.50 per million input tokens aur $7.50 output. Google ke mutabiq ye Gemini 3.8 Flash se 2.5x tez hai, Terminal-Bench 4.1 par 57% score (Flash ka 18.2%), aur fabricated claims 5x kam. Hydrogen ab Gemini app, AI Studio, API aur Google Search mein globally available hai — Search ki 'ab tak ki sab se bari model upgrade' ke tor par.",
+      "title": "Google ne Gemini 4 Hydrogen launch kar diya — tez, sasta, har jagah",
+      "url": "https://blog.google/intl/en-in/products/introducing-gemini-4-hydrogen/"
     },
     {
-      "source": "Times of Israel",
-      "summary": "US Treasury Secretary Scott Bessent ne CNBC par khul kar kaha ke Commerce Department ne months tak Megaspeed ko export blacklist mein daalne mein takheer ki — jab ke Treasury, Pentagon, USTR aur State sab is ke haq mein the. Megaspeed ne $4 billion se zyada ke Nvidia chips khareede, aur Bloomberg ke mutabiq banned H800/H100/H200 chips Shanghai ke aik AI data centre mein mile. Congress ab Commerce Secretary Howard Lutnick ko testimony ke liye bula rahi hai, aur Huang ko bhi hearings ke liye talab kiye jane ka imkaan hai.",
-      "title": "Nvidia scandal ab cabinet fight — Bessent ne Lutnick par 'chips China ko' ka ilzam lagaya",
-      "url": "https://www.timesofisrael.com/us-treasury-chief-blames-commerce-department-for-not-restricting-nvidia-chip-exports/"
+      "source": "OpenAI",
+      "summary": "OpenAI ne apna naya science blog launch kiya aur pehli post mein physicist Nathaniel Craig ne bataya ke GPT-6 Astra ne Standard Model ko lattice (spacetime grid) par define karne ka candidate tareeqa banane mein madad ki — aik aisa masla jo 50 saal se khula tha. Astra ne construction suggest ki aur detailed proof mein lead li; teen lattice experts ne proof review kiya. Craig khud kehte hain ye candidate hai, practical simulation ka tool abhi nahi — reflection positivity jese sawal abhi baqi hain.",
+      "title": "OpenAI ka GPT-6 Astra — 50 saal purana physics masla hal karne ki taraf",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model/"
     },
     {
-      "source": "PYMNTS",
-      "summary": "Anthropic ka Claude Fable 5.2 Artificial Analysis Intelligence Index par 65 points ke saath number 1 ban gaya — Gemini 4 Carbon (60), Claude Opus 5.5 (59) aur OpenAI ke GPT-6 Astra (57) se aage. Model 9 November ko launch hua, Fable 5.1 se 20% sasta hai ($8 input / $40 output per million tokens) aur 30% tez output ka dawa hai. Ussi hafte OpenAI ne apna GPT-6 Cyber model sirf vetted security customers tak mehdood rakha — testing mein us ne Firefox mein 81 pehle se unknown high-severity flaws dhoondhe.",
-      "title": "Claude Fable 5.2 AI rankings mein number 1 — Gemini aur GPT-6 ko peeche chhoda",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropics-claude-tops-ai-rankings-as-openai-limits-cyber-model/"
+      "source": "TechCrunch",
+      "summary": "New Delhi ki chip startup Bharat Semi ne $24 million ka all-equity seed round raise kar liya hai — Info Edge, South Park Commons aur Indus Bridge Ventures ne lead kiya. Company programmable image sensors bana rahi hai jo capture, processing aur AI ko aik hi chip par jodte hain; co-founder Vrinda Kapoor ke mutabiq is se system cost 70% tak kam ho sakti hai. Startup abhi pre-revenue hai, General Atomics aur Kaynes Semicon se design wins mil chuke hain, aur commercial production 2027 mein target hai.",
+      "title": "Bharat Semi ko $24M seed — AI image sensor aik hi chip par",
+      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/"
     },
     {
-      "source": "The Register",
-      "summary": "Ex-OpenAI researcher Will DePue ki forensic report ke mutabiq DeepSeek, Moonshot AI, MiniMax aur Ant Group ke 6 naye open-weight models — jin mein DeepSeek-V4-Pro, Kimi K3 aur MiniMax-M3 shamil hain — Nvidia ke export-controlled Blackwell GPUs par initialize hue. Har GPU aur seed ka aik unique pattern hota hai jo trained weights mein bach jata hai; DePue ne 6 trillion se zyada combinations check kiye. Report khud kehti hai ye kisi qanoon ki khilaf-warzi ka saboot nahi — chips China se bahar rent par bhi liye ja sakte hain — lekin export-control regime mein aik bara gap dikhata hai.",
-      "title": "Chinese AI models mein banned Nvidia Blackwell chips ke fingerprints mile",
-      "url": "https://www.theregister.com/ai-and-ml/2026/11/13/chinese-ai-labs-are-training-models-on-nvidias-blackwell-despite-export-controls-says-ex-openai-engineer/5309891"
+      "source": "Tom's Hardware",
+      "summary": "US District Judge Noël Wise ne Samsung, SK hynix aur Micron ke khilaf DRAM price-fixing class action ko kharij karne ki darkhwast mustarad kar di. 17 consumers aur small businesses ka ilzaam hai ke teenon companies ne Oct 2022 se DRAM supply roki aur capacity AI wale HBM ki taraf shift ki — DRAM prices aik saal mein 500% tak barh gayi. Judge ne companies ki 'hum aik doosre ko baaz ki tarah dekhte hain' wali dalil par kaha: 'ye to baazon ka formation mein urnay jesa hai — jo baaz aam tor par nahi karte.' Case ab discovery ki taraf jayega; companies ko 7 Dec tak jawab dena hai.",
+      "title": "DRAM case aage barhega — judge ne Samsung, SK hynix, Micron ki dismissal kharij kar di",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/judge-denies-motion-to-dismiss-dram-price-fixing-lawsuit-against-micron-samsung-and-sk-hynix-says-chipmakers-acted-like-hawks-flying-in-formation-finds-evidence-of-dram-collusion-plausible-after-500-percent-price-surge"
     }
   ],
   "pakistan": [
     {
+      "source": "Dawn",
+      "summary": "Islamabad mein Economic Cooperation Organization (ECO) Council of Ministers ka 30th ijlas 15-16 Nov ko ho raha hai. Foreign Minister Ishaq Dar ne regional cooperation, connectivity aur economic integration mazboot karne par zor diya. Iran ke foreign minister Abbas Araghchi bhi ijlas ke liye Islamabad pahunche. Islamabad mein security high alert par hai aur ijlas aaj (Monday) khatam ho raha hai.",
+      "title": "Islamabad mein ECO ministers ka ijlas — Dar ne regional ties par zor diya",
+      "url": "https://epaper.dawn.com/DetailNews.php?StoryText=16_11_2026_001_006"
+    },
+    {
       "source": "The Express Tribune",
-      "summary": "Interior Minister Mohsin Naqvi ke naye subon par referendum ki tajweez ke baad, President Asif Ali Zardari aur PM Shehbaz Sharif ne Lahore mein Model Town residence par mulaqat ki. PM Office ke mutabiq overall siyasi, maashi aur security surat-e-haal par baat hui; Shehbaz ne Turkiye ke daure aur COP31 mein shirkat par bhi briefing di. Senator Saleem Mandviwalla ke mutabiq mulaqat mein cheeni ki qeematein aur gandum ki import bhi zair-e-bahas aayi. Dono parties ne kaha naye sube aain ke mutabiq sirf subai assemblies ki qarardad se ban sakte hain.",
-      "title": "Zardari–Shehbaz ki Lahore mulaqat — naye subon par referendum ki bahas tez",
-      "url": "https://tribune.com.pk/story/2640373/new-units-buzz-grows-after-power-huddle"
+      "summary": "Defence Minister Khawaja Asif ne kaha hai ke naye provinces banane par siyasi mashawrat consensus ki taraf barh rahi hai aur 'naya saal naya system dekhega'. President Zardari aur PM Shehbaz ne 14 Nov ko Lahore mein mulaqat mein ittefaq kiya tha ke koi bhi referendum ya naye provinces ka qadam Parliament ko bypass kiye baghair, Constitution ke mutabiq hi hoga. PPP Sindh ki taqseem ke khilaf apne moqaf par qaim hai. Proposal mein 12 provinces ki baat ho rahi hai — Punjab 4, KP aur Balochistan 3-3, Sindh 2.",
+      "title": "Naye provinces par consensus nazdeek — Khawaja Asif",
+      "url": "https://tribune.com.pk/story/2640512/consensus-on-new-provinces-in-sight"
+    },
+    {
+      "source": "The Express Tribune",
+      "summary": "Pakistan ki goods exports July-October FY27 mein record $11.4 billion tak pahunch gayi — pichle saal ke $10.4bn ke muqable mein 8.8% izafa, taqreeban $1bn zyada. Government ne is ka credit budget measures ko diya: exporters ke liye kam taxes aur surcharges, tez refunds, behtar export financing. PM Shehbaz ne 2029 tak exports $60 billion tak le jane ka target diya hai. Lekin Gulf markets ko exports mein 6.4% kami bhi aayi, aur trade deficit $14.6bn tak barh gaya.",
+      "title": "Exports record $11.4bn — July-Oct FY27 mein 8.8% izafa",
+      "url": "https://tribune.com.pk/story/2640469/goods-exports-rise-88pc-to-record-114b-in-first-four-months-of-fy27"
+    },
+    {
+      "source": "UrduPoint",
+      "summary": "Pakistan ne T20 Blind Asia Cup ke opening match mein hosts Bangladesh ko 126 runs se hara diya. Pakistan ne pehle batting karte hue 244/6 banaye — Badar Munir ne 43 balls par 88 aur Talha Iqbal ne 33 balls par 68 runs banaye. Jawab mein Bangladesh 118 par all out ho gayi; Kamran Akhtar ne 3 wickets liye. Badar Munir Player of the Match rahe. Pakistan ka agla match aaj Sri Lanka se hai, aur India se muqabla 17 Nov ko hoga.",
+      "title": "Blind Asia Cup: Pakistan ne Bangladesh ko 126 runs se hara diya",
+      "url": "https://www.urdupoint.com/en/pakistan/pakistan-wins-t20-blind-asia-cup-opening-matc-2290396.html"
     },
     {
       "source": "Dawn",
-      "summary": "Economic Cooperation Organisation (ECO) ki Council of Ministers ka 30th ijlas aaj aur kal Islamabad mein ho raha hai, Deputy PM aur Foreign Minister Ishaq Dar ki sadarat mein. Pakistan 2026-27 ke liye ECO ki chairmanship rakh raha hai aur 'Reviving Regionalism for a Resilient ECO' ke theme par regional trade, connectivity aur integration par zor de raha hai. Iran ke wazeer-e-kharja Abbas Araghchi khususi mehman hain, jab ke Afghanistan ke wazeer-e-kharja ko dawat nahi di gayi.",
-      "title": "Islamabad mein aaj ECO wuzra-e-kharja ijlas — 10 mulkon ke wufud shirkat karenge",
-      "url": "https://www.dawn.com/news/2044472"
+      "summary": "PPP ne Sunday ko Maulana Fazlur Rehman ke khilaf government ke actions ki mazammat ki — Bilawal Bhutto Zardari ne Fazl se phone par baat kar ke 'siyasi badla' ke khilaf awaaz uthayi, jab ke JUI-F supporters ne protests bhi kiye. Ye qadam siyasi tor par ahem mana ja raha hai, kyun ke PPP aur JUI-F aam tor par aik page par nahi hote.",
+      "title": "Bilawal ne JUI-F ke khilaf 'siyasi badla' ki mazammat ki",
+      "url": "https://epaper.dawn.com/DetailNews.php?StoryText=16_11_2026_001_005"
     },
     {
-      "source": "The Nation",
-      "summary": "Pakistan Minerals Investment Forum 2026 Islamabad mein mukammal ho gaya — Information Minister Attaullah Tarar ke mutabiq 60 se zyada mulkon ke shurka ne hissa liya aur 13 agreements aur MoUs sign hue. Forum mein National Minerals Data Centre aur Geological Survey of Pakistan ka GeoPortal bhi launch hua. PM Shehbaz Sharif aur Field Marshal Syed Asim Munir ne forum conclude kiya; copper, gold, lithium aur Reko Diq par khaas tawajjo rahi.",
-      "title": "Minerals Investment Forum khatam — 13 deals, 60+ mulkon ki shirkat",
-      "url": "https://www.nation.com.pk/15-Nov-2026/tarar-hails-successful-conclusion-pakistan-minerals-investment-forum-2026"
-    },
-    {
-      "source": "NDTV Sports",
-      "summary": "U19 Asia Cup 2026 ke final mein India ne Pakistan ko aik wicket se hara kar record 9th title jeet liya. Pakistan ne 337/9 banaye the — Usman Khan 107, Abdul Qadir 80 — lekin India 254/8 se comeback kar ke aakhri ball par jeet gaya; Mohit Ulva ne 26 balls par naqabil-e-shikast 49 runs banaye. Haar ke baad ex-pacer Tanvir Ahmed ne viral video mein PCB ko tanqeed ka nishana banaya aur kaha 'bezatti ho gayi', system India se bohot peeche hai.",
-      "title": "U19 Asia Cup final: India ne aakhri ball par Pakistan ko hara diya — 338 ka target chase",
-      "url": "https://sports.ndtv.com/cricket/bezatti-ho-gayi-ex-pakistan-pacer-slams-pcb-after-loss-to-india-in-u19-asia-cup-final-12327898"
-    },
-    {
-      "source": "PKRevenue",
-      "summary": "Pakistan Stock Exchange mein KSE-100 index ne 13 November ko khatam hone wale hafte mein 2.29% izafa kiya aur 178,000 points ke qareeb band hua. October mein overseas Pakistanis ki remittances 14% barh kar $3.9 billion ho gayi — FY2027 ke pehle 4 mahine mein kul $14.8 billion. Forex reserves $26.8 billion par hain, petrol Rs21 kam ho kar Rs332 per litre, aur auto sales October mein 41% saalana barh kar 24,400 units tak pohunch gayi.",
-      "title": "PSX mein haftawar rally — KSE-100 2.29% up, remittances $3.9bn",
-      "url": "https://pkrevenue.com/kse-100-index-weekly-performance-psx-rally-november-2026/"
-    },
-    {
-      "source": "Sunday Guardian",
-      "summary": "Baloch National Movement (BNM) ne khabardar kiya hai ke Balochistan ke minerals mein ghair-mulki sarmaya-kari maujooda tanaze ko aur bharha sakti hai — BNM leader ne ise 'aag par tel dalna' qarar diya. Warning Minerals Investment Forum ke baad aayi, jahan Reko Diq aur copper/gold/lithium projects par deals hui. BNM ka kehna hai ke Baloch awam ki 'free, genuine aur collective consent' ke baghair koi mining project qabool nahi, aur unhon ne is koshish ko 'mineral colonialism' kaha.",
-      "title": "BNM ki warning: Balochistan mein ghair-mulki mining sarmaya-kari tanaza bharha sakti hai",
-      "url": "https://sundayguardianlive.com/world/bnm-warns-foreign-mining-investment-could-intensify-balochistan-conflict-322368/"
+      "source": "Dawn",
+      "summary": "PM Shehbaz Sharif aur Chief of Defence Forces Field Marshal Asim Munir ne 'The Muslim 500' ki 2027 edition mein joint No. 1 position hasil kar li — Saudi King Salman, Crown Prince MBS aur Turkish President Erdogan ke saath. Jordan ke RISSC ki taraf se compile ki gayi list mein pehli dafa multiple names top par hain; wajah 7 Aug 2026 ko sign hua Makkah Joint Defence Agreement bataya gaya. Mufti Taqi Usmani 7th aur Maulana Tariq Jameel 32nd number par hain.",
+      "title": "Shehbaz aur Asim Munir duniya ke 500 most influential Muslims mein joint No. 1",
+      "url": "https://www.dawn.com/news/2044692/pm-shehbaz-cdf-munir-share-top-spot-in-list-of-worlds-500-most-influential-muslims"
     }
   ]
 }
