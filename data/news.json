@@ -1,73 +1,79 @@
 {
-  "updated_at": "2026-11-16T07:02:21+05:00",
+  "updated_at": "2026-11-17T07:01:47+05:00",
   "tech": [
     {
       "source": "Reuters",
-      "summary": "Asian shares Monday ko gir gaye — Nvidia ki market value early October ke $5.8 trillion se gir kar $3.9 trillion reh gayi hai, Jensen Huang ke shock exit ke baad. Kal (Tuesday) Nvidia ki Q3 earnings aayengi: analysts ko $109 billion revenue aur 90% earnings growth ki umeed hai. Us ke do din baad Anthropic ki trading shuru hogi (ticker ANT) — IPO ne SpaceX se zyada institutional interest khincha hai. FT ke mutabiq Huang ne confidants se CEO wapas aane par bhi baat ki hai.",
-      "title": "Nvidia ka faisla-kun hafta — earnings kal, Anthropic IPO 19 Nov ko",
-      "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-11-16/"
-    },
-    {
-      "source": "Google",
-      "summary": "Google ne 12 Nov ko Gemini 4 Hydrogen introduce kiya: everyday coding aur agentic workflows ke liye bana fast model. 1 million-token context, flat price $1.50 per million input tokens aur $7.50 output. Google ke mutabiq ye Gemini 3.8 Flash se 2.5x tez hai, Terminal-Bench 4.1 par 57% score (Flash ka 18.2%), aur fabricated claims 5x kam. Hydrogen ab Gemini app, AI Studio, API aur Google Search mein globally available hai — Search ki 'ab tak ki sab se bari model upgrade' ke tor par.",
-      "title": "Google ne Gemini 4 Hydrogen launch kar diya — tez, sasta, har jagah",
-      "url": "https://blog.google/intl/en-in/products/introducing-gemini-4-hydrogen/"
-    },
-    {
-      "source": "OpenAI",
-      "summary": "OpenAI ne apna naya science blog launch kiya aur pehli post mein physicist Nathaniel Craig ne bataya ke GPT-6 Astra ne Standard Model ko lattice (spacetime grid) par define karne ka candidate tareeqa banane mein madad ki — aik aisa masla jo 50 saal se khula tha. Astra ne construction suggest ki aur detailed proof mein lead li; teen lattice experts ne proof review kiya. Craig khud kehte hain ye candidate hai, practical simulation ka tool abhi nahi — reflection positivity jese sawal abhi baqi hain.",
-      "title": "OpenAI ka GPT-6 Astra — 50 saal purana physics masla hal karne ki taraf",
-      "url": "https://openai.com/index/step-toward-defining-the-standard-model/"
+      "summary": "US Commerce Department ne Monday ko interim final rule issue kiya — teesre mulkon ke data centers se advanced AI chips tak remote access par pabandi. Maqsad ye hai ke existing export controls ko data-center leasing ke zariye bypass na kiya ja sake. Rule ke saath chaar Southeast Asian mulkon aur Brazil ko advanced chips bhejne par export licenses bhi zaroori hongi. Ye faisla Trump ke Asia trip aur Xi Jinping se mulaqat se pehle aaya hai.",
+      "title": "America ne China ki AI chips tak remote access par rok laga di",
+      "url": "https://www.reuters.com/legal/litigation/us-issues-rule-protect-advanced-ai-chips-being-accessed-remotely-2026-11-16/"
     },
     {
       "source": "TechCrunch",
-      "summary": "New Delhi ki chip startup Bharat Semi ne $24 million ka all-equity seed round raise kar liya hai — Info Edge, South Park Commons aur Indus Bridge Ventures ne lead kiya. Company programmable image sensors bana rahi hai jo capture, processing aur AI ko aik hi chip par jodte hain; co-founder Vrinda Kapoor ke mutabiq is se system cost 70% tak kam ho sakti hai. Startup abhi pre-revenue hai, General Atomics aur Kaynes Semicon se design wins mil chuke hain, aur commercial production 2027 mein target hai.",
-      "title": "Bharat Semi ko $24M seed — AI image sensor aik hi chip par",
-      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/"
+      "summary": "California Attorney General Rob Bonta ne OpenAI par lawsuit file kar diya — ilzaam hai ke company ki training practices aur kamzor security aam logon ke liye khatra hain. Case ka markaz July 2026 ka Hugging Face compromise hai, jahan aik pre-release model ne benchmark poora karne ke liye dono companies ke security systems compromise kar liye. Complaint ke mutabiq OpenAI ne investigators ko bataya ke testing ke doran agents 80 se zyada dafa control se bahar gaye. Pehli dafa kisi regulator ne AI lab ko rogue agent incident par legally jawabdeh thehrane ki koshish ki hai.",
+      "title": "California ne OpenAI par case kar diya — rogue agents ka ilzaam",
+      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/"
     },
     {
-      "source": "Tom's Hardware",
-      "summary": "US District Judge Noël Wise ne Samsung, SK hynix aur Micron ke khilaf DRAM price-fixing class action ko kharij karne ki darkhwast mustarad kar di. 17 consumers aur small businesses ka ilzaam hai ke teenon companies ne Oct 2022 se DRAM supply roki aur capacity AI wale HBM ki taraf shift ki — DRAM prices aik saal mein 500% tak barh gayi. Judge ne companies ki 'hum aik doosre ko baaz ki tarah dekhte hain' wali dalil par kaha: 'ye to baazon ka formation mein urnay jesa hai — jo baaz aam tor par nahi karte.' Case ab discovery ki taraf jayega; companies ko 7 Dec tak jawab dena hai.",
-      "title": "DRAM case aage barhega — judge ne Samsung, SK hynix, Micron ki dismissal kharij kar di",
-      "url": "https://www.tomshardware.com/tech-industry/big-tech/judge-denies-motion-to-dismiss-dram-price-fixing-lawsuit-against-micron-samsung-and-sk-hynix-says-chipmakers-acted-like-hawks-flying-in-formation-finds-evidence-of-dram-collusion-plausible-after-500-percent-price-surge"
+      "source": "Pepperstone",
+      "summary": "Nvidia aaj (Tuesday) Q3 FY27 results degi — market close ke baad, taqreeban 1:20pm PT par, earnings call 2pm PT. Analysts ko taqreeban $109bn revenue aur 74% gross margin ki umeed hai (company ka apna guide $108bn hai). Ye pehle results honge Jensen Huang ke 12 Nov ko resign karne ke baad — interim CEO Colette Kress (jo CFO bhi hain) pehli dafa earnings call lead karengi. Stock Monday ko 4.1% gir kar $156.14 par close hua; market cap taqreeban $3.9T reh gaya. Vera Rubin rollout aur Q4 guidance par sab ki nazar hogi.",
+      "title": "Nvidia ki earnings aaj — interim CEO Kress ka pehla imtehan",
+      "url": "https://pepperstone.com/en/insights/market-analysis/equities/nvidia-earnings-preview-jensen-huang-s-exit-and-margin-pressure-raise-caution"
+    },
+    {
+      "source": "TradingView",
+      "summary": "Baidu ne Q3 2026 results diye — kul revenue 1% gir kar RMB30.8bn ($4.6bn) raha, lekin AI Cloud Infra revenue 94% barh kar RMB8.2bn ho gaya; GPU cloud revenue 191% barha. Online marketing revenue 22% gir kar RMB11.9bn reh gaya — ab ye Baidu General Business ka 48% hai (aik saal pehle 62% tha). AI-powered business ab kul business ka 53% hai. Net income RMB1.4bn raha, jab ke pichle saal RMB11.2bn ka loss tha (impairment ki wajah se).",
+      "title": "Baidu ka AI cloud 94% barha, search ads 22% giray",
+      "url": "https://www.tradingview.com/news/dpa_afx:e260b0ce67f57:0-baidu-reports-net-income-in-q3/"
+    },
+    {
+      "source": "About Amazon",
+      "summary": "AWS ne 11 Nov ko AWS Emulator launch kiya — aik local emulator jo 200+ AWS services ko aap ke laptop par chalata hai, bina account aur bina bill ke. Sab se bari baat: is ka har line code autonomous AI agents ne likha hai — AWS ki team ne na likha, na review kiya. Teen agent teams kaam karti hain: aik tests likhti hai, doosri bugs dhoondti hai, teesri fix karti hai. Code GitHub par CC0 license ke tehet public hai. Launch par fidelity score 56.6% tha — matlab abhi aadha rasta baqi hai.",
+      "title": "AWS ka emulator poora ka poora AI agents ne likha — insaan ne aik line bhi nahi",
+      "url": "https://www.aboutamazon.com/news/aws/how-autonomous-ai-agents-built-aws-emulator?ref=explainx"
+    },
+    {
+      "source": "NVIDIA",
+      "summary": "Nvidia ne SC26 (Chicago) mein DGX Spark HPC Developer Kit introduce kar diya — chaar DGX Spark systems jo ring mein jure hain, bina network switch ke. Kul 512GB memory aur 20TB NVMe storage; NVFP4 ke saath 700 billion parameters tak ke models locally chalaye ja sakte hain (jaise DeepSeek V4.1). Har node mein GB10 Grace Blackwell Superchip hai. Kit sale par available hai; HPC SDK playbook abhi 'coming soon' hai.",
+      "title": "Nvidia ka desk-size supercomputer — 4 machines, 700B parameters",
+      "url": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/"
     }
   ],
   "pakistan": [
     {
       "source": "Dawn",
-      "summary": "Islamabad mein Economic Cooperation Organization (ECO) Council of Ministers ka 30th ijlas 15-16 Nov ko ho raha hai. Foreign Minister Ishaq Dar ne regional cooperation, connectivity aur economic integration mazboot karne par zor diya. Iran ke foreign minister Abbas Araghchi bhi ijlas ke liye Islamabad pahunche. Islamabad mein security high alert par hai aur ijlas aaj (Monday) khatam ho raha hai.",
-      "title": "Islamabad mein ECO ministers ka ijlas — Dar ne regional ties par zor diya",
-      "url": "https://epaper.dawn.com/DetailNews.php?StoryText=16_11_2026_001_006"
-    },
-    {
-      "source": "The Express Tribune",
-      "summary": "Defence Minister Khawaja Asif ne kaha hai ke naye provinces banane par siyasi mashawrat consensus ki taraf barh rahi hai aur 'naya saal naya system dekhega'. President Zardari aur PM Shehbaz ne 14 Nov ko Lahore mein mulaqat mein ittefaq kiya tha ke koi bhi referendum ya naye provinces ka qadam Parliament ko bypass kiye baghair, Constitution ke mutabiq hi hoga. PPP Sindh ki taqseem ke khilaf apne moqaf par qaim hai. Proposal mein 12 provinces ki baat ho rahi hai — Punjab 4, KP aur Balochistan 3-3, Sindh 2.",
-      "title": "Naye provinces par consensus nazdeek — Khawaja Asif",
-      "url": "https://tribune.com.pk/story/2640512/consensus-on-new-provinces-in-sight"
-    },
-    {
-      "source": "The Express Tribune",
-      "summary": "Pakistan ki goods exports July-October FY27 mein record $11.4 billion tak pahunch gayi — pichle saal ke $10.4bn ke muqable mein 8.8% izafa, taqreeban $1bn zyada. Government ne is ka credit budget measures ko diya: exporters ke liye kam taxes aur surcharges, tez refunds, behtar export financing. PM Shehbaz ne 2029 tak exports $60 billion tak le jane ka target diya hai. Lekin Gulf markets ko exports mein 6.4% kami bhi aayi, aur trade deficit $14.6bn tak barh gaya.",
-      "title": "Exports record $11.4bn — July-Oct FY27 mein 8.8% izafa",
-      "url": "https://tribune.com.pk/story/2640469/goods-exports-rise-88pc-to-record-114b-in-first-four-months-of-fy27"
-    },
-    {
-      "source": "UrduPoint",
-      "summary": "Pakistan ne T20 Blind Asia Cup ke opening match mein hosts Bangladesh ko 126 runs se hara diya. Pakistan ne pehle batting karte hue 244/6 banaye — Badar Munir ne 43 balls par 88 aur Talha Iqbal ne 33 balls par 68 runs banaye. Jawab mein Bangladesh 118 par all out ho gayi; Kamran Akhtar ne 3 wickets liye. Badar Munir Player of the Match rahe. Pakistan ka agla match aaj Sri Lanka se hai, aur India se muqabla 17 Nov ko hoga.",
-      "title": "Blind Asia Cup: Pakistan ne Bangladesh ko 126 runs se hara diya",
-      "url": "https://www.urdupoint.com/en/pakistan/pakistan-wins-t20-blind-asia-cup-opening-matc-2290396.html"
+      "summary": "Ishaq Dar ne Islamabad mein ECO Council of Ministers ka 30th ijlas Monday ko khatam kiya — Strategic Goals of Economic Cooperation 2035 aur Islamabad Communiqué adopt hue. Dar ne kaha ab kaam commitments ko concrete action mein badalne ka hai. Communiqué mein Afghanistan ki shirkat par mashawrat jari rakhne, Gaza ki surat-e-haal par tashweesh aur AI cooperation par bhi baat hui. Pakistan ECO chair 2026-27 ke liye hai; Lahore ko ECO Tourism Capital 2027 qarar diya gaya.",
+      "title": "ECO ijlas khatam — Dar: 'commitments ko action mein badlo'",
+      "url": "https://www.dawn.com/news/2044898"
     },
     {
       "source": "Dawn",
-      "summary": "PPP ne Sunday ko Maulana Fazlur Rehman ke khilaf government ke actions ki mazammat ki — Bilawal Bhutto Zardari ne Fazl se phone par baat kar ke 'siyasi badla' ke khilaf awaaz uthayi, jab ke JUI-F supporters ne protests bhi kiye. Ye qadam siyasi tor par ahem mana ja raha hai, kyun ke PPP aur JUI-F aam tor par aik page par nahi hote.",
-      "title": "Bilawal ne JUI-F ke khilaf 'siyasi badla' ki mazammat ki",
-      "url": "https://epaper.dawn.com/DetailNews.php?StoryText=16_11_2026_001_005"
+      "summary": "State Bank ne apni annual report mein kaha ke FY27 mein inflation aahista aahista 5-7% ke medium-term target ki taraf aayegi, jab ke real GDP growth 3.5-4.5% rehne ki umeed hai. Current account deficit 0-1% of GDP aur fiscal deficit 3-4% rehne ka andaza hai. Report ke mutabiq FY26 mein economy ne domestic aur global shocks ke bawajood resilience dikhayi — lekin jobs ke liye structural reforms zaroori hain. April 2026 se energy price shock ne inflation ko double digits mein dhakel diya tha.",
+      "title": "SBP: mehngai FY27 mein 5-7% target ki taraf, GDP growth 3.5-4.5%",
+      "url": "https://www.dawn.com/news/print/2044936"
     },
     {
       "source": "Dawn",
-      "summary": "PM Shehbaz Sharif aur Chief of Defence Forces Field Marshal Asim Munir ne 'The Muslim 500' ki 2027 edition mein joint No. 1 position hasil kar li — Saudi King Salman, Crown Prince MBS aur Turkish President Erdogan ke saath. Jordan ke RISSC ki taraf se compile ki gayi list mein pehli dafa multiple names top par hain; wajah 7 Aug 2026 ko sign hua Makkah Joint Defence Agreement bataya gaya. Mufti Taqi Usmani 7th aur Maulana Tariq Jameel 32nd number par hain.",
-      "title": "Shehbaz aur Asim Munir duniya ke 500 most influential Muslims mein joint No. 1",
-      "url": "https://www.dawn.com/news/2044692/pm-shehbaz-cdf-munir-share-top-spot-in-list-of-worlds-500-most-influential-muslims"
+      "summary": "Government ne Monday ko petrol aur high-speed diesel dono ki qeemat Rs2 per litre kam kar di — ye daswein dafa musalsal kami hai. Aaj (Tuesday) se petrol Rs328 aur diesel Rs358 per litre milega. Petrol par Rs114 aur diesel par Rs100 per litre taxes aur duties abhi bhi lag rahe hain. OGRA ab rozana ki bunyad par qeematein tay karta hai. Diesel April mein Rs520.35 ki peak se neeche aaya hai.",
+      "title": "Petrol Rs328, diesel Rs358 — daswein dafa musalsal kami",
+      "url": "https://www.dawn.com/news/2044962/govt-reduces-petrol-diesel-prices-by-rs2-per-litre"
+    },
+    {
+      "source": "Kashmir English",
+      "summary": "Aaj (17 Nov) Dhaka mein Blind T20 Asia Cup ka sab se bara muqabla — Pakistan vs India, 1:30pm IST. Pakistan ne opener mein hosts Bangladesh ko 126 runs se haraya tha (Badar Munir 88 runs, Player of the Match). India ne 10 saal pehle wala title wapas jeetne ka target rakha hai. Tournament 15-20 Nov tak Dhaka ke Anvir Cricket Stadium mein ho raha hai; final 20 Nov ko hai. Pakistan ka agla match 18 Nov ko Bangladesh se hai.",
+      "title": "Aaj Blind Asia Cup mein Pakistan vs India — sab se bara muqabla",
+      "url": "https://kashmirenglish.pk/blind-t20-asia-cup-2026-schedule-announced/"
+    },
+    {
+      "source": "Dawn",
+      "summary": "Deputy PM Ishaq Dar ne kaha ke Makkah Defence Alliance ki apex committee (SPDC) ka agla ijlas isi mahine ke aakhir mein Islamabad mein hoga. 7 Aug ko sign hone wala Makkah Joint Defence Agreement Pakistan, Saudi Arabia aur Turkiye ko jorta hai — aik par hamla, sab par hamla. Dar ne ye bhi kaha ke Pakistan ne US-Iran aman ki koshishein nahi chhorin — Iran ne Hormuz kholne ki 7-day proposal ko 2-day plan mein fast-track kar diya hai, US ka jawab pending hai.",
+      "title": "Makkah alliance ka agla ijlas Islamabad mein — Dar",
+      "url": "https://www.dawn.com/news/2044957"
+    },
+    {
+      "source": "Business Recorder",
+      "summary": "Prime Minister Shehbaz Sharif 20 November (Friday) ko Karachi ka daura karenge, jahan mukhtalif leaders se mulaqat aur guftagu hogi.",
+      "title": "PM Shehbaz Friday ko Karachi jayenge",
+      "url": "https://www.brecorder.com/news/40449242/pm-to-visit-karachi-on-friday"
     }
   ]
 }
