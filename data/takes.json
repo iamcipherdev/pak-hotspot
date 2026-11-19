@@ -1,86 +1,86 @@
 {
   "poll": {
-    "q": "Anthropic ki IPO aaj price ho rahi hai — $1.4 trillion valuation, kya hoga kal listing par?",
+    "q": "Anthropic aaj $83 per share par Nasdaq par aa raha hai — $1.5 trillion valuation. Kya ANT pehle din pop karega ya gir jayega?",
     "options": [
-      "🚀 Pop hoga — 6x oversubscribed hai",
-      "📉 Pehle din hi neeche aayega — bubble hai",
-      "😐 Range mein hi rahega, hype khatam",
-      "🤷 AI trade ka asal test kal hoga"
+      "🚀 Pop hoga — demand $500bn ki thi",
+      "📉 Neeche aayega — $1.5T pagalpan hai",
+      "😐 Range mein rahega, hype khatam",
+      "🤷 AI trade ka asal test aaj hoga"
     ]
   },
-  "mood": "🔥 Nvidia ne $115.8bn kama liye lekin CEO ki kursi abhi bhi khaali hai, 🏏 Pakistan ne cricket mein dono taraf drama kiya — SAFF final haara, blind final jeeta — aur 💰 Anthropic kal $1.4 trillion ki IPO lekar aa raha hai. Aaj ka din full masala hai.",
+  "mood": "🔥 Anthropic aaj $1.5 trillion ki IPO lekar Nasdaq par aa raha hai, 🤖 AI ne AMD ke chips bhi design kar liye, aur 🇵🇰 Lahore ki hawa phir duniya bhar mein sab se gandi — aaj ka din tech aur smog, dono mein full hai.",
   "stories": {
-    "https://www.reuters.com/commentary/breakingviews/nvidia-leaves-ai-trade-hanging-purgatory-2026-11-18/": {
-      "what": "Nvidia ki Q3 revenue $115.8bn — 103% barhi, guidance $130bn. Lekin chairman ne saaf keh diya ke Jensen Huang ko CEO wapas nahi laya jayega, jab ke Huang ne wapsi ki offer de di thi. Board ne export-control oversight committee bhi bana li.",
-      "why": "Numbers zabardast hain, lekin company leadership aur China ke sawaal par phansi hui hai — is liye Reuters ne isay 'purgatory' kaha. AI bubble ka sab se bara sawaal ab Nvidia ki boardroom mein hai, market mein nahi.",
-      "next": "Dekhna ye hai ke Kress permanent CEO banti hain ya board bahar se kisi ko lata hai — aur Huang ki wapsi ki campaign kitni zor pakarti hai. Stock ka agla move guidance se zyada is sawal par hoga.",
-      "take": "Meri take: $115bn revenue aur CEO ka drama ek hi din — ye sirf Nvidia ki kahani nahi, poori AI industry ki kahani hai. Paisa aa raha hai, lekin jo banda is empire ko banaya tha, woh bahar khara hai. Ajeeb time hai."
+    "https://www.androidpure.com/gemini-4-neon-gemini-app/": {
+      "what": "Google ne 18 Nov ko Gemini 4 Neon release kiya — mid-tier model, 1M-token context, chaar thinking levels, $3 input / $15 output per million tokens. Gemini app mein Pro aur Ultra dono ko mil raha hai, 'Deeper analysis' slot mein Argon ki jagah. Google ke benchmarks ke mutabiq AA Index par 61 — Claude Opus 5.5 (59) aur GPT-6.2 Sol (57) se upar.",
+      "why": "Google ne ek mahine mein chaar Gemini 4 models nikal diye — Argon, Carbon, Hydrogen, ab Neon. Har kaam ke liye alag model, alag price — ye strategy developers ko choice deti hai, lekin users ke liye confusion bhi barhati hai.",
+      "next": "Dekhna ye hai ke Pro users Neon ko asal kaam mein kitna pasand karte hain — aur kya Google is model lineup ko aakhir mein simplify karta hai ya aur models aate rehte hain.",
+      "take": "Meri take: har hafte naya model, naya naam — Neon, Carbon, Hydrogen, Argon — ye periodic table lagta hai, model lineup nahi. Lekin $3 wali qeemat aur 1M context ke saath Neon developers ke liye waqai kaam ki cheez ho sakti hai, bas naam yaad rakhna mushkil hai."
     },
-    "https://winbuzzer.com/2026/11/17/gpt-6-2-scores-higher-at-lower-cost-in-ai-tests-xcxwbn/": {
-      "what": "OpenAI ne GPT-6.2 Astra aur Sol release kiye — Work aur Codex mein. Astra 20% sasta, dono ke scores behtar, lekin dono ko cybersecurity mein 'Critical' rating mili aur Astra ko AI self-improvement mein 'High' — is liye higher-risk cyber help par sakht pabandiyan bhi lagi hain.",
-      "why": "Model har saal tez aur sasta ho raha hai — ye achhi khabar hai. Lekin jab model khud ko behtar banana seekh le, to safety ka sawal bhi utna hi bara ho jata hai. OpenAI ne dono cheezein ek saath announce ki hain.",
-      "next": "Dekhna ye hai ke developers Astra ko asal kaam mein kitna use karte hain — aur 'Critical' rating ki wajah se cyber help par lagi pabandiyan kitni tang karti hain.",
-      "take": "Meri take: har naya model 'tez + sasta' ka waada karta hai, lekin is dafa system card mein ek ajeeb line hai — model ab exploits bhi behtar bana sakta hai. Taqat barh rahi hai, zimmedari bhi barhni chahiye."
+    "https://www.unite.ai/openai-reports-model-driven-gains-in-amd-flagship-chip-designs/": {
+      "what": "OpenAI ke models ne AMD ke flagship GPU ke circuits rewrite kar ke PPA mein 14% tak behtari ki — AMD ne kuch changes manufacturing wale design mein daal diye. Apne Jalapeño chip mein vector unit ka area 13% aur matrix unit ka 10% kam hua, design se tapeout sirf 9 mahine mein. Synopsys ke saath GPT-Synopsys bhi ban raha hai.",
+      "why": "AI ab sirf software nahi bana raha, woh hardware bhi design kar raha hai jis par khud chalta hai. Ye woh loop hai jo sab se zyada interesting hai — AI apne hi ghar ko behtar bana raha hai, aur ye tezi har saal barhegi.",
+      "next": "Dekhna ye hai ke AMD ke agle chips mein ye gains kitne nazar aate hain — aur kya chip engineers ka kaam badal jata hai: design karna kam, AI ki output verify karna zyada.",
+      "take": "Meri take: AI ne chip design mein ek saal ka kaam 5 mahine mein kar diya — ye sun kar khushi bhi hai aur thori si ghabrahat bhi. Jab AI apne hi chips behtar banane lage, to race ki speed woh nahi rahegi jo insaan control kar sake."
     },
-    "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/": {
-      "what": "Google ne Gemini ke Tasks mode ko 6 mulkon mein free kar diya — pehle $19.99/month tha. Gemini ab dukaan ko call kar ke appointment book kar sakta hai, Google Pay se khareedari kar sakta hai, email forward kar ke calendar bana sakta hai. Calls aur payments pehle sirf US mein.",
-      "why": "AI ab sirf jawab dene se aage nikal kar kaam karne ki taraf ja raha hai — aur Google is race mein free entry de kar sab se zyada users pakarna chahta hai. Pakistan is list mein nahi, lekin ye direction hamari taraf bhi aayegi.",
-      "next": "Dekhna ye hai ke Gemini asal mein kitne kaam theek se poora karta hai — Google khud kehta hai kabhi kabhi task fail bhi hota hai. Aur Pakistan jese mulkon mein ye kab aata hai.",
-      "take": "Meri take: 'AI aap ka kaam karega' ab marketing nahi, asal feature hai. Lekin jab AI aap ke paise se khareedari kare, to aik ghalat click ka bill aap ko bharna hoga — spending cap pehle set karo, baad mein pachtao mat."
+    "https://fiscalbriefing.com/anthropic-ipo-prices-at-83-a-share-as-ant-prepares-thursday-debut/": {
+      "what": "Anthropic ne IPO $83 per share par price ki (CNBC/Bloomberg ke mutabiq) — $70–78 range se $5 upar. Aaj Nasdaq par ANT se trading shuru hogi, taqreeban $68.5bn raise aur $1.5 trillion valuation. Institutional demand taqreeban $400bn, retail taqreeban $100bn. Official prospectus supplement abhi file nahi hua, is liye $83 abhi reported price hai.",
+      "why": "Ye tareekh ki sab se badi tech IPO mein se ek hai — aur poori AI trade ka referendum bhi. Kal tak sirf pricing ki khabar thi, aaj market faisla karegi ke $1.5 trillion ki valuation theek hai ya bubble hai.",
+      "next": "Aaj ka opening price aur pehle din ka close sab kuch batayega. MSCI aur index inclusion ke faisle bhi aane wale dinon mein aayenge — agar ANT index mein gaya to passive money bhi peeche aayega.",
+      "take": "Meri take: $83 range se upar, demand $500bn — ye numbers dekh kar lagta hai ke market ko AI se pyaar hai. Lekin $900bn ke infrastructure commitments aur slow hoti growth bhoolna nahi chahiye. Aaj ka din ya to 'AI is real' ka saboot hoga, ya phir FOMO ki sab se mehngi tasveer."
     },
-    "https://www.marketpulse.com/markets/anthropics-ipo-a-make-or-break-test-for-the-trillion-dollar-ai-trade/": {
-      "what": "Anthropic ki IPO aaj price hogi, kal Nasdaq par ANT se trading shuru hogi. Range $70–78, $64.4bn raise, valuation taqreeban $1.4 trillion. Demand 6 guna zyada hai, lekin filing mein $900.9bn ke infrastructure commitments aur Q3 growth mein slowdown bhi hai.",
-      "why": "Ye sirf ek company ki listing nahi — poori AI trade ka referendum hai. Agar Anthropic ki valuation tikti hai, to AI bubble wali baat kamzor hogi; agar girti hai, to har AI stock par sawal uthega.",
-      "next": "Kal ka opening price sab kuch batayega. Pre-IPO futures $101 ke aas-paas trade kar rahe hain — $78 se 30% upar — lekin ye sirf ek chhoti market ka signal hai.",
-      "take": "Meri take: $1.4 trillion ki valuation pehli baar public hone wali company ke liye pagalpan lagta hai — lekin demand 6x hai, matlab bade investors ko ye pagalpan samajh aa raha hai. Kal pata chalega ke ye confidence hai ya FOMO."
+    "https://www.makeuseof.com/type-a-new-prompt-mid-stroll-and-googles-ai-world-changes-around-you/": {
+      "what": "Google ne 18 Nov ko Genie 4 ko Project Genie ke zariye eligible AI Ultra subscribers ke liye khol diya. Mid-session prompt se duniya badalti hai, real-time native audio scene ke saath badalta hai. Creation agent aur community gallery bhi add hui; Genie 3 ke sessions 60 seconds se 3 minute ke ho gaye. Lekin Project Genie sirf Ultra 20x plan ($199.99/month US) par hai.",
+      "why": "World models games aur films ki taraf ja rahe hain — jahan aap prompt se duniya banayein aur us mein chalein. Google isay pehle apne mehngay subscribers ko de raha hai, taa ke technology ko test kiya ja sake, lekin is ki qeemat aam user ke liye abhi bohat door hai.",
+      "next": "Dekhna ye hai ke Genie 4 ki duniyayein kitni der tak coherent rehti hain — Google khud kehta hai camera latency aur physics abhi bhi masle hain. Aur kab ye Pro ya free users tak pahunchega.",
+      "take": "Meri take: apni duniya banana, us mein chalna, beech mein mausam badal dena — ye idea abhi bhi jaadu jaisa hai. Lekin $200/month sirf duniya banane ke liye? Filhal ye ameer logon ka khilona hai, hamari baari ka intezar hai."
     },
-    "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/": {
-      "what": "Nvidia ne China ko H200 chips bechna band kar diya — ye arrangement khatam hua jo Huang aur Trump ne banaya tha. Naye US rules foreign data centers se Chinese customers ko chips ki remote access par bhi rok lagate hain. Jefferies ke mutabiq agle saal revenue $44–62bn kam ho sakta hai.",
-      "why": "Ye US-China tech war ka sab se bara faisla hai — pehle chips bechne par rok thi, ab remote access par bhi, aur ab khud Nvidia ne China ka darwaza band kar diya. Huang ke jane ke baad company ka poora China stance badal gaya.",
-      "next": "Dekhna ye hai ke Chinese labs apne chips par kitni jaldi shift karte hain — aur kya data centers Nvidia chhor kar kisi aur taraf jate hain. Ye faisla saalon tak asar dikhayega.",
-      "take": "Meri take: Huang saalon se kehta tha ke China chhorna America ke liye nuqsan hai — ab woh gaya, to company ne usi din faisla ulta kar diya. Siyasat ne business ko hara diya, aur is ki qeemat dono taraf ke log chukayenge."
+    "https://www.unite.ai/newsom-proposes-mandatory-frontier-ai-oversight-and-shutdown-powers/": {
+      "what": "California ke Governor Newsom ne 18 Nov ko 'AI Safety in 2026 and Beyond' report release ki — bade AI developers par lazmi safety standards, licensed independent verifiers ki musalsal oversight, aur emergency shutdown ka ikhtiyar. Critical incident reports ki deadline 15 din se 48 ghante, aur recursive self-improvement par cap ki tajweez. Ye abhi qanoon nahi, December mein wapas aane wali legislature ke liye recommendations hain.",
+      "why": "Ye pehli dafa hai ke koi bari state keh rahi hai: AI companies khud apni safety check nahi kar sakti — bahar wala check karega, aur agar model khatarnak ho to state usay band kar sakegi. Ye AI regulation ki direction badal sakta hai.",
+      "next": "December mein California legislature kya karti hai, ye dekhna hoga. OpenAI aur Anthropic dono California mein hain — is liye in ki lobby is par zor lagayegi. Agar ye pass hua, to baqi states bhi peeche aayengi.",
+      "take": "Meri take: AI ko 'kill switch' dena sunne mein sci-fi lagta hai, lekin asal sawal simple hai — jab model ghalat ho jaye, to usay kaun rokega? Company khud, ya koi bahar wala? California keh raha hai bahar wala, aur ye baat waqt ke saath sab ko samajh aayegi."
     },
-    "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/": {
-      "what": "Uber taqreeban 150,000 drivers ko notify kar raha hai ke un ke naam, pate, date of birth aur license numbers chori hue — breach Uber mein nahi, us ke AI vendor Fireworks AI mein hui. Fireworks ki breach se Notion aur Cursor ka data bhi leak hua tha. Uber ne vendor ka access kaat diya.",
-      "why": "AI companies ke liye teesre darjay ke vendors ab sab se bara security risk ban gaye hain. Aap ki company jitni secure ho, agar aap ka vendor hack ho jaye, to aap ka data bhi gaya. Ye breach is ka textbook example hai.",
-      "next": "Dekhna ye hai ke Fireworks se aur kin companies ka data nikla — Notion aur Cursor pehle hi confirm kar chuke hain. Regulators ab AI vendors ki security par sakht sawal uthayenge.",
-      "take": "Meri take: AI ki race mein sab ne naye vendors ko apna data de diya, lekin kisi ne un ki security check nahi ki. 150,000 drivers ki license details ab kisi ke haath mein hain — aur ye sirf aik vendor ki kahani hai."
+    "https://www.kucoin.com/news/flash/tencent-hunyuan-launches-hy4flash-series-with-224b-parameters-and-1m-token-context": {
+      "what": "Tencent Hunyuan ne 18 Nov ko Hy4 flash open-source kar diya — 224B total parameters, har token par sirf 12B active, 1M-token multimodal context. Teen versions: Hy4flash, Hy4flash-FP8 aur Hy4flash Base — GitHub, Hugging Face, ModelScope aur GitCode se download ke liye. Tencent ka dawa hai ke office tasks par ye full Hy4 se 20 guna sasta hai, aur TokenHub, Yuanbao, WeChat aur QQ mein live hai.",
+      "why": "China ke models ab sirf saste nahi, open bhi hain — aur 224B parameters ke saath sirf 12B active rakhna efficiency ka naya standard hai. Open-source race mein Tencent ne ek aur bari entry kar di hai.",
+      "next": "Dekhna ye hai ke developers Hy4 flash ko asal projects mein kitna use karte hain — aur kya is ke benchmarks independent testing mein Tencent ke daawon par khare utarte hain.",
+      "take": "Meri take: 224B ka model, 12B active, aur open-source — ye woh combo hai jo developers ko sab se zyada pasand hai. Lekin Tencent ke '20 guna sasta' wale daawe apne hi benchmark par hain — asal test tab hoga jab log isay apne kaam par chalayenge."
     },
-    "https://www.dawn.com/news/2045329": {
-      "what": "SAFF final mein Pakistan 1-0 se aage tha, Alamgir Ghazi ne pehle half ke aakhir mein goal kiya. Phir 60th minute mein Junaid Shah ko red card mila, India ne 10 khiladion ke khilaf do goal kar ke 2-1 se jeet liya. India ka 10th title, lagatar teesra.",
-      "why": "Pakistan pehli dafa SAFF final mein pahuncha tha — ye khud aik jeet hai. Lekin jeeta hua match haarna dard deta hai, khaas kar jab aik red card ne poora momentum badal diya ho.",
-      "next": "Team ab ghar wapas aayegi — aur sawal ye hai ke is run ko aage barhaya jayega ya phir ye sirf aik achha haftah ban kar reh jayega. Federation ko is momentum ko zaya nahi karna chahiye.",
-      "take": "Meri take: pehle half mein Pakistan behtar team thi, aur ye baat sab ne dekhi. Red card ne match badla, lekin final tak pahuncha khud batata hai ke Pakistani football mein jaan hai — bas isay tournament ke baad bhoolna nahi chahiye."
+    "https://www.dawn.com/news/2045449/have-the-courage-to-listen-to-the-debate-you-started-bilawal-sticks-to-his-guns-after-speaking-his-truth": {
+      "what": "Bilawal Bhutto-Zardari ne Budh ko Hum News par kaha ke un ke 'sach' par hukumat ko sunne ki himmat honi chahiye. Naye soobon ki zabardasti taqseem ke khilaf khabardar kiya aur 'political reset' ka mutalba dohraya. Kaha ke woh ittehadi hain lekin opposition benches par baithna bhi un ke liye koi masla nahi — aur hukumat har taraf larna band kare, warna mulk ko economic crisis se kaun nikalega.",
+      "why": "PPP ruling coalition ka sab se bara partner hai — jab wohi khul kar narazgi dikhaye, to ye sirf aik interview nahi, coalition ke andar daraar ki khabar hai. Naye soobon ki behes ne is daraar ko aur gehra kar diya hai.",
+      "next": "Dekhna ye hai ke PML-N is par kya jawab deta hai — kya Bilawal ko manaya jata hai ya behes aur tez hoti hai. Aur kya ye behes Parliament mein aati hai ya sirf TV par rehti hai.",
+      "take": "Meri take: Bilawal ka 'sach sunne ki himmat' wala jumla acha laga, lekin asal sawal ye hai ke is behes se aam aadmi ko kya milega. Naye soobe ya purane — mehngai aur bijli ka bill to dono taraf se wahi hai."
     },
-    "https://www.dawn.com/news/2045262/pakistan-edge-india-to-reach-asia-cup-blind-cricket-final": {
-      "what": "Blind Asia Cup semi-final mein Pakistan ne India ko aik wicket se hara kar final mein jagah banayi. 180 ka target aakhri ball par poora hua — Niamatullah ne aakhri do balls par chhakka aur chauka lagaya. Captain Nisar Ali ne 64 runs banaye. Final 20 Nov ko hoga.",
-      "why": "SAFF final ki haar ke same din ye jeet aik zabardast jawab hai — aur blind cricket team ne defending champions ko unhi ke khilaf hara kar dikhaya. Ye woh team hai jise sab se kam limelight milti hai.",
-      "next": "Final 20 Nov ko hai — India ko pehle Bangladesh se jeetna hoga. Agar dono phir milte hain, to dobara aik classic hoga.",
-      "take": "Meri take: aakhri do balls par saat runs — ye pressure mein jeetne wali team ki nishani hai. In khiladion ko woh izzat aur support milni chahiye jo har champion ko milti hai, na ke sirf aik khabar ki line."
+    "https://www.dawn.com/news/2045448/pta-says-submarine-cable-fault-may-cause-internet-connectivity-issues": {
+      "what": "PTA ne bataya ke SMW5 submarine cable mein Pakistan ke kinare se taqreeban 11 km door fault aaya hai — internet users ko intermittent connectivity aur slow service ho sakti hai. Transworld Associates consortium ke saath root cause aur restoration time maloom kar raha hai. Traffic alternate international links se reroute ho raha hai. NetBlocks ne bhi connectivity mein kami confirm ki.",
+      "why": "Pakistan ka internet ek cable par kitna dependent hai, ye har dafa fault par pata chalta hai. July mein bhi SMW5 mein fault aaya tha aur 2 din lage the. Ek cable ka fault poore mulk ki speed gira deta hai — ye infrastructure ki kamzori hai.",
+      "next": "Dekhna ye hai ke fault kitne din mein theek hota hai — July mein 2 din lage the. Aur kya is dafa alternate routes waqai farq dalte hain ya sirf bayan mein hain.",
+      "take": "Meri take: har kuch mahine baad wahi khabar — cable kharab, internet slow. Hamari poori digital economy ek samundar ke neeche cable par latki hui hai. Jab tak backup routes mazboot nahi hote, ye drama har dafa repeat hoga."
     },
-    "https://www.dawn.com/news/2045308": {
-      "what": "ADB ne Pakistan ke federal pension system ki reform ke liye $500m loan approve kiya. Pension spending FY16 se 5 guna barh kar saalana Rs1 trillion se zyada ho chuki hai. Loan se defined contribution scheme ki transition aur digital systems mein madad milegi.",
-      "why": "Pension ka bill har saal barh raha hai aur budget kha raha hai — ye loan us dard ko kam karne ke liye hai, lekin asal ilaaj reforms hain: July 2024 se naye employees contributory scheme mein hain, purana unfunded system ab bhi bojh hai.",
-      "next": "Dekhna ye hai ke reforms asal mein implement hoti hain ya loan sirf waqt khareedta hai. Pension fund managers ke saath agreements ho chuke hain — ab delivery ki baari hai.",
-      "take": "Meri take: Rs1 trillion saalana pension — ye number sun kar samajh aata hai ke budget mein development ke liye paisa kyun nahi bachta. Loan achha hai, lekin jab tak purana system theek nahi hota, ye sirf dawa hai, ilaaj nahi."
+    "https://www.dawn.com/news/2045441/icj-report-sees-judicial-capture-in-pakistan-after-26th-27th-constitutional-amendments": {
+      "what": "ICJ ki report 'Judicial Capture' kehti hai ke 26th aur 27th tarmeem ke baad Pakistan ki adliya ko woh independence hasil nahi rahi jo international law ke mutabiq zaroori hai. Report ke mutabiq hukumat ne adalaton par awami shikayaton ko 'self-serving' tareeqe se istemal kar ke adliya ko control kiya, aur aala adalatein ab executive ya Parliament par check ke tor par kaam nahi kar rahin. ICJ ne tarmeemon ka comprehensive review ka mutalba kiya hai.",
+      "why": "Ye report kisi siyasi party ki nahi, duniya ki sab se purani legal bodies mein se ek ki hai. Jab ICJ keh de ke adliya 'capture' ho gayi hai, to ye sirf Pakistan ki andaruni behes nahi rehti — ye international record mein ja chuka hai.",
+      "next": "Dekhna ye hai ke hukumat is report par kya kehti hai — kya review shuru hota hai ya report ko ignore kar diya jata hai. Aur FCC aur Supreme Court is par kya rukh apnate hain.",
+      "take": "Meri take: 'judicial capture' bohat bhari lafz hai, aur ICJ ne ise halke mein nahi likha. Chahe aap kisi bhi party ke hon, aik mulk tab tak aage nahi barh sakta jab tak us ki adalatein azad na hon. Ye report ghoor se parhne wali hai."
     },
-    "https://www.dawn.com/news/2045283/stocks-turn-negative-after-early-rally": {
-      "what": "PSX par Tuesday ko KSE-100 pehle 1,268 points chadha, phir profit-taking ne gains mita di — index 665 points gir kar 177,517 par band hua. Volume 37% gira. Achhi khabar: October mein current account $39m surplus mein raha aur IT exports record $453m ho gayin.",
-      "why": "Market siyasi bechaini par react kar rahi hai — naye administrative units ki behes ne investors ko nervous kar diya. Lekin macro numbers behtar ho rahe hain: surplus aur IT exports dono positive hain.",
-      "next": "Analysts kehte hain ke 180,000 ke aas-paas volatility rahegi. Agar political noise kam hua, to easing oil prices aur behtar external accounts market ko support de sakte hain.",
-      "take": "Meri take: ek din mein 1,268 upar phir 665 neeche — ye market nahi, roller coaster hai. Lekin $453m IT exports wala number asli khabar hai: Pakistan ka tech paisa kama raha hai, market chahe jitni bhi ghabraye."
+    "https://www.dawn.com/news/2045425/pakistan-conducts-successful-launch-of-fatah-3-supersonic-cruise-missile-ispr": {
+      "what": "Pakistan Army ne Budh ko Fatah-3 supersonic cruise missile ka kamyab launch kiya — advanced navigation aur propulsion, lambi range par high precision. ISPR ke mutabiq ye Army Rocket Force Command ki strike range aur flexibility barhayega. Sadr, Wazir-e-Azam aur Field Marshal Asim Munir ne team ko mubarakbad di. Is mahine PAF ne apna pehla maqami air-to-air missile Fa'az bhi test kiya tha.",
+      "why": "Missile tests ka silsila jaari hai — October mein Fatah-2 aur Fatah-IV bhi test hue. Ye Pakistan ki deterrence strategy ka hissa hai, aur regional tensions ke waqt in tests ki timing hamesha message bhi hoti hai.",
+      "next": "Dekhna ye hai ke is ke baad kya hota hai — kya India ya doosri taraf se koi jawab aata hai, ya ye test routine ka hissa ban kar reh jata hai.",
+      "take": "Meri take: Fatah-3 ki kamyabi technical tor par bari baat hai — apna missile banana asaan nahi. Lekin har missile test ke saath ye sawal bhi uth ta hai ke in par kharch hone wala paisa aur mehnat aam aadmi ki zindagi kab behtar karegi."
     },
-    "https://www.dawn.com/news/2045269": {
-      "what": "Field Marshal Asim Munir ne Rawalpindi mein British Army Chief aur Turkish Air Force Commander se alag alag mulaqaton mein difaai taawun barhane par baat ki. Is se pehle is mahine Pakistan aur UK counterterrorism aur cybercrime par security cooperation par bhi mutafiq ho chuke hain.",
-      "why": "Pakistan apne purane doston — UK aur Turkiye — ke saath difaai rishtay mazboot kar raha hai. Ye mulaqatein routine lagti hain, lekin timing ahem hai: regional security par dono taraf se baat cheet tez ho rahi hai.",
-      "next": "Dekhna ye hai ke in mulaqaton se koi concrete deal nikalti hai ya ye sirf diplomatic handshake rehta hai — jaise joint exercises ya equipment ki baat.",
-      "take": "Meri take: fauj ke sarbarah se milna achha hai, lekin asal sawal ye hai ke is se aam aadmi ko kya milega. Difaai taawun ki khabar tab interesting hogi jab us se koi trade ya technology deal bhi nikle."
+    "https://www.dawn.com/news/2045395/lahore-once-again-tops-list-of-worlds-most-polluted-major-cities-with-aqi-crossing-300": {
+      "what": "Lahore Budh ko phir duniya ke sab se alooda bade shehron mein pehle number par — AQI 339, hazardous category. Faisalabad 686, Gujranwala 550, Multan 437 aur Kasur 371. Punjab EPA ne stubble burning rokne ke liye senior officers field mein bhej diye; 8 zilon mein 898 fire anomalies detect huin, 823 bujha di gayin. Hafizabad sab se bara hotspot (430 anomalies).",
+      "why": "Har saal wahi kahani — November aate hi Lahore ki hawa zeher ban jati hai. Is dafa Faisalabad ka 686 AQI batata hai ke masla sirf Lahore ka nahi, poore Punjab ka hai. Stubble burning, gaariyon ka dhuaan aur industry — sab mil kar ye zeher banate hain.",
+      "next": "Smog season abhi shuru hua hai — aane wale hafte aur kharab ho sakte hain. Dekhna ye hai ke EPA ki field deployment se waqai farq parta hai ya ye bhi har saal wali routine hai.",
+      "take": "Meri take: duniya bhar mein pehle number par aana achha lagta hai, lekin is list mein nahi. 339 AQI ka matlab hai ke Lahore mein saans lena bhi sehat ke liye khatra hai. Har saal wahi waade, wahi smog — kabhi to koi hal niklega."
     },
-    "https://www.dawn.com/news/2045342": {
-      "what": "Pakistan ne UN Security Council mein Israel ke Syria mein hamlay aur ghuspaith ki shadeed muzammat ki — fori khatma, occupied areas se wapsi aur 1974 agreement par amal ka mutalba. Ambassador Syed Haider Shah ne kaha occupied Golan Syrian territory hai.",
-      "why": "Pakistan ne Syria ki nayi government ki transition aur reconstruction ki himayat bhi ki, aur US/EU/UK ki sanctions mein narmi ka khair-maqdam kiya. Ye Pakistan ki mashriq-e-wusta policy ka mustaqil rukh hai.",
-      "next": "Dekhna ye hai ke Security Council par is muzammat ka koi amal hota hai ya ye sirf aik statement rehta hai — aur Syria ki reconstruction mein Pakistan ka koi role banta hai ya nahi.",
-      "take": "Meri take: muzammat sahi hai aur zaroori hai, lekin UN mein bayan aur zameen par haqiqat ka farq sab ko pata hai. Sawal ye hai ke Pakistan is se aage kya karega — sirf bolna hai ya kuch aur bhi?"
+    "https://www.dawn.com/news/2045444": {
+      "what": "Hukumat ne Budh ko petrol aur diesel dono Rs3 per litre kam kar diye — petrol ki lagatar 12th kami. Aaj (19 Nov) se petrol Rs322 aur diesel Rs355 per litre. Petrol April ki peak Rs458.41 se neeche aa chuka hai. Lekin petrol par Rs114 aur diesel par Rs100 per litre taxes aur duties abhi bhi hain. 17 July se qeematein taqreeban daily revise ho rahi hain.",
+      "why": "Daily price revision ka matlab hai ke international market ki tabdeeli foran awam tak pahunchti hai — kabhi upar, kabhi neeche. Is waqt neeche aa raha hai, jo relief hai, lekin Rs114 tax yaad dilata hai ke qeemat ka bara hissa abhi bhi hukumat ko jata hai.",
+      "next": "Dekhna ye hai ke ye kami ka silsila kitna chalta hai — aur kya agle hafton mein qeematein aur neeche aati hain ya international market palat jati hai.",
+      "take": "Meri take: Rs3 ki kami achhi hai, lekin jab petrol Rs458 tak gaya tha to Rs322 bhi mehenga lagta hai. Asal relief tab hoga jab qeemat ke saath saath aamdani bhi barhe — warna har Rs3 ki kami bhi bas aik khabar ban kar reh jati hai."
     }
   }
 }
