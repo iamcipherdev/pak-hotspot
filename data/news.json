@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-11-19T07:00:56+05:00",
+  "updated_at": "2026-11-20T07:00:19+05:00",
   "tech": [
     {
-      "source": "Android Pure",
-      "summary": "Google ne 18 Nov ko Gemini 4 Neon release kiya — Gemini 4 family ka mid-tier model jo Carbon aur Hydrogen ke beech baithta hai. 1 million tokens ka context window, chaar thinking levels (Low se Extra High), aur API price $3 input / $15 output per million tokens. Gemini app mein Pro ($19.99/month) aur Ultra dono ko mil raha hai, 'Deeper analysis' ki slot mein Argon ki jagah le kar. Google ke apne benchmarks ke mutabiq Artificial Analysis Index par 61 score — Claude Opus 5.5 (59) aur GPT-6.2 Sol (57) se upar.",
-      "title": "Google ne Gemini 4 Neon launch kar diya — 1M-token context, $3 per million tokens",
-      "url": "https://www.androidpure.com/gemini-4-neon-gemini-app/"
+      "source": "Reuters",
+      "summary": "Anthropic ne 19 Nov ko Nasdaq par ANT ticker se trading shuru ki — $83 IPO price se 34% upar, $111.50 par khula, aur din ke doran $2 trillion valuation ko chhoo kar duniya ki chhathi sab se bari public company ban gaya. 980 million shares $83 par bech kar $81.3bn raise kiye — America ki tareekh ki sab se bari IPO. Lekin excitement din bhar qaim na rahi — dopahar tak shares $97 par aa gaye. Anthropic ki Q3 revenue $17bn thi, aur Amazon aur Google ke saath taqreeban $900bn ki computing commitments hain.",
+      "title": "Anthropic ka Nasdaq debut — $111.50 par khula, $2 trillion valuation ko chhoo liya",
+      "url": "https://www.reuters.com/commentary/breakingviews/anthropics-2-trln-ipo-may-be-last-hurrah-2026-11-19/"
     },
     {
-      "source": "Unite.AI",
-      "summary": "OpenAI ne 18 Nov ko bataya ke us ke models ne AMD ke flagship GPU ke circuits ko rewrite kar ke power, performance aur area (PPA) mein 14% tak behtari haasil ki — heavily optimized baseline ke muqable mein. AMD ne kuch changes ko manufacturing ke liye bheje gaye design mein daal diya hai. Apne khud ke inference chip Jalapeño mein bhi vector unit ka area 13% aur matrix unit ka 10% kam hua, aur chip design se tapeout tak sirf 9 mahine lage. OpenAI Synopsys ke saath GPT-Synopsys bhi bana raha hai, jo EDA tools ko expert designers ki tarah use karega.",
-      "title": "OpenAI ke models ne AMD ke chip design mein 14% tak behtari kar di — ek saal ka kaam 5 mahine mein",
-      "url": "https://www.unite.ai/openai-reports-model-driven-gains-in-amd-flagship-chip-designs/"
+      "source": "GigaGuideTech",
+      "summary": "Google ne 19 Nov ko Gemini app for Mac mein 'computer use' add kar diya — Gemini ab aap ki apps mein click kar sakta hai, type kar sakta hai, forms bhar sakta hai aur multi-step kaam poora kar sakta hai, woh bhi aik alag window mein taa ke aap apna kaam jaari rakh saken. Lekin muft nahi — Google AI Plus, Pro ya Ultra subscription chahiye, US aur English only, aur Apple Silicon Mac (M1 ya naya) zaroori hai. Apple bhi macOS 27.3 mein AI agents ke liye sakht permissions la raha hai.",
+      "title": "Gemini ab aap ka Mac bhi chala sakta hai — forms bhare, presentations banaye",
+      "url": "https://gigaguidetech.com/gemini-mac-computer-use/"
     },
     {
-      "source": "FiscalBriefing",
-      "summary": "Anthropic ne apni IPO CNBC aur Bloomberg ke mutabiq $83 per share par price ki hai — $70–78 ki filed range se $5 upar. Aaj (19 Nov) Nasdaq par ANT ticker se trading shuru hogi. 825 million shares par ye taqreeban $68.5bn raise karegi, aur valuation taqreeban $1.5 trillion banti hai. Demand zabardast rahi — institutional interest taqreeban $400bn aur retail taqreeban $100bn tak pahunchi. Abhi tak koi official prospectus supplement (Form 424B4) file nahi hua, is liye $83 abhi reported price hai, confirmed nahi.",
-      "title": "Anthropic ki IPO $83 per share par price — aaj Nasdaq par ANT ki trading shuru",
-      "url": "https://fiscalbriefing.com/anthropic-ipo-prices-at-83-a-share-as-ant-prepares-thursday-debut/"
+      "source": "PYMNTS",
+      "summary": "OpenAI ne GPT-6.2 Astra aur Sol release kar diye — dono models company ke 'Critical' cybersecurity threshold par pohnchte hain, wohi level jis ki wajah se GPT-6 Cyber sirf vetted security teams ko milta tha. Ab ye capability kisi ko bhi mil sakti hai — aik aisa model jo software ki kamzoriyan dhoond aur exploit kar sakta hai. OpenAI ne badle mein 'Control Room' monitoring system lagaya hai. Astra $8 per million tokens hai, aur legal benchmark LAB-AA par Claude Fable 5.2 se dugna pass rate deta hai — aik chhathi qeemat par.",
+      "title": "OpenAI ne apne sab se taqatwar cyber models sab ke liye khol diye",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-unlocks-cyber-power-as-google-slashes-ai-costs/"
     },
     {
-      "source": "MakeUseOf",
-      "summary": "Google ne 18 Nov ko Genie 4 ko Project Genie ke zariye eligible Google AI Ultra subscribers ke liye khol diya. Ye world model ab session ke beech mein prompt se duniya badal deta hai — mausam, character ya action — aur real-time native audio bhi generate karta hai jo scene ke saath badalta hai. Project Genie mein creation agent aur community gallery bhi add hui hai, aur Genie 3 ke sessions 60 seconds se barh kar 3 minute ke ho gaye hain. Lekin darwaza tang hai: Project Genie sirf Ultra 20x plan ($199.99/month US) par hai, aur AI Pro users sirf waitlist join kar sakte hain.",
-      "title": "Google ka Genie 4 ab AI Ultra users ke liye — duniya badlo, beech mein hi prompt likho",
-      "url": "https://www.makeuseof.com/type-a-new-prompt-mid-stroll-and-googles-ai-world-changes-around-you/"
+      "source": "SXF Brief",
+      "summary": "Reuters ke mutabiq NVIDIA ne licensed Hopper-class AI chips — jin mein H200 bhi shamil hai — China bhejna band kar diye hain, halaan ke kuch shipments ke liye US export approvals maujood the. Masla doosri taraf hai: China ki apni import restrictions. Taqreeban 600,000 H200 chips Hong Kong mein shipment ka intezar kar rahe the. Ye AI computing supply chain ki geopolitics ka naya chapter hai — license milna ab ye guarantee nahi ke chip pohanch bhi jayega.",
+      "title": "NVIDIA ne China ko H200 AI chips bhejna band kar diya",
+      "url": "https://sxf.si/brief/"
     },
     {
-      "source": "Unite.AI",
-      "summary": "California ke Governor Gavin Newsom ne 18 Nov ko 'AI Safety in 2026 and Beyond' report release ki — bade frontier AI developers par lazmi safety standards, licensed independent verifiers ki musalsal oversight, aur emergency shutdown ka ikhtiyar. Agar kisi model se fori khatra ho aur developer khud na roke, to state foran shutdown order de sakegi. Critical incident reports ki deadline 15 din se ghat kar 48 ghante karne aur recursive self-improvement (AI khud apna successor banaye) par cap lagane ki tajweez bhi hai. Ye abhi qanoon nahi — December mein wapas aane wali legislature ke liye recommendations hain.",
-      "title": "California ne AI par 'kill switch' ki tajweez de di — khatarnak model ko band karne ka ikhtiyar",
-      "url": "https://www.unite.ai/newsom-proposes-mandatory-frontier-ai-oversight-and-shutdown-powers/"
+      "source": "The Context",
+      "summary": "Anthropic ke Claude Fable 5.2 ne black-hole physics ke do open problems solve kar diye — weak coupling par abrupt Hawking-Page transition, aur modular bootstrap ceiling (M₁ ≤ c/9.1266). Dono results September mein Lean mein formally verify ho chuke hain. Ye sirf benchmark score nahi — AI ne asal tehqeeq mein naya result diya hai. Isi briefing mein Gemini 4 Neon bhi tez nikla: OpenRouter par 127 tokens/sec, jabke Carbon sirf 46.",
+      "title": "Claude Fable 5.2 ne black-hole physics ke do khule masle hal kar diye",
+      "url": "https://thecontext.dev/en/companies/anthropic/"
     },
     {
-      "source": "KuCoin",
-      "summary": "Tencent Hunyuan ne 18 Nov ko Hy4 flash open-source kar diya — 224 billion total parameters (jin mein 64B Engram parameters hain), lekin har token par sirf 12B active, aur 1 million tokens ka multimodal context. Teen versions hain: Hy4flash, Hy4flash-FP8 aur Hy4flash Base — GitHub, Hugging Face, ModelScope aur GitCode se download ke liye. Tencent ka dawa hai ke office tasks par ye full Hy4 se 20 guna sasta hai, aur model pehle hi TokenHub, Yuanbao, Enterprise WeChat aur QQ mein live hai.",
-      "title": "Tencent ne Hy4 flash open-source kar diya — 224B params, sirf 12B active, 1M context",
-      "url": "https://www.kucoin.com/news/flash/tencent-hunyuan-launches-hy4flash-series-with-224b-parameters-and-1m-token-context"
+      "source": "The Context",
+      "summary": "PHP 8.6 aur PostgreSQL 19 dono ek hi din release ho gaye — developers ke liye aik hi din mein do bari updates. PHP 8.6 naye features aur performance improvements le kar aaya hai, jabke PostgreSQL 19 database ki nayi capabilities. Dono open-source stack ka backbone hain — Laravel se le kar bare data systems tak, ye updates seedha production par asar dalte hain.",
+      "title": "PHP 8.6 aur PostgreSQL 19 ek hi din release — developers ke liye double khushi",
+      "url": "https://thecontext.dev/en/topics/developer-tools/"
     }
   ],
   "pakistan": [
     {
-      "source": "Dawn",
-      "summary": "PPP Chairman Bilawal Bhutto-Zardari ne Budh ko Hum News par kaha ke un ke 'sach' par hukumat ko sunne ki 'himmat' honi chahiye. Unhon ne naye soobon ki zabardasti taqseem ke khilaf khabardar kiya aur 'political reset' ka mutalba dohraya taa ke awami masail hal hon. Bilawal ne kaha ke woh ittehadi hain, opposition mein baithna un ke liye koi masla nahi, aur hukumat ko chahiye ke woh har taraf larna band kare — 'agar har kisi se larenge to Pakistan ko is economic crisis se kaun nikale ga?'",
-      "title": "Bilawal ne 'sach' par zor diya — naye soobon aur 'political reset' par hukumat se behes jaari",
-      "url": "https://www.dawn.com/news/2045449/have-the-courage-to-listen-to-the-debate-you-started-bilawal-sticks-to-his-guns-after-speaking-his-truth"
+      "source": "The Express Tribune",
+      "summary": "PM Shehbaz Sharif ne American Business Council ko bataya ke civilian hukumat aur Field Marshal Asim Munir ki team ke darmiyan cooperation ne Pakistan ki economy ko sambhala hai — 'Pakistan ki tareekh mein aisi productive partnership kabhi nahi hui.' Un ke mutabiq reserves taqreeban $27bn hain, mehngai 32% se gir kar 11.5% aur policy rate 23.5% se 12% ho gaya hai. Lekin unhon ne khud mana ke recovery nazuk hai — Pakistan apni energy ka 90% se zyada import karta hai.",
+      "title": "PM Shehbaz: civil-military ittehad ne economy ko default se bachaya",
+      "url": "https://tribune.com.pk/story/2641289/pm-hails-civil-military-unity"
     },
     {
-      "source": "Dawn",
-      "summary": "PTA ne Budh ko bataya ke SEA-ME-WE 5 (SMW5) submarine cable mein Pakistan ke kinare se taqreeban 11 km door fault aaya hai, jis se internet users ko intermittent connectivity aur slow service ka samna ho sakta hai. Transworld Associates SMW5 consortium ke saath mil kar root cause aur restoration time maloom kar raha hai. Internet traffic ko alternate international links se reroute kiya ja raha hai. NetBlocks ne bhi connectivity mein kami ki tasdeeq ki.",
-      "title": "PTA: submarine cable mein fault — internet slow ho sakta hai, traffic alternate routes par",
-      "url": "https://www.dawn.com/news/2045448/pta-says-submarine-cable-fault-may-cause-internet-connectivity-issues"
+      "source": "The Nation",
+      "summary": "Senate Standing Committee on Finance ne Karachi Chamber mein mulk ki girti exports par tashweesh zahir ki — Senator Talha Mahmood ke mutabiq exports pichle saal $30bn se gir kar $28bn ho gayi hain. Unhon ne taxation aur trade policies par nazr-e-sani ka mutalba kiya, aur Turkiye se mawazna kiya jis ki exports $250bn se zyada hain. Committee ne FBR ke 'faceless' tax assessment system par bhi tanqeed ki — training diye baghair implement kar diya gaya.",
+      "title": "Senators pareshan: exports $30bn se gir kar $28bn — reforms ka mutalba",
+      "url": "https://www.nation.com.pk/20-Nov-2026/senators-ask-govt-introduce-reforms-amid-falling-exports"
     },
     {
-      "source": "Dawn",
-      "summary": "International Commission of Jurists (ICJ) ki Budh ko jaari report 'Judicial Capture' kehti hai ke 26th aur 27th Constitutional Amendments ke baad Pakistan ki adliya ko woh institutional independence hasil nahi rahi jo international law ke mutabiq zaroori hai. Report ke mutabiq hukumat ne adalaton ke kaam par awami shikayaton ko 'self-serving' tareeqe se istemal kar ke adliya ko control kiya, aur aala adalatein ab executive ya Parliament par check ke tor par kaam nahi kar rahin. ICJ ne tarmeemon aur un ke implementation ka comprehensive review ka mutalba kiya hai.",
-      "title": "ICJ report: 26th aur 27th tarmeem ke baad Pakistan mein 'systemic judicial capture'",
-      "url": "https://www.dawn.com/news/2045441/icj-report-sees-judicial-capture-in-pakistan-after-26th-27th-constitutional-amendments"
+      "source": "The Nation",
+      "summary": "Deputy PM aur Foreign Minister Ishaq Dar ne ASEAN Secretary-General Dr Kao Kim Hourn se mulaqat mein trade, technology, taleem, climate action aur food security mein taawun barhane par ittefaq kiya. Dono taraf ne business delegations ke tabadle aur chambers ke darmiyan mazboot rabte par bhi zor diya. Dar ne kaha ke Pakistan digital economy aur emerging technologies mein ASEAN ke saath kaam karne ka khwahishmand hai.",
+      "title": "Pakistan aur ASEAN ne trade, security aur technology mein taawun barhane par ittefaq kar liya",
+      "url": "https://www.nation.com.pk/20-Nov-2026/pakistan-asean-agree-strengthen-cooperation-trade-security"
     },
     {
-      "source": "Dawn",
-      "summary": "Pakistan Army ne Budh ko Fatah-3 supersonic cruise missile ka kamyab launch kiya, ISPR ke mutabiq. Missile mein advanced navigation aur propulsion systems hain aur ye lambi range par high precision se targets ko nishana bana sakta hai. ISPR ne kaha ke ye Army Rocket Force Command ki operational flexibility aur strike range ko barhayega. Sadr, Wazir-e-Azam, Field Marshal Asim Munir aur services chiefs ne team ko mubarakbad di. Is mahine ke shuru mein PAF ne apna pehla maqami air-to-air missile Fa'az bhi test kiya tha.",
-      "title": "Pakistan ne Fatah-3 supersonic cruise missile ka kamyab tajurba kar liya — ISPR",
-      "url": "https://www.dawn.com/news/2045425/pakistan-conducts-successful-launch-of-fatah-3-supersonic-cruise-missile-ispr"
+      "source": "The Nation",
+      "summary": "Rawalpindi Test ke teesre din Sri Lanka ne neeche ke batsmen ki madad se 309-9 bana kar match chauthe din tak khinch liya — ab un ki bartari 82 runs hai, Milan Rathnayaka 60 par not out. Pakistan ne pehli innings mein 227 runs ki bartari li thi (Sri Lanka 98 all out, Pakistan 325). Aamer Jamal ne 3 wickets liye (67 runs de kar), jabke Abbas aur Razaullah ne 2-2. Saqib Khan hamstring strain ki wajah se din bhar bahar rahe.",
+      "title": "Sri Lanka ki larai ke bawajood Pakistan jeet ke qareeb — Jamal aur Abbas ne top par rakha",
+      "url": "https://www.nation.com.pk/20-Nov-2026/jamal-abbas-keep-pakistan-top-despite-sri-lanka-s-fightback"
     },
     {
-      "source": "Dawn",
-      "summary": "Lahore Budh ko phir duniya ke sab se alooda bade shehron ki fehrist mein pehle number par aa gaya — IQAir ke mutabiq AQI 339, jo hazardous category hai. Punjab ke doosre shehron mein haalat aur bhi kharab: Faisalabad 686, Gujranwala 550, Multan 437 aur Kasur 371. Punjab EPA ne stubble burning rokne ke liye senior officers ko field mein bhej diya hai; 14 Nov tak 8 zilon mein 898 fire anomalies detect huin, jin mein se 823 bujha di gayin. Hafizabad sab se bara hotspot raha (430 anomalies).",
-      "title": "Lahore phir duniya ka sab se alooda shehar — AQI 339, Faisalabad mein 686",
-      "url": "https://www.dawn.com/news/2045395/lahore-once-again-tops-list-of-worlds-most-polluted-major-cities-with-aqi-crossing-300"
+      "source": "24NewsHD",
+      "summary": "Defending champions Pakistan Shaheens aaj Doha mein ACC Men's Asia Cup Rising Stars 2026 mein UAE ke khilaf apna campaign shuru kar rahe hain — match subah 11 baje PKT. Abdul Samad ki qiyadat mein 15-member squad mein Hasan Nawaz, Mohammad Hasnain aur Sufyan Muqeem shamil hain. Group B mein India A (22 Nov) aur Nepal (24 Nov) se bhi muqabla hai — final 29 Nov ko.",
+      "title": "Shaheens ka Rising Stars Asia Cup title defence aaj UAE ke khilaf shuru",
+      "url": "https://www.24newshd.tv/19-Nov-2026/pakistan-shaheens-begin-acc-men-s-asia-cup-rising-stars-campaign-uae-friday"
     },
     {
-      "source": "Dawn",
-      "summary": "Hukumat ne Budh ko petrol aur diesel dono ki qeematein Rs3 per litre kam kar din — petrol ki lagatar 12th kami. OGRA notification ke mutabiq aaj (19 Nov) se petrol Rs322 per litre aur high-speed diesel Rs355 per litre milega. Petrol April 3 ki peak Rs458.41 aur diesel Rs520.35 se neeche aa chuka hai. Petrol par abhi bhi Rs114 aur diesel par Rs100 per litre taxes aur duties hain. 17 July se qeematein taqreeban daily revise ho rahi hain, Iran-US tensions ke baad international market ki tabdeeli ke mutabiq.",
-      "title": "Petrol aur diesel Rs3 saste — petrol Rs322, diesel Rs355 per litre, aaj se nafiz",
-      "url": "https://www.dawn.com/news/2045444"
+      "source": "Trending News PK",
+      "summary": "Pakistan ne T20 Asia Cup of the Blind ke semi-final mein defending champions India ko aakhri ball par 1 wicket se hara kar final mein jagah bana li — 180 ka target, aakhri 2 balls par 7 runs chahiye the, aur Niamatullah ne chhakka phir chauka laga kar match khatam kiya. Captain Nisar Ali ne 64 runs banaye aur Player of the Match rahe. Final aaj Dhaka mein hai — muqabla India-Bangladesh match ke winner se.",
+      "title": "Blind Cricket Asia Cup final aaj — Pakistan ne India ko last ball par hara kar final mein jagah banai",
+      "url": "https://trendingnews.pk/pakistan-beat-india-blind-cricket-asia-cup-final-2026/"
     }
   ]
 }
