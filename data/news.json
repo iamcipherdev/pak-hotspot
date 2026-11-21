@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-11-20T07:00:19+05:00",
+  "updated_at": "2026-11-21T06:59:50+05:00",
   "tech": [
     {
       "source": "Reuters",
-      "summary": "Anthropic ne 19 Nov ko Nasdaq par ANT ticker se trading shuru ki — $83 IPO price se 34% upar, $111.50 par khula, aur din ke doran $2 trillion valuation ko chhoo kar duniya ki chhathi sab se bari public company ban gaya. 980 million shares $83 par bech kar $81.3bn raise kiye — America ki tareekh ki sab se bari IPO. Lekin excitement din bhar qaim na rahi — dopahar tak shares $97 par aa gaye. Anthropic ki Q3 revenue $17bn thi, aur Amazon aur Google ke saath taqreeban $900bn ki computing commitments hain.",
-      "title": "Anthropic ka Nasdaq debut — $111.50 par khula, $2 trillion valuation ko chhoo liya",
-      "url": "https://www.reuters.com/commentary/breakingviews/anthropics-2-trln-ipo-may-be-last-hurrah-2026-11-19/"
+      "summary": "Anthropic ke shares Friday premarket mein 6% gir gaye — Thursday ko $111.50 par khulne ke baad close $97 par hua, opening se 13% neeche. Fully diluted valuation ab bhi taqreeban $1.7 trillion hai, lekin analysts kehte hain 40x sales ki valuation par sawal uth rahe hain. Retail investors ne pehle din $772 million ke shares trade kiye — 2012 se kisi bhi IPO debut ka record. Ab sab ki nazar OpenAI par hai, jo agle saal listing ki taraf dekh raha hai.",
+      "title": "Anthropic ka IPO pehle din hi phisla — $111.50 se $97, phir Friday ko 6% aur gira",
+      "url": "https://www.reuters.com/business/anthropics-post-debut-stumble-delivers-reality-check-ai-trade-2026-11-20/"
     },
     {
-      "source": "GigaGuideTech",
-      "summary": "Google ne 19 Nov ko Gemini app for Mac mein 'computer use' add kar diya — Gemini ab aap ki apps mein click kar sakta hai, type kar sakta hai, forms bhar sakta hai aur multi-step kaam poora kar sakta hai, woh bhi aik alag window mein taa ke aap apna kaam jaari rakh saken. Lekin muft nahi — Google AI Plus, Pro ya Ultra subscription chahiye, US aur English only, aur Apple Silicon Mac (M1 ya naya) zaroori hai. Apple bhi macOS 27.3 mein AI agents ke liye sakht permissions la raha hai.",
-      "title": "Gemini ab aap ka Mac bhi chala sakta hai — forms bhare, presentations banaye",
-      "url": "https://gigaguidetech.com/gemini-mac-computer-use/"
+      "source": "Reuters",
+      "summary": "Sadr Donald Trump ne Friday ko elaan kiya ke America un companies ko penalize karega jo data centers mulk se bahar banati hain — 'We're not going to allow our companies to build data centers outside of our country.' Data centers AI boom ki reedh ki haddi hain, aur aisi pabandi global AI infrastructure ki cost aur planning dono badal sakti hai. Trump ne Asia ke doray ke baad White House mein ye baat AI par guftagu ke doran kahi.",
+      "title": "Trump: bahar data center banane wali US companies par 'tremendous tax' lagega",
+      "url": "https://www.reuters.com/technology/trump-says-us-penalize-firms-building-data-centers-abroad-2026-11-20/"
     },
     {
-      "source": "PYMNTS",
-      "summary": "OpenAI ne GPT-6.2 Astra aur Sol release kar diye — dono models company ke 'Critical' cybersecurity threshold par pohnchte hain, wohi level jis ki wajah se GPT-6 Cyber sirf vetted security teams ko milta tha. Ab ye capability kisi ko bhi mil sakti hai — aik aisa model jo software ki kamzoriyan dhoond aur exploit kar sakta hai. OpenAI ne badle mein 'Control Room' monitoring system lagaya hai. Astra $8 per million tokens hai, aur legal benchmark LAB-AA par Claude Fable 5.2 se dugna pass rate deta hai — aik chhathi qeemat par.",
-      "title": "OpenAI ne apne sab se taqatwar cyber models sab ke liye khol diye",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-unlocks-cyber-power-as-google-slashes-ai-costs/"
+      "source": "Investor's Business Daily",
+      "summary": "SpaceX ne Thursday ko $32 billion ke bonds bech kar Nvidia AI chips khareedne ke liye financing ki — sab se bara hissa $25.2 billion, 8.259% yield par, jab ke aam high-grade bonds par average yield sirf 5.95% thi. Ye $40 billion se zyada ki financing ka hissa hai, jis mein Nvidia ke naye Rubin chips taqreeban paanch saal ke liye lease par liye jayenge. Lenders ne to ye tak chaaha ke chips ko orbit mein bhejne par pabandi lage — warna default par un ki recovery mushkil ho jayegi.",
+      "title": "SpaceX ne Nvidia chips ke liye $32 billion ka qarz liya — 8% se zyada yield par",
+      "url": "https://www.investors.com/news/spacex-sells-32-billion-debt-yield-nvidia-ai-chip-financing-orbital-data-center-concerns/"
     },
     {
-      "source": "SXF Brief",
-      "summary": "Reuters ke mutabiq NVIDIA ne licensed Hopper-class AI chips — jin mein H200 bhi shamil hai — China bhejna band kar diye hain, halaan ke kuch shipments ke liye US export approvals maujood the. Masla doosri taraf hai: China ki apni import restrictions. Taqreeban 600,000 H200 chips Hong Kong mein shipment ka intezar kar rahe the. Ye AI computing supply chain ki geopolitics ka naya chapter hai — license milna ab ye guarantee nahi ke chip pohanch bhi jayega.",
-      "title": "NVIDIA ne China ko H200 AI chips bhejna band kar diya",
-      "url": "https://sxf.si/brief/"
+      "source": "Reuters",
+      "summary": "CrowdStrike rival cybersecurity company Zscaler ko khareedne ki baat-cheet kar raha hai — Bloomberg ne pehle report kiya, Reuters ne apne source se confirm kiya. Mil kar dono ki combined market value taqreeban $265 billion banegi, jo cyber sector ki sab se bari deals mein se aik hogi. Khabar ke baad Zscaler ke shares after-hours mein 17% upar aur CrowdStrike 8.5% neeche gaye. Abhi koi deal pakki nahi — baat-cheet khatam bhi ho sakti hai.",
+      "title": "CrowdStrike Zscaler ko khareedne ki baat-cheet mein — $265 billion ka cyber giant ban sakta hai",
+      "url": "https://www.reuters.com/legal/litigation/crowdstrike-talks-acquire-zscaler-source-says-2026-11-20/"
     },
     {
-      "source": "The Context",
-      "summary": "Anthropic ke Claude Fable 5.2 ne black-hole physics ke do open problems solve kar diye — weak coupling par abrupt Hawking-Page transition, aur modular bootstrap ceiling (M₁ ≤ c/9.1266). Dono results September mein Lean mein formally verify ho chuke hain. Ye sirf benchmark score nahi — AI ne asal tehqeeq mein naya result diya hai. Isi briefing mein Gemini 4 Neon bhi tez nikla: OpenRouter par 127 tokens/sec, jabke Carbon sirf 46.",
-      "title": "Claude Fable 5.2 ne black-hole physics ke do khule masle hal kar diye",
-      "url": "https://thecontext.dev/en/companies/anthropic/"
+      "source": "Reuters",
+      "summary": "Intuit ne email marketing platform Mailchimp ko Bending Spoons ko $3.68 billion mein bechne ka agreement kar liya — $3.31 billion cash aur $368 million Bending Spoons ke shares. Intuit ne Mailchimp 2021 mein taqreeban $12 billion mein khareeda tha, matlab aaj ki qeemat us ka sirf 30% hai. Deal early 2027 mein close hone ki umeed hai, aur Intuit ka kehna hai ke woh ab chhote businesses ke liye AI products par focus karega aur cash se apne shares wapas khareedega.",
+      "title": "Intuit ne Mailchimp $3.68 billion mein bech diya — 2021 mein $12 billion mein khareeda tha",
+      "url": "https://www.reuters.com/commentary/breakingviews/bending-spoons-mailchimp-pounce-tests-its-limits-2026-11-20/"
     },
     {
-      "source": "The Context",
-      "summary": "PHP 8.6 aur PostgreSQL 19 dono ek hi din release ho gaye — developers ke liye aik hi din mein do bari updates. PHP 8.6 naye features aur performance improvements le kar aaya hai, jabke PostgreSQL 19 database ki nayi capabilities. Dono open-source stack ka backbone hain — Laravel se le kar bare data systems tak, ye updates seedha production par asar dalte hain.",
-      "title": "PHP 8.6 aur PostgreSQL 19 ek hi din release — developers ke liye double khushi",
-      "url": "https://thecontext.dev/en/topics/developer-tools/"
+      "source": "Phys.org",
+      "summary": "Anthropic ke mathematician Levent Alpöge ne Friday ko daawa kiya ke unhon ne Claude ke saath mil kar Riemann Hypothesis ka proof dhoond liya hai — woh masla jo 1859 se hal nahi hua aur jis par $1 million ka Millennium Prize hai. Proof Lean programming language mein formalize kar ke release kiya gaya hai, lekin abhi independent verification baqi hai. Ussi din aik aur daawa bhi aaya — Stanford ke Alessandro Masullo ne baghair AI ke Generalized Riemann Hypothesis ka draft diya. Experts kehte hain ke Lean files compile hona hi pehla imtihan hai.",
+      "title": "Claude ne Riemann Hypothesis hal karne ka daawa — 167 saal purana maths ka sab se bara masla",
+      "url": "https://phys.org/news/2026-11-anthropic-claude-math-greatest-riddle.html"
     }
   ],
   "pakistan": [
     {
+      "source": "Dawn",
+      "summary": "PPP Chairman Bilawal Bhutto-Zardari ne Friday ko Karachi mein kaha ke mulk ki ma'ashi haalat tareekh ki badtareen hai, aur PM Shehbaz Sharif ki koshishon ko unhi ke cabinet ke wazir apne siyasi agenda se distract kar rahe hain. Unhon ne dua ki ke Shehbaz pehle muntakhib PM banen jo 5 saal ki muddat mukammal karen, aur Imran Khan aur Maulana Fazlur Rehman se baat-cheet ka mutalba kiya. Hukumat aur PTI dono naye soobon par referendum ke haq mein nazar aaye.",
+      "title": "Bilawal ne PM ko 'distractions' se khabardar kar diya — 'maeeshat tareekh ki badtareen haalat mein'",
+      "url": "https://www.dawn.com/news/2046029/bilawal-warns-pm-against-distractions"
+    },
+    {
       "source": "The Express Tribune",
-      "summary": "PM Shehbaz Sharif ne American Business Council ko bataya ke civilian hukumat aur Field Marshal Asim Munir ki team ke darmiyan cooperation ne Pakistan ki economy ko sambhala hai — 'Pakistan ki tareekh mein aisi productive partnership kabhi nahi hui.' Un ke mutabiq reserves taqreeban $27bn hain, mehngai 32% se gir kar 11.5% aur policy rate 23.5% se 12% ho gaya hai. Lekin unhon ne khud mana ke recovery nazuk hai — Pakistan apni energy ka 90% se zyada import karta hai.",
-      "title": "PM Shehbaz: civil-military ittehad ne economy ko default se bachaya",
-      "url": "https://tribune.com.pk/story/2641289/pm-hails-civil-military-unity"
+      "summary": "Economic Coordination Committee ne Friday ko aik aur 416,000 metric tonnes cheeni export karne ki ijazat de di — chaar mah mein teesri dafa, is season ka total 724,000 tonnes ho gaya. Summary mutalqa wazarton mein circulate kiye baghair approve hui, aur IMF ki shart — cheeni sector ki mukammal deregulation — abhi tak poori nahi hui. ECC ne SMEs ke liye Rs50 billion ke concessional export loans ki shartein bhi naram kar di.",
+      "title": "ECC ne 416,000 tonnes cheeni export ki ijazat de di — IMF ki deregulation shart phir poori na hui",
+      "url": "https://tribune.com.pk/story/2641490/ecc-allows-416000t-sugar-export?amp=1"
     },
     {
       "source": "The Nation",
-      "summary": "Senate Standing Committee on Finance ne Karachi Chamber mein mulk ki girti exports par tashweesh zahir ki — Senator Talha Mahmood ke mutabiq exports pichle saal $30bn se gir kar $28bn ho gayi hain. Unhon ne taxation aur trade policies par nazr-e-sani ka mutalba kiya, aur Turkiye se mawazna kiya jis ki exports $250bn se zyada hain. Committee ne FBR ke 'faceless' tax assessment system par bhi tanqeed ki — training diye baghair implement kar diya gaya.",
-      "title": "Senators pareshan: exports $30bn se gir kar $28bn — reforms ka mutalba",
-      "url": "https://www.nation.com.pk/20-Nov-2026/senators-ask-govt-introduce-reforms-amid-falling-exports"
+      "summary": "Pakistan ne Rawalpindi mein doosra Test 8 wickets se jeet kar series 1-0 se apne naam kar li — WTC 2025-27 cycle mein pehli series jeet, aur do saal mein pehli Test series jeet. 90 runs ka target sirf 13 overs mein poora hua — Aamer Jamal 34 not out aur Azan Awais 32 not out. Mohammad Abbas ne dono innings mein 3-3 wickets li aur Player of the Match aur Player of the Series dono bane.",
+      "title": "Pakistan ne Sri Lanka ko 8 wickets se hara kar Test series 1-0 se jeet li",
+      "url": "https://www.nation.com.pk/21-Nov-2026/pakistan-outplay-sri-lanka-eight-wickets-clinch-test-series-1-0"
     },
     {
-      "source": "The Nation",
-      "summary": "Deputy PM aur Foreign Minister Ishaq Dar ne ASEAN Secretary-General Dr Kao Kim Hourn se mulaqat mein trade, technology, taleem, climate action aur food security mein taawun barhane par ittefaq kiya. Dono taraf ne business delegations ke tabadle aur chambers ke darmiyan mazboot rabte par bhi zor diya. Dar ne kaha ke Pakistan digital economy aur emerging technologies mein ASEAN ke saath kaam karne ka khwahishmand hai.",
-      "title": "Pakistan aur ASEAN ne trade, security aur technology mein taawun barhane par ittefaq kar liya",
-      "url": "https://www.nation.com.pk/20-Nov-2026/pakistan-asean-agree-strengthen-cooperation-trade-security"
+      "source": "Dawn",
+      "summary": "Pakistan Asia Cup Blind T20 Cricket Tournament ke champion ban gaye — Dhaka mein India ke khilaf final baarish ki wajah se wash out ho gaya, aur match referee ne Clause 27 ke tehet Pakistan ko title de diya. Pakistan ne league mein Sri Lanka, Bangladesh aur India teeno ko hara kar top kiya tha. Indian team ne umpires aur referee se behes ke baad closing ceremony ka boycott kar ke runners-up trophy liye baghair wapas chali gayi.",
+      "title": "Pakistan Blind T20 Asia Cup champions — baarish ne final dhoka diya, India ne taqreeb ka boycott kiya",
+      "url": "https://www.dawn.com/news/2046046/pakistan-declared-blind-t20-asia-cup-champions"
     },
     {
-      "source": "The Nation",
-      "summary": "Rawalpindi Test ke teesre din Sri Lanka ne neeche ke batsmen ki madad se 309-9 bana kar match chauthe din tak khinch liya — ab un ki bartari 82 runs hai, Milan Rathnayaka 60 par not out. Pakistan ne pehli innings mein 227 runs ki bartari li thi (Sri Lanka 98 all out, Pakistan 325). Aamer Jamal ne 3 wickets liye (67 runs de kar), jabke Abbas aur Razaullah ne 2-2. Saqib Khan hamstring strain ki wajah se din bhar bahar rahe.",
-      "title": "Sri Lanka ki larai ke bawajood Pakistan jeet ke qareeb — Jamal aur Abbas ne top par rakha",
-      "url": "https://www.nation.com.pk/20-Nov-2026/jamal-abbas-keep-pakistan-top-despite-sri-lanka-s-fightback"
+      "source": "Dawn",
+      "summary": "Deputy PM Ishaq Dar ne Friday ko Karachi port par Turkish seismic research vessel Oruç Reis ki aamad ki taqreeb mein kaha ke Pakistan ke natural resources — minerals, hydrocarbons, gemstones aur rare earth — ki qeemat 'most conservative estimate' par $8 se $10 trillion hai, jab ke mulk ka kul external debt taqreeban $130 billion hai. Jahaz Indus aur Makran offshore basins mein do mah tak 3D seismic survey karega, aur drilling ka hadaf Q4 2027 hai.",
+      "title": "Dar: Pakistan ke natural resources $8-10 trillion ke — qarz $130 billion ke muqable mein kuch nahi",
+      "url": "https://www.dawn.com/news/2046026"
     },
     {
-      "source": "24NewsHD",
-      "summary": "Defending champions Pakistan Shaheens aaj Doha mein ACC Men's Asia Cup Rising Stars 2026 mein UAE ke khilaf apna campaign shuru kar rahe hain — match subah 11 baje PKT. Abdul Samad ki qiyadat mein 15-member squad mein Hasan Nawaz, Mohammad Hasnain aur Sufyan Muqeem shamil hain. Group B mein India A (22 Nov) aur Nepal (24 Nov) se bhi muqabla hai — final 29 Nov ko.",
-      "title": "Shaheens ka Rising Stars Asia Cup title defence aaj UAE ke khilaf shuru",
-      "url": "https://www.24newshd.tv/19-Nov-2026/pakistan-shaheens-begin-acc-men-s-asia-cup-rising-stars-campaign-uae-friday"
-    },
-    {
-      "source": "Trending News PK",
-      "summary": "Pakistan ne T20 Asia Cup of the Blind ke semi-final mein defending champions India ko aakhri ball par 1 wicket se hara kar final mein jagah bana li — 180 ka target, aakhri 2 balls par 7 runs chahiye the, aur Niamatullah ne chhakka phir chauka laga kar match khatam kiya. Captain Nisar Ali ne 64 runs banaye aur Player of the Match rahe. Final aaj Dhaka mein hai — muqabla India-Bangladesh match ke winner se.",
-      "title": "Blind Cricket Asia Cup final aaj — Pakistan ne India ko last ball par hara kar final mein jagah banai",
-      "url": "https://trendingnews.pk/pakistan-beat-india-blind-cricket-asia-cup-final-2026/"
+      "source": "Dawn",
+      "summary": "Hukumat ne Friday ko petrol ki qeemat Re1 kam kar ke Rs322 per litre aur high-speed diesel Rs2 barha kar Rs357 per litre kar di — nayi qeematein 21 se 23 November tak lagu rahengi. Petrol par Rs114 aur diesel par Rs100 per litre taxes aur duties ab bhi lag rahe hain. Ye tabdeeli Middle East mein tension ki wajah se international oil markets mein volatility ke doran aayi hai.",
+      "title": "Petrol Re1 sasta, diesel Rs2 mehenga — petrol Rs322, diesel Rs357 per litre",
+      "url": "https://www.dawn.com/news/2045935/petrol-price-reduced-by-re1-per-litre-diesel-increased-by-rs2-per-litre"
     }
   ]
 }
